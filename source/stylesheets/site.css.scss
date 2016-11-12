@@ -9,8 +9,16 @@ body {
   color: $text-color;
 }
 
-.artwork {
+.content-wrapper {
+  width: 90%;
+  height: 0;
+  margin: 5% auto 3em;
+}
 
+.artwork {
+  background-color: $highlight-color;
+  height: 0;
+  padding-bottom: 100%;
 }
 
 .content {
