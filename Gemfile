@@ -13,3 +13,6 @@ gem 'middleman', '>= 4.0.0'
 
 # Templating
 gem "slim"
+
+# Autoprefixing
+gem 'middleman-autoprefixer'

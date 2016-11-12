@@ -40,3 +40,6 @@ end
 
 # Templating
 require 'slim'
+
+# Autoprefixing
+activate :autoprefixer
