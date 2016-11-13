@@ -20,8 +20,10 @@ body {
   width: 90%;
   height: 0;
   margin: 5% auto 3em;
+  max-width: 82vh;
 
-  @media screen and (min-width: 700px) {
+  @media screen and (min-width: 850px) {
+    max-width: none;
 
     .artwork-wrapper {
       position: fixed;
