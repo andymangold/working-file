@@ -17,13 +17,14 @@ body {
 
 
 .content-wrapper {
+  position: relative;
   width: 90%;
   height: 0;
   margin: 5% auto 3em;
   max-width: 82vh;
 
   @media screen and (min-width: 850px) {
-    max-width: none;
+    max-width: calc(100vh - 10vw + 4% + #{$content-column-width});
 
     .artwork-wrapper {
       position: fixed;
@@ -43,11 +44,8 @@ body {
     }
 
     .content {
-      position: absolute;
-      padding: 5% 0 0 0;
-      top: 0;
-      right: 5%;
       width: $content-column-width;
+      margin-left: calc(100% - #{$content-column-width});
     }
   }
 }
