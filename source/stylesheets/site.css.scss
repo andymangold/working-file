@@ -24,7 +24,7 @@ body {
   max-width: 82vh;
 
   @media screen and (min-width: 850px) {
-    max-width: calc(100vh - 10vw + 4% + #{$content-column-width});
+    max-width: none;
 
     .artwork-wrapper {
       position: fixed;
