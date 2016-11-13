@@ -3,13 +3,28 @@ $text-color: #fff;
 $highlight-color: #71BE5A;
 $black: #000E15;
 
+.fill-text-color { fill: $text-color; }
+.fill-highlight-color { fill: $highlight-color; }
+.fill-black { fill: $black; }
+
+
 $content-column-width: 28em;
+
+// Grays, for use in the svg art only
+$light-gray: mix($text-color, $black, 87%);
+$medium-gray: mix($text-color, $black, 50%);
+
+.fill-light-gray { fill: $light-gray; }
+.fill-medium-gray { fill: $medium-gray; }
+
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700,700i');
 
 * {
   box-sizing: border-box;
 }
 
 body {
+  font-family: 'Open Sans', sans-serif;
   margin: 0;
   background: $background-color;
   color: $text-color;
@@ -51,10 +66,34 @@ body {
 }
 
 .artwork {
-  background-color: $highlight-color;
   width: 100%;
   padding-bottom: 100%;
   height: 0;
+  position: relative;
+
+  .logo-work {
+    position: absolute;
+    top: -4.5%;
+    left: -4.5%;
+    width: 73%;
+    z-index: 1;
+  }
+
+  .logo-ing {
+    position: absolute;
+    top: 20%;
+    right: -8.4%;
+    width: 81%;
+    z-index: 3;
+  }
+
+  .logo-file {
+    position: absolute;
+    bottom: 0;
+    right: 15%;
+    width: 70%;
+    z-index: 2;
+  }
 }
 
 .content {
