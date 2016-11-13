@@ -3,22 +3,58 @@ $text-color: #fff;
 $highlight-color: #71BE5A;
 $black: #000E15;
 
+$content-column-width: 28em;
+
+* {
+  box-sizing: border-box;
+}
+
 body {
   margin: 0;
   background: $background-color;
   color: $text-color;
 }
 
+
 .content-wrapper {
   width: 90%;
   height: 0;
   margin: 5% auto 3em;
+
+  @media screen and (min-width: 700px) {
+
+    .artwork-wrapper {
+      position: fixed;
+      width: calc(86% - #{$content-column-width});
+      max-width: calc(100vh - 10vw);
+      padding: 5% 0;
+      top: 0;
+      right: calc(9% + #{$content-column-width});
+      bottom: 0;
+
+      .artwork {
+        position: absolute;
+        top: 50%;
+        right: 0;
+        transform: translateY(-50%);
+      }
+    }
+
+    .content {
+      position: absolute;
+      padding: 5% 0 0 0;
+      top: 0;
+      right: 5%;
+      width: $content-column-width;
+    }
+  }
 }
 
 .artwork {
   background-color: $highlight-color;
-  height: 0;
+  width: 100%;
   padding-bottom: 100%;
+  height: 0;
 }
 
 .content {
