@@ -13,9 +13,11 @@ $content-column-width: 28em;
 // Grays, for use in the svg art only
 $light-gray: mix($text-color, $black, 87%);
 $medium-gray: mix($text-color, $black, 50%);
+$dark-gray: mix($text-color, $black, 10%);
 
 .fill-light-gray { fill: $light-gray; }
 .fill-medium-gray { fill: $medium-gray; }
+.fill-dark-gray { fill: $dark-gray; }
 
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700,700i');
 
