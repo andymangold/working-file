@@ -8,3 +8,11 @@ title: Working File Podcast
   .content
     = partial "shared/navigation"
     h1 Contributors
+
+    - data.contributors.each do |contributor|
+      = link_to "/contributors/#{contributor.slug}.html" do
+          h2 = contributor.name
+          p
+            | Featured on episode
+            - contributor.episodes.each do |episode|
+              = episode.id

@@ -56,3 +56,11 @@ data.episodes.each do |episode|
 end
 
 ignore "/episodes/template.html"
+
+
+# Create pages for each contributor dynamically
+data.contributors.each do |contributor|
+  proxy "/contributors/#{contributor.slug}.html", "/contributors/template.html", :locals => { :name => contributor.name, :bio => contributor.bio, :episodes => contributor.episodes }
+end
+
+ignore "/contributors/template.html"
