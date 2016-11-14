@@ -51,7 +51,7 @@ set :relative_links, true
 # Create pages for each episode dynamically
 data.episodes.each do |episode|
   if episode.published == true
-    proxy "/episodes/#{episode.slug}.html", "/episodes/template.html", :locals => { :title => episode.title, :soundcloudID => episode.soundcloudID, :contributors => episode.contributors, :published => episode.published }
+    proxy "/episodes/#{episode.slug}.html", "/episodes/template.html", :locals => { :title => episode.title, :soundcloudID => episode.soundcloudID, :contributors => episode.contributors }
   end
 end
 

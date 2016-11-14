@@ -11,8 +11,16 @@ title: Working File Podcast
 
     - data.episodes.each do |episode|
       - if episode.published == true
-        div
-          = link_to episode.title, "/episodes/#{episode.slug}.html", class: "index-episode-title #{episode.category}"
+        = link_to "/episodes/#{episode.slug}.html" do
+          h2 = episode.title
+          p
+            | With
+            - episode.contributors.each do |contributor|
+              = contributor.name
       - else
-        div = episode.title
-        div coming soon
+        div
+          h2 = episode.title
+          p
+            | With
+            - episode.contributors.each do |contributor|
+              = contributor.name
