@@ -1,0 +1,66 @@
+-
+  id: 1
+  published: true
+  title: Design and Celebrity
+  slug: design-and-celebrity
+  soundcloudID: 253597092
+  contributors:
+    -
+      name: "Jen Mussari"
+    -
+      name: "Satchell Drakes"
+-
+  id: 2
+  published: true
+  title: Criticism and Community
+  slug: criticism-and-community
+  soundcloudID: 255515859
+  contributors:
+    -
+      name: "Chappell Ellison"
+    -
+      name: "Maurice Cherry"
+-
+  id: 3
+  published: false
+  title: Designing Collaboratively vs. Designing Individually
+  slug: designing-collaboratively-vs-designing-individually
+  soundcloudID: 256683396
+  contributors:
+    -
+      name: "Meg Lewis"
+    -
+      name: "Gitamba Saila-Ngita"
+-
+  id: 4
+  published: false
+  title: Side Projects
+  slug: side-projects
+  soundcloudID: 256686827
+  contributors:
+    -
+      name: "Kristy Tillman"
+    -
+      name: "Lola Landekic"
+-
+  id: 5
+  published: false
+  title: Contexts for Critique
+  slug: contexts-for-critique
+  soundcloudID: 259164716
+  contributors:
+    -
+      name: "Victoria Rushton"
+    -
+      name: "Annie Yiling Wang"
+-
+  id: 6
+  published: false
+  title: Design and Production
+  slug: design-and-production
+  soundcloudID: 259943541
+  contributors:
+    -
+      name: "Linda Eliasen"
+    -
+      name: "Jon Gold"

@@ -1,0 +1,17 @@
+---
+title: Working File Podcast
+---
+
+.content-wrapper
+  = partial "shared/artwork"
+
+  .content
+    = partial "shared/navigation"
+    h1 = title
+
+    = partial("shared/soundcloud_player", :locals => { :soundcloudID => soundcloudID })
+
+    - contributors.each do |contributor|
+      ul
+        li = contributor.name
+

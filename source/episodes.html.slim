@@ -1,0 +1,18 @@
+---
+title: Working File Podcast
+---
+
+.content-wrapper
+  = partial "shared/artwork"
+
+  .content
+    = partial "shared/navigation"
+    h1 Episodes
+
+    - data.episodes.each do |episode|
+      - if episode.published == true
+        div
+          = link_to episode.title, "/episodes/#{episode.slug}.html", class: "index-episode-title #{episode.category}"
+      - else
+        div = episode.title
+        div coming soon
