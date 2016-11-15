@@ -50,6 +50,10 @@ hr {
   margin: 1em 0;
 }
 
+h1 {
+  line-height: 120%;
+}
+
 h2 {
   margin: 0;
 }
@@ -155,14 +159,6 @@ nav .navigation-link {
 }
 
 .back-link {
-  // display: inline-block;
-  // background: $black;
-  // text-decoration: none;
-  // padding: 0.4em 0.75em;
-  // border-radius: 4px;
-
-  // &:hover {
-  //   color: $text-color;
-  //   background: $highlight-color;
-  // }
+  display: inline-block;
+  margin-bottom: 1.5em;
 }
