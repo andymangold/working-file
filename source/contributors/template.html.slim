@@ -7,9 +7,13 @@ title: Working File Podcast
 
   .content
     = partial "shared/navigation"
+    hr
+
+    = link_to "&larr; Back to all Contributors", "../contributors.html", class: "back-link"
+
     h1 = name
 
-    - episodes.each do |episode|
+    - episodeIDs.each do |id|
       ul
-        li = episode.id
+        li = id
 

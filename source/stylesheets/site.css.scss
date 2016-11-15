@@ -30,41 +30,53 @@ body {
   margin: 0;
   background: $background-color;
   color: $text-color;
+
+  @media screen and (max-width: 500px) {
+    font-size: 14px;
+  }
 }
 
 a {
   color: inherit;
+
+  &:hover {
+    color: $highlight-color;
+  }
 }
 
-p.emphasis {
-  font-size: 1.5em;
+hr {
+  border: none;
+  border-bottom: 1px solid $text-color;
+  margin: 1em 0;
 }
 
+h2 {
+  margin: 0;
+}
 
 .content-wrapper {
   position: relative;
   width: 90%;
   height: 0;
   margin: 5% auto 3em;
-  max-width: 82vh;
+  max-width: 75vh;
 
   @media screen and (min-width: 850px) {
     max-width: none;
 
     .artwork-wrapper {
       position: fixed;
-      width: calc(86% - #{$content-column-width});
+      width: calc(85% - #{$content-column-width});
       max-width: calc(100vh - 10vw);
       padding: 5% 0;
       top: 0;
-      right: calc(9% + #{$content-column-width});
+      right: calc(10% + #{$content-column-width});
       bottom: 0;
 
       .artwork {
         position: absolute;
-        top: 50%;
+        top: 5vw;
         right: 0;
-        transform: translateY(-50%);
       }
     }
 
@@ -75,12 +87,17 @@ p.emphasis {
   }
 }
 
+.artwork-wrapper {
+  padding: 8%;
+}
+
 .artwork {
   width: 100%;
   padding-bottom: 100%;
   height: 0;
   position: relative;
   display: block;
+  margin-bottom: 5%;
 
   .logo-work {
     position: absolute;
@@ -108,5 +125,44 @@ p.emphasis {
 }
 
 .content {
-  padding-bottom: 50vh;
+  padding-bottom: 40vh;
+}
+
+nav .navigation-link {
+  display: inline-block;
+  margin-right: 2em;
+}
+
+.contributor-list {
+  line-height: 160%;
+  column-count: 2;
+}
+
+%episode {
+  display: block;
+  margin: 1.7em 0;
+}
+
+.published-episode {
+  @extend %episode;
+  text-decoration: none;
+}
+
+.unpublished-episode {
+  @extend %episode;
+  font-style: italic;
+  opacity: 0.25;
+}
+
+.back-link {
+  // display: inline-block;
+  // background: $black;
+  // text-decoration: none;
+  // padding: 0.4em 0.75em;
+  // border-radius: 4px;
+
+  // &:hover {
+  //   color: $text-color;
+  //   background: $highlight-color;
+  // }
 }

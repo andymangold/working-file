@@ -1,84 +1,94 @@
 -
+  name: Andy Mangold
+  slug: andy-mangold
+  bio: "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+  episodeIDs:
+    - 1
+    - 2
+    - 3
+    - 4
+    - 5
+    - 6
+-
+  name: Matt McInerney
+  slug: matt-mcinerney
+  bio: "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+  episodeIDs:
+    - 1
+    - 2
+    - 3
+    - 4
+    - 5
+    - 6
+-
   name: Jen Mussari
   slug: jen-mussari
   bio: "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
-  episodes:
-    -
-      id: 1
+  episodeIDs:
+    - 1
 -
   name: Satchell Drakes
   slug: satchell-drakes
   bio: "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
-  episodes:
-    -
-      id: 1
+  episodeIDs:
+    - 1
 -
   name: Chappell Ellison
   slug: chappell-ellison
   bio: "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
-  episodes:
-    -
-      id: 2
+  episodeIDs:
+    - 2
 -
   name: Maurice Cherry
   slug: maurice-cherry
   bio: "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
-  episodes:
-    -
-      id: 2
+  episodeIDs:
+    - 2
 -
   name: Meg Lewis
   slug: meg-lewis
   bio: "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
-  episodes:
-    -
-      id: 3
+  episodeIDs:
+    - 3
 -
   name: Gitamba Saila-Ngita
   slug: gitamba-saila-ngita
   bio: "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
-  episodes:
-    -
-      id: 3
+  episodeIDs:
+    - 3
 -
   name: Kristy Tillman
   slug: kristy-tillman
   bio: "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
-  episodes:
-    -
-      id: 4
+  episodeIDs:
+    - 4
 -
   name: Lola Landekic
   slug: lola-landekic
   bio: "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
-  episodes:
-    -
-      id: 4
+  episodeIDs:
+    - 4
 -
   name: Victoria Rushton
   slug: victoria-rushton
   bio: "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
-  episodes:
-    -
-      id: 5
+  episodeIDs:
+    - 5
 -
   name: Annie Yiling Wang
   slug: annie-yiling-wang
   bio: "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
-  episodes:
-    -
-      id: 5
+  episodeIDs:
+    - 5
 -
   name: Linda Eliasen
   slug: linda-eliasen
   bio: "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
-  episodes:
-    -
-      id: 6
+  episodeIDs:
+    - 6
 -
   name: Jon Gold
   slug: jon-gold
   bio: "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
-  episodes:
-    -
-      id: 6
+  episodeIDs:
+    - 6

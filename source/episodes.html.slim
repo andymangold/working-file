@@ -7,20 +7,24 @@ title: Working File Podcast
 
   .content
     = partial "shared/navigation"
+    hr
+
     h1 Episodes
 
     - data.episodes.each do |episode|
       - if episode.published == true
-        = link_to "/episodes/#{episode.slug}.html" do
+        = link_to "/episodes/#{episode.slug}.html", class: "published-episode" do
+          div Episode #{episode.id}
           h2 = episode.title
-          p
-            | With
+          div
+            | With&nbsp;
             - episode.contributors.each do |contributor|
               = contributor.name
       - else
-        div
+        .unpublished-episode
+          div Episode #{episode.id}
           h2 = episode.title
-          p
+          div
             | With
             - episode.contributors.each do |contributor|
               = contributor.name

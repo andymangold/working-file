@@ -7,6 +7,10 @@ title: Working File Podcast
 
   .content
     = partial "shared/navigation"
+    hr
+
+    = link_to "&larr; Back to all Episodes", "../episodes.html", class: "back-link"
+
     h1 = title
 
     = partial("shared/soundcloud_player", :locals => { :soundcloudID => soundcloudID })
