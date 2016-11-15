@@ -11,5 +11,5 @@ title: Working File Podcast
     h1 Contributors
 
     .contributor-list
-      - data.contributors.each do |contributor|
+      - data.contributors.sort{ |a,b| a.name.downcase <=> b.name.downcase }.each do |contributor|
         div = link_to contributor.name, "/contributors/#{contributor.slug}.html"
