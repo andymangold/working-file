@@ -1,0 +1,121 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700,700i");
+.fill-text-color {
+  fill: #fff; }
+
+.fill-highlight-color {
+  fill: #71BE5A; }
+
+.fill-black {
+  fill: #000E15; }
+
+.fill-light-gray {
+  fill: #dee0e1; }
+
+.fill-medium-gray {
+  fill: #80878a; }
+
+.fill-dark-gray {
+  fill: #1a262c; }
+
+* {
+  box-sizing: border-box; }
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  margin: 0;
+  background: #444168;
+  color: #fff; }
+  @media screen and (max-width: 500px) {
+    body {
+      font-size: 14px; } }
+
+a {
+  color: inherit; }
+  a:hover {
+    color: #71BE5A; }
+
+hr {
+  border: none;
+  border-bottom: 1px solid #fff;
+  margin: 1em 0; }
+
+h2 {
+  margin: 0; }
+
+.content-wrapper {
+  position: relative;
+  width: 90%;
+  height: 0;
+  margin: 5% auto 3em;
+  max-width: 75vh; }
+  @media screen and (min-width: 850px) {
+    .content-wrapper {
+      max-width: none; }
+      .content-wrapper .artwork-wrapper {
+        position: fixed;
+        width: calc(85% - 28em);
+        max-width: calc(100vh - 10vw);
+        padding: 5% 0;
+        top: 0;
+        right: calc(10% + 28em);
+        bottom: 0; }
+        .content-wrapper .artwork-wrapper .artwork {
+          position: absolute;
+          top: 5vw;
+          right: 0; }
+      .content-wrapper .content {
+        width: 28em;
+        margin-left: calc(100% - 28em); } }
+
+.artwork-wrapper {
+  padding: 8%; }
+
+.artwork {
+  width: 100%;
+  padding-bottom: 100%;
+  height: 0;
+  position: relative;
+  display: block;
+  margin-bottom: 5%; }
+  .artwork .logo-work {
+    position: absolute;
+    top: -4.5%;
+    left: -4.5%;
+    width: 78%;
+    z-index: 1; }
+  .artwork .logo-ing {
+    position: absolute;
+    top: 20%;
+    right: -8.4%;
+    width: 81%;
+    z-index: 3; }
+  .artwork .logo-file {
+    position: absolute;
+    bottom: 0;
+    right: 15%;
+    width: 70%;
+    z-index: 2; }
+
+.content {
+  padding-bottom: 40vh; }
+
+nav .navigation-link {
+  display: inline-block;
+  margin-right: 2em; }
+
+.contributor-list {
+  line-height: 160%;
+  -webkit-column-count: 2;
+     -moz-column-count: 2;
+          column-count: 2; }
+
+.published-episode, .unpublished-episode {
+  display: block;
+  margin: 1.7em 0; }
+
+.published-episode {
+  text-decoration: none; }
+
+.unpublished-episode {
+  font-style: italic;
+  opacity: 0.25; }
