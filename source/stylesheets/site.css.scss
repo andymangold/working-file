@@ -21,6 +21,16 @@ $dark-gray: mix($text-color, $black, 10%);
 
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700,700i');
 
+@keyframes slide-in {
+  from {
+    transform: translateY(30px);
+    opacity: 0;
+  } to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
 * {
   box-sizing: border-box;
 }
@@ -104,6 +114,8 @@ h2 {
   margin-bottom: 5%;
 
   .logo-work {
+    animation: slide-in 0.5s ease 0s;
+    animation-fill-mode: both;
     position: absolute;
     top: -4.5%;
     left: -4.5%;
@@ -112,6 +124,8 @@ h2 {
   }
 
   .logo-ing {
+    animation: slide-in 0.5s ease 0.25s;
+    animation-fill-mode: both;
     position: absolute;
     top: 20%;
     right: -8.4%;
@@ -120,6 +134,8 @@ h2 {
   }
 
   .logo-file {
+    animation: slide-in 0.5s ease 0.5s;
+    animation-fill-mode: both;
     position: absolute;
     bottom: 0;
     right: 15%;
