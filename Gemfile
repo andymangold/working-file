@@ -16,3 +16,6 @@ gem "slim"
 
 # Autoprefixing
 gem 'middleman-autoprefixer'
+
+# Deploy to Github pages
+gem 'middleman-deploy', github: 'middleman-contrib/middleman-deploy', branch: 'master'
