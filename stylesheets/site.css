@@ -17,6 +17,25 @@
 .fill-dark-gray {
   fill: #1a262c; }
 
+@-webkit-keyframes slide-in {
+  from {
+    -webkit-transform: translateY(30px);
+            transform: translateY(30px);
+    opacity: 0; }
+  to {
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+    opacity: 1; } }
+
+@keyframes slide-in {
+  from {
+    -webkit-transform: translateY(30px);
+            transform: translateY(30px);
+    opacity: 0; }
+  to {
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+    opacity: 1; } }
 * {
   box-sizing: border-box; }
 
@@ -38,6 +57,9 @@ hr {
   border: none;
   border-bottom: 1px solid #fff;
   margin: 1em 0; }
+
+h1 {
+  line-height: 120%; }
 
 h2 {
   margin: 0; }
@@ -78,18 +100,30 @@ h2 {
   display: block;
   margin-bottom: 5%; }
   .artwork .logo-work {
+    -webkit-animation: slide-in 0.5s ease 0s;
+            animation: slide-in 0.5s ease 0s;
+    -webkit-animation-fill-mode: both;
+            animation-fill-mode: both;
     position: absolute;
     top: -4.5%;
     left: -4.5%;
     width: 78%;
     z-index: 1; }
   .artwork .logo-ing {
+    -webkit-animation: slide-in 0.5s ease 0.25s;
+            animation: slide-in 0.5s ease 0.25s;
+    -webkit-animation-fill-mode: both;
+            animation-fill-mode: both;
     position: absolute;
     top: 20%;
     right: -8.4%;
     width: 81%;
     z-index: 3; }
   .artwork .logo-file {
+    -webkit-animation: slide-in 0.5s ease 0.5s;
+            animation: slide-in 0.5s ease 0.5s;
+    -webkit-animation-fill-mode: both;
+            animation-fill-mode: both;
     position: absolute;
     bottom: 0;
     right: 15%;
@@ -119,3 +153,7 @@ nav .navigation-link {
 .unpublished-episode {
   font-style: italic;
   opacity: 0.25; }
+
+.back-link {
+  display: inline-block;
+  margin-bottom: 1.5em; }
