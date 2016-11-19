@@ -11,7 +11,7 @@ title: Working File Podcast
 
     h1 Episodes
 
-    - data.episodes.each do |episode|
+    - data.episodes.sort{ |a,b| a.id <=> b.id }.each do |episode|
       - if episode.published == true
         = link_to "/episodes/#{episode.slug}.html", class: "published-episode" do
           div Episode #{episode.id}
