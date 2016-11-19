@@ -7,15 +7,16 @@ $highlight-color: #71BE5A;
 .fill-highlight-color { fill: $highlight-color; }
 .fill-black { fill: $black; }
 
-
 $content-column-width: 28em;
 
 // Art-specific variables
-$light-gray: mix($white, $black, 87%);
+$lightest-gray: mix($white, $black, 93%);
+$light-gray: mix($white, $black, 75%);
 $medium-gray: mix($white, $black, 50%);
 $dark-gray: mix($white, $black, 10%);
 
 .fill-art-background-color { fill: $white; }
+.fill-lightest-gray { fill: $lightest-gray; }
 .fill-light-gray { fill: $light-gray; }
 .fill-medium-gray { fill: $medium-gray; }
 .fill-dark-gray { fill: $dark-gray; }
@@ -146,16 +147,17 @@ h2 {
 }
 
 .content {
-  padding-bottom: 40vh;
+  padding-bottom: 50vh;
 }
 
 nav .navigation-link {
   display: inline-block;
-  margin-right: 2em;
+  margin-right: 1.5em;
+  line-height: 2em;
 }
 
 .contributor-list {
-  line-height: 160%;
+  line-height: 180%;
   column-count: 2;
 }
 
