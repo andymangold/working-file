@@ -1,20 +1,21 @@
 $black: #000E15;
-$background-color: mix(#fff, $black, 92%);
-$text-color: mix(#fff, $black, 10%);
+$white: #fff;
+$background-color: mix($white, $black, 100%);
+$text-color: mix($white, $black, 10%);
 $highlight-color: #71BE5A;
 
-.fill-art-background-color { fill: #fff; }
 .fill-highlight-color { fill: $highlight-color; }
 .fill-black { fill: $black; }
 
 
 $content-column-width: 28em;
 
-// Grays, for use in the svg art only
-$light-gray: mix(#fff, $black, 87%);
-$medium-gray: mix(#fff, $black, 50%);
-$dark-gray: mix(#fff, $black, 10%);
+// Art-specific variables
+$light-gray: mix($white, $black, 87%);
+$medium-gray: mix($white, $black, 50%);
+$dark-gray: mix($white, $black, 10%);
 
+.fill-art-background-color { fill: $white; }
 .fill-light-gray { fill: $light-gray; }
 .fill-medium-gray { fill: $medium-gray; }
 .fill-dark-gray { fill: $dark-gray; }
