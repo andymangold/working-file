@@ -18,8 +18,7 @@ title: Working File Podcast
           h2 = episode.title
           div
             | With&nbsp;
-            - episode.contributors.each do |contributor|
-              = contributor.name
+            = episode.contributors.map(&:name).join(", ")
       - else
         .unpublished-episode
           div Episode #{episode.id}
