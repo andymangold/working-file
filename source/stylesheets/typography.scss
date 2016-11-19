@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700,700i');
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  margin: 0;
+  background: $background-color;
+  color: $text-color;
+
+  @media screen and (max-width: 500px) {
+    font-size: 14px;
+  }
+}
+
+a {
+  color: inherit;
+
+  &:hover {
+    color: $highlight-color;
+  }
+}
+
+hr {
+  border: none;
+  border-bottom: 1px solid $text-color;
+  margin: 1em 0;
+}
+
+h1 {
+  line-height: 120%;
+}
+
+h2 {
+  margin: 0;
+}

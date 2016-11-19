@@ -1,74 +1,5 @@
-$black: #000E15;
-$white: #fff;
-$background-color: mix($white, $black, 100%);
-$text-color: mix($white, $black, 10%);
-$highlight-color: #71BE5A;
-
-.fill-highlight-color { fill: $highlight-color; }
-.fill-black { fill: $black; }
-
-$content-column-width: 28em;
-
-// Art-specific variables
-$lightest-gray: mix($white, $black, 93%);
-$light-gray: mix($white, $black, 75%);
-$medium-gray: mix($white, $black, 50%);
-$dark-gray: mix($white, $black, 10%);
-
-.fill-art-background-color { fill: $white; }
-.fill-lightest-gray { fill: $lightest-gray; }
-.fill-light-gray { fill: $light-gray; }
-.fill-medium-gray { fill: $medium-gray; }
-.fill-dark-gray { fill: $dark-gray; }
-
-@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700,700i');
-
-@keyframes slide-in {
-  from {
-    transform: translateY(30px);
-    opacity: 0;
-  } to {
-    transform: translateY(0);
-    opacity: 1;
-  }
-}
-
-* {
-  box-sizing: border-box;
-}
-
-body {
-  font-family: 'Open Sans', sans-serif;
-  margin: 0;
-  background: $background-color;
-  color: $text-color;
-
-  @media screen and (max-width: 500px) {
-    font-size: 14px;
-  }
-}
-
-a {
-  color: inherit;
-
-  &:hover {
-    color: $highlight-color;
-  }
-}
-
-hr {
-  border: none;
-  border-bottom: 1px solid $text-color;
-  margin: 1em 0;
-}
-
-h1 {
-  line-height: 120%;
-}
-
-h2 {
-  margin: 0;
-}
+@import "globals";
+@import "typography";
 
 .content-wrapper {
   position: relative;
@@ -129,7 +60,7 @@ h2 {
     animation: slide-in 0.5s ease 0.25s;
     animation-fill-mode: both;
     position: absolute;
-    top: 20%;
+    top: 19.5%;
     right: -8.4%;
     width: 81%;
     z-index: 3;
