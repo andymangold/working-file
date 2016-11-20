@@ -14,7 +14,15 @@ title: Working File Podcast
 
     p = bio
 
+    ul
+      - if twitter.present?
+        li = link_to "@#{twitter}", "http://www.twitter.com/#{twitter}"
+      - if website.present?
+        li = link_to website, "http://#{website}"
+
     - unless host == true
+      hr
+
       h3 Featured Episodes
 
       ul
