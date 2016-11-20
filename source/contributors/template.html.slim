@@ -14,12 +14,13 @@ title: Working File Podcast
 
     p = bio
 
-    h3 Featured Episodes
+    - unless host == true
+      h3 Featured Episodes
 
-    ul
-      - data.episodes.each do |episode|
-        - if episode.contributorSlugs.include? slug
-          - if episode.published == true
-            li = link_to episode.title, "../episodes/#{episode.slug}.html"
-          - else
-            li #{episode.title} (Upcoming)
+      ul
+        - data.episodes.each do |episode|
+          - if episode.contributorSlugs.include? slug
+            - if episode.published == true
+              li = link_to episode.title, "../episodes/#{episode.slug}.html"
+            - else
+              li #{episode.title} (Upcoming)
