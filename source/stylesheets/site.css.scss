@@ -95,16 +95,18 @@
 %episode {
   display: block;
   margin: 1.7em 0;
+
+  h2 a {
+    text-decoration: none;
+  }
 }
 
 .published-episode {
   @extend %episode;
-  text-decoration: none;
 }
 
 .unpublished-episode {
   @extend %episode;
-  font-style: italic;
   opacity: 0.25;
 }
 

@@ -14,17 +14,21 @@ title: Working File Podcast
     - data.episodes.sort{ |a,b| a.id <=> b.id }.each do |episode|
       - if episode.published == true
         .published-episode
-          div Episode #{episode.id}
+          .episode-number Episode #{episode.id}
           h2 = link_to episode.title, "/episodes/#{episode.slug}.html"
           div
             | With&nbsp;
             - data.contributors.each do |contributor|
               - if episode.contributorSlugs.include? contributor.slug
                 = link_to "#{contributor.firstName} #{contributor.lastName}", "../contributors/#{contributor.slug}.html"
+                | &nbsp;
       - else
         .unpublished-episode
-          div Episode #{episode.id}
+          .episode-number Episode #{episode.id}
           h2 = episode.title
           div
             | With&nbsp;
-            / = episode.contributors.map(&:name).join(" and ")
+            - data.contributors.each do |contributor|
+              - if episode.contributorSlugs.include? contributor.slug
+                = link_to "#{contributor.firstName} #{contributor.lastName}", "../contributors/#{contributor.slug}.html"
+                | &nbsp;
