@@ -1,15 +1,18 @@
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700,700i");
-.fill-text-color {
-  fill: #fff; }
-
 .fill-highlight-color {
   fill: #71BE5A; }
 
 .fill-black {
   fill: #000E15; }
 
+.fill-art-background-color {
+  fill: #fff; }
+
+.fill-lightest-gray {
+  fill: #edeeef; }
+
 .fill-light-gray {
-  fill: #dee0e1; }
+  fill: #bfc3c5; }
 
 .fill-medium-gray {
   fill: #80878a; }
@@ -39,14 +42,22 @@
 * {
   box-sizing: border-box; }
 
+h3, .episode-number {
+  font-size: 0.8em;
+  text-transform: uppercase;
+  letter-spacing: 1px; }
+
 body {
   font-family: 'Open Sans', sans-serif;
   margin: 0;
-  background: #444168;
-  color: #fff; }
+  background: white;
+  color: #1a262c; }
   @media screen and (max-width: 500px) {
     body {
       font-size: 14px; } }
+
+p {
+  line-height: 160%; }
 
 a {
   color: inherit; }
@@ -55,14 +66,32 @@ a {
 
 hr {
   border: none;
-  border-bottom: 1px solid #fff;
+  border-bottom: 1px solid #1a262c;
   margin: 1em 0; }
 
 h1 {
-  line-height: 120%; }
+  line-height: 120%;
+  margin: 1em 0 0.5em; }
 
 h2 {
   margin: 0; }
+
+h3 {
+  margin: 0.5em 0; }
+
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  line-height: 160%; }
+  ul li {
+    padding-left: 1.5em;
+    position: relative; }
+    ul li:before {
+      content: "\2014";
+      position: absolute;
+      left: 0;
+      top: 0; }
 
 .content-wrapper {
   position: relative;
@@ -115,7 +144,7 @@ h2 {
     -webkit-animation-fill-mode: both;
             animation-fill-mode: both;
     position: absolute;
-    top: 20%;
+    top: 19.5%;
     right: -8.4%;
     width: 81%;
     z-index: 3; }
@@ -131,14 +160,15 @@ h2 {
     z-index: 2; }
 
 .content {
-  padding-bottom: 40vh; }
+  padding-bottom: 50vh; }
 
-nav .navigation-link {
+.navigation-link {
   display: inline-block;
-  margin-right: 2em; }
+  margin-right: 1.5em;
+  line-height: 2em; }
 
 .contributor-list {
-  line-height: 160%;
+  line-height: 180%;
   -webkit-column-count: 2;
      -moz-column-count: 2;
           column-count: 2; }
@@ -146,14 +176,19 @@ nav .navigation-link {
 .published-episode, .unpublished-episode {
   display: block;
   margin: 1.7em 0; }
-
-.published-episode {
-  text-decoration: none; }
+  .published-episode h2 a, .unpublished-episode h2 a {
+    text-decoration: none; }
 
 .unpublished-episode {
-  font-style: italic;
   opacity: 0.25; }
 
-.back-link {
-  display: inline-block;
-  margin-bottom: 1.5em; }
+.show-notes {
+  margin: 1.5em 0;
+  line-height: 160%; }
+
+.episode-number {
+  font-weight: 700;
+  margin: 2.5em 0 0.2em; }
+
+.episode-title {
+  margin-top: 0; }

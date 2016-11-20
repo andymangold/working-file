@@ -1,0 +1,28 @@
+.fill-highlight-color {
+  fill: #71BE5A; }
+
+.fill-black {
+  fill: #000E15; }
+
+.fill-art-background-color {
+  fill: #fff; }
+
+.fill-lightest-gray {
+  fill: #edeeef; }
+
+.fill-light-gray {
+  fill: #bfc3c5; }
+
+.fill-medium-gray {
+  fill: #80878a; }
+
+.fill-dark-gray {
+  fill: #1a262c; }
+
+@keyframes slide-in {
+  from {
+    transform: translateY(30px);
+    opacity: 0; }
+  to {
+    transform: translateY(0);
+    opacity: 1; } }
