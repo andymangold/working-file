@@ -1,0 +1,32 @@
+%episode {
+  display: block;
+  margin: 1.7em 0;
+
+  h2 a {
+    text-decoration: none;
+  }
+}
+
+.published-episode {
+  @extend %episode;
+}
+
+.unpublished-episode {
+  @extend %episode;
+  opacity: 0.25;
+}
+
+.show-notes {
+  margin: 1.5em 0;
+  line-height: 160%;
+}
+
+.episode-number {
+  @extend %all-caps;
+  font-weight: 700;
+  margin: 2.5em 0 0.2em;
+}
+
+.episode-title {
+  margin-top: 0;
+}

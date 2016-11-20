@@ -1,0 +1,40 @@
+.content-wrapper {
+  position: relative;
+  width: 90%;
+  height: 0;
+  margin: 5% auto 3em;
+  max-width: 75vh;
+
+  .artwork-wrapper {
+    padding: 8%;
+  }
+
+  .content {
+    padding-bottom: 50vh;
+  }
+
+  @media screen and (min-width: 850px) {
+    max-width: none;
+
+    .artwork-wrapper {
+      position: fixed;
+      width: calc(85% - #{$content-column-width});
+      max-width: calc(100vh - 10vw);
+      padding: 5% 0;
+      top: 0;
+      right: calc(10% + #{$content-column-width});
+      bottom: 0;
+
+      .artwork {
+        position: absolute;
+        top: 5vw;
+        right: 0;
+      }
+    }
+
+    .content {
+      width: $content-column-width;
+      margin-left: calc(100% - #{$content-column-width});
+    }
+  }
+}
