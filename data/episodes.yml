@@ -1,16 +1,7 @@
 -
-  id: 2
-  published: true
-  title: Design and Celebrity
-  slug: design-and-celebrity
-  soundcloudID: 253597092
-  contributorSlugs:
-    - jen-mussari
-    - satchell-drakes
-  showNotes: "<strong>Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
--
   id: 1
   published: true
+  date: 2016-12-01
   title: Criticism and Community
   slug: criticism-and-community
   soundcloudID: 255515859
@@ -19,7 +10,19 @@
     - maurice-cherry
   showNotes: "<strong>Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
 -
+  id: 2
+  published: true
+  date: 2016-12-02
+  title: Design and Celebrity
+  slug: design-and-celebrity
+  soundcloudID: 253597092
+  contributorSlugs:
+    - jen-mussari
+    - satchell-drakes
+  showNotes: "<strong>Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+-
   id: 3
+  date: 2016-12-03
   title: Designing Collaboratively vs. Designing Individually
   slug: designing-collaboratively-vs-designing-individually
   soundcloudID: 256683396
@@ -29,6 +32,7 @@
   showNotes: "<strong>Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
 -
   id: 4
+  date: 2016-12-04
   title: Side Projects
   slug: side-projects
   soundcloudID: 256686827
@@ -38,6 +42,7 @@
   showNotes: "<strong>Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
 -
   id: 5
+  date: 2016-12-05
   title: Contexts for Critique
   slug: contexts-for-critique
   soundcloudID: 259164716
@@ -47,6 +52,7 @@
   showNotes: "<strong>Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
 -
   id: 6
+  date: 2016-12-06
   title: Design and Production
   slug: design-and-production
   soundcloudID: 259943541
