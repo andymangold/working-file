@@ -141,7 +141,7 @@ ul {
   .content-wrapper .artwork-wrapper {
     padding: 8%; }
   .content-wrapper .content {
-    padding-bottom: 50vh; }
+    padding-bottom: 20vh; }
   @media screen and (min-width: 850px) {
     .content-wrapper {
       max-width: none; }
@@ -181,10 +181,15 @@ ul {
 
 .episode-number {
   font-weight: 700;
-  margin: 2.5em 0 0.2em; }
+  margin: 2.5em 0 0.5em; }
+  .episode-number .episode-date {
+    font-weight: 400; }
 
 .episode-title {
   margin-top: 0; }
+
+.coming-soon-date {
+  font-style: italic; }
 
 .contributor-list {
   line-height: 180%;
