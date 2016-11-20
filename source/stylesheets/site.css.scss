@@ -107,3 +107,18 @@
   font-style: italic;
   opacity: 0.25;
 }
+
+.show-notes {
+  margin: 1.5em 0;
+  line-height: 160%;
+}
+
+.episode-number {
+  @extend %all-caps;
+  font-weight: 700;
+  margin: 2.5em 0 0.2em;
+}
+
+.episode-title {
+  margin-top: 0;
+}

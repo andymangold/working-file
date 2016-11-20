@@ -9,10 +9,14 @@ title: Working File Podcast
     = link_to "&larr; Back to all Episodes", "../episodes.html", class: "navigation-link"
     hr
 
-    h1 = title
+    .episode-number Episode #{id}
+    h1.episode-title = title
 
     = partial("shared/soundcloud_player", :locals => { :soundcloudID => soundcloudID })
 
+    .show-notes = showNotes
+
+    h3 Contributors
     ul
       - data.contributors.each do |contributor|
         - if contributorSlugs.include? contributor.slug
