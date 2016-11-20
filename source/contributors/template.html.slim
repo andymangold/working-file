@@ -12,7 +12,10 @@ title: Working File Podcast
 
     h1 #{firstName} #{lastName}
 
-    - episodeIDs.each do |id|
-      ul
-        li = id
+    p = bio
+
+    ul
+      - data.episodes.each do |episode|
+        - if episode.contributorSlugs.include? slug
+          li = link_to episode.title, "../episodes/#{episode.slug}.html"
 

@@ -17,12 +17,13 @@ title: Working File Podcast
           div Episode #{episode.id}
           h2 = episode.title
           div
-            | With&nbsp;
-            = episode.contributors.map(&:name).join(" and ")
+            - data.contributors.each do |contributor|
+              - if episode.contributorSlugs.include? contributor.slug
+                = link_to "#{contributor.firstName} #{contributor.lastName}", "../contributors/#{contributor.slug}.html"
       - else
         .unpublished-episode
           div Episode #{episode.id}
           h2 = episode.title
           div
             | With&nbsp;
-            = episode.contributors.map(&:name).join(" and ")
+            / = episode.contributors.map(&:name).join(" and ")

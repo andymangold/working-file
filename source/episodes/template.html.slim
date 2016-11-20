@@ -13,7 +13,10 @@ title: Working File Podcast
 
     = partial("shared/soundcloud_player", :locals => { :soundcloudID => soundcloudID })
 
-    - contributors.each do |contributor|
-      ul
-        li = contributor.name
+    ul
+      - data.contributors.each do |contributor|
+        - if contributorSlugs.include? contributor.slug
+          li = link_to "#{contributor.firstName} #{contributor.lastName}", "../contributors/#{contributor.slug}.html"
+
+
 

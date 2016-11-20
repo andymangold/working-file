@@ -61,7 +61,7 @@ set :relative_links, true
 # Create pages for each episode dynamically
 data.episodes.each do |episode|
   if episode.published == true
-    proxy "/episodes/#{episode.slug}.html", "/episodes/template.html", :locals => { :title => episode.title, :soundcloudID => episode.soundcloudID, :contributors => episode.contributors }
+    proxy "/episodes/#{episode.slug}.html", "/episodes/template.html", :locals => { :id => episode.id, :title => episode.title, :soundcloudID => episode.soundcloudID, :contributorSlugs => episode.contributorSlugs }
   end
 end
 
@@ -70,7 +70,7 @@ ignore "/episodes/template.html"
 
 # Create pages for each contributor dynamically
 data.contributors.each do |contributor|
-  proxy "/contributors/#{contributor.slug}.html", "/contributors/template.html", :locals => { :name => contributor.name, :bio => contributor.bio, :episodeIDs => contributor.episodeIDs }
+  proxy "/contributors/#{contributor.slug}.html", "/contributors/template.html", :locals => { :firstName => contributor.firstName, :lastName => contributor.lastName, :slug => contributor.slug, :bio => contributor.bio, :episodeIDs => contributor.episodeIDs }
 end
 
 ignore "/contributors/template.html"
