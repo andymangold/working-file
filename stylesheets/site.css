@@ -74,7 +74,8 @@ h1 {
   margin: 1em 0 0.5em; }
 
 h2 {
-  margin: 0; }
+  margin: 0 0 0.2em;
+  line-height: 120%; }
 
 h3 {
   margin: 0.5em 0; }
@@ -92,34 +93,6 @@ ul {
       position: absolute;
       left: 0;
       top: 0; }
-
-.content-wrapper {
-  position: relative;
-  width: 90%;
-  height: 0;
-  margin: 5% auto 3em;
-  max-width: 75vh; }
-  @media screen and (min-width: 850px) {
-    .content-wrapper {
-      max-width: none; }
-      .content-wrapper .artwork-wrapper {
-        position: fixed;
-        width: calc(85% - 28em);
-        max-width: calc(100vh - 10vw);
-        padding: 5% 0;
-        top: 0;
-        right: calc(10% + 28em);
-        bottom: 0; }
-        .content-wrapper .artwork-wrapper .artwork {
-          position: absolute;
-          top: 5vw;
-          right: 0; }
-      .content-wrapper .content {
-        width: 28em;
-        margin-left: calc(100% - 28em); } }
-
-.artwork-wrapper {
-  padding: 8%; }
 
 .artwork {
   width: 100%;
@@ -159,19 +132,39 @@ ul {
     width: 70%;
     z-index: 2; }
 
-.content {
-  padding-bottom: 50vh; }
+.content-wrapper {
+  position: relative;
+  width: 90%;
+  height: 0;
+  margin: 5% auto 3em;
+  max-width: 75vh; }
+  .content-wrapper .artwork-wrapper {
+    padding: 8%; }
+  .content-wrapper .content {
+    padding-bottom: 50vh; }
+  @media screen and (min-width: 850px) {
+    .content-wrapper {
+      max-width: none; }
+      .content-wrapper .artwork-wrapper {
+        position: fixed;
+        width: calc(85% - 28em);
+        max-width: calc(100vh - 10vw);
+        padding: 5% 0;
+        top: 0;
+        right: calc(10% + 28em);
+        bottom: 0; }
+        .content-wrapper .artwork-wrapper .artwork {
+          position: absolute;
+          top: 5vw;
+          right: 0; }
+      .content-wrapper .content {
+        width: 28em;
+        margin-left: calc(100% - 28em); } }
 
 .navigation-link {
   display: inline-block;
   margin-right: 1.5em;
   line-height: 2em; }
-
-.contributor-list {
-  line-height: 180%;
-  -webkit-column-count: 2;
-     -moz-column-count: 2;
-          column-count: 2; }
 
 .published-episode, .unpublished-episode {
   display: block;
@@ -192,3 +185,9 @@ ul {
 
 .episode-title {
   margin-top: 0; }
+
+.contributor-list {
+  line-height: 180%;
+  -webkit-column-count: 2;
+     -moz-column-count: 2;
+          column-count: 2; }
