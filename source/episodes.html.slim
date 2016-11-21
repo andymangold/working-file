@@ -14,7 +14,7 @@ title: Working File Podcast
     - data.episodes.sort{ |a,b| a.id <=> b.id }.each do |episode|
       - if episode.published == true
         .published-episode
-          .episode-number Episode #{episode.id} &mdash; <span class="episode-date">#{episode.date.strftime('%B %e, %Y')}</span>
+          .episode-number Episode #{episode.id} <span class="episode-date"> &mdash; #{episode.date.strftime('%B %e, %Y')}</span>
           h2 = link_to episode.title, "/episodes/#{episode.slug}.html"
           div
             | With&nbsp;
@@ -24,7 +24,7 @@ title: Working File Podcast
                 | &nbsp;
       - else
         .unpublished-episode
-          .episode-number Episode #{episode.id} &mdash; <span class="episode-date">coming #{episode.date.strftime('%B %e, %Y')}</span>
+          .episode-number Episode #{episode.id} <span class="episode-date"> &mdash; coming #{episode.date.strftime('%B %e, %Y')}</span>
           h2 = episode.title
           div
             | With&nbsp;
