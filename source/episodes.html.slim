@@ -25,3 +25,6 @@
           div
             | With&nbsp;
             = data.contributors.map{ |contributor| if episode.contributorSlugs.include?(contributor.slug); link_to("#{contributor.firstName} #{contributor.lastName}", "../contributors/#{contributor.slug}.html"); end }.compact.join(" and ")
+
+    hr
+    = partial "shared/feed_links"
