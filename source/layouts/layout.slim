@@ -10,6 +10,9 @@ html
     - else
       meta property="og:title" content="#{yield_content(:title)} &mdash; Working File"
 
+    - if current_page.data.episode == true
+      meta property="og:audio" content="https://api.soundcloud.com/tracks/#{yield_content(:soundcloudID)}/download?client_id=cUa40O3Jg3Emvp6Tv4U6ymYYO50NUGpJ"
+
     meta property="og:description" content=yield_content(:description)
 
     meta name="description" content=yield_content(:description)

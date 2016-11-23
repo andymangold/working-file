@@ -1,5 +1,10 @@
+---
+episode: true
+---
+
 - content_for(:title, "Episode #{id}: #{title}")
 - content_for(:description, "Episode #{id} of working file is titled &ldquo;#{title}&rdquo;.")
+- content_for(:soundcloudID, "#{soundcloudID}")
 
 .content-wrapper
   = partial "shared/artwork"
@@ -20,6 +25,3 @@
       - data.contributors.each do |contributor|
         - if contributorSlugs.include? contributor.slug
           li = link_to "#{contributor.firstName} #{contributor.lastName}", "../contributors/#{contributor.slug}.html"
-
-
-
