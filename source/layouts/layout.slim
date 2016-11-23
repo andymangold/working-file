@@ -5,27 +5,35 @@ html
     meta content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" name="viewport"
     meta name="robots" content="NOODP"
 
+
+    / OpenGraph
     - if current_page.data.title.present?
       meta property="og:title" content=current_page.data.title
     - else
       meta property="og:title" content="#{yield_content(:title)} &mdash; Working File"
 
-    - if current_page.data.episode == true
-      meta property="og:audio" content="https://api.soundcloud.com/tracks/#{yield_content(:soundcloudID)}/download?client_id=cUa40O3Jg3Emvp6Tv4U6ymYYO50NUGpJ"
-
     meta property="og:description" content=yield_content(:description)
-
-    meta name="description" content=yield_content(:description)
-
     meta property="og:url" content="#{config[:host]}/#{current_page.path}"
-
     meta property="og:image" content="#{config[:host]}/#{image_path('working-file-artwork.png')}"
-
     meta property="og:type" content="website"
 
-    / Use title if it's in the page YAML frontmatter
+    meta name="twitter:site" content="@workingfile"
+    meta name="twitter:card" content="summary"
+
+    / Episode Specific Meta Info. REVISIT THIS WHEN INTEGRATNG THE SOUNDCLOUD API
+    / - if current_page.data.episode == true
+    /   meta property="og:audio" content="https://api.soundcloud.com/tracks/#{yield_content(:soundcloudID)}/download?client_id=cUa40O3Jg3Emvp6Tv4U6ymYYO50NUGpJ"
+    /   meta name="twitter:card" content="player"
+    /   meta name="twitter:player" content="https://api.soundcloud.com/tracks/#{yield_content(:soundcloudID)}/download?client_id=cUa40O3Jg3Emvp6Tv4U6ymYYO50NUGpJ"
+    /   meta name="twitter:player:stream" content="https://api.soundcloud.com/tracks/#{yield_content(:soundcloudID)}/download?client_id=cUa40O3Jg3Emvp6Tv4U6ymYYO50NUGpJ"
+    / - else
+    /   meta name="twitter:card" content="summary"
+
+    / Page Title
     title = current_page.data.title.present? ? "#{current_page.data.title}" : "#{yield_content(:title)} &mdash; Working File"
 
+    / Description
+    meta name="description" content=yield_content(:description)
     = stylesheet_link_tag :site
     = javascript_include_tag :all
 
