@@ -5,6 +5,7 @@
   position: relative;
   display: block;
   margin-bottom: 5%;
+  background: pink;
 
   .logo-work {
     animation: slide-in 0.5s ease 0s;
@@ -20,9 +21,9 @@
     animation: slide-in 0.5s ease 0.25s;
     animation-fill-mode: both;
     position: absolute;
-    top: 19.5%;
-    right: -8.4%;
-    width: 81%;
+    top: 20.5%;
+    right: -7.4%;
+    width: 74%;
     z-index: 3;
   }
 
