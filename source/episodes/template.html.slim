@@ -3,7 +3,7 @@ episode: true
 ---
 
 - content_for(:title, "Episode #{id}: #{title}")
-- content_for(:description, "Episode #{id} of working file is titled &ldquo;#{title}&rdquo;.")
+- content_for(:description, "#{showNotes[0...200]}")
 - content_for(:soundcloudID, "#{soundcloudID}")
 
 .content-wrapper
