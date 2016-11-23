@@ -4,8 +4,10 @@ html
     meta charset="utf-8"
     meta content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" name="viewport"
 
+    meta name="description" content=yield_content(:description)
+
     / Use title if it's in the page YAML frontmatter
-    title = current_page.data.title.present? ? "#{current_page.data.title}" : "#{yield_content(:title)} &mdash; Working File Podcast"
+    title = current_page.data.title.present? ? "#{current_page.data.title}" : "#{yield_content(:title)} &mdash; Working File"
 
     link href='//fonts.googleapis.com/css?family=Lato:300,400' rel='stylesheet' type='text/css'
 
