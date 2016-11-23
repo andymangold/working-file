@@ -17,9 +17,9 @@
     animation: slide-in 0.5s ease 0.25s;
     animation-fill-mode: both;
     position: absolute;
-    top: 19.5%;
-    right: -8.4%;
-    width: 81%;
+    top: 20.5%;
+    right: -7.4%;
+    width: 74%;
     z-index: 3; }
   .artwork .logo-file {
     animation: slide-in 0.5s ease 0.5s;
