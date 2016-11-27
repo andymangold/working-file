@@ -13,7 +13,7 @@ episode: true
     = link_to "&larr; Back to all Episodes", "../episodes.html", class: "navigation-link"
     hr
 
-    .episode-number Episode #{id} &mdash; <span class="episode-date">#{date.strftime('%B %e, %Y')}</span>
+    .episode-number Episode #{id} <span class="episode-date">&mdash; #{date.strftime('%B %e, %Y')}</span>
     h1.episode-title = title
     .byline
       | With&nbsp;
