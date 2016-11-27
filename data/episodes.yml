@@ -8,7 +8,53 @@
   contributorSlugs:
     - chappell-ellison
     - maurice-cherry
-  showNotes: "Our inaugural show is all about the state of the design community, design journalism, and what <em>Working File</em> should be. Chappell and Maurice join us for a conversation about the difference between our actual selves and our public persona. We find out that Andy has high expectations for designers and discuss the nature of criticism across different creative industries. Is there a distinction between criticsm for consumers and criticism for creators? Is the internet even an appropriate medium for critical discourse?"
+  showNotes: "Our inaugural show is all about the state of the design community, design journalism, and what <em>Working File</em> should be. Chappell Ellison and Maurice Cherry join us for a conversation about the difference between design discourse in public and private spaces. We find out that Andy has high expectations for designers and discuss the nature of criticism across different creative industries. Is there a distinction between criticsm for consumers and criticism for creators? Is the internet even an appropriate medium for critical discourse?"
+  links:
+    -
+      url: https://www.fastcompany.com/
+      text: Fast Company
+    -
+      url: http://blog.instagram.com/post/144198429587/160511-a-new-look
+      text: A New Look for Instagram
+    -
+      url: http://www.underconsideration.com/brandnew/archives/new_logo_and_identity_for_uber_done_in_house.php
+      text: New Logo and Identity for Uber
+    -
+      url: https://www.designernews.co/
+      text: Designer News
+    -
+      url: https://dribbble.com/
+      text: Dribbble
+    -
+      url: https://www.smashingmagazine.com/
+      text: Smashing Magazine
+    -
+      url: http://www.aiga.org/
+      text: AIGA
+    -
+      url: https://thegreatdiscontent.com/
+      text: The Great Discontent
+    -
+      url: http://revisionpath.com/
+      text: Revision Path
+    -
+      url: http://www.debbiemillman.com/designmatters/
+      text: Design Matters with Debbie Millman
+    -
+      url: https://en.wikipedia.org/wiki/Flat_design
+      text: Flat Design
+    -
+      url: http://notclosed.com/
+      text: Open (NYC Based Design Studio)
+    -
+      url: https://www.amazon.com/dp/1938922859
+      text: Design for People
+    -
+      url: http://www.underconsideration.com/brandnew/archives/ic_uc_we_all_c_for_california.php
+      text: University of California Rebrand
+    -
+      url: http://www.aiga.org/medalist-ralphcaplan
+      text: Ralph Caplan
 -
   id: 3
   published: true

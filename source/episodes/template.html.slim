@@ -15,13 +15,16 @@ episode: true
 
     .episode-number Episode #{id} &mdash; <span class="episode-date">#{date.strftime('%B %e, %Y')}</span>
     h1.episode-title = title
+    .byline
+      | With&nbsp;
+      = data.contributors.map{ |contributor| if contributorSlugs.include?(contributor.slug); link_to("#{contributor.firstName} #{contributor.lastName}", "../contributors/#{contributor.slug}.html"); end }.compact.join(" and ")
 
     = partial("shared/soundcloud_player", :locals => { :soundcloudID => soundcloudID })
 
     .show-notes = showNotes
 
-    h3 Contributors
-    ul
-      - data.contributors.each do |contributor|
-        - if contributorSlugs.include? contributor.slug
-          li = link_to "#{contributor.firstName} #{contributor.lastName}", "../contributors/#{contributor.slug}.html"
+    - if links.present?
+      h3 Links
+      ul
+        - links.each do |link|
+          li = link_to link.text, link.url
