@@ -58,6 +58,15 @@
     -
       url: http://revisionpath.com/dori-tunstall/
       text: 'Revision Path 107: Dori Tunstall'
+    -
+      url: https://en.wikipedia.org/wiki/Google_Reader
+      text: Google Reader
+    -
+      url: http://designobserver.com/
+      text: Design Observer
+    -
+      url: http://www.aiga.org/where-are-the-black-designers-sxsw
+      text: Where are the Black Designers?
 -
   id: 3
   published: true
