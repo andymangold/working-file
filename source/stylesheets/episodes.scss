@@ -1,6 +1,6 @@
 %episode {
   display: block;
-  margin: 1.7em 0;
+  margin: 1.5em 0 2.5em;
 
   h2 a {
     text-decoration: none;
@@ -13,7 +13,7 @@
 
 .unpublished-episode {
   @extend %episode;
-  opacity: 0.25;
+  color: $light-gray;
 }
 
 .byline {
