@@ -168,12 +168,12 @@ ul {
 
 .published-episode, .unpublished-episode {
   display: block;
-  margin: 1.7em 0; }
+  margin: 1.5em 0 2.5em; }
   .published-episode h2 a, .unpublished-episode h2 a {
     text-decoration: none; }
 
 .unpublished-episode {
-  opacity: 0.25; }
+  color: #bfc3c5; }
 
 .byline {
   margin: 1em 0 1.5em; }
