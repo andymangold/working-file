@@ -14,7 +14,7 @@
       - if episode.published == true
         .published-episode
           .episode-number Episode #{episode.id} <span class="episode-date"> &mdash; #{episode.date.strftime('%B %e, %Y')}</span>
-          h2 = link_to episode.title, "/episodes/#{episode.slug}.html"
+          h2 = link_to episode.title, "/episodes/#{episode.id}.html"
           div
             | With&nbsp;
             = data.contributors.map{ |contributor| if episode.contributorSlugs.include?(contributor.slug); link_to("#{contributor.firstName} #{contributor.lastName}", "../contributors/#{contributor.slug}.html"); end }.compact.join(" and ")
