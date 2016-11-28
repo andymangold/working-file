@@ -57,7 +57,8 @@ body {
       font-size: 14px; } }
 
 p {
-  line-height: 160%; }
+  line-height: 160%;
+  margin: 0 0 1em; }
 
 a {
   color: inherit; }
