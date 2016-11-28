@@ -29,7 +29,7 @@ page '/*.txt', layout: false
 #   end
 # end
 
-config[:host] = "https://andymangold.github.io/working-file"
+config[:host] = "https://workingfile.co"
 
 # Build-specific configuration
 configure :build do
