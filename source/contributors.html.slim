@@ -11,4 +11,4 @@
 
     .contributor-list
       - data.contributors.sort{ |a,b| a.lastName.downcase <=> b.lastName.downcase }.each do |contributor|
-        div = link_to "#{contributor.firstName} #{contributor.lastName}", "/contributors/#{contributor.id}.html"
+        div = link_to "#{contributor.firstName} #{contributor.lastName}", "/contributors/#{contributor.slug}.html"
