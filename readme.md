@@ -2,4 +2,4 @@
 
 ## Deployment
 After updating all applicable files, run
-`middleman deploy --build-before`
+`middleman deploy`
