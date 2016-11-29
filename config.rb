@@ -77,3 +77,7 @@ data.contributors.each do |contributor|
 end
 
 ignore "/contributors/template.html"
+
+set :url_root, 'https://workingfile.co'
+
+activate :search_engine_sitemap

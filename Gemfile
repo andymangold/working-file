@@ -19,3 +19,5 @@ gem 'middleman-autoprefixer'
 
 # Deploy to Github pages
 gem 'middleman-deploy', github: 'middleman-contrib/middleman-deploy', branch: 'master'
+
+gem 'middleman-search_engine_sitemap'
