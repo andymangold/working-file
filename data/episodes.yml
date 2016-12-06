@@ -79,7 +79,7 @@
   contributorSlugs:
     - meg-lewis
     - gitamba-saila-ngita
-  showNotes: "This episode is all about the distinction between working individually and working collaboratively. Gitamba and Meg join us for a discussion where we talk about our preferred work environments, the difference between design education and working as a designer, and conflict resolution amongst coworkers. When should we compromise and when should we stand up for our ourselves?"
+  showNotes: "This episode is all about the distinction between working individually and working collaboratively. Gitamba and Meg join us for a discussion where we talk about our preferred work environments, the difference between design education and practicing design professionally, and conflict resolution amongst coworkers and clients. When should we compromise and when should we stand up for our ourselves?"
   links:
     -
       url: http://www.ghostlyferns.com/
@@ -117,6 +117,9 @@
     -
       url: https://en.wikipedia.org/wiki/Malcolm_Gladwell
       text: Malcolm Gladwell
+    -
+      url: http://www.redscout.com/
+      text: Redscout
 -
   id: 3
   date: 2016-12-27
