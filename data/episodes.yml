@@ -71,20 +71,21 @@
       text: Where are the Black Designers?
 -
   id: 2
+  published: true
   date: 2016-12-13
   title: The Artist and the Problem Solver
-  soundcloudID: 256683396
+  soundcloudID: 297636150
   contributorSlugs:
     - meg-lewis
     - gitamba-saila-ngita
-  showNotes: "This episode is all about the distinction between working individually and working collaboratively. Gitamba and Meg join us for a discussion where we talk about our preferred work environments, the difference between design education and practicing design professionally, and conflict resolution amongst coworkers and clients. When should we compromise and when should we stand up for our ourselves?"
+  showNotes: "This episode is all about the distinction between working individually and working collaboratively. Gitamba Saila-Ngita and Meg Lewis join us for a discussion where we talk about our preferred work environments, the difference between design education and practicing design professionally, and conflict resolution amongst coworkers and clients. When should we compromise and when should we stand up for our ourselves?"
   links:
     -
       url: http://www.ghostlyferns.com/
       text: Ghostly Ferns
     -
       url: http://sagmeisterwalsh.com/
-      text: Sagrmeister &amp; Walsh
+      text: Sagmeister &amp; Walsh
     -
       url: http://www.louisefili.com/
       text: Louise Fili
