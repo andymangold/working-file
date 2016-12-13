@@ -3,7 +3,6 @@
   published: true
   date: 2016-11-29
   title: An Industry Inside of Every Industry
-  slug: an-industry-inside-of-every-industry
   soundcloudID: 295214041
   contributorSlugs:
     - chappell-ellison
@@ -73,8 +72,7 @@
 -
   id: 2
   date: 2016-12-13
-  title: Designing Collaboratively vs. Designing Individually
-  slug: designing-collaboratively-vs-designing-individually
+  title: The Artist and the Problem Solver
   soundcloudID: 256683396
   contributorSlugs:
     - meg-lewis
@@ -124,7 +122,6 @@
   id: 3
   date: 2016-12-27
   title: A Thing to be Seen
-  slug: a-thing-to-be-seen
   soundcloudID: 253597092
   contributorSlugs:
     - jen-mussari
@@ -134,7 +131,6 @@
   id: 4
   date: 2017-01-10
   title: Side Projects
-  slug: side-projects
   soundcloudID: 256686827
   contributorSlugs:
     - kristy-tillman
@@ -144,7 +140,6 @@
   id: 5
   date: 2017-01-24
   title: Contexts for Critique
-  slug: contexts-for-critique
   soundcloudID: 259164716
   contributorSlugs:
     - victoria-rushton
@@ -154,7 +149,6 @@
   id: 6
   date: 2017-02-07
   title: Design and Production
-  slug: design-and-production
   soundcloudID: 259943541
   contributorSlugs:
     - linda-eliasen
