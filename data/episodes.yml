@@ -121,6 +121,7 @@
       text: Redscout
 -
   id: 3
+  published: true
   date: 2016-12-27
   title: A Thing to be Seen
   soundcloudID: 253597092
