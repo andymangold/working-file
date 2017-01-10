@@ -11,7 +11,7 @@
   links:
     -
       url: https://www.fastcompany.com/
-      text: Fast Company
+      text: "Fast Company 🤔"
     -
       url: http://blog.instagram.com/post/144198429587/160511-a-new-look
       text: A New Look for Instagram
@@ -20,13 +20,13 @@
       text: New Logo and Identity for Uber
     -
       url: https://www.designernews.co/
-      text: Designer News
+      text: "Designer News 🤔"
     -
       url: https://dribbble.com/
-      text: Dribbble
+      text: "Dribbble 🤔"
     -
       url: https://www.smashingmagazine.com/
-      text: Smashing Magazine
+      text: "Smashing Magazine 🤔"
     -
       url: http://www.aiga.org/
       text: AIGA
@@ -35,7 +35,7 @@
       text: The Great Discontent
     -
       url: http://revisionpath.com/
-      text: Revision Path
+      text: "Revision Path ⭐️"
     -
       url: http://www.debbiemillman.com/designmatters/
       text: Design Matters with Debbie Millman
@@ -50,7 +50,7 @@
       text: Open (NYC Based Design Studio)
     -
       url: https://www.amazon.com/dp/1938922859
-      text: Design for People
+      text: "Design for People ⭐️"
     -
       url: http://www.underconsideration.com/brandnew/archives/ic_uc_we_all_c_for_california.php
       text: University of California Rebrand
@@ -59,16 +59,16 @@
       text: Ralph Caplan
     -
       url: http://revisionpath.com/dori-tunstall/
-      text: 'Revision Path 107: Dori Tunstall'
+      text: "Revision Path 107: Dori Tunstall ⭐️"
     -
       url: https://en.wikipedia.org/wiki/Google_Reader
-      text: Google Reader
+      text: "Google Reader 💀"
     -
       url: http://designobserver.com/
       text: Design Observer
     -
       url: http://www.aiga.org/where-are-the-black-designers-sxsw
-      text: Where are the Black Designers?
+      text: "Where are the Black Designers? ⭐️"
 -
   id: 2
   published: true
@@ -82,10 +82,10 @@
   links:
     -
       url: http://www.ghostlyferns.com/
-      text: Ghostly Ferns
+      text: "Ghostly Ferns ⭐️"
     -
       url: http://sagmeisterwalsh.com/
-      text: Sagmeister &amp; Walsh
+      text: "Sagmeister &amp; Walsh 🤔"
     -
       url: http://www.louisefili.com/
       text: Louise Fili
@@ -115,7 +115,7 @@
       text: Pentagram
     -
       url: https://en.wikipedia.org/wiki/Malcolm_Gladwell
-      text: Malcolm Gladwell
+      text: "Malcolm Gladwell 🤔"
     -
       url: http://www.redscout.com/
       text: Redscout
@@ -132,7 +132,7 @@
   links:
     -
       url: https://www.youtube.com/watch?v=iilS4ADUSQw
-      text: Satchell&rsquo;s Video on <em>That Dragon, Cancer</em>
+      text: "Satchell&rsquo;s Video on <em>That Dragon, Cancer</em> ⭐️"
     -
       url: https://www.charitywater.org/
       text: Charity Water
@@ -147,7 +147,7 @@
       text: Neil deGrasse Tyson
     -
       url: http://www.spin.com/2016/01/kanye-west-wiz-khalifa-twitter-beef-you-have-distracted-from-my-creative-process-screenshots/
-      text: The Kanye West Wiz Khalifa Twitter Beef of 2016
+      text: "The Kanye West Wiz Khalifa Twitter Beef of 2016 🤔"
     -
       url: https://gimletmedia.com/episode/41-what-it-looks-like/
       text: What it Looks Like on <em>Reply All</em>
@@ -195,13 +195,69 @@
       text: Grace Bonney interview with <em>The Great Discontent</em>
 -
   id: 4
+  published: true
   date: 2017-01-10
-  title: Side Projects
-  soundcloudID: 256686827
+  title: Making Something that&rsquo;s Missing
+  soundcloudID: 301772182
   contributorSlugs:
     - kristy-tillman
     - lola-landekic
-  showNotes: "<strong>Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+  showNotes: "Andy and Matt are joined by Kristy Tillman and Lola Landekic for a conversation about side projects and the culture that surrounds them. We talk about the virtues and pitfalls of pursuing a self-initiated projects and whether we should hold people accountable for the things that they make. What role should side projects play in your portfolio, and how should we regard them when we&rsquo;re hiring a designer?"
+  links:
+    -
+      url: http://www.artofthetitle.com/
+      text: "Art of the Title ⭐️"
+    -
+      url: https://modelviewculture.com/
+      text: Model View Culture
+    -
+      url: https://modelviewculture.com/pieces/side-project-culture-opportunities-and-obstacles-for-marginalized-people-in-tech
+      text: "Side Project Culture: Opportunities and Obstacles for Marginalized People in Tech"
+    -
+      url: http://www.tomorrowlooksbright.com/
+      text: "Tomorrow Looks Bright ⭐️"
+    -
+      url: https://www.detroitwaterproject.org/
+      text: "Detroit Water Project (now The Human Utility) ⭐️"
+    -
+      url: http://statemottosproject.com/
+      text: "State Mottos Project 🤔"
+    -
+      url: http://fortydaysofdating.com/
+      text: "&ldquo;Going on dates with eachother and documenting it.&rdquo; 🙄"
+    -
+      url: http://designbrawl.com/
+      text: "Redesigned Beer Cans 🙄"
+    -
+      url: http://5by5.tv/onthegrid
+      text: On the Grid
+    -
+      url: https://en.wikipedia.org/wiki/Elaine_Makatura_Bass
+      text: Elaine Bass (Thank you, Lola!)
+    -
+      url: https://en.wikipedia.org/wiki/Gender_bias_on_Wikipedia
+      text: Gender Bias on Wikipedia
+    -
+      url: https://www.mica.edu/
+      text: MICA
+    -
+      url: https://www.google.com/search?q=a+painting+with+ampersands&safe=off&espv=2&biw=1856&bih=1080&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj6hpz0savRAhVGPCYKHUbGB-cQ_AUIBigB#safe=off&tbm=isch&q=painted+ampersand
+      text: "&ldquo;A Painting with Ampersands&rdquo;"
+    -
+      url: http://www.artofthetitle.com/designer/douy-swofford/
+      text: Douy Swofford
+    -
+      url: https://generalassemb.ly/
+      text: General Assembly
+    -
+      url: http://nflogos.com/
+      text: Matt&rsquo;s Fake Alternate NFL Logos
+    -
+      url: http://waitbutwhy.com/2015/12/the-tail-end.html
+      text: "&ldquo;Really Depressing Article, Do Not Read&rdquo;"
+    -
+      url: https://en.wikipedia.org/wiki/Gaslighting
+      text: Gaslighting
 -
   id: 5
   date: 2017-01-24
