@@ -15,7 +15,7 @@ change_frequency: weekly
 
     h1 Episodes
 
-    - data.episodes.sort{ |a,b| a.id <=> b.id }.each do |episode|
+    - data.episodes.sort{ |a,b| b.id <=> a.id }.each do |episode|
       - if episode.published == true
         .published-episode
           .episode-number Episode #{episode.id} <span class="episode-date"> &mdash; #{episode.date.strftime('%B %e, %Y')}</span>

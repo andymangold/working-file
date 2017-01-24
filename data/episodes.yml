@@ -260,13 +260,39 @@
       text: Gaslighting
 -
   id: 5
+  published: true
   date: 2017-01-24
-  title: Contexts for Critique
-  soundcloudID: 259164716
+  title: Who Gets to Say No
+  soundcloudID: 304218984
   contributorSlugs:
     - victoria-rushton
     - annie-yiling-wang
-  showNotes: "<strong>Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+  showNotes: "Victoria Rushton and Annie Yiling Wang join us to discuss criticism in a professional context. For many of us, what was once formal critiques with peers during our education has been replaced by a confusing array of criticism from a variety of people. How does feedback differ when it comes from our clients, our peers, or our superiors?"
+  links:
+    -
+      url: https://en.wikipedia.org/wiki/Orange_Is_the_New_Black
+      text: Orange is the New Black
+    -
+      url: http://fontbureau.typenetwork.com/
+      text: Font Bureau
+    -
+      url: https://www.ideo.com
+      text: IDEO
+    -
+      url: https://en.wikipedia.org/wiki/Chinese_whispers
+      text: "Telephone (aka &ldquo;Chinese Whispers&rdquo; 🤔)"
+    -
+      url: https://en.wikipedia.org/wiki/User_experience_evaluation
+      text: User Research
+    -
+      url: https://en.wikipedia.org/wiki/Rule_of_thumb
+      text: Rule of Thumb
+    -
+      url: http://clientsfromhell.net/
+      text: "Clients from Hell 🙄"
+    -
+      url: "https://en.wikipedia.org/wiki/Fan_fiction"
+      text: Fan Fiction
 -
   id: 6
   date: 2017-02-07
