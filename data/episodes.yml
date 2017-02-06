@@ -295,10 +295,84 @@
       text: Fan Fiction
 -
   id: 6
+  published: true
   date: 2017-02-07
-  title: Design and Production
-  soundcloudID: 259943541
+  title: Using Yourself as a Constraint
+  soundcloudID: 306460830
   contributorSlugs:
     - linda-eliasen
     - jon-gold
-  showNotes: "<strong>Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+  showNotes: "This episode, featuring Linda Eliasen and Jon Gold, addresses the relationship between the design process and production. Does an understanding of the materials and techniques used to manufacture your designs make you a better designer, or hold you back from doing truly innovative work? When should we push limitations of production and when should we just stick with a tried-and-true, established solution?"
+  links:
+    -
+      url: https://ueno.co/
+      text: Ueno
+    -
+      url: https://www.designernews.co/
+      text: "Designer News 🤔"
+    -
+      url: https://en.wikipedia.org/wiki/Stranger_Things_(TV_series)
+      text: Stranger Things
+    -
+      url: https://mailchimp.com/
+      text: MailChimp
+    -
+      url: https://www.dropbox.com
+      text: Dropbox
+    -
+      url: https://en.wikipedia.org/wiki/Impostor_syndrome
+      text: Impostor Syndrome
+    -
+      url: https://en.wikipedia.org/wiki/Tron
+      text: Tron
+    -
+      url: https://en.wikipedia.org/wiki/The_Matrix
+      text: The Matrix
+    -
+      url: https://designmuseum.org/things-to-do/talks/dm25-what-next-for-design-with-jonathan-ive
+      text: "<em>What Next for Design?</em> with Jonathan Ive"
+    -
+      url: http://rubyonrails.org/
+      text: Ruby on Rails
+    -
+      url: https://en.wikipedia.org/wiki/Objective-C
+      text: Objective-C
+    -
+      url: https://en.wikipedia.org/wiki/Software_development_kit
+      text: SDK
+    -
+      url: https://twitter.com/cayleebetts
+      text: Caylee Betts on Twitter
+    -
+      url: https://facebook.github.io/react/
+      text: React
+    -
+      url: https://en.wikipedia.org/wiki/Frank_Gehry
+      text: Frank Gehry
+    -
+      url: http://www.pixar.com/
+      text: Pixar
+    -
+      url: https://en.wikipedia.org/wiki/Concept_car
+      text: Concept Cars
+    -
+      url: https://en.wikipedia.org/wiki/Artificial_intelligence
+      text: Artificial Intelligence
+    -
+      url: http://www.archdaily.com/514003/arup-develops-3d-printing-technique-for-structural-steel/
+      text: Arup Develops 3D Printing Technique for Structural Steel
+    -
+      url: https://en.wikipedia.org/wiki/Reality_distortion_field
+      text: Reality Distortion Field
+    -
+      url: http://everythingisaremix.info/
+      text: Everything is a Remix
+    -
+      url: https://en.wikipedia.org/wiki/Fractal
+      text: Fractals
+    -
+      url: http://samuelmockbee.net/
+      text: Samuel Mockbee
+    -
+      url: http://www.ruralstudio.org/
+      text: Rural Studio
