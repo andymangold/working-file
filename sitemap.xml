@@ -79,6 +79,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://workingfile.co/episodes/8.html</loc>
+    <lastmod>2016-12-12T22:35:19-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://workingfile.co/contributors/andy-mangold.html</loc>
     <lastmod>2016-11-28T18:41:48-05:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -164,6 +170,12 @@
   </url>
   <url>
     <loc>https://workingfile.co/contributors/robyn-kanner.html</loc>
+    <lastmod>2016-11-28T18:41:48-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://workingfile.co/contributors/kara-haupt.html</loc>
     <lastmod>2016-11-28T18:41:48-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
