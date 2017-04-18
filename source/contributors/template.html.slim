@@ -26,8 +26,9 @@
 
       ul
         - data.episodes.each do |episode|
-          - if episode.contributorSlugs.include? slug
-            - if episode.published == true
-              li = link_to episode.title, "../episodes/#{episode.id}.html"
-            - else
-              li #{episode.title} <span class="coming-soon-date">(Coming #{episode.date.strftime('%B %e')})</span>
+          - if episode.contributorSlugs.present?
+            - if episode.contributorSlugs.include? slug
+              - if episode.published == true
+                li = link_to episode.title, "../episodes/#{episode.id}.html"
+              - else
+                li #{episode.title} <span class="coming-soon-date">(Coming #{episode.date.strftime('%B %e')})</span>

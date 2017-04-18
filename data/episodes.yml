@@ -630,3 +630,48 @@
     -
       url: http://www.theverge.com/2017/3/30/15117096/spacex-launch-reusable-rocket-success-falcon-9-landing
       text: "SpaceX makes aerospace history with successful launch and landing of a used rocket"
+-
+  id: 11
+  published: true
+  date: 2017-04-18
+  title: Comparing Notes
+  soundcloudID: 318188945
+  showNotes: "Matt and Andy are on their own this week having a practical discussion about proposals and how we communicate with potential clients. What is the right amount of information to provide and the best way to provide it? Why do we keep sending 8.5&prime; by 11&Prime; pdfs when no one is printing them out?"
+  links:
+    -
+      url: http://motel.is/
+      text: Motel
+    -
+      url: http://friendsoftheweb.com/
+      text: Friends of The Web
+    -
+      url: http://www.pentagram.com/
+      text: Pentagram
+    -
+      url: http://www.adobe.com/creativecloud.html
+      text: "Adobe Creative Cloud 🔥"
+    -
+      url: https://en.wikipedia.org/wiki/Boilerplate_(text)
+      text: Boilerplate
+    -
+      url: https://en.wikipedia.org/wiki/Engagement_letter
+      text: Engagement Letter
+    -
+      url: https://support.google.com/webmasters/answer/35769?hl=en
+      text: Google Webmaster Guidelines
+    -
+      url: https://en.wikipedia.org/wiki/Responsive_web_design
+      text: Responsive Design
+    -
+      url: https://en.wikipedia.org/wiki/Minimum_viable_product
+      text: Minimum Viable Product
+    -
+      url: https://en.wikipedia.org/wiki/User_story
+      text: User Story
+    -
+      url: https://en.wikipedia.org/wiki/Git
+      text: Git
+    -
+      url: https://en.wikipedia.org/wiki/Screen_reader
+      text: Screen Reader
+
