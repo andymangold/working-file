@@ -15,9 +15,10 @@ episode: true
 
     .episode-number Episode #{id} <span class="episode-date">&mdash; #{date.strftime('%B %e, %Y')}</span>
     h1.episode-title = title
-    .byline
-      | With&nbsp;
-      = data.contributors.sort{ |a,b| a.lastName.downcase <=> b.lastName.downcase }.map{ |contributor| if contributorSlugs.include?(contributor.slug); link_to("#{contributor.firstName} #{contributor.lastName}", "../contributors/#{contributor.slug}.html"); end }.compact.join(" and ")
+    - if contributorSlugs.present?
+      .byline
+        | With&nbsp;
+        = data.contributors.sort{ |a,b| a.lastName.downcase <=> b.lastName.downcase }.map{ |contributor| if contributorSlugs.include?(contributor.slug); link_to("#{contributor.firstName} #{contributor.lastName}", "../contributors/#{contributor.slug}.html"); end }.compact.join(" and ")
 
     = partial("shared/soundcloud_player", :locals => { :soundcloudID => soundcloudID })
 
