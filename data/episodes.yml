@@ -674,4 +674,83 @@
     -
       url: https://en.wikipedia.org/wiki/Screen_reader
       text: Screen Reader
-
+-
+  id: 12
+  published: true
+  date: 2017-05-02
+  title: Verbal Design
+  soundcloudID: 320443720
+  contributorSlugs:
+    - robyn-kanner
+    - chappell-ellison
+  showNotes: "Chappell and Robyn join us for a lively episode wherein we discuss the language we use to describe ourselves and our work. With her recent transition to the private sector, Chappell gives us her take on agency life and the vernacular associated with it. Find out why the words we use matter, even just internally."
+  links:
+    -
+      url: https://en.wikipedia.org/wiki/Sidecar_(cocktail)
+      text: "Sidecar 🍸"
+    -
+      url: https://en.wikipedia.org/wiki/Communication_studies
+      text: Communication Studies
+    -
+      url: https://en.wikipedia.org/wiki/Product_requirements_document
+      text: Product Requirements Document (PRD)
+    -
+      url: http://www.hugeinc.com/
+      text: Huge
+    -
+      url: https://en.wikipedia.org/wiki/Business_requirements
+      text: Business Requirements
+    -
+      url: https://en.wikipedia.org/wiki/Linguistic_relativity
+      text: Linguistic Relativity
+    -
+      url: https://en.wikipedia.org/wiki/Telephone_line
+      text: Telephone Line
+    -
+      url: https://en.wikipedia.org/wiki/World_of_Warcraft
+      text: World of Warcraft
+    -
+      url: https://en.wikipedia.org/wiki/Chicken_or_the_egg
+      text: Chicken or the Egg Dilemma
+    -
+      url: https://en.wikipedia.org/wiki/Anthropology
+      text: Anthropology
+    -
+      url: https://en.wikipedia.org/wiki/Industrial_Revolution
+      text: Industrial Revolution
+    -
+      url: https://en.wikipedia.org/wiki/Basic_income
+      text: Basic Income
+    -
+      url: https://en.wikipedia.org/wiki/Socialism
+      text: Socialism
+    -
+      url: https://www.squarespace.com/
+      text: Squarespace
+    -
+      url: https://www.google.com/search?q=verbal+designer&oq=verbal+designer
+      text: "&ldquo;Verbal Designer&rdquo; 🙄"
+    -
+      url: https://hbr.org/2014/08/why-women-dont-apply-for-jobs-unless-theyre-100-qualified
+      text: "<em>Why Women Don’t Apply for Jobs Unless They’re 100% Qualified</em>"
+    -
+      url: https://en.wikipedia.org/wiki/Minimum_viable_product
+      text: Minimum Viable Product
+    -
+      url: https://en.wikipedia.org/wiki/Heuristic
+      text: Heuristic
+    -
+      url: http://www.urbandictionary.com/define.php?term=Subtweet
+      text: Subtweet
+    -
+      url: https://en.wikipedia.org/wiki/Agile_software_development
+      text: Agile Software Development
+    -
+      url: http://metahaven.net/
+      text: Metahaven
+    -
+      url: https://en.wikipedia.org/wiki/Design_sprint
+      text: Design Sprint
+    -
+      url: http://www.aiga.org/theyre-not-fonts
+      text: "Fonts vs. Typefaces 🙄"
