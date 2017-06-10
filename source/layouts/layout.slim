@@ -39,4 +39,9 @@ html
     = javascript_include_tag :all
 
   body class="#{page_classes}"
-    = yield
+    .navigation-wrapper
+      = partial "shared/artwork"
+      = partial "shared/navigation"
+
+    .content-wrapper
+      = yield

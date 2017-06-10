@@ -1,34 +1,30 @@
 - content_for(:title, "#{firstName} #{lastName}")
 - content_for(:description, "#{firstName} #{lastName} is a contributor to Working File, a podcast about design practice.")
 
-.content-wrapper
-  = partial "shared/artwork"
+= link_to "&larr; Back to all Contributors", "../contributors.html", class: "navigation-link"
 
-  .content
-    = link_to "&larr; Back to all Contributors", "../contributors.html", class: "navigation-link"
+hr
 
-    hr
+h1 #{firstName} #{lastName}
 
-    h1 #{firstName} #{lastName}
+p = bio
 
-    p = bio
+ul
+  - if twitter.present?
+    li = link_to "@#{twitter}", "http://www.twitter.com/#{twitter}"
+  - if website.present?
+    li = link_to website, "http://#{website}"
 
-    ul
-      - if twitter.present?
-        li = link_to "@#{twitter}", "http://www.twitter.com/#{twitter}"
-      - if website.present?
-        li = link_to website, "http://#{website}"
+- unless host == true
+  hr
 
-    - unless host == true
-      hr
+  h3 Featured Episodes
 
-      h3 Featured Episodes
-
-      ul
-        - data.episodes.each do |episode|
-          - if episode.contributorSlugs.present?
-            - if episode.contributorSlugs.include? slug
-              - if episode.published == true
-                li = link_to episode.title, "../episodes/#{episode.id}.html"
-              - else
-                li #{episode.title} <span class="coming-soon-date">(Coming #{episode.date.strftime('%B %e')})</span>
+  ul
+    - data.episodes.each do |episode|
+      - if episode.contributorSlugs.present?
+        - if episode.contributorSlugs.include? slug
+          - if episode.published == true
+            li = link_to episode.title, "../episodes/#{episode.id}.html"
+          - else
+            li #{episode.title} <span class="coming-soon-date">(Coming #{episode.date.strftime('%B %e')})</span>

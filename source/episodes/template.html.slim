@@ -6,26 +6,23 @@ episode: true
 - content_for(:description, "#{showNotes[0...200]}")
 - content_for(:soundcloudID, "#{soundcloudID}")
 
-.content-wrapper
-  = partial "shared/artwork"
 
-  .content
-    = link_to "&larr; Back to all Episodes", "../episodes.html", class: "navigation-link"
-    hr
+= link_to "&larr; Back to all Episodes", "../episodes.html", class: "navigation-link"
+hr
 
-    .episode-number Episode #{id} <span class="episode-date">&mdash; #{date.strftime('%B %e, %Y')}</span>
-    h1.episode-title = title
-    - if contributorSlugs.present?
-      .byline
-        | With&nbsp;
-        = data.contributors.sort{ |a,b| a.lastName.downcase <=> b.lastName.downcase }.map{ |contributor| if contributorSlugs.include?(contributor.slug); link_to("#{contributor.firstName} #{contributor.lastName}", "../contributors/#{contributor.slug}.html"); end }.compact.join(" and ")
+.episode-number Episode #{id} <span class="episode-date">&mdash; #{date.strftime('%B %e, %Y')}</span>
+h1.episode-title = title
+- if contributorSlugs.present?
+  .byline
+    | With&nbsp;
+    = data.contributors.sort{ |a,b| a.lastName.downcase <=> b.lastName.downcase }.map{ |contributor| if contributorSlugs.include?(contributor.slug); link_to("#{contributor.firstName} #{contributor.lastName}", "../contributors/#{contributor.slug}.html"); end }.compact.join(" and ")
 
-    = partial("shared/soundcloud_player", :locals => { :soundcloudID => soundcloudID })
+= partial("shared/soundcloud_player", :locals => { :soundcloudID => soundcloudID })
 
-    .show-notes = showNotes
+.show-notes = showNotes
 
-    - if links.present?
-      h3 Links
-      ul
-        - links.each do |link|
-          li = link_to link.text, link.url
+- if links.present?
+  h3 Links
+  ul
+    - links.each do |link|
+      li = link_to link.text, link.url

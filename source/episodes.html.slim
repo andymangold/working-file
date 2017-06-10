@@ -6,32 +6,25 @@ change_frequency: weekly
 - content_for(:title, "Episodes")
 - content_for(:description, "Working File releases new episodes every other Tuesday with a rotating panel of contributors.")
 
-.content-wrapper
-  = partial "shared/artwork"
+h1 Episodes
 
-  .content
-    = partial "shared/navigation"
-    hr
+- data.episodes.sort{ |a,b| b.id <=> a.id }.each do |episode|
+  - if episode.published == true
+    .published-episode
+      .episode-number Episode #{episode.id} <span class="episode-date"> &mdash; #{episode.date.strftime('%B %e, %Y')}</span>
+      h2 = link_to episode.title, "/episodes/#{episode.id}.html"
+      - if episode.contributorSlugs.present?
+        div
+          | With&nbsp;
+          = data.contributors.sort{ |a,b| a.lastName.downcase <=> b.lastName.downcase }.map{ |contributor| if episode.contributorSlugs.include?(contributor.slug); link_to("#{contributor.firstName} #{contributor.lastName}", "../contributors/#{contributor.slug}.html"); end }.compact.join(" and ")
+  - else
+    .unpublished-episode
+      .episode-number Episode #{episode.id} <span class="episode-date"> &mdash; coming #{episode.date.strftime('%B %e, %Y')}</span>
+      h2 = episode.title
+      - if episode.contributorSlugs.present?
+        div
+          | With&nbsp;
+          = data.contributors.sort{ |a,b| a.lastName.downcase <=> b.lastName.downcase }.map{ |contributor| if episode.contributorSlugs.include?(contributor.slug); link_to("#{contributor.firstName} #{contributor.lastName}", "../contributors/#{contributor.slug}.html"); end }.compact.join(" and ")
 
-    h1 Episodes
-
-    - data.episodes.sort{ |a,b| b.id <=> a.id }.each do |episode|
-      - if episode.published == true
-        .published-episode
-          .episode-number Episode #{episode.id} <span class="episode-date"> &mdash; #{episode.date.strftime('%B %e, %Y')}</span>
-          h2 = link_to episode.title, "/episodes/#{episode.id}.html"
-          - if episode.contributorSlugs.present?
-            div
-              | With&nbsp;
-              = data.contributors.sort{ |a,b| a.lastName.downcase <=> b.lastName.downcase }.map{ |contributor| if episode.contributorSlugs.include?(contributor.slug); link_to("#{contributor.firstName} #{contributor.lastName}", "../contributors/#{contributor.slug}.html"); end }.compact.join(" and ")
-      - else
-        .unpublished-episode
-          .episode-number Episode #{episode.id} <span class="episode-date"> &mdash; coming #{episode.date.strftime('%B %e, %Y')}</span>
-          h2 = episode.title
-          - if episode.contributorSlugs.present?
-            div
-              | With&nbsp;
-              = data.contributors.sort{ |a,b| a.lastName.downcase <=> b.lastName.downcase }.map{ |contributor| if episode.contributorSlugs.include?(contributor.slug); link_to("#{contributor.firstName} #{contributor.lastName}", "../contributors/#{contributor.slug}.html"); end }.compact.join(" and ")
-
-    hr
-    = partial "shared/feed_links"
+hr
+= partial "shared/feed_links"

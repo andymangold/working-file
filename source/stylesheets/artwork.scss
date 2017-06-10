@@ -10,8 +10,9 @@ $artwork-padding-remainder: 100% - $artwork-padding * 2;
 }
 
 .artwork {
-  width: 300px;
-  height: 300px;
+  width: 100%;
+  padding-bottom: 100%;
+  height: 0;
   position: relative;
   display: block;
   background: $highlight-color;

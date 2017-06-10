@@ -8,8 +8,6 @@ $highlight-color: #00C98C;
 .fill-highlight-color { fill: $highlight-color; }
 .fill-black { fill: $black; }
 
-$content-column-width: 28em;
-
 // Art-specific variables
 $lightest-gray: mix($white, $black, 93%);
 $light-gray: mix($white, $black, 75%);
