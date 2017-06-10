@@ -3,7 +3,7 @@ $black: #000E15;
 $white: #fff;
 $background-color: mix($white, $black, 100%);
 $text-color: mix($white, $black, 10%);
-$highlight-color: #71BE5A;
+$highlight-color: #49B773;
 
 .fill-highlight-color { fill: $highlight-color; }
 .fill-black { fill: $black; }
@@ -17,17 +17,6 @@ $medium-gray: mix($white, $black, 50%);
 $dark-gray: mix($white, $black, 10%);
 
 .fill-art-background-color { fill: $white; }
-.fill-lightest-gray { fill: $lightest-gray; }
 .fill-light-gray { fill: $light-gray; }
 .fill-medium-gray { fill: $medium-gray; }
 .fill-dark-gray { fill: $dark-gray; }
-
-@keyframes slide-in {
-  from {
-    transform: translateY(30px);
-    opacity: 0;
-  } to {
-    transform: translateY(0);
-    opacity: 1;
-  }
-}
