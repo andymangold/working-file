@@ -30,15 +30,6 @@ html
     link rel="mask-icon" href="/safari-pinned-tab.svg" color="#73bd5f"
     meta name="theme-color" content="#ffffff"
 
-    / Episode Specific Meta Info. REVISIT THIS WHEN INTEGRATNG THE SOUNDCLOUD API
-    / - if current_page.data.episode == true
-    /   meta property="og:audio" content="https://api.soundcloud.com/tracks/#{yield_content(:soundcloudID)}/download?client_id=cUa40O3Jg3Emvp6Tv4U6ymYYO50NUGpJ"
-    /   meta name="twitter:card" content="player"
-    /   meta name="twitter:player" content="https://api.soundcloud.com/tracks/#{yield_content(:soundcloudID)}/download?client_id=cUa40O3Jg3Emvp6Tv4U6ymYYO50NUGpJ"
-    /   meta name="twitter:player:stream" content="https://api.soundcloud.com/tracks/#{yield_content(:soundcloudID)}/download?client_id=cUa40O3Jg3Emvp6Tv4U6ymYYO50NUGpJ"
-    / - else
-    /   meta name="twitter:card" content="summary"
-
     / Page Title
     title = current_page.data.title.present? ? "#{current_page.data.title}" : "#{yield_content(:title)} &mdash; Working File"
 

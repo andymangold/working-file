@@ -1,5 +1,13 @@
-$artwork-padding: 14%;
+$artwork-padding: 13%;
 $artwork-padding-remainder: 100% - $artwork-padding * 2;
+
+@keyframes pop-up {
+  from {
+    transform: scale(1);
+  } to {
+    transform: scale(1.1);
+  }
+}
 
 .artwork {
   width: 300px;
@@ -10,12 +18,11 @@ $artwork-padding-remainder: 100% - $artwork-padding * 2;
 
   .logo-work {
     position: absolute;
-    top: $artwork-padding;
-    left: $artwork-padding;
-    margin-top: -0.045 * $artwork-padding-remainder;
-    margin-left: -0.045 * $artwork-padding-remainder;
+    top: $artwork-padding - 0.045 * $artwork-padding-remainder;
+    left: $artwork-padding - 0.045 * $artwork-padding-remainder;
     width: 0.78 * $artwork-padding-remainder;
     z-index: 1;
+    transition: all 0.3s;
   }
 
   .logo-ing {
@@ -24,6 +31,7 @@ $artwork-padding-remainder: 100% - $artwork-padding * 2;
     right: $artwork-padding - 7.4%;
     width: 0.74 * $artwork-padding-remainder;
     z-index: 3;
+    transition: all 0.3s;
   }
 
   .logo-file {
@@ -32,5 +40,23 @@ $artwork-padding-remainder: 100% - $artwork-padding * 2;
     right:  $artwork-padding + 0.15 * $artwork-padding-remainder;
     width: 0.7 * $artwork-padding-remainder;
     z-index: 2;
+    transition: all 0.3s;
+  }
+
+  &:hover {
+
+    .logo-work {
+      transform: scale(1.07);
+    }
+
+    .logo-ing {
+      transform: scale(1.07);
+      transition-delay: 0.1s;
+    }
+
+    .logo-file {
+      transform: scale(1.07);
+      transition-delay: 0.2s;
+    }
   }
 }
