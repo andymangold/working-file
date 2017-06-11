@@ -42,3 +42,14 @@
 .coming-soon-date {
   font-style: italic;
 }
+
+.fixed-audio-player {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: rgba(#fff, 0.9);
+  border-top: 1px solid $light-gray;
+  z-index: 1;
+  padding: 0.5em;
+}
