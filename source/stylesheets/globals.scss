@@ -9,7 +9,6 @@ $highlight-color: #00C98C;
 .fill-black { fill: $black; }
 
 // Art-specific variables
-$lightest-gray: mix($white, $black, 93%);
 $light-gray: mix($white, $black, 75%);
 $medium-gray: mix($white, $black, 50%);
 $dark-gray: mix($white, $black, 10%);
@@ -18,3 +17,19 @@ $dark-gray: mix($white, $black, 10%);
 .fill-light-gray { fill: $light-gray; }
 .fill-medium-gray { fill: $medium-gray; }
 .fill-dark-gray { fill: $dark-gray; }
+
+@font-face {
+  font-family: 'Grep';
+  src:  url('/fonts/Grep-Regular.woff2') format('woff2'),
+        url('/fonts/Grep-Regular.woff') format('woff');
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: 'Grep';
+  src:  url('/fonts/Grep-Bold.woff2') format('woff2'),
+        url('/fonts/Grep-Bold.woff') format('woff');
+  font-style: normal;
+  font-weight: bold;
+}
