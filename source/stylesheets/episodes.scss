@@ -62,7 +62,7 @@
     position: absolute;
     top: 0;
     right: calc(100% + 1em);
-    color: $medium-gray;
+    color: $light-gray;
     font-family: 'Roboto Mono', monospace;
     font-size: 0.9em;
 
@@ -86,6 +86,6 @@
 }
 
 .transcript-interstitial {
-  color: $medium-gray;
+  color: $light-gray;
   margin: 1em 0;
 }
