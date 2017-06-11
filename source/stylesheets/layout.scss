@@ -1,8 +1,24 @@
 body {
   position: relative;
   width: 90%;
-  margin: 5% auto 20vh;
+  margin: 5% auto 260px;
   max-width: 1600px;
+
+  @media screen and (min-width: 600px) and (max-width: 799px) {
+    .navigation-wrapper {
+      display: flex;
+
+      .artwork-wrapper {
+        width: 150px;
+        height: 150px;
+        margin-right: 3em;
+      }
+
+      .main-nav {
+        flex: 1;
+      }
+    }
+  }
 
   @media screen and (min-width: 800px) {
     display: flex;
@@ -10,7 +26,7 @@ body {
 
     .navigation-wrapper {
       flex: 0 0 200px;
-      margin-right: 5%;
+      margin-right: 7em;
     }
 
     .content-wrapper {

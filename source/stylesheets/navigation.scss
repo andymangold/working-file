@@ -1,5 +1,8 @@
-.navigation-link {
-  display: inline-block;
-  margin-right: 1.5em;
-  line-height: 2em;
+.main-nav {
+  margin: 1.5em 0;
+}
+
+.feed-links {
+  border: 1px solid $light-gray;
+  padding: 0.5em 1em;
 }
