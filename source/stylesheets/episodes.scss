@@ -53,3 +53,39 @@
   z-index: 1;
   padding: 0.5em;
 }
+
+.transcript-message {
+  position: relative;
+  margin: 1em 0;
+
+  .timecode {
+    position: absolute;
+    top: 0;
+    right: calc(100% + 1em);
+    color: $medium-gray;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 0.9em;
+
+    a {
+      text-decoration: none;
+    }
+  }
+
+  .speaker {
+    font-weight: bold;
+    display: inline;
+
+    &:after {
+      content: ": ";
+    }
+  }
+
+  .message-content {
+    display: inline;
+  }
+}
+
+.transcript-interstitial {
+  color: $medium-gray;
+  margin: 1em 0;
+}

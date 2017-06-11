@@ -22,7 +22,9 @@ h1.episode-title = title
 .show-notes = showNotes
 
 - if links.present?
-  h3 Links
+  h3 Links Discussed
   ul
     - links.each do |link|
       li = link_to link.text, link.url
+
+.transcript = partial("transcripts/episode-#{id}", :locals => { :episodeID => id })
