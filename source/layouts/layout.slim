@@ -42,7 +42,7 @@ html
     .navigation-wrapper
       = partial "shared/artwork"
       = partial "shared/navigation"
-      nav.feed-links = partial "shared/feed_links"
+      = link_to "Subscribe", "/subscribe.html", class: "subscribe-button"
 
     .content-wrapper
       = yield

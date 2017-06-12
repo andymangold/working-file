@@ -2,7 +2,16 @@
   margin: 1.5em 0;
 }
 
-.feed-links {
-  border: 1px solid $light-gray;
-  padding: 0.5em 1em;
+.subscribe-button {
+  display: block;
+  background: $highlight-color;
+  border: $highlight-color-border;
+  padding: 0.8em 2em;
+  text-align: center;
+  color: $white;
+  text-decoration: none;
+
+  &:hover {
+    color: $white;
+  }
 }

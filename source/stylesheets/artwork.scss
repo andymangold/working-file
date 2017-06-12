@@ -16,7 +16,7 @@ $artwork-padding-remainder: 100% - $artwork-padding * 2;
   position: relative;
   display: block;
   background: $highlight-color;
-  border: 1px solid rgb(0, 148, 104);
+  border: $highlight-color-border;
 
   .logo-work {
     position: absolute;

@@ -4,6 +4,7 @@ $white: #fff;
 $background-color: mix($white, $black, 100%);
 $text-color: mix($white, $black, 10%);
 $highlight-color: #00C98C;
+$highlight-color-border: 1px solid rgb(0, 148, 104);
 
 .fill-highlight-color { fill: $highlight-color; }
 .fill-black { fill: $black; }
