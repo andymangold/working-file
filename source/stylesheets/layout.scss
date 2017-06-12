@@ -1,12 +1,17 @@
+$text-column-max-width: 32em;
+$navigation-width: 200px;
+$page-margin: 5%;
+$main-gutter: 7em;
+$secondary-gutter: 3em;
+
 body {
   position: relative;
-  width: 90%;
-  margin: 5% auto 260px;
-  max-width: 1600px;
+  margin: 5% 5% 260px;
 
   @media screen and (min-width: 600px) and (max-width: 799px) {
     .navigation-wrapper {
       display: flex;
+      margin-bottom: 5%;
 
       .artwork-wrapper {
         width: 150px;
@@ -25,12 +30,35 @@ body {
     align-items: flex-start;
 
     .navigation-wrapper {
-      flex: 0 0 200px;
-      margin-right: 7em;
+      flex: 0 0 $navigation-width;
+      margin-right: $main-gutter;
     }
 
     .content-wrapper {
       flex: 1;
+
+      .episode-wrapper,
+      .transcript,
+      .show-links {
+        max-width: $text-column-max-width;
+      }
+    }
+  }
+
+  @media screen and (min-width: 1200px) {
+    .meta-data-wrapper {
+      display: flex;
+      flex-direction: row-reverse;
+      align-items: flex-start;
+
+      .transcript {
+        flex: 0 0 $text-column-max-width;
+        margin-right: $secondary-gutter;
+      }
+
+      .show-links {
+        flex: 1;
+      }
     }
   }
 }

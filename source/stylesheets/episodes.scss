@@ -1,6 +1,7 @@
 %episode {
   display: block;
-  margin: 1.5em 0 2.5em;
+  margin: 1em 0 1.5em;
+  border-top: 1px solid $light-gray;
 
   h2 a {
     text-decoration: none;
@@ -50,8 +51,14 @@
   left: 0;
   background-color: rgba(#fff, 0.9);
   border-top: 1px solid $light-gray;
-  z-index: 1;
+  z-index: 100;
   padding: 0.5em;
+}
+
+.transcript.not-available {
+  border: 1px dashed $light-gray;
+  padding: 10vh 2em;
+  text-align: center;
 }
 
 .transcript-message {
