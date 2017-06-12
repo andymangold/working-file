@@ -1,0 +1,45 @@
+.transcript.not-available {
+  border: 1px dashed $light-gray;
+  padding: 10vh 2em;
+  text-align: center;
+}
+
+.transcript-message {
+  position: relative;
+  margin: 1em 0;
+
+  .timecode {
+    color: $light-gray;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 0.9em;
+    margin-bottom: 0.25em;
+
+    @media screen and (min-width: 800px) {
+      position: absolute;
+      top: 0;
+      right: calc(100% + 1em);
+    }
+
+    a {
+      text-decoration: none;
+    }
+  }
+
+  .speaker {
+    font-weight: bold;
+    display: inline;
+
+    &:after {
+      content: ": ";
+    }
+  }
+
+  .message-content {
+    display: inline;
+  }
+}
+
+.transcript-interstitial {
+  color: $light-gray;
+  margin: 1em 0;
+}
