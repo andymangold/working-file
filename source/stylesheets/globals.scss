@@ -18,6 +18,8 @@ $dark-gray: mix($white, $black, 10%);
 .fill-medium-gray { fill: $medium-gray; }
 .fill-dark-gray { fill: $dark-gray; }
 
+$side-by-side-breakpoint: 800px;
+
 @font-face {
   font-family: 'Grep';
   src:  url('/fonts/Grep-Regular.woff2') format('woff2'),
