@@ -32,6 +32,10 @@ episode: true
           li = link_to link.text, link.url
 
   - if transcript == true
-    .transcript = partial("transcripts/episode-#{id}", :locals => { :episodeID => id })
+    .transcript
+      .transcript-credit
+        | Full text transcripts are brought to you by <a href="https://www.xyztype.com">XYZ Type</a>.
+        = partial "shared/xyz_logo";
+      = partial("transcripts/episode-#{id}", :locals => { :episodeID => id })
   - else
     .transcript.not-available Full transcript not yet available.<br />Check back soon!
