@@ -33,9 +33,9 @@ episode: true
 
   - if transcript == true
     .transcript
-      .transcript-credit
-        | Full text transcripts are brought to you by <a href="https://www.xyztype.com">XYZ Type</a>.
-        = partial "shared/xyz_logo";
+      .transcript-thank-you
+        span Full text transcripts brought to you by <a href="https://www.xyztype.com">XYZ&nbsp;Type</a>.
+        a href="https://www.xyztype.com" = partial "shared/xyz_logo";
       = partial("transcripts/episode-#{id}", :locals => { :episodeID => id })
   - else
     .transcript.not-available Full transcript not yet available.<br />Check back soon!

@@ -26,6 +26,10 @@
   line-height: 160%;
 }
 
+.show-links {
+  margin: 1em 0 2em;
+}
+
 .episode-number {
   @extend %all-caps;
   font-weight: 700;

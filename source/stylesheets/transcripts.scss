@@ -4,6 +4,26 @@
   text-align: center;
 }
 
+.transcript-thank-you {
+  padding: 0.8em 1em;
+  margin: 1em 0 2em;
+  background: $white;
+  box-shadow: 0px 4px 16px rgba($black, 0.25);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  line-height: 160%;
+
+  svg {
+    height: 1em;
+    margin-left: 2em;
+  }
+
+  a:hover svg path {
+    fill: $highlight-color;
+  }
+}
+
 .transcript-message {
   position: relative;
   margin: 1em 0;
