@@ -1,6 +1,5 @@
 $text-column-max-width: 32em;
 $navigation-width: 200px;
-$page-margin: 5%;
 $main-gutter: 7em;
 $secondary-gutter: 3em;
 
@@ -11,6 +10,7 @@ body {
   @media screen and (min-width: 600px) and (max-width: $side-by-side-breakpoint - 1px) {
     .navigation-wrapper {
       display: flex;
+      align-items: flex-start;
       margin-bottom: 5%;
 
       .artwork-wrapper {
