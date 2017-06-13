@@ -892,3 +892,53 @@
     -
       url: http://revisionpath.com/
       text: "Revision Path ⭐"
+-
+  id: 15
+  published: true
+  date: 2017-06-13
+  title: Listener Questions
+  soundcloudID: 327800168
+  contributorSlugs:
+    - lola-landekic
+    - kara-haupt
+  showNotes: "On this episode, Lola and Kara join Andy and Matt to answer listener questions about design managers, creative staffing agencies, how user choice affects modern product design, and of course, whether or not design can change the world."
+  links:
+    -
+      url: https://twitter.com/christinaaallan/status/870661225356701698
+      text: On a team, what do you look for in a leader/design director?
+    -
+      url: https://twitter.com/jedrek/status/870348443415457793
+      text: How is design changing as consumers of creative content are more empowered than ever before? Skipping titles/filtering content/blocking ads
+    -
+      url: https://www.theverge.com/2017/3/17/14959650/netflix-skip-intro-button
+      text: Netflix is testing a button for skipping the opening credits
+    -
+      url: http://www.artofthetitle.com/title/true-detective/
+      text: True Detective title sequence
+    -
+      url: https://en.wikipedia.org/wiki/Ad_blocking
+      text: Ad blocking
+    -
+      url: http://www.newyorker.com/
+      text: The New Yorker
+    -
+      url: https://en.wikipedia.org/wiki/Adobe_Flash#Websites
+      text: Adobe Flash Websites
+    -
+      url: https://en.wikipedia.org/wiki/Google_Reader
+      text: "Google Reader 💀"
+    -
+      url: https://www.designernews.co/comments/260449
+      text: What's your opinion on the influence of classical graphic design education on today's interface designers?
+    -
+      url: https://en.wikipedia.org/wiki/Josef_Muller-Brockmann
+      text: Josef Müller-Brockmann
+    -
+      url: https://en.wikipedia.org/wiki/Villa_Savoye
+      text: Villa Savoye
+    -
+      url: https://twitter.com/jedrek/status/869949504656683009
+      text: Designers make fun of each other for saying things like "design can change the world", do you think that it's asking too much, or can it?
+    -
+      url: https://xyztype.com
+      text: "XYZ Type ⭐️"
