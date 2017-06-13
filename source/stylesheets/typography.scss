@@ -73,3 +73,16 @@ ul {
     }
   }
 }
+
+
+.back-link {
+  display: inline-block;
+  background: rgba($black, 0.06);
+  padding: 0.4em 0.7em;
+  text-decoration: none;
+
+  &:hover {
+    color: $black;
+    background: rgba($black, 0.08);
+  }
+}
