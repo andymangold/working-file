@@ -29,7 +29,7 @@
 .play-button {
   position: absolute;
   display: block;
-  left: 0;
+  left: -1px; // Optical!
   top: 50%;
   transform: translateY(-50%);
   background-color: $highlight-color;
