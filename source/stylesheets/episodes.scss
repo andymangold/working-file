@@ -4,16 +4,26 @@
   padding: 1.25em 0 1.25em 60px;
   position: relative;
 
-  h2 a {
-    text-decoration: none;
+  h2 {
+    margin-bottom: 0.15em;
+
+    a {
+      text-decoration: none;
+    }
   }
 }
 
 .featured-episode {
   margin: 1em 0 2.5em;
 
-  h2 a {
-    text-decoration: none;
+  h2 {
+    margin-bottom: 0.15em;
+
+    a {
+      display: inline-block;
+      margin-right: 0.4em;
+      text-decoration: none;
+    }
   }
 }
 
@@ -29,7 +39,7 @@
 .play-button {
   position: absolute;
   display: block;
-  left: -1px; // Optical!
+  left: -2px; // Optical!
   top: 50%;
   transform: translateY(-50%);
   background-color: $highlight-color;
@@ -73,7 +83,6 @@
   font-weight: normal;
   color: $white;
   vertical-align: 30%;
-  margin-left: 1em;
 }
 
 .episode-number {

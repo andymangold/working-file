@@ -19,19 +19,18 @@
 
     h2 Featured Episodes
 
-    ul
-      - data.episodes.each do |episode|
-        - if episode.contributorSlugs.present?
-          - if episode.contributorSlugs.include? slug
-            - if episode.published == true
-              .published-episode
-                = link_to "/episodes/#{episode.id}.html", class: "play-button" do
-                  = partial "shared/play_icon"
-                .episode-number Episode #{episode.id} <span class="episode-date"> &mdash; #{episode.date.strftime('%B %e, %Y')}</span>
-                h2 = link_to episode.title, "/episodes/#{episode.id}.html"
-                - if episode.contributorSlugs.present?
-                  div
-                    | With&nbsp;
-                    = data.contributors.sort{ |a,b| a.lastName.downcase <=> b.lastName.downcase }.map{ |contributor| if episode.contributorSlugs.include?(contributor.slug); link_to("#{contributor.firstName} #{contributor.lastName}", "../contributors/#{contributor.slug}.html"); end }.compact.join(" and ")
-            - else
-              li #{episode.title} <span class="coming-soon-date">(Coming #{episode.date.strftime('%B %e')})</span>
+    - data.episodes.each do |episode|
+      - if episode.contributorSlugs.present?
+        - if episode.contributorSlugs.include? slug
+          - if episode.published == true
+            .published-episode
+              = link_to "/episodes/#{episode.id}.html", class: "play-button" do
+                = partial "shared/play_icon"
+              .episode-number Episode #{episode.id} <span class="episode-date"> &mdash; #{episode.date.strftime('%B %e, %Y')}</span>
+              h2 = link_to episode.title, "/episodes/#{episode.id}.html"
+              - if episode.contributorSlugs.present?
+                div
+                  | With&nbsp;
+                  = data.contributors.sort{ |a,b| a.lastName.downcase <=> b.lastName.downcase }.map{ |contributor| if episode.contributorSlugs.include?(contributor.slug); link_to("#{contributor.firstName} #{contributor.lastName}", "../contributors/#{contributor.slug}.html"); end }.compact.join(" and ")
+          - else
+            li #{episode.title} <span class="coming-soon-date">(Coming #{episode.date.strftime('%B %e')})</span>
