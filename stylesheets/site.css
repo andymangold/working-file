@@ -195,8 +195,7 @@ body {
             -ms-flex: 1;
                 flex: 1; }
         body .content-wrapper .text-wrapper,
-        body .content-wrapper .transcript,
-        body .content-wrapper .show-links {
+        body .content-wrapper .transcript {
           max-width: 32em; } }
   @media screen and (min-width: 1250px) {
     body .meta-data-wrapper {
