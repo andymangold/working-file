@@ -5,8 +5,9 @@ priority: 0.75
 - content_for(:title, "Contributors")
 - content_for(:description, "Working File features designers, writers, engineers, and strategists from all over the world.")
 
-h1 Contributors
+.text-wrapper
+  h1 Contributors
 
-.contributor-list
-  - data.contributors.sort{ |a,b| a.lastName.downcase <=> b.lastName.downcase }.each do |contributor|
-    div = link_to "#{contributor.firstName} #{contributor.lastName}", "/contributors/#{contributor.slug}.html"
+  .contributor-list
+    - data.contributors.sort{ |a,b| a.lastName.downcase <=> b.lastName.downcase }.each do |contributor|
+      div = link_to "#{contributor.firstName} #{contributor.lastName}", "/contributors/#{contributor.slug}.html"
