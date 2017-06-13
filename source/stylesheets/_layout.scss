@@ -7,6 +7,12 @@ body {
   position: relative;
   margin: 5% 5% 260px;
 
+  @media screen and (max-width: 599px) {
+    .artwork-wrapper {
+      margin: 10% 22%;
+    }
+  }
+
   @media screen and (min-width: 600px) and (max-width: $side-by-side-breakpoint - 1px) {
     .navigation-wrapper {
       display: flex;
