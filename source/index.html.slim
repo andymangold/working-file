@@ -7,17 +7,4 @@ title: Working File Podcast
 .text-wrapper
   h1 Working File is a podcast about design practice and its relationship with the world.
   p It's a panel show hosted by Matt McInerney and Andy Mangold and featuring a rotating cast of creative professionals from a variety of backgrounds. The show is made by designers, for designers, and is released every other Tuesday.
-
-h2 Featured Episode
-
-- data.episodes.each do |episode|
-  - if episode.id == 13
-    .published-episode
-      = link_to "/episodes/#{episode.id}.html", class: "play-button" do
-        = partial "shared/play_icon"
-      .episode-number Episode #{episode.id} <span class="episode-date"> &mdash; #{episode.date.strftime('%B %e, %Y')}</span>
-      h2 = link_to episode.title, "/episodes/#{episode.id}.html"
-      - if episode.contributorSlugs.present?
-        div
-          | With&nbsp;
-          = data.contributors.sort{ |a,b| a.lastName.downcase <=> b.lastName.downcase }.map{ |contributor| if episode.contributorSlugs.include?(contributor.slug); link_to("#{contributor.firstName} #{contributor.lastName}", "../contributors/#{contributor.slug}.html"); end }.compact.join(" and ")
+  p If you're new to the show, you can <a href="episodes/1.html">start at the very beginning</a>, or listen to <a href="episodes/13.html">one of our favorite recent episodes</a>.
