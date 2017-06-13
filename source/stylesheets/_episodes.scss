@@ -72,6 +72,10 @@
 
 .show-links {
   margin: 1em 0 2em;
+
+  li {
+    max-width: 24em;
+  }
 }
 
 .new-flag {
