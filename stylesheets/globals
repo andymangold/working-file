@@ -1,14 +1,11 @@
 .fill-highlight-color {
-  fill: #71BE5A; }
+  fill: #00C98C; }
 
 .fill-black {
   fill: #000E15; }
 
 .fill-art-background-color {
   fill: #fff; }
-
-.fill-lightest-gray {
-  fill: #edeeef; }
 
 .fill-light-gray {
   fill: #bfc3c5; }
@@ -19,10 +16,13 @@
 .fill-dark-gray {
   fill: #1a262c; }
 
-@keyframes slide-in {
-  from {
-    transform: translateY(30px);
-    opacity: 0; }
-  to {
-    transform: translateY(0);
-    opacity: 1; } }
+@font-face {
+  font-family: 'Grep';
+  src: url("/fonts/Grep-Regular.woff2") format("woff2"), url("/fonts/Grep-Regular.woff") format("woff");
+  font-style: normal;
+  font-weight: normal; }
+@font-face {
+  font-family: 'Grep';
+  src: url("/fonts/Grep-Bold.woff2") format("woff2"), url("/fonts/Grep-Bold.woff") format("woff");
+  font-style: normal;
+  font-weight: bold; }

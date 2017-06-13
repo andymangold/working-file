@@ -1,3 +1,9 @@
+h1.contributor-name {
+  margin-top: 0; }
+
 .contributor-list {
   line-height: 180%;
   column-count: 2; }
+
+.featured-episodes {
+  margin: 2.5em 0; }

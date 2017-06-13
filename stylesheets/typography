@@ -5,7 +5,7 @@ Error: Undefined variable: "$background-color".
 11: }
 12: 
 13: body {
-14:   font-family: 'Open Sans', sans-serif;
+14:   font-family: 'Grep', Helvetica, sans-serif;
 15:   margin: 0;
 16:   background: $background-color;
 17:   color: $text-color;
@@ -141,4 +141,4 @@ Backtrace:
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Error: Undefined variable: \"$background-color\".\A         on line 16 of /Users/andymangold/Desktop/repos/working-file/source/stylesheets/typography.scss\A \A 11: }\A 12: \A 13: body {\A 14:   font-family: 'Open Sans', sans-serif;\A 15:   margin: 0;\A 16:   background: $background-color;\A 17:   color: $text-color;\A 18: \A 19:   @media screen and (max-width: 500px) {\A 20:     font-size: 14px;\A 21:   }"; }
+  content: "Error: Undefined variable: \"$background-color\".\A         on line 16 of /Users/andymangold/Desktop/repos/working-file/source/stylesheets/typography.scss\A \A 11: }\A 12: \A 13: body {\A 14:   font-family: 'Grep', Helvetica, sans-serif;\A 15:   margin: 0;\A 16:   background: $background-color;\A 17:   color: $text-color;\A 18: \A 19:   @media screen and (max-width: 500px) {\A 20:     font-size: 14px;\A 21:   }"; }
