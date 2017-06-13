@@ -44,8 +44,7 @@ body {
       flex: 1;
 
       .text-wrapper,
-      .transcript,
-      .show-links {
+      .transcript {
         max-width: $text-column-max-width;
       }
     }
