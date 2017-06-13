@@ -11,6 +11,8 @@ h1 Episodes
 - data.episodes.sort{ |a,b| b.id <=> a.id }.each do |episode|
   - if episode.published == true
     .published-episode
+      = link_to "/episodes/#{episode.id}", class: "play-button" do
+        = partial "shared/play_icon"
       .episode-number Episode #{episode.id} <span class="episode-date"> &mdash; #{episode.date.strftime('%B %e, %Y')}</span>
       h2 = link_to episode.title, "/episodes/#{episode.id}.html"
       - if episode.contributorSlugs.present?

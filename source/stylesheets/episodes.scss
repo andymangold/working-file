@@ -1,7 +1,8 @@
 %episode {
   display: block;
-  margin: 1em 0 1.5em;
   border-top: 1px solid $light-gray;
+  padding: 1.25em 0 1.25em 60px;
+  position: relative;
 
   h2 a {
     text-decoration: none;
@@ -15,6 +16,27 @@
 .unpublished-episode {
   @extend %episode;
   color: $light-gray;
+}
+
+.play-button {
+  position: absolute;
+  display: block;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  background-color: $highlight-color;
+  border: $highlight-color-border;
+  width: 43px;
+  height: 43px;
+  border-radius: 50%;
+
+  svg {
+    position: absolute;
+    height: 25px;
+    width: 14px;
+    top: 8px;
+    left: 15px;
+  }
 }
 
 .byline {
@@ -32,8 +54,8 @@
 
 .episode-number {
   @extend %all-caps;
-  font-weight: 700;
-  margin: 2.5em 0 0.5em;
+  font-weight: bold;
+  margin: 0 0 0.5em;
 
   .episode-date {
     font-weight: 400;
