@@ -1,5 +1,18 @@
-.navigation-link {
-  display: inline-block;
-  margin-right: 1.5em;
-  line-height: 2em;
+.main-nav {
+  margin: 1.5em 0;
+}
+
+.subscribe-button {
+  display: block;
+  background: $highlight-color;
+  border: $highlight-color-border;
+  padding: 0.8em 2em;
+  text-align: center;
+  color: $white;
+  text-decoration: none;
+
+  &:hover {
+    color: $white;
+    background-color: mix($highlight-color, #000, 92%);
+  }
 }

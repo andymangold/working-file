@@ -6,26 +6,35 @@ episode: true
 - content_for(:description, "#{showNotes[0...200]}")
 - content_for(:soundcloudID, "#{soundcloudID}")
 
-.content-wrapper
-  = partial "shared/artwork"
+.text-wrapper
 
-  .content
-    = link_to "&larr; Back to all Episodes", "../episodes.html", class: "navigation-link"
-    hr
+  = link_to "&larr; Back to all Episodes", "../episodes.html", class: "back-link"
 
-    .episode-number Episode #{id} <span class="episode-date">&mdash; #{date.strftime('%B %e, %Y')}</span>
-    h1.episode-title = title
-    - if contributorSlugs.present?
-      .byline
-        | With&nbsp;
-        = data.contributors.sort{ |a,b| a.lastName.downcase <=> b.lastName.downcase }.map{ |contributor| if contributorSlugs.include?(contributor.slug); link_to("#{contributor.firstName} #{contributor.lastName}", "../contributors/#{contributor.slug}.html"); end }.compact.join(" and ")
+  .episode-number Episode #{id} <span class="episode-date">&mdash; #{date.strftime('%B %e, %Y')}</span>
+  h1.episode-title = title
+  - if contributorSlugs.present?
+    .byline
+      | With&nbsp;
+      = data.contributors.sort{ |a,b| a.lastName.downcase <=> b.lastName.downcase }.map{ |contributor| if contributorSlugs.include?(contributor.slug); link_to("#{contributor.firstName} #{contributor.lastName}", "../contributors/#{contributor.slug}.html"); end }.compact.join(" and ")
 
-    = partial("shared/soundcloud_player", :locals => { :soundcloudID => soundcloudID })
+  .fixed-audio-player = partial("shared/soundcloud_player", :locals => { :soundcloudID => soundcloudID })
 
-    .show-notes = showNotes
+  .show-notes = showNotes
 
-    - if links.present?
-      h3 Links
+.meta-data-wrapper
+
+  - if links.present?
+    .show-links
+      h3 Links Discussed
       ul
         - links.each do |link|
           li = link_to link.text, link.url
+
+  - if transcript == true
+    .transcript
+      .transcript-thank-you
+        span Full text transcripts brought to you by <a href="https://www.xyztype.com">XYZ&nbsp;Type</a>.
+        a href="https://www.xyztype.com" = partial "shared/xyz_logo";
+      = partial("transcripts/episode-#{id}", :locals => { :episodeID => id })
+  - else
+    .transcript.not-available Full transcript not yet available.<br />Check back soon!

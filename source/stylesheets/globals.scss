@@ -3,31 +3,36 @@ $black: #000E15;
 $white: #fff;
 $background-color: mix($white, $black, 100%);
 $text-color: mix($white, $black, 10%);
-$highlight-color: #71BE5A;
+$highlight-color: #00C98C;
+$highlight-color-border: 1px solid rgb(0, 148, 104);
 
 .fill-highlight-color { fill: $highlight-color; }
 .fill-black { fill: $black; }
 
-$content-column-width: 28em;
-
 // Art-specific variables
-$lightest-gray: mix($white, $black, 93%);
 $light-gray: mix($white, $black, 75%);
 $medium-gray: mix($white, $black, 50%);
 $dark-gray: mix($white, $black, 10%);
 
 .fill-art-background-color { fill: $white; }
-.fill-lightest-gray { fill: $lightest-gray; }
 .fill-light-gray { fill: $light-gray; }
 .fill-medium-gray { fill: $medium-gray; }
 .fill-dark-gray { fill: $dark-gray; }
 
-@keyframes slide-in {
-  from {
-    transform: translateY(30px);
-    opacity: 0;
-  } to {
-    transform: translateY(0);
-    opacity: 1;
-  }
+$side-by-side-breakpoint: 800px;
+
+@font-face {
+  font-family: 'Grep';
+  src:  url('/fonts/Grep-Regular.woff2') format('woff2'),
+        url('/fonts/Grep-Regular.woff') format('woff');
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: 'Grep';
+  src:  url('/fonts/Grep-Bold.woff2') format('woff2'),
+        url('/fonts/Grep-Bold.woff') format('woff');
+  font-style: normal;
+  font-weight: bold;
 }
