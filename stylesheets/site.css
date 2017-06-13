@@ -157,6 +157,9 @@ ul {
 body {
   position: relative;
   margin: 5% 5% 260px; }
+  @media screen and (max-width: 599px) {
+    body .artwork-wrapper {
+      margin: 10% 22%; } }
   @media screen and (min-width: 600px) and (max-width: 799px) {
     body .navigation-wrapper {
       display: -webkit-box;
@@ -227,7 +230,8 @@ body {
   padding: 0.8em 2em;
   text-align: center;
   color: #fff;
-  text-decoration: none; }
+  text-decoration: none;
+  margin-bottom: 2em; }
   .subscribe-button:hover {
     color: #fff;
     background-color: #00b981; }
