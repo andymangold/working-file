@@ -9,6 +9,14 @@
   }
 }
 
+.featured-episode {
+  margin: 1em 0 2.5em;
+
+  h2 a {
+    text-decoration: none;
+  }
+}
+
 .published-episode {
   @extend %episode;
 }
@@ -37,6 +45,10 @@
     top: 8px;
     left: 15px;
   }
+
+  &:hover {
+    background-color: mix($highlight-color, #000, 92%);
+  }
 }
 
 .byline {
@@ -52,13 +64,25 @@
   margin: 1em 0 2em;
 }
 
+.new-flag {
+  background: $highlight-color;
+  display: inline-block;
+  padding: 0.25em 0.5em;
+  line-height: 1.2em;
+  font-size: 0.8rem;
+  font-weight: normal;
+  color: $white;
+  vertical-align: 30%;
+  margin-left: 1em;
+}
+
 .episode-number {
   @extend %all-caps;
   font-weight: bold;
   margin: 0 0 0.5em;
 
   .episode-date {
-    font-weight: 400;
+    font-weight: normal;
   }
 }
 

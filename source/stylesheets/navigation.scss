@@ -13,5 +13,6 @@
 
   &:hover {
     color: $white;
+    background-color: mix($highlight-color, #000, 92%);
   }
 }
