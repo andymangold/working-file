@@ -646,6 +646,7 @@
   date: 2017-04-18
   title: Comparing Notes
   soundcloudID: 318188945
+  transcript: true
   showNotes: "Matt and Andy are on their own this week having a practical discussion about proposals and how we communicate with potential clients. What is the right amount of information to provide and the best way to provide it? Why do we keep sending 8.5&Prime; by 11&Prime; pdfs when no one is printing them out?"
   links:
     -
@@ -690,6 +691,7 @@
   date: 2017-05-02
   title: Verbal Design
   soundcloudID: 320443720
+  transcript: true
   contributorSlugs:
     - robyn-kanner
     - chappell-ellison
