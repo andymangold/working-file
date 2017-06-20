@@ -93,6 +93,9 @@ ul {
     color: #000E15;
     background: rgba(0, 14, 21, 0.08); }
 
+.censored {
+  background: #1a262c; }
+
 @-webkit-keyframes pop-up {
   from {
     -webkit-transform: scale(1);
