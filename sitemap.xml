@@ -133,6 +133,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://workingfile.co/episodes/16.html</loc>
+    <lastmod>2017-06-12T23:48:36-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://workingfile.co/contributors/andy-mangold.html</loc>
     <lastmod>2017-06-12T23:48:36-04:00</lastmod>
     <changefreq>monthly</changefreq>
