@@ -21,32 +21,12 @@ episode: true
     iframe#audio-player src="https://w.soundcloud.com/player/?url=/workingfile/ep#{id}&auto_play=false&buying=false&liking=false&download=true&sharing=false&show_artwork=false&show_comments=true&show_playcount=false&show_user=false&hide_related=true&visual=false&start_track=0&callback=true&color=00C98C" width="100%" height="164" scrolling="no" frameborder="no"
 
   script src="https://w.soundcloud.com/player/api.js" type="text/javascript"
-  javascript:
-    (function(){
-      var widgetIframe = document.getElementById('audio-player'),
-          widget       = SC.Widget(widgetIframe);
-
-      widget.bind(SC.Widget.Events.READY, function() {
-        widget.bind(SC.Widget.Events.PLAY, function() {
-          // get information about currently playing sound
-          widget.getCurrentSound(function(currentSound) {
-            console.log('sound ' + currentSound.get('') + 'began to play');
-          });
-        });
-        // get current level of volume
-        widget.getVolume(function(volume) {
-          console.log('current volume value is ' + volume);
-        });
-        // set new volume level
-        widget.setVolume(50);
-        // get the value of the current position
-      });
-
-    }());
 
   .show-notes = showNotes
 
 .meta-data-wrapper
+
+  button#seek-button Go to 5 Minute Mark
 
   - if links.present?
     .show-links
@@ -63,3 +43,32 @@ episode: true
       = partial("transcripts/episode-#{id}", :locals => { :episodeID => id })
   - else
     .transcript.not-available Full transcript not yet available.<br />Check back soon!
+
+
+javascript:
+  (function(){
+    var widgetIframe = document.getElementById('audio-player'),
+        widget       = SC.Widget(widgetIframe);
+
+    var seekButton = document.getElementById('seek-button');
+
+    widget.bind(SC.Widget.Events.READY, function() {
+      console.log("I'm ready!");
+
+      seekButton.onclick = function() {
+
+        widget.isPaused(function(paused) {
+
+          if (paused == true) {
+            widget.play();
+
+            widget.bind(SC.Widget.Events.PLAY, function() {
+              widget.seekTo(300000);
+            });
+          } else {
+            widget.seekTo(300000);
+          }
+        });
+      };
+    });
+  }());
