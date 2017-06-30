@@ -26,7 +26,8 @@ episode: true
 
 .meta-data-wrapper
 
-  button#seek-button Go to 5 Minute Mark
+  button.seek-button data-timestamp="300000" Go to 5 Minute Mark
+  button.seek-button data-timestamp="600000" Go to 10 Minute Mark
 
   - if links.present?
     .show-links
@@ -47,28 +48,36 @@ episode: true
 
 javascript:
   (function(){
-    var widgetIframe = document.getElementById('audio-player'),
+    var widgetIframe = document.getElementById("audio-player"),
         widget       = SC.Widget(widgetIframe);
 
-    var seekButton = document.getElementById('seek-button');
+    var seekTime;
+
+    widget.bind(SC.Widget.Events.PLAY, function() {
+      if (seekTime != null) {
+        widget.seekTo(seekTime);
+        seekTime = undefined;
+      }
+    });
 
     widget.bind(SC.Widget.Events.READY, function() {
-      console.log("I'm ready!");
 
-      seekButton.onclick = function() {
+      var seekButtons = document.getElementsByClassName("seek-button");
 
-        widget.isPaused(function(paused) {
+      for (var index = 0; index < seekButtons.length; index++) {
+        seekButtons[index].addEventListener("click", function(){
+          var timestamp = this.getAttribute("data-timestamp");
 
-          if (paused == true) {
-            widget.play();
+          widget.isPaused(function(paused) {
 
-            widget.bind(SC.Widget.Events.PLAY, function() {
-              widget.seekTo(300000);
-            });
-          } else {
-            widget.seekTo(300000);
-          }
+            if (paused == true) {
+              seekTime = timestamp;
+              widget.play();
+            } else {
+              widget.seekTo(timestamp);
+            }
+          });
         });
-      };
+      }
     });
   }());
