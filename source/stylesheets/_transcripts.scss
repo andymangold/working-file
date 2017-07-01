@@ -40,9 +40,14 @@
     font-size: 0.9em;
     margin-bottom: 0.25em;
     cursor: pointer;
+    white-space: nowrap;
 
     &:hover {
       color: $highlight-color;
+    }
+
+    &:after {
+      content: " ▷";
     }
 
     @media screen and (min-width: $side-by-side-breakpoint) {
