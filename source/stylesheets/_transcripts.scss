@@ -29,20 +29,26 @@
   margin: 1em 0;
   line-height: 160%;
 
-  .timecode {
+  .seek-button {
+    appearance: none;
+    background: none;
+    border: none;
+    padding: none;
+    outline: none;
     color: $light-gray;
     font-family: 'Roboto Mono', monospace;
     font-size: 0.9em;
     margin-bottom: 0.25em;
+    cursor: pointer;
+
+    &:hover {
+      color: $highlight-color;
+    }
 
     @media screen and (min-width: $side-by-side-breakpoint) {
       position: absolute;
       top: 0;
       right: calc(100% + 1em);
-    }
-
-    a {
-      text-decoration: none;
     }
   }
 
