@@ -194,23 +194,23 @@ messages:
   -
     timestamp: "0:05:12"
     speaker: Robyn
-    content: "What's page rank? Is that like a drink thing?"
+    content: "What's page drank? Is that like a Drake thing?"
   -
     content: "Chuckle"
   -
     timestamp: "0:05:15"
     speaker: Andy
-    content: "I don't think it's a drink thing. A page rank used to be this thing..."
+    content: "I don't think it's a Drake thing. A page rank used to be this thing..."
   -
     timestamp: "0:05:18"
     speaker: Robyn
-    content: "Oh, page rank. I thought you said, \"Page drink\". Like it was like a Lil Jon drink."
+    content: "Oh, page rank. I thought you said, \"Page drank\". Like it was like a Lil Jon drank."
   -
     content: "Chuckle"
   -
     timestamp: "0:05:22"
     speaker: Andy
-    content: "Page drink, yes."
+    content: "Page drank, yes."
   -
     timestamp: "0:05:22"
     speaker: Chappell
@@ -222,7 +222,7 @@ messages:
   -
     timestamp: "0:05:25"
     speaker: Andy
-    content: "Gotta improve our page drink."
+    content: "Gotta improve our page drank."
   -
     timestamp: "0:05:27"
     speaker: Chappell
