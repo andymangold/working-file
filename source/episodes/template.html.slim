@@ -36,13 +36,14 @@ episode: true
 
 
   - if transcript == true
-    - data.transcripts.send("e#{id}").messages.each do |message|
-      .transcript-message
-        - if message.timestamp.present?
-          button.seek-button data-timestamp="#{message.timestamp}" = message.timestamp
-        - if message.speaker.present?
-          .speaker = message.speaker
-        .message-content = message.content
+    .transcript
+      - data.transcripts.send("e#{id}").messages.each do |message|
+        .transcript-message
+          - if message.timestamp.present?
+            button.seek-button data-timestamp="#{message.timestamp}" = message.timestamp
+          - if message.speaker.present?
+            .speaker = message.speaker
+          .message-content = message.content
   - else
     .transcript.not-available Full transcript not yet available.<br />Check back soon!
 
