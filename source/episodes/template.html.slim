@@ -38,7 +38,7 @@ episode: true
   - if transcript == true
     .transcript
       - data.transcripts.send("e#{id}").messages.each do |message|
-        .transcript-message
+        .transcript-message class=('interstitial' unless message.timestamp.present?)
           - if message.timestamp.present?
             button.seek-button data-timestamp="#{message.timestamp}" = message.timestamp
           - if message.speaker.present?
