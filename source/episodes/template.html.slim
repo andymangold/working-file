@@ -27,7 +27,7 @@ episode: true
 .meta-data-wrapper
 
   button.seek-button data-timestamp="00:33:36" 00:33:36
-  button.seek-button data-timestamp="25:41" 25.41
+  button.seek-button data-timestamp="25:41" 25:41
 
   - if links.present?
     .show-links
@@ -54,8 +54,7 @@ javascript:
     var seekTime;
 
     function hmsToMiliseconds(str) {
-      var p = str.split(':'),
-          s = 0, m = 1;
+      var p = str.split(':'), s = 0, m = 1;
 
       while (p.length > 0) {
         s += m * parseInt(p.pop(), 10);
