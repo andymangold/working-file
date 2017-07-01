@@ -1,3 +1,721 @@
 messages:
   -
-    content: "Transcript coming soon"
+    timestamp: "0:00:00"
+    speaker: Andy
+    content: "You are listening to Working File, a podcast about design practice and it's relationship with the world. My name is Andy Mangold."
+  -
+    timestamp: "0:00:07"
+    speaker: Matt
+    content: "And I'm Matt McInerney."
+  -
+    timestamp: "0:00:09"
+    speaker: Andy
+    content: "This episode is a bit different. Matt and I are on our own this week, and we're talking about how we write proposals."
+  -
+    timestamp: "0:00:15"
+    speaker: Matt
+    content: "We both work for small companies that make websites and apps, so we're gonna talk about what we know."
+  -
+    timestamp: "0:00:19"
+    speaker: Andy
+    content: "Learning how to business, when you're a designer."
+  -
+    timestamp: "0:00:21"
+    speaker: Matt
+    content: "You're gonna be just as good, or bad, at business, as Andy and I now."
+  -
+    timestamp: "0:00:25"
+    speaker: Andy
+    content: "Matt has to get the snarky thing in again."
+  -
+    content: Laughter
+  -
+    timestamp: "0:00:28"
+    speaker: Andy
+    content: "He can't let the snarky thing be somebody else."
+  -
+    content: Music
+  -
+    timestamp: "0:00:52"
+    speaker: Matt
+    content: "Hi, Andy."
+  -
+    timestamp: "0:00:53"
+    speaker: Andy
+    content: "Hello, Matt."
+  -
+    timestamp: "0:00:54"
+    speaker: Matt
+    content: "It's just you and me this time."
+  -
+    timestamp: "0:00:55"
+    speaker: Andy
+    content: "It is. It is just you and I. A little bit of a different episode, but I think we have a topic that you and I are suited to talk about."
+  -
+    timestamp: "0:01:01"
+    speaker: Matt
+    content: "Oh, boy."
+  -
+    timestamp: "0:01:02"
+    speaker: Andy
+    content: "I think one of the reasons that we have lots of people on this show is that, we recognize that the two of us are far from experts on everything, and we oftentimes need that outside perspective, I think, to... I shouldn't say outside, we need that different perspective in order to really talk about a topic or subject holistically, but we chose a really boring topic that you and I have a lot of experience with that I think we can actually cover pretty thoroughly just ourselves, right? "
+  -
+    timestamp: "0:01:25"
+    speaker: Matt
+    content: "Oh, I'm so excited. Are we gonna talk about Star Trek?"
+  -
+    timestamp: "0:01:28"
+    speaker: Andy
+    content: "No. How much Star Trek have you watched? "
+  -
+    timestamp: "0:01:30"
+    speaker: Matt
+    content: "Almost none."
+  -
+    timestamp: "0:01:31"
+    speaker: Andy
+    content: "Okay. So yeah, see that's why we can't do that, Matt."
+  -
+    timestamp: "0:01:34"
+    speaker: Matt
+    content: "Solid call."
+  -
+    timestamp: "0:01:34"
+    speaker: Andy
+    content: "We'd need a proper Star Trek expert here."
+  -
+    timestamp: "0:01:36"
+    speaker: Matt
+    content: "Okay. Well good."
+  -
+    timestamp: "0:01:36"
+    speaker: Andy
+    content: "No I mean, this is gonna be a more practical subject than our typical Working File show. We tend to dabble in the theoretical and talking about the state of practice as a graphic designer, but there's practical matters to be covered too and I think we can help a lot of people, Matt, if we make a show just talking about proposals, and how we write them, what's in them, why we do them, because you and I have both been in consulting for our entire careers, more or less. I imagine, at Pentagram, you didn't write a lot of proposals, is that true? "
+  -
+    timestamp: "0:02:07"
+    speaker: Matt
+    content: "That's true. I didn't write proposals. That was not my job. I would be asked like, \"Hey, can you estimate how much time this would take you to do something?\" But that was the extent of it."
+  -
+    timestamp: "0:02:16"
+    speaker: Andy
+    content: "Got you."
+  -
+    timestamp: "0:02:16"
+    speaker: Matt
+    content: "This is much newer to me than to you, but I have been doing this for the past two-ish years now."
+  -
+    timestamp: "0:02:21"
+    speaker: Andy
+    content: "Yeah, and I've been doing it for six years, professionally. We both freelanced, I'm sure, the time when we were younger and had to do similar things back then. And it's something that, obviously, I think about lot. It's the part of the job that a lot of people kinda resent, right? It's not fun to write a proposal. That's not the part that most people really love about the job. But something that I always think about, which I think people ignore, is that a proposal is a really exciting opportunity, actually. And I'm not just trying to get you excited about this podcast episode. I mean that any opportunity you have to communicate with your clients, your collaborators, people that are paying you so you can have a living, is an opportunity for you to formally codify whatever your values are around a particular subject or project."
+  -
+    timestamp: "0:03:08"
+    speaker: Matt
+    content: "Yeah."
+  -
+    timestamp: "0:03:08"
+    speaker: Andy
+    content: "I think a lot of people have these big, grand ideas of how their company works and what their beliefs are, and how they... What their values are and how they work. And a proposal is a perfect example of a place where you can really put your money where your mouth is and write something that expresses those values in a way that is very clear and straightforward so that people know what they're getting into. Matt..."
+  -
+    timestamp: "0:03:31"
+    speaker: Matt
+    content: "If they read it. [laughter]"
+  -
+    timestamp: "0:03:33"
+    speaker: Andy
+    content: "If they read it, which we're gonna get to that too, because that is a real consideration when you're writing these things. But..."
+  -
+    timestamp: "0:03:39"
+    speaker: Matt
+    content: "Goal, get someone to read it. Don't be a lawyer and just put in all the words so somebody doesn't read it. Which, for me..."
+  -
+    timestamp: "0:03:43"
+    speaker: Andy
+    content: "Don't even get me started on that."
+  -
+    timestamp: "0:03:44"
+    speaker: Matt
+    content: "Yeah."
+  -
+    timestamp: "0:03:45"
+    speaker: Andy
+    content: "But, so I just spent the last week and a half, two weeks at work, basically redoing our proposals both in content and in the format for how we actually make them. And I'm curious to know Matt, because I don't know much about how you work internally at Motel. What does your proposal look like right now? How do you make them, and what do you put in a typical proposal? "
+  -
+    timestamp: "0:04:03"
+    speaker: Matt
+    content: "So I will say this, I'm excited to change this 'cause I'm not in love with the way we do it. But we have an InDesign file that is a template, and we have different sections that we fill in, and so it means a designer always has to do it, whether it's for a development project or a design project or a both project. It's always usually me, making the proposals. So it's not an ideal system, but that is what we're doing currently."
+  -
+    timestamp: "0:04:26"
+    speaker: Andy
+    content: "Mm-hmm. And you say you have different sections you fill in. Do you have one document that's got all this boilerplate, and you delete sections if they're not relevant? Or how do you keep those sections that you know you have to write over and over again, which is, frankly, the majority of most proposals, I think? "
+  -
+    timestamp: "0:04:39"
+    speaker: Matt
+    content: "Yeah. There's a summary of services, costs, schedule, and they're all split up in either pages or sections, and then we just kind of fill in the blanks. And then we do have... There are other things that we deliver with it, like we have a master services agreement that is just a Word doc that we send also. It's the same legal language we use everywhere, if it's a larger development project. But for the most part, we're just taking a template, and then filling in words or... The hardest part is always making the schedule. We have a visual schedule that we add, when it is required."
+  -
+    timestamp: "0:05:14"
+    speaker: Andy
+    content: "Oh, interesting. And you've chosen to do this InDesign presumably because you would have full control over the appearance of these proposals and they would look..."
+  -
+    timestamp: "0:05:23"
+    speaker: Matt
+    content: "Oh yeah."
+  -
+    timestamp: "0:05:24"
+    speaker: Andy
+    content: "And I'm using the row you, you as all of Motel of course, chose to do this because you can make them look exactly as you want them to look, right? "
+  -
+    timestamp: "0:05:29"
+    speaker: Matt
+    content: "Yes. And I think, in retrospect a little naive."
+  -
+    timestamp: "0:05:33"
+    speaker: Andy
+    content: "What's naive about that? "
+  -
+    timestamp: "0:05:35"
+    speaker: Matt
+    content: "That anyone cares how nice your proposals look."
+  -
+    timestamp: "0:05:38"
+    speaker: Andy
+    content: "Yeah, I will say that I think fewer people care than most designers would would want to admit. I think we all definitely don't wanna have nine-point type, the full width of 8.5 x 11 page. Like 6,000 words per line or whatever, with just a big wall of text. But there is certainly a balance because, I agree that's not going to be the linchpin of whether you get a project or not in almost every scenario."
+  -
+    timestamp: "0:06:06"
+    speaker: Matt
+    content: "Right."
+  -
+    timestamp: "0:06:06"
+    speaker: Andy
+    content: "So we, in the very, very early days of Friends of The Web, six years ago, started out with InDesign as well. We pretty quickly got away from that just because I found that what I had to do very often was talk to the developers, ask them questions about things, get them to write stuff up for me and then I had to go put it in the InDesign document. I was just like ferrying between these places because... And for us it's not even like InDesign is super hard to use but Adobe software is egregiously expensive and for every person on our team to have a license just so they can type something into a proposal if they have to, is not tenable."
+  -
+    timestamp: "0:06:38"
+    speaker: Matt
+    content: "Yes, that's kind of my thing too. It's not like I couldn't teach someone how to use it, but do we really want to get Creative Cloud for every single person on the entire team, so that we can have one program that basically you fill in template fields? Is that the smartest thing to do?"
+  -
+    timestamp: "0:06:51"
+    speaker: Andy
+    content: "Probably not the smartest thing to do. So we abandoned that, I want to say it was in the first six or nine months of being in business, and what we decided to go with, and what we've had since then until very, very recently, was just a Google Doc. We made a template in Google Docs which frankly was pretty good, that's a really good middle ground solution for doing this. Especially if you're on a team because the collaboration is obviously very easy, it's great to be able to share a draft with the team and have people just be able to comment, annotate on something, and to ask a question without having to actually change the copy of the proposal itself. It worked out really nicely and you can template the Google Documents pretty well, it's hard to describe how it always looks a little bit off you when you download that PDF and I don't know what it is, I don't know if it's the way it renders type or something, but it's just always a little bit kind of wonky."
+  -
+    timestamp: "0:07:41"
+    speaker: Matt
+    content: "The thing I've always found is you think you have a one page document and then turns out you have a 1.1 page document..."
+  -
+    timestamp: "0:07:47"
+    speaker: Andy
+    content: "That's a good one, yeah."
+  -
+    content: Laughter
+  -
+    timestamp: "0:07:49"
+    speaker: Matt
+    content: "The one line where you sign your name actually turned out to be on a second page and you sent it and you look like an idiot. Not and idiot but you know, it looks kind of dumb."
+  -
+    timestamp: "0:07:58"
+    speaker: Andy
+    content: "Yeah, it does get a little bit rough. You also have limited type choices available to you in Google Docs, obviously, which can be frustrating but yeah, we did that for a long time and I think that worked very well. Here was our main pain point, our biggest issue with that was mostly that... We have this template and the template had more or less all the sections we ever put in a proposal, and it was scattered with basically variable names, for lack of a better word. It would say \"CLIENT NAME\" in all caps here and you had to go through and replace all of those things manually to make sure that you put the correct client name in every single proposal, and there were some times we'd write a section that we knew was not going to be part of our normal template, a certain proposal called for something that was special and we would write that once, and sometimes, eight months later, \"Oh yeah, I need something very similar. Let's go back to that proposal and get that section.\" And now we have a section we copy and pasted that has a different client name in there, we have to go and make sure we read through that very carefully."
+  -
+    timestamp: "0:08:57"
+    speaker: Andy
+    content: "It just, over the course of the past five years I guess we've been doing this with this kind of Google Doc template, we have this scattered history of edits, and we change our language slightly for how we word our page optimization section here, and that's the one we actually like and so it's just this big, difficult to manage corpus of boilerplate and templates to fill in, and it just got a little bit overwhelming. So we did very recently, which I won't go into too much depth here because I don't know how useful is this to anybody, but we actually built a little JavaScript tool."
+  -
+    timestamp: "0:09:31"
+    speaker: Andy
+    content: "Well, we used a library to basically build a little JavaScript program that will allow us to fill out some JSON which will have all the variables and then indicate which parts of the boilerplate should be there or not, and then it just basically spits out a PDF for you based on a template that we built ourselves. Which we have total control over, unlike Google Docs where you're kind of limited in what you can do. And that means we can make it look exactly how we want it to look, and more importantly, we know for a fact that we're getting the canonical version of whatever that section we want to include is. We know it's already been proofread and spell-checked a million times, and we also know for sure that we didn't accidentally put the wrong client name in some paragraph, which I don't think we've ever actually done but I live in fear of that. Whenever we're copying and pasting sections from proposals to put something together, I'm like, \"Oh God, please don't leave the wrong client name in somewhere,\" that's about the worst thing I can imagine."
+  -
+    timestamp: "0:10:20"
+    speaker: Matt
+    content: "Yeah, actually, I'm sure you have done it, just nobody read it and noticed so... And no one's going to tell you."
+  -
+    timestamp: "0:10:24"
+    speaker: Andy
+    content: "That's possible, it's possible. So let's talk a little bit about what you actually put in the proposals section by section, because this is something I actually recently changed."
+  -
+    timestamp: "0:10:33"
+    speaker: Matt
+    content: "Okay."
+  -
+    timestamp: "0:10:34"
+    speaker: Andy
+    content: "I will say that for a long time we kept this basically as minimal as we could get away with. Our goal was write as little proposal as possible and that has its pros and cons. And the pros of that are that if you don't go above and beyond to sell yourself to somebody, to really make the case that you should work with them, then you're naturally only gonna work with the people that have decided for themselves without having to be sold that they want to work with you, which I think is a nice, if you can afford it, I think it's a nice litmus test. The clients that work with us are the ones that sought us out, or got a great referral, or something like that and they don't need a lot of formal explanation of what's gonna happen, they just trust us. But obviously something that happens there is that you get less work, there are some people that probably looked at our proposals in the past, and were like, \"This is not thorough enough, this doesn't answer my questions, I don't trust this because it doesn't look big and as extensive as I would expect it to be for a project of this budget.\" And so obviously missing out on work is a problem."
+  -
+    timestamp: "0:11:37"
+    speaker: Andy
+    content: "The bigger issue, honestly though, I think is that oftentimes communicating with people is much harder than you think it should be. [chuckle] Things seem obvious or intuitive or clear to you or people you're working with, and then when you expect other people to pick up on those things they just don't. And so I've been looking at our proposals lately, all of our documentation, our contracts, proposals, rarely when we have to do some kind of NDA, those kind of things. I'd be looking at those as opportunities to really try to be abundantly clear with people and make sure that we've communicated everything that we can communicate. And to your point, Matt, we'll get to whether or not people read these. But that's something I've been doing recently, so I'm curious... I'll go through ours and then I want to hear how yours differs from what you do."
+  -
+    timestamp: "0:12:24"
+    speaker: Matt
+    content: "Yeah."
+  -
+    timestamp: "0:12:25"
+    speaker: Andy
+    content: "One thing we changed recently which, I can't recommend this yet, 'cause I don't know how it's gonna go or what the knock-on effects are gonna be, but previously our proposals were written kind of as a baby legal document, in the sense that it was in the third person, right, it would say like, \"Friends of the Web will build this thing for company name.\" And it was written dryly and we kept running into this issue where there were lots of places where it was awkward to refer to us in the third person. So in some rare circumstances we would use the second person and describe like \"you\" or \"us\" which was weird when we were using the third person in most of the document. And it always just felt a little bit too formal for us. So I actually switched our proposals to being more of engagement letters, which the only real difference, as far as I'm concerned, is that it's formatted like a letter and it is in the second person, right? We talk about you the client and us the company and we use those pronouns throughout, which makes the whole thing more friendly and more consistent. It feels better to me. I think it looks better and reads better. I don't know if that's gonna cause any problems yet, but I can't imagine it would."
+  -
+    timestamp: "0:13:30"
+    speaker: Andy
+    content: "So that's one thing we changed recently. All of our engagement letters now start with... The top section is the part we write specifically for this project, right? It's not boilerplate. And what we do is we write out the purpose of the project which is basically a restatement of things that should be already known, but like I said, I think there is value in restating things. So this is where we restate what we heard our client or potential clients say to us in the first couple of meetings we had. About what they need and why they need it, and we explain it in our own words. And hopefully if they read the thing and it's not quite right, or it doesn't quite get at what they're looking for then we can have a conversation and fix that."
+  -
+    timestamp: "0:14:08"
+    speaker: Andy
+    content: "So purpose is important and then scope. Those are the two first sections. And scope just describes practically what's going to be done. So purpose is kind of the why and scope is the what. And scope will go through the exact kind of things that we're going to create and what our role in creating those things is gonna be. And that's the part we write custom for each proposal. There's a little introduction at the top that just says, \"If you have any questions, you can do this. Thanks for considering us for your project.\" And that part's a little couple of sentences of more boilerplatey stuff. That's the part that we actually write. There's no templates there, we just write that for every project and it is what it is."
+  -
+    timestamp: "0:14:45"
+    speaker: Andy
+    content: "Beyond that, we have a project management section which just describes how the project is going to be managed. We have an assigned project manager for every project at Friends Of The Web, so... Should we say that we both work at small companies that do basically web and mobile design and development? "
+  -
+    timestamp: "0:15:04"
+    speaker: Matt
+    content: "I think that's fair. That sets some context for why we're..."
+  -
+    timestamp: "0:15:05"
+    speaker: Andy
+    content: "Probably should have said that upfront, I guess. Yeah. For those of you that may not know, Matt and I both work at small companies and we have decision-making roles at small companies where we are basically working with clients to do web and mobile applications and design and build them."
+  -
+    timestamp: "0:15:21"
+    speaker: Andy
+    content: "So all of our projects we have an assigned project manager. We briefly described what that role is and all we basically say is, \"This person is responsible for making sure you know what's going on and making sure that everyone else at Friends Of The Web knows what's going on as well.\" Their the go-between to keep everything on schedule and on track. And then for projects where we're collaborating with outside developers or where it's a more involved development project, where maybe a project manager is working for our client that's in charge of managing things on their end, we'll oftentimes use shared software together. And so if we do that, then we include a section about what that shared project management software is gonna be and how it's gonna be used and utilized and... Used and utilized, look at that. That's a bad one. We kind of go through those details of that as well. So that just basically describes how things are gonna work."
+  -
+    timestamp: "0:16:09"
+    speaker: Andy
+    content: "Then we have a bigger section, about what the client's responsibilities in the relationship are. This is everything from the boring things of, \"You're gonna have to pay for your own hosting. And you're gonna have to register your own domains.\" And that kind of stuff, to more theoretical or less practical things like, \"You need to communicate with us openly and you need to involve people that have the ability to say no from the early steps of the project. And if you don't do these things then you're setting yourself up for failure.\" And it kind of describes all that and I think that's a really important section to have because it helps... It's also kind of like saying, \"This is what we're not gonna do.\" Right? And so it's nice to have the section of what we're not gonna do as well."
+  -
+    timestamp: "0:16:48"
+    speaker: Andy
+    content: "We have a optional travel section. So if the client is located somewhere within a reasonable travel distance, we basically say that we'll travel whenever you think it's right for us to travel and it lays out how that's paid for and how we decide who's gonna be in attendance and how that whole thing works. We do have a short section of the literal final deliverables, which is kind of similar to the scope section, except the scope section doesn't go into detail about where the code is going to be and how it's gonna be delivered. And so this section just tells you exactly what you're gonna get from us at the end of the project and what it's gonna look like."
+  -
+    timestamp: "0:17:26"
+    speaker: Andy
+    content: "For all of our web projects we also have a section of boilerplate we included for browser compatibility. We spent a decent amount of time figuring out what kind of browsers we could reasonably support. We have the criteria..."
+  -
+    timestamp: "0:17:37"
+    speaker: Matt
+    content: "Is that the same everywhere or do you do it project by project?"
+  -
+    timestamp: "0:17:41"
+    speaker: Andy
+    content: "We don't list specific browsers. It describes a process which can be applied at any moment in time to any project to determine compatibility. So for example, I'll tell you, our four criteria are that the browser has to be supported by the publisher, has to be the current version or direct predecessor to the current version, has to support client-rendered JavaScript and, I'm sorry it's any of these four, I'm sorry, not all four. If it has any of these four then it works. Or is at least 0.25% global or US usage as reported by StatCounter Global Stats. So basically if it's any one of these four criteria then we beat that browser when we deliver the project."
+  -
+    timestamp: "0:18:24"
+    speaker: Andy
+    content: "If it's supported by the browser current version, predecessor to current version, supports client rendered JavaScript and at least 0.25% of the US or global browser share, which sounds like it might be a lot of browsers but it's really not anymore. This really doesn't cover a ton of stuff, but luckily browser stuff has changed. I mean, this will be like trying to describe compact discs or something to our children when we have to talk about how we had to care about browser compatibility 'cause I feel like we're on this path where in 10... Five, 10 years like it's really not gonna be a thing that really interferes with anybody's workflow anymore. Where when I first started making websites it was like different planets when you looked at your website in Internet Explorer versus Safari versus the very early days of Firefox, it was just totally different things. Do you remember that? "
+  -
+    timestamp: "0:19:19"
+    speaker: Matt
+    content: "Yeah. Actually, I have to say I have recently stopped stressing out about this as much as I used to. That used to be my nightmare just the idea of having to explain what we will and won't support, what versions of Internet Explorer are acceptable like... I feel like just Microsoft cutting off the support of Internet Explorer at some point and be like, \"Look, Microsoft won't even deal with it. We're not dealing with it.\""
+  -
+    timestamp: "0:19:38"
+    speaker: Andy
+    content: "That made it very easy to explain to people for sure."
+  -
+    timestamp: "0:19:40"
+    speaker: Matt
+    content: "Yeah."
+  -
+    content: Laughter
+  -
+    timestamp: "0:19:41"
+    speaker: Andy
+    content: "You were like, \"Here's the letter where they say they're not supporting their own software anymore so.\" Each of these sections are things that we at some point had to sit down and figure out what we were gonna write, and so for a long time we wouldn't ever... We didn't have a formal thing about browser compatibility in our projects, but if someone asked we could say, \"Oh well all the major browsers and backwards compatible as much as reasonable or things that are popular still.\" It was very vague, right, and now it's not very vague. Now it's extremely cut and dry, here's what we are gonna cover. Which I think is much better, right? If you have the time to do that why not communicate clearly with your clients about what you're gonna be doing."
+  -
+    timestamp: "0:20:14"
+    speaker: Matt
+    content: "Yeah."
+  -
+    timestamp: "0:20:15"
+    speaker: Andy
+    content: "So yeah this is just the formal criteria that meets what we all have in our heads when we think about what browser's are reasonable to support. And we kinda sat down and worked backwards and said, \"Well we think it's reasonable to support this but not this. Why don't we think its reasonable to do that?\" And we kinda figured out what the actual criteria was that made it a thing we could actually support. So we described that. This next section is also one we kinda added recently, so all these things are things that were added pretty recently."
+  -
+    timestamp: "0:20:40"
+    speaker: Andy
+    content: "This next section is one which I'm calling Optimization right now which I don't love the word, but what I'm really describing is kind of search engine optimization but I don't in any sense want to use that language because that's a very fraught way to describe something. But this is basically section of the proposal where, and again this only applies to web projects, where we're doing development. It basically just describes what we are going to do to ensure that the website can be parsed successfully by search engines and can interact nicely with social media sites. So you're adding the open graph metadata, that kind of stuff. This is something that clients will ask us about somewhat regularly and I always have to have the conversation like, \"Well, there is no real search engine optimization in the sense that, there's not these steps you take and then you do better on search engines. What you need to do is just make sure that whatever the content of the website is, it is parsable and discoverable and then make good content.\" Is really the best search engine optimization is just really put good stuff on the website and update it regularly."
+  -
+    timestamp: "0:21:48"
+    speaker: Andy
+    content: "So this is a section that describes what we're going to do. And the four things here I say that we're going to make a site map file, we're going to add the open graph metadata, we're going to keep page load times fast and we're going to follow recommended best practices for images, video and structured data. And then I also linked to Google's official webmaster guidelines for what to do to make your website reasonable as far as search engines are concerned. But that section's kind of a interesting one as well."
+  -
+    timestamp: "0:22:12"
+    speaker: Matt
+    content: "This is stuff I just don't put in proposals, this is very... I guess you just learned from having to answer the question a million times but I never think of that as something that should happen at a proposal phase."
+  -
+    timestamp: "0:22:22"
+    speaker: Andy
+    content: "Let's get into that in two seconds because I'm almost at the end of what we do with our proposals basically. So we have two boilerplate sections left and then just, like you said schedule and payment. So one other section here is we do also have a little section describing that we design and build everything responsively and what that means. That's a question that we get asked sometimes, sometimes we get the question like..."
+  -
+    timestamp: "0:22:42"
+    speaker: Matt
+    content: "That responsive design trend you talked about?"
+  -
+    timestamp: "0:22:44"
+    speaker: Andy
+    content: "Yeah exactly. [chuckle] Sometimes we get asked the question like, \"How many break points are you gonna put in the website?\" And then we have to have the big long talk about how that's not really how we're going to do it. So we describe that briefly which I think is also just sometimes people just ask like, \"Are we getting responsive design?\" And it's like, \"You are. You're getting that buzzword, don't worry. You're getting the buzzword that you heard before.\" So that's in there."
+  -
+    timestamp: "0:23:04"
+    speaker: Andy
+    content: "We also have a... And this section is only included on certain projects where we talk about what the idea of a minimum viable product is and describe why we think it's valuable to start with the simplest version of an idea and only build more once you have gleaned information from your user base or your customers. And in that section we'll also describe things that we've talked about with this potential client but are not included in this proposal, that we agreed are not part of a minimum viable product. Which is an important section when you're talking about a possible project you're going to build and the client obviously has all these dreams and where they want it to go and they know that they talked about these things in meetings and I think it's really important to formally say, \"Just so you know this is definitely not included in the proposal.\""
+  -
+    content: Chuckle
+  -
+    timestamp: "0:23:49"
+    speaker: Andy
+    content: "And that's a thing that if people are not reading these documents, if people just come in and have a meeting and then you send them a proposal and they only look at the number and they say, \"Great let's get going,\" you are very likely to end up in a situation in the future where someone is like, \"Hey, I know we talked about this at the meeting and then you gave me a number. Why wasn't this included in the number you gave me? We talked about it.\" And it's like, \"Yeah, well we talked about how we shouldn't do it.\""
+  -
+    content: Chuckle
+  -
+    timestamp: "0:24:11"
+    speaker: Andy
+    content: "So, that's an important section I think as well. And then we get down here just a timeline and the fees and payment which are obviously pretty necessary. You mentioned that you've done pretty thorough timelines in the past, I have to say we don't... We almost always never give timelines for our projects. Up until very recently we would only give a rough macro scale like, \"This will take between four and six months,\" or, \"This will take between two and three weeks.\" And we would say when we could begin the project roughly, like we can begin immediately, we can begin in a month, whatever that was. But beyond that we wouldn't give anything more and we're trying to get a little better about actually mapping out how these weeks are gonna play out in this project."
+  -
+    timestamp: "0:24:55"
+    speaker: Matt
+    content: "I was gonna say, did that work for you? Coming from the other side as the client, I would think that's very frustrating, to not have any sort of definition of when this will take place. Did you have to fight with that a lot, is that why you're changing it?"
+  -
+    timestamp: "0:25:11"
+    speaker: Andy
+    content: "We honestly haven't had problems with it. These are questions we had to answer in meetings, right? Like someone would say, \"Oh well, what's gonna happen first?\" We would say, \"This will happen first.\" And now we just are writing down this is the order of things, this is roughly how much time things are gonna take. But frankly, most of our projects or a big majority of our projects are things that, mercifully don't have deadlines, like real deadlines. They're not going to print, they're not meeting some actual deadline that has to be met. They're just like when it's done and good, we're gonna launch it. That's the kind of priority. And there are also things that are not so set in stone. There's places and room for it to change. So I would say that a lot of projects in the past if we had written a whole timeline, it would've been wrong by week three, because we had decided that things were different mutually, with the client. We had agreed that things were gonna change a little bit and we were gonna tweak this slightly."
+  -
+    timestamp: "0:26:05"
+    speaker: Andy
+    content: "So yeah, and also frankly a fully fleshed out timeline is kind of directly... It's a little bit in defiance of the idea of minimum viable product I just described, which is like, \"We just need to get something that works out there as soon as possible and then start getting feedback either from customers or from you, the client. Actually use the thing now, click around see how it feels and tell us what's working, what's not working.\" And that idea of minimum viable product comes from the startup world, the product world and it makes sense in that sphere but that similar approach makes tons of sense even if you're just building a simple marketing website, right? The idea is just, get the core of it to the client as soon as possible instead of hiding it behind this curtain, until you're done completely and you can unveil the whole thing and then you realize, \"Oh, there was just some underlying assumption that we wrong about or that we miscommunicated about or a question we didn't ask and therefore this thing is kind of off.\""
+  -
+    timestamp: "0:27:06"
+    speaker: Andy
+    content: "So even when it's not a product like that, even when we're just doing a simple marketing website for something, we still are gonna like, \"We're gonna give you designs as soon as possible, in week one or week two and then from there, it will depend. Maybe you'll love everything and we just start building it. Maybe you hate it all and we have to go back to the drawing board.\" And so it gets really difficult to write a full timeline when your process is that... Willing and able to change, is what I've found."
+  -
+    timestamp: "0:27:30"
+    speaker: Matt
+    content: "Yeah. And I understand that I think, one thing... So we have projects that are like that, right? And in which case there's not even a timeline, it's just like, you have these people on the project for as long as you want and you'll just pay an hourly rate and that's that. Right? So you don't really have to schedule it, it's just like, you know what the hourly rate is, you can use more time or less time. But I'm starting to really like making really tight schedules because then you're in control of your own time and you can't... It doesn't drag on forever, you can kinda say, \"Hey, this is the exact amount of time we've talked about.\" Especially for... I mean, you're in the same situation but especially for, I guess agencies like us where we also wanna make our own things. It gives us a little more control over saying like, \"Okay, this is client time and this is build our own thing time.\" As opposed to this mixed idea of priorities when, who knows when it's done? It's just done when it's done and then you can move on to the next thing but there's no real way to schedule anything or it's the start of a next project. How do you deal with that when things are so open and flexible?"
+  -
+    timestamp: "0:28:38"
+    speaker: Andy
+    content: "Yeah, and to extend something you've said, I do think that at least half of the reason that we've started trying to make more concrete timelines is for us. Because when we sit down and make an estimate or a quote, then we sit down and say, \"Well, it's gonna take a few weeks to build this, a few weeks to build that.\" And that's where we get that number from but if that number ends up being six months then it gets very difficult at month three to be like, \"Are we on track? Are we on the thing we estimated? We said this would take this long and now we're here.\" So having that very clear thing that says like, \"Oh well, by month three we're supposed to be here because that's what we originally said in the proposal.\" So I think that that is being able to draw a timeline with pencil and say, \"Here's where it's supposed to be.\" And if you have to erase sections of it and amend it you can but at least having a place to start instead of just saying, \"Well, here's this giant block of time wherein the thing must get done. Let's just start chipping away at the front end of it.\" That does get a little bit intense."
+  -
+    timestamp: "0:29:33"
+    speaker: Andy
+    content: "So yeah, clients have not asked us for it, we have never heard somebody say like, \"Please give us a direct layout of how time is going to be spent every week.\" We've never gotten that before. But I think it's helpful just to give people more of a sense of the design and development, this is roughly how much space they're gonna take up in terms of the overall number you're looking at. And like I said, it's also really helpful just to... To reiterate what you've said, take control of your own time, and say we're gonna spend these eight weeks on this, and this is what we're going to do each those weeks. And if something takes longer then we have to talk about it and recognize that this is getting changed but it doesn't just kinda drag on weirdly without being defined."
+  -
+    timestamp: "0:30:13"
+    speaker: Matt
+    content: "Right. 'Cause that's the part that drives me crazy is getting to the end of a project and then it's kinda done, not done. I mean, with the understanding that nothing on the internet is ever done, but no... When can we start the next thing? When can we schedule this? When can we schedule this? Everything has this fuzzy end date where you can't plan for anything and then, who knows if you're available? I don't know, it could be forever."
+  -
+    timestamp: "0:30:34"
+    speaker: Andy
+    content: "Oh yeah, that actually reminds me of another section that is not in the example proposal I'm looking at here but we do have available to us in certain proposals, which is ongoing maintenance and costs. Which is something that... We did have a couple projects in the past where we just took for granted that we assumed people knew more or less how websites worked. [chuckle] Which is the case for some of our clients, they're very technical, they even have their own developers, they know what they're doing, they don't need any of this stuff explained to them. But we found that some of our clients just actually don't know anything. And so when we build a website for them and they're like, \"Wait, the hosting is gonna cost a couple of hundred dollars a month?\" And we're like, \"Yeah, that's how websites work.\" Those things that we assumed might have been obvious were just not."
+  -
+    timestamp: "0:31:14"
+    speaker: Andy
+    content: "So, we do have a section now where we describe like, \"Here is our estimated hosting cost for this project, which can change if you get way more popular or if something dramatically changes about the scope.\" And also, in addition to that, here is how much time and/or money it's gonna take to keep this site running year, over year, over year because as soon as you build it, it starts breaking itself, it begins falling apart as libraries and dependencies are updated and you have to go and add those updates and, God forbid, there's a security problem with one of the dependences of the site then you need to make sure you update that in a timely fashion. So those are things that we also outline for projects that are going to have ongoing maintenance, which is every project on the web frankly. I mean, a static site has barely any but it still has some. So yeah, that's another section that's in there as well. You mentioned that your proposals don't look like this, so what do you do differently? "
+  -
+    timestamp: "0:32:04"
+    speaker: Matt
+    content: "Well, I think we just don't put... Ours are much simpler than yours. We basically have two things, there's the proposal that is the nice looking thing and it has basics like, who are the people or resources required to do it? What is the cost? What is the summary of services and statement of work? We usually describe the product in user stories, so describing what each feature will do, so we have a pretty clear list of... I mean, usually that's how we make the estimate to begin with, is describing all the features of the site and how they're gonna work. And then we assign time to that and then multiply it by our hourly rate and then we figure out what it costs. So we put all the user stories in, then we have the schedule that is... It looks like a schedule, it just doesn't have specific dates, it has weeks. So it's like, \"At this week, we'll give you a front end, you can look at it. At this time you provide feedback.\" and we just put milestones there. And then that's attached to like, \"Here's what we estimate the kick off time to be,\" but it's a flexible schedule. We have a list of just assumptions, we have a page of what we call assumptions that are kind of what you talk about like, this is how the web works, some basics."
+  -
+    timestamp: "0:33:17"
+    speaker: Matt
+    content: "But then we're done. We have another legal document that we send that explains background technology and we can use this on our portfolio and if we have to take it to court then we do this. That stuff that's boring and boilerplate. We do have little things, one thing I was excited about is recently we decided that... Not that recently, we decided that most of Friday time is gonna be spent on our own internal products. So we actually put that into proposals and say, \"On Fridays, employees are gonna spend,\" I think it says, \"Six or eight hours on internal products, so don't expect us to be available on Fridays.\" So we have started to shape things in that kind of... Partly explain the project and partly explain the company that you're working with, which I think is nice. But then we're done, I don't do all the explanation of what search engine optimization is. Browser compatibility is just a list, it's not the concept of browser compatibility, so now I'm kinda like, \"Maybe I should steal some of these things from you.\" But it's only four or five pages. I think we break it up so you can read the proposal easily and understand it easily and then the big legal doc, we hope you read it but maybe you will, maybe you won't, it's for our protection."
+  -
+    timestamp: "0:34:38"
+    speaker: Andy
+    content: "Interesting. So, I mean, I should say the proposal that I'm looking at right now, which doesn't have some of the sections I described 'cause it's a simpler project, but this is only five pages and has all the sections that we talked about pretty much, so it's not super long either. But our contract, our legal document, is actually even shorter and we design it exactly the same way, so it looks just as nice as our engagement letters does, it's just the same template. It's not a separate thing, and that's a page and a half."
+  -
+    timestamp: "0:35:04"
+    speaker: Matt
+    content: "Really?"
+  -
+    timestamp: "0:35:04"
+    speaker: Andy
+    content: "A page and a half, two pages and that really just says, \"We're not a full time employee of yours, you're hiring us as a contractor. Here is the deal with the rights for all of the stuff we're creating and who gets the rights to it. You need to pay us. And if you don't pay us, there's gonna be hell to pay.\" I can't swear, \"You need to pay us and if you don't pay us, there's gonna be problems. And if you have to sue us, it's gonna be in Maryland.\" And all the really fundamental protections that we need. The idea being, first of all, I wanna make that document as short as possible because to your point I want people to read it. They may not, it is largely there for our protection, right? Like, \"Here, at least we said this and you signed it. So, if you didn't read it, it's your own fault.\" But I don't ever wanna be in that position. I don't wanna be in a position where it's just like, \"Oh, you didn't actually understand and you signed a legal document you didn't get and now you are in a situation that you didn't expect to be in because we didn't communicate clearly with you.\" So we strive really hard to make that legal document as short as it could possibly be, in the hopes that people would read it."
+  -
+    timestamp: "0:36:06"
+    speaker: Matt
+    content: "Yeah that's kind of my goal too is... Well, the only reason it ever comes up is... It's only enforceable if you bring it to court so it kinda doesn't matter. I never want to be in that situation, so it barely matters unless you're really willing to take it that far."
+  -
+    timestamp: "0:36:18"
+    speaker: Andy
+    content: "Yeah, and we don't describe... Part of the reason it's so short is that it's very, very, very open ended right? The legal document promises essentially nothing, it says, \"You're paying us this much money to work on software for you and there's no guaranteed anything.\" Right? \"Things can change all along the way, we could run into some problem we don't foresee.\" We don't guarantee rates we don't guarantee timelines or deadlines, so it's really straightforward 'cause all it says is like, \"You give us the money, we work for you and whatever happens, happens,\" basically. So yeah, I intentionally pull anything out of that legal document that doesn't need to be legally signed. So anything that I want to describe, that I want people to understand but I don't really need someone to legally agree to, like all the compatibility and optimization and all that kind of stuff, is why we put that in the proposal. And we actually have, to your point about people reading it, we actually have two different text styles. There is a bigger text style that is the full width of the page, that is here's the stuff that we wrote specifically for your project and then without any different labeling, it was just some of the sections are just, they're narrower and they're a smaller text size. And it's supposed to indicate like, \"This is here if you want to read it.\" And there's a very clear heading."
+  -
+    timestamp: "0:37:31"
+    speaker: Andy
+    content: "So if you care about how we approach travel, you can read it but if you don't care about at all then you don't have to read it, right? Is what I'm trying to express with the layout of this, is that if you don't care to read about browser compatibility, don't. Fine, don't care, but here we're telling you so you can't in the future come back and say, \"You didn't tell us what you were going to do re browser compatibility.\" Because all these sections are the same in that they're also protections for us. The more we say up front or can at least show that we gave you in writing up front and if you chose to read it or not that's something we can't really control, the easier it is to have those discussions in the future where somebody's like, \"I pulled this up on my grandfathers old PC with Internet Explorer 5.5 and it looks terrible and what's wrong with you?\" We can talk about how that internet browser is as old as me and shouldn't be supported by anybody."
+  -
+    timestamp: "0:38:18"
+    speaker: Andy
+    content: "So yeah that's why we add all those different sections and frankly I go back and forth on... We have these sections written. We had to write them for some proposal, so it's like once you've written it and if it is abstract enough that it makes sense for a huge chunk of your projects, why not tell people? And the reason why not is you make the document longer, and it's like, \"Well, do you want a longer document you think people are going to read less of?\" And that's something I wrestle with a lot, which is why we came to this balance of there is a big thing at the front, the text is bigger this is the thing that really describes the project and what we're doing. Then there's more here and the more here is stuff that you can read if you want but if you don't read it, it shouldn't really be a deal breaker either way. That's where we landed with all that stuff."
+  -
+    timestamp: "0:39:02"
+    speaker: Matt
+    content: "Let's see, do you think you'll always just send these PDF documents that you can sign and return, should we just make webpage proposals?"
+  -
+    timestamp: "0:39:16"
+    speaker: Andy
+    content: "We talked about that."
+  -
+    timestamp: "0:39:18"
+    speaker: Matt
+    content: "Just make a webpage, you click accept and then you're done and you actually know someone had to read it. I guess that's like an iTunes agreement, you don't know if someone read it."
+  -
+    timestamp: "0:39:24"
+    speaker: Andy
+    content: "Yeah you don't know."
+  -
+    timestamp: "0:39:26"
+    speaker: Matt
+    content: "We don't know anything."
+  -
+    timestamp: "0:39:26"
+    speaker: Andy
+    content: "Yeah you don't know at all. You could quiz 'em at the end and they have to complete the quiz and fill out the correct answers. We actually talked about that and half the reason we built the system this way... This system we built spits out a PDF or a static HTML page so we could very easily make these on the web. There's a couple of reasons that we decided not to do that for now, one of the reasons is that I don't know how much we actually gained from putting it on the web, right? It feels more natural to you or I because we're very comfortable with that but I think sending a link to somebody might be a little weird for some people and it's still just gonna be text and some images every once in a while. It's not like there's really cool interactive stuff we can do on the proposal to make it more clear. We're not really benefiting from that medium so much. I think more importantly technically a website is not a fixed thing. You could look at it today and say \"I agree,\" and go back to it tomorrow and we could have just changed some of the language on it, and then there's this weird question of what did you agree to versus not agree to? Which I think leads people to not trust it, which is justifiable."
+  -
+    timestamp: "0:40:23"
+    speaker: Matt
+    content: "That's pretty fair, I think that's pretty fair."
+  -
+    timestamp: "0:40:25"
+    speaker: Andy
+    content: "So the PDF is like, \"Here's the document. You have a copy, we have a copy. We know it's not going to change.\" So those are the two reasons why we aren't doing it right now. I could see a future where we actually design a page and it's like \"Here's your little thing we built for you that describes all our stuff and allows you to go through everything.\" But right now I don't think that we see the benefit in that so much. And the PDF looks nice."
+  -
+    timestamp: "0:40:45"
+    speaker: Matt
+    content: "I don't think that would work for us either. I think it would be like, \"Ah, no just send me the normal version.\" I'd be like, \"Wow, I built this whole thing and it's useless. [laughter] Great!\""
+  -
+    timestamp: "0:40:53"
+    speaker: Andy
+    content: "Whilst it's definitely super weird because it's an 8.5 x 11 PDF that I have to assume literally nobody is ever printing out."
+  -
+    timestamp: "0:41:00"
+    speaker: Matt
+    content: "That's how I feel too, like, \"We're using this format that makes no sense but everybody just feels comfortable with.\" So it's fine, it's totally fine."
+  -
+    timestamp: "0:41:07"
+    speaker: Andy
+    content: "It's just funny we actually talked about should we make it a different aspect ratio because who cares? No one's gonna print it. A4 would look a little nicer just at a slightly different ratio than the 8.5 x 11, but no we just landed on the normal 8.5 x 11 'cause it does not seem worth it to divert from that. So yeah, that's a thing we've been working on to try and make that better. Tell me about this visual timeline you make. You actually make a little bar graph, what do you do there? "
+  -
+    timestamp: "0:41:34"
+    speaker: Matt
+    content: "Yeah, it looks like a thing you could make in Excel, it just has little like week one block, week two block, week three block. And it'll say like one developer will work on this, one designer and this will be the concept phase and then two developers will work and this will be the product development phase. And just splits it up into pieces and then we can put literal lines and say, \"Milestone, here's where you'll see a thing\" and, \"Milestone, here's where you're gonna see a thing\", and then actually honestly I use that so that we can say, \"We bill this amount at this milestone. We bill this amount at this milestone.\" So it's more, if we work faster and get something done, we can bill sooner. It's a practical thing but I like it for the reasons I said before where it doesn't have to drag on forever and ever. We deliver, we kind of said that was the goal."
+  -
+    timestamp: "0:42:17"
+    speaker: Andy
+    content: "And you make specific promises of number of designers or developers working on a project. And is that actually mapped to, like there's literally one person in the office assigned to that project and that's the only person that does work on it during that block or is that an abstract representation of 30 to 40 hours of one developer's time this week, but it could be three or four people working on it? "
+  -
+    timestamp: "0:42:37"
+    speaker: Matt
+    content: "It's pretty accurate. If we assign a person, we really do. It's much like you said you assign a project manager. We'll say a project manager, we'll say a developer or two developers, and it really is... We don't put specific names, but you know you're gonna get those people... Like those number of people on the project for the time that we specify it. Honestly that's more for us, so we can plan and say... We can have a schedule internally and say, \"Hey, Scott's on this. Matt's on this. Mark is on that.\" And we know for how long. So that when somebody else comes and says, \"Hey we need a thing.\" We can say, \"Okay, here's our start date.\" Because we have... Honestly, I'm trying to get better at that. I don't think we're amazing at it yet, scheduling internally. But that's my goal is so somebody else can come and everyone in the team can know, \"Okay, these people are working on this for X amount of time.\" And so when the next job comes, we can plan it for May 15th. And that's a great start date for that."
+  -
+    timestamp: "0:43:29"
+    speaker: Andy
+    content: "Yeah, so that's one thing that... Sections we specifically don't include, but have talked about or have been asked by specific RFPs to do in the past. Some places ask for bios of the team members. Have you ever done that before? "
+  -
+    timestamp: "0:43:44"
+    speaker: Matt
+    content: "No, actually. I've worked on... When I was at Pentagram, some people would ask for that, but no, never at Motel."
+  -
+    timestamp: "0:43:54"
+    speaker: Andy
+    content: "Interesting. Yeah, that's something that I can't decide how valuable that is. I don't love the idea of somebody choosing to work with us because of the individuals that would be working on the project as opposed to the company and what we proposed to be doing and how we've worked in the past. I like the idea that we're working more with the abstraction of the company than like, \"Oh I care about this particular front end developer whatever.\" Which is practical, right? If we're working on a project for eight months there might not be a developer... Someone could quit or something and we don't have that developer anymore. And then it's like, \"Well, their name was on the proposal and here's a little picture, but is that really true if we can't promise they're gonna be on the project for the entire duration of it?\""
+  -
+    timestamp: "0:44:33"
+    speaker: Matt
+    content: "Yeah. Actually, we have had proposals that were... Not even proposals, more just the agreement... Sometimes somebody else has an agreement that you have to work with, right? And so you sign it, so we have worked with something where you have to put a name on it. It's committing to specific person, but there's always language that like, \"If that person leaves then we can replace them with somebody else and... \""
+  -
+    timestamp: "0:44:52"
+    speaker: Andy
+    content: "Sure. Yeah, something we've excluded in the past. So have you made any significant mistakes with proposals in the past that if people are listening and they're working in consulting or freelancing or things that they should avoid that you can think of? "
+  -
+    timestamp: "0:45:07"
+    speaker: Matt
+    content: "I really do think of making it too... Trying to spend too much time making it pretty and thinking you're gonna blow someone out of the water with how beautiful your proposal is, is kind of silly. I think spend more time... Come up with a system that let's you spend more time in the content and the structure, 'cause I feel like when you first get started, you have to do... You have one person or two people and you get the one job and you're excited so you spend hours and hours and hours on it. And then as time goes on, you have to do more and more and more and you're like, \"This was such a stupid choice and system. Why can't we just make this easier?\" And like, \"Oh now, we have someone who is in charge of operations here. It sure would be nice if she could work on it as well.\" Opposed to just me the designer having to open it up and do it every single time. On the pure practicality of that, I would love to change that. I don't know if it's a mistake, but I do really also wanna move away from just committing to endless amounts of time and really scoping out things well."
+  -
+    timestamp: "0:46:06"
+    speaker: Matt
+    content: "I think there's a lot to be said for... I feel like I originally thought of this as I would dread projects with tight timelines and very specific things and be like, \"Oh God, if we don't deliver on time, what are we gonna do?\" And now I'm kind of like, \"Oh, a tight timeline, that's great. That means there's a start date. There is an end date. People are gonna be paying attention and actually look at the thing when we deliver it.\" As opposed to, \"Eh, we sent it. You'll get to it when you get to it. Maybe it'll sit there for a while and you'll never give us feedback. Who knows?\" I'm appreciating more and more really planning things out, scoping it out, giving a real schedule and knowing that there are solid start and end dates. And we can always like, \"Of course, nothing is done, we can always do a new proposal or like extend it or whatever, change it.\" But at least we've agreed to this and it's very clear what we're doing. And it's very clear about, on the client's side, what you have to give to us. \"You have to give us feedback by this time and then we can move forward.\" I just appreciate as much clarity as possible. That's what I want out of the proposal. I want everybody to know exactly what's gonna happen and there's just no... No one is in on the dark on anything."
+  -
+    timestamp: "0:47:10"
+    speaker: Andy
+    content: "But you don't include those other sections I mentioned. You said you skip all that stuff."
+  -
+    timestamp: "0:47:14"
+    speaker: Matt
+    content: "To be honest, I just never considered having like a search engine optimizational thing before. So now I'm listening to you and I'm thinking maybe we should add that in the next iteration."
+  -
+    timestamp: "0:47:22"
+    speaker: Andy
+    content: "And these are some things that... These are things that we've learned from experience, right? We had one particular project where we came in and rebuilt a site for somebody and kind of totally replaced it. And the process of rebuilding it meant that it was totally rebuilt, which included changing all of the URLs. Which is something we talked about, we're like, \"We're gonna change the URL structure because right now, the structure doesn't make sense. And we're adding these things and so it doesn't fit in the current URL structure.\" And there are ramifications of that, which we also talked about. We're like, \"Hey, when this happens, you are going to basically drop off the face of planet Earth from search engines for a while because your site, all these pages that people are looking to are not gonna be there anymore. And we can do redirects and stuff, but it's going to have an effect on your performance on search engines and traffic.\""
+  -
+    timestamp: "0:48:09"
+    speaker: Andy
+    content: "And even though we said that in meetings for example, it was something that when it actually happened, the client was like, \"Whoa, this is happening. What's wrong?\" And we're like, \"Nothing's wrong. This is just how this is gonna be for a little while until you start getting more people linking to the new pages of the site and until Google and other search engines have crawled all these new pages.\" The unpleasant surprise of that that our client experiences, is something that I'm trying to cut down on by being very explicit about that up front. And we actually have another section of this which is not included in the proposal I sent you that I've been going over here that is specifically for when replacing an existing site. This is just for making a new site, the things we kind of cover. Also, it's just to cut that question off at the pass. Before somebody says, \"What are you gonna do for me SEO wise?\" Or, \"How are you gonna make sure I'm the first result on Google for my name?\" And it's like, \"Well we just can't... That's not a thing we can do.\""
+  -
+    timestamp: "0:49:00"
+    speaker: Matt
+    content: "Right."
+  -
+    timestamp: "0:49:01"
+    speaker: Andy
+    content: "That's not how this works. So it's kind of cutting that off at the pass a little bit. So yeah. How do you balance the wanting to feel formal and established with not wanting to be impersonal? Because we're both working with very small companies. Something that I feel sometimes is that I'm very conscious of presenting ourselves as a bigger entity than we are with our documents. If everything is kind of like, \"You're working with this company Corporation.LLC, or whatever,\" and everything is formalized and almost cold and corporate, it feels a little bit wrong sometimes. I was very conscious of this when I was a freelancer. It was very strange to be like, \"Ah yes, make my proposal from office of Andy Mangold.\" You know, when it's just me, dude, sitting here at my desk doing this thing. How do you strike that balance when you're coming up with the look? The actual language I think is important in it too. What are you going for on that spectrum? "
+  -
+    timestamp: "0:50:01"
+    speaker: Matt
+    content: "I don't worry about that in the proposal part of it. I feel like that comes through in just... I don't know. Every project I'm on, I try to be on tact with whoever the stakeholders are as much as possible. I feel like it's personal because I'm making it personal. I'm very involved in every step of it. You're gonna talk to me about if you have any questions at all. So, I just try to make the proposal as clear as possible and then... It's personal because you know me, you know? And I also think our... We just launched a new website. We try to be pretty clear about who works there and every single person has a picture. It's kind of a fun... Our website is very playful. I don't think it's a website that you would see from a Ogilvy or some big firm or something. I don't really worry about that in the proposal part because here's the thing Andy, I'm never sending a proposal to somebody I just don't know. I've always talked to them..."
+  -
+    timestamp: "0:50:56"
+    speaker: Andy
+    content: "Of course, yeah."
+  -
+    timestamp: "0:50:57"
+    speaker: Matt
+    content: "For an extended period of time before that goes out. To me, the proposal is almost the last step in the project before we start. It's not like responding to RFPs where you're just firing them out into the ether and like, \"Who's this thing from this random person?\" There's always so much preamble that... Not really a concern. I don't know if it's different for you ever, where you are sending these proposals to people that you don't even know, but..."
+  -
+    timestamp: "0:51:19"
+    speaker: Andy
+    content: "No. We don't do that."
+  -
+    timestamp: "0:51:21"
+    speaker: Matt
+    content: "It's only come up maybe once or twice for us ever where that happens."
+  -
+    timestamp: "0:51:24"
+    speaker: Andy
+    content: "We don't do that. But I will say that we have, on multiple occasions, had a client who work with us sometimes for a long time, and we work very similar, right? The people that are assigned to be the project managers for the project, you talk to them very regularly. We send you an email at least every single week, if not more often, and we communicate through all these other different channels too and project management software. A very high touch situation. We've had multiple clients in the past, though, just have the totally wrong idea about how big of a company we are. We found that, first of all, way fewer people ever go to our website than we would expect. I, as a young person that Googles every single business I have any kind of relationship with, expect that everyone that works with us has been to our website, which is not the case."
+  -
+    timestamp: "0:52:09"
+    speaker: Andy
+    content: "There's lots of people that hire us to make a website for them, they just never saw our website. Or maybe the person that decided to hire us is not the person we're working with. The person we're working with is this project manager, and the project manager didn't compare us to other studios, didn't think about anything. They just were told they're working with us and they just genuinely have no idea. I don't know how much of the proposal's job is to communicate that at all, but it's very interesting. We've had it on a couple of occasions, people will be like, \"Oh, how many offices do you have internationally?\" And it's like, \"None of those. Definitely zero. Not even a little bit of that.\" It's a funny thing because people do different kinds of due diligence when they're making a decision about who to hire for a project than I would if I were in their position, which comes up sometimes."
+  -
+    timestamp: "0:52:56"
+    speaker: Matt
+    content: "Again I'm sure that's the case. I just never... I don't consider it as much because it rarely comes up as an issue. The only time it ever comes up as an issue is if somebody's like, \"Hey, do you work in this language?\" And it's like, \"No, we don't 'cause we only have these number of people and they specialize in this.\" And they're like, \"Oh.\""
+  -
+    timestamp: "0:53:13"
+    speaker: Andy
+    content: "How are we gonna close this episode in a even remotely exciting way considering the dry subject matter."
+  -
+    timestamp: "0:53:18"
+    speaker: Matt
+    content: "Did you tell me what you want to change about your current process? You told a little bit about what this tool you built, but what are you learning from it? What are you gonna change in the future?"
+  -
+    timestamp: "0:53:28"
+    speaker: Andy
+    content: "Well, what we've been talking about is our new process, right? A lot of these sections I just described to you are things that we just decided to add to essentially every proposal, which they're appropriate to add to, in an effort to just, \"Well, we have it written. We sat down and figured it out. To not communicate it seems like a mistake.\" I guess I'm not worried about... I don't expect everyone to read every proposal. We haven't talked about reading the thing too much, but I'm sure you've had the experience multiple times where it becomes totally clear that the person you're working with did not read either the contract or the proposal or any of the documentation you sent them, they just... I've had people tell me that straight up."
+  -
+    timestamp: "0:54:04"
+    speaker: Andy
+    content: "We get to, halfway through our project and they're like, \"When is this part happening?\" I'm like, \"That part's not included.\" And they're like, \"What do you mean?\" And I say, \"Know this document you signed.\" And they say, \"I didn't read that!\" And it's like, \"Well, [laughter] I don't know what you want from me.\" If you're not gonna read it, that makes it kinda rough on me. So that does happen, and I think the fear, the subtle thing that we were not doing before was... We didn't include these sections because we felt like, \"Oh, the longer the document is, that will keep them from reading any of it.\" And in reality, I think that there's a good chance they're not gonna read a lot of the sections we put in but I don't think it's going to keep them from reading the first part of the document that is going to explain more personally and directly what the actual project scope is, if they were gonna read it in the first place, right? "
+  -
+    timestamp: "0:54:49"
+    speaker: Andy
+    content: "I don't think they're gonna say, \"I'm not gonna read page one because there are eight pages.\" They might just stop at page three or whatever, which I think is reasonable. So we added those sections and, like I said, our new templating system for handling this, which... The technology's not important but it's important to note that we do have a canonical version of each of these sections now. So there is our one browser compatibility thing, and if we're talking about browser compatibility on any project, it will always be this one section that we've already written that will explain it. And it's nice to have that all in one place that we know for sure that every document is getting the correct version of everything, without having to manage this big pile of stuff."
+  -
+    timestamp: "0:55:24"
+    speaker: Andy
+    content: "And we're still writing them collaboratively. Now, the collaboration... That's the one thing that we've... This has been a downgrade, is before we could just have it in Google Docs. Everyone could look at it and comment, and make inline annotations. And now it's in version control so people are gonna work on it simultaneously through Git. But people that are commenting on it... If you're not gonna write in the proposal but you have a comment about it, will just have to be... Here's a little Slack message about this typo or whatever, and have to go fix it."
+  -
+    timestamp: "0:55:51"
+    speaker: Matt
+    content: "Probably less typos, though, right? Or less having to double check every single piece of it."
+  -
+    timestamp: "0:55:55"
+    speaker: Andy
+    content: "Yeah. We have to double check it a little bit less, and it should be... We only made a proposal or two with this new system. It should be much, much faster, I think, to make what amounts to a more professional-looking and better-looking proposal than before, where it was still a lot of copying and pasting. And even on a small proposal, like having to reread it a million times and make sure everything was correct. Oh! Another practical example. I never want to have to do the math manually ever again on what these numbers of estimates add up to because that's just super frustrating. And then the scope changes a little bit and you end up having to take this one thing out. You have to add everything up all over again just to make sure that you didn't subtract it incorrectly. So the very simple thing of this system doing the math for us is enough that that makes it a compelling change, as well."
+  -
+    timestamp: "0:56:39"
+    speaker: Matt
+    content: "That's pretty good, actually. It's just an interesting challenge because I feel like so often the things I have to design are like, if we can simplify it enough that someone gets the gist of it, that's great. We can just get someone in, they get the basic idea, that's awesome. That's perfect. This is so the opposite of that so it is like my first... I feel like my first attempt at it was so challenging because you want someone, you need someone to see every single piece of it, or at least that's your goal, whereas..."
+  -
+    timestamp: "0:57:07"
+    speaker: Andy
+    content: "I want it to be available to them. I want them to know that if they care about this... And we pan people a little bit and insinuate that people don't read a lot of things. We definitely have clients that are excited to read every single word of everything we send them and will go over it with a fine tooth comb, and they're very detail-oriented. And so this is especially good for those clients because it's like, \"Here, we laid it all out so you can go through here and ask questions, and you totally get everything.\" And we don't have to have a bunch of back-and-forth where you ask all these questions that we didn't bother to answer in the proposal because we were trying to keep it simple and straightforward. So yeah, overall, the thing I want people to be left with, I hope that going over these sections and talking about our process has been helpful. I would agree with Matt that, especially if you're design-minded, you are probably the kind of person that feels like it's really important these things look excellent."
+  -
+    timestamp: "0:57:58"
+    speaker: Andy
+    content: "And I would echo Matt's feeling that it's more important that you be able to make it quickly and that it be clear, and the content is so much more important than the look of it. And so don't accept any compromises on your workflow if it means that it looks a little bit nicer, if it takes you longer to do or makes it more difficult to collaborate with people on your team or whatever. And then another thing I would say is people oftentimes, I think, look at... They go online and they Google, \"What's in a proposal?\" They look at examples from other places, and I hope that going through ours has been a little bit helpful. But also you can put in there whatever you want. This is your opportunity to really describe the service you want to provide and the way you want to provide it. And that's one of the most exciting things about either working for yourself or running your own small company is being able to do things however you want to do them. Which, I think if you're thoughtful about it, the proposal was the formalization of all of that thought and care you've put into how you run your business, and there's no reason that it shouldn't be everything you want it to be."
+  -
+    timestamp: "0:59:01"
+    speaker: Matt
+    content: "I think next time we should also get someone on here who has to fit someone else's requirement for a proposal because I think the final thing to note is that, we have this flexibility because we fit our own requirements. I have also watched other people have to create things that fit such specific requirements. I think we talked to Maurice a little bit about this in the government episode but..."
+  -
+    timestamp: "0:59:23"
+    speaker: Andy
+    content: "Oh, for sure."
+  -
+    timestamp: "0:59:24"
+    speaker: Matt
+    content: "Yeah. This is our own version of it. This is just doing whatever we want to do. It is by no means the RFP thing."
+  -
+    timestamp: "0:59:31"
+    speaker: Andy
+    content: "Well, here's what I'll say about that is I think that it's really useful to have to make a more extensive RFP for a project or two. And we've done it a couple of times for projects. We've made more extensive things that, like you said, meet very specific requirements of, \"We need to know this and this and this and this. And here's this long list of all the stuff we need from you in this order.\" And we've even had ones where it tells you exactly what size type to use and in what kind of document. What I'll say about that, though, is that, obviously, I'm extremely sympathetic to people that are going to have to review a hundred different proposals and don't wanna have to, [chuckle] get out their magnifying glass to look at this one, because they've used eight point type and this multiple columns and then this other one here is on yellow paper."
+  -
+    timestamp: "1:00:11"
+    speaker: Andy
+    content: "I understand that a million percent, but I'd also say that if you really read those, I think people are oftentimes put off by, \"Here's a big list of things that we're gonna require you to do.\" It's like, \"Well, why are you requiring us to do things? We have our own way of doing stuff and you're making us meet your requirements, which is dumb.\" If you really look at those requirements though, it's almost always stuff that you've probably already included in your thing and might just be worded differently. And it might be kind of stretched out to seem longer and more thorough, when in actuality you already have a section describing the scope, you really do. So we found that we could oftentimes take what is essentially our, on our terms, boilerplate and just, that actually fits requirement 4.2.1 A is for you. Which, you know... There's not that much difference. I think there's a bigger difference in just how it's presented than the actual content of it."
+  -
+    timestamp: "1:01:05"
+    speaker: Matt
+    content: "We done?"
+  -
+    timestamp: "1:01:05"
+    speaker: Andy
+    content: "I guess. This is a different kind of episode. We'll see what people think about it."
+  -
+    timestamp: "1:01:08"
+    speaker: Matt
+    content: "Maybe people would be so excited that they don't have to think about proposals anymore. We just solved all the problems for them."
+  -
+    timestamp: "1:01:14"
+    speaker: Andy
+    content: "Yeah. I don't know. Must be one of those ones where..."
+  -
+    timestamp: "1:01:16"
+    speaker: Matt
+    content: "I'm definitely gonna steal some of your ideas I like some of the stuff, I just hadn't considered it in this... Doing it here as opposed to another document or just sending an email that has that once we get started and say, \"Hey, this is how we're gonna handle this part of it.\" It's a proposal thing, not a project management thing."
+  -
+    timestamp: "1:01:32"
+    speaker: Andy
+    content: "Yeah. I'm excited for it to grow over time. I expect to add more sections when somebody asks us about, I don't know... For example, we don't really have an accessibility section right now. That's a perfect example of a section that we very well could have. We have an approach to accessibility that we cover, that is basically pretty straightforward. So we could write that down. That's something that I don't think we've ever been asked about on any project ever, which is not a good thing. [chuckle] But we work mostly for for-profit businesses that they... Just for worse. I'm not gonna say for better or worse, it's just for worse. They just don't care about spending a certain amount of time to end up being a fairly huge minority of their actual customers. They're not gonna see the effect in the bottomline so they don't think it's worth it to do \"X\" amount of optimization work to make sure that a screen reader works perfectly. They're not gonna do testing for screen readers, for example. So, that's a section we could add. And if we have to write that for a client in the future, and sit down and really carefully craft a language to write down very clearly what we're gonna do, then we'll just start including that in all our proposals from the future."
+  -
+    timestamp: "1:02:34"
+    speaker: Andy
+    content: "Once we've written it down, we'll just do it. We just haven't had to write that down yet, so we haven't done it just yet. So, I'm excited for this system to grow and get more specific and better. And then eventually, I always wonder how much of this stuff belongs in a proposal, and how much of this belongs not on a little static site for each client that represents a proposal, but just on our website."
+  -
+    content: Chuckle
+  -
+    timestamp: "1:02:54"
+    speaker: Matt
+    content: "Welcome to Friends of the Web, here's who we are."
+  -
+    timestamp: "1:02:56"
+    speaker: Andy
+    content: "Just on our website like, here's what we do. And so I think it's useful to think about that too when you're working through these things. 'Cause I don't know, would it be useful to write a blog post about how we decided which browsers we're gonna support and share that with people? I don't know, maybe."
+  -
+    timestamp: "1:03:12"
+    speaker: Matt
+    content: "I think actually yes. If you wanna go ahead and do that, I'm interested by it."
+  -
+    timestamp: "1:03:16"
+    speaker: Andy
+    content: "Well I sent you the proposal, so you can read the thing. [chuckle]"
+  -
+    timestamp: "1:03:17"
+    speaker: Matt
+    content: "Yeah. I mean for other people."
+  -
+    content: Music
+  -
+    timestamp: "1:03:31"
+    speaker: Matt
+    content: "This has been Working File, thanks for listening."
+  -
+    timestamp: "1:03:33"
+    speaker: Andy
+    content: "Because this episode was a bit different, Matt and I would especially appreciate your feedback on it. Should we do more shows like this? Less? What do you think? "
+  -
+    timestamp: "1:03:40"
+    speaker: Matt
+    content: "Find us @workingfile on Twitter and say things like, \"Hey Andy, that was a boring show, bad idea.\" Or, \"Hey Matt, I loved that show. Great idea.\""
+  -
+    timestamp: "1:03:47"
+    speaker: Andy
+    content: "Yep. [chuckle] Those are your options."
+  -
+    content: Laughter
+  -
+    content: Music
