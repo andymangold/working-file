@@ -1,0 +1,757 @@
+messages:
+  -
+    timestamp: "0:00:00"
+    speaker: Andy
+    content: "You're listening to Working File. A podcast about design and its relationship with the world. My name is Andy Mangold."
+  -
+    timestamp: "0:00:06"
+    speaker: Matt
+    content: "And I'm Matt McInerney."
+  -
+    timestamp: "0:00:08"
+    speaker: Andy
+    content: "On this episode, we're gonna discuss the relationship between design and politics."
+  -
+    timestamp: "0:00:12"
+    speaker: Matt
+    content: "Also, I don't know what politics means anymore. What is anything?"
+  -
+    timestamp: "0:00:15"
+    speaker: Andy
+    content: "Who knows anything anymore?"
+  -
+    content: Music
+  -
+    timestamp: "0:00:38"
+    speaker: Andy
+    content: "Tonight, we have Maurice joining us again, Maurice's second episode with us. Welcome back, Maurice."
+  -
+    timestamp: "0:00:43"
+    speaker: Maurice
+    content: "Thank you for having me back."
+  -
+    timestamp: "0:00:44"
+    speaker: Andy
+    content: "And then we have a new contributor, joining us all the way from the other coast of the country is designer, Robyn Kanner. Hello, Robyn."
+  -
+    timestamp: "0:00:52"
+    speaker: Robyn
+    content: "Hello. Hi, hi, hi."
+  -
+    timestamp: "0:00:53"
+    speaker: Andy
+    content: "Thank you for taking the time to join us tonight, and I hope you will join us for many episodes in the future and this is the beginning of a beautiful podcast friendship."
+  -
+    timestamp: "0:01:02"
+    speaker: Robyn
+    content: "I love that."
+  -
+    timestamp: "0:01:04"
+    speaker: Andy
+    content: "Let's get right down to business tonight, none of this joking around, none of this small talk, because we got a big topic that I want to, at least begin to discuss. I feel like this is something that's not gonna be entirely contained in one episode but there's gotta be a first episode, so here we are beginning the conversation. And I think there's a little bit of back story that's probably necessary here, which is to say that one of our goals with this show is that it not be tied to specific time as much as possible. So, we're not gonna talk about the thing that happened on Tuesday, or on Wednesday, it's not your design news podcast. We aim for these shows to be as evergreen as possible. I hope people that listen in two or three years, it's still somewhat meaningful to them and it doesn't lose all of its meaning. That said, this will be the seventh episode of the show when it comes out, and all six prior episodes were all recorded before the election that happened in November. This will be the first one in this brave new world we find ourselves living in."
+  -
+    content: Chuckle
+  -
+    timestamp: "0:02:07"
+    speaker: Matt
+    content: "Oh, boy!"
+  -
+    timestamp: "0:02:09"
+    speaker: Andy
+    content: "So the topic at hand tonight is the relationship between design and politics. It goes without saying, I hope, that I found a newfound importance in this conversation given the results of the election in November. It feels more pressing than ever, and I think that there's a lot of people out there that maybe for the first time are feeling energized, they feel like the political situation is something they need to pay attention to, it's something that is important or dangerous, or something that needs attention. Maybe they're trying to get involved for the first time or think about their career relative to the political landscape for the first time. So, I wanted to have a conversation about how we, as humble designers, can relate to policy, public policy and politics. So, our guests, of course, are Maurice and Robyn, and Maurice, you've had experience working with local government before and we're gonna get to that in a little bit. But Robyn you're joining us specifically because I followed you for a while on Twitter, and you oftentimes extol the virtues of how design is inherently political and are kind of talking about the political nature of design. So, I thought we'd actually just start by having you explain your perspective a little bit so that maybe people that haven't considered design a political thing. \"I'm out here drawing logos, I'm making posters, I'm designing a branding system. How is what am I doing political? I'm just a designer.\""
+  -
+    timestamp: "0:03:35"
+    speaker: Robyn
+    content: "Sure, you're so much more than just a designer. So yeah, I would say that my large overall premise is that the decisions that we make as designers are conscious of a cultural landscape that's happening around us and because of that it's politicized. The decisions we make can influence a conversation, it can influence how somebody reacts to something, given a cultural moment that's happening, it could shift their feelings about whatever it is that you designed. So all of that together, makes the process of making a decision in design political for me."
+  -
+    timestamp: "0:04:11"
+    speaker: Andy
+    content: "And when you say making a decision in design you mean, \"I'm designing this thing, what color am I gonna make this?\" Or, \"What font am I gonna choose?\" That kind of stuff. Does it really apply on such a small detailed level?"
+  -
+    timestamp: "0:04:24"
+    speaker: Robyn
+    content: "I would argue that it does. It kinda depends on the project that you're working on though. I think how design is political and visual practice could be a little bit different than UX versus IA or the myriad of other ways that people identify as designers. I would say that if you're a UX designer and you're working on a large-scale product that could be hitting a various... Part of the country, you have new edge cases to consider and part of those edge cases could be political, or if you're a visual designer and you're doing something on gender, the colored spectrum that you use could be political, how you handle accessibility in your practice could show what you believe as a company. So, all those decisions together could be very well seen as political, and I think it's good for designers to be conscious of that."
+  -
+    timestamp: "0:05:13"
+    speaker: Andy
+    content: "Yeah, I agree, too. I think that it's much more obvious that something is political, like you said, when you're working on a product and you're deciding, \"Should we show someone's age and location and gender identity on this profile or should we not, or should we build this thing so that it's accessible and people that maybe don't have the best vision can still use it.\" Those things are more overtly political, but I also agree with you that I think visual design has to be political as well. And I feel like some people are eager to talk about the power of visuals, the power of graphics when it's convenient to them. And when it's not convenient to them they're like, \"Oh, this is just me making frivolous shapes and colors so what does it matter, it's not anything.\" And then on the flip side, they'd be like, \"Oh, but this thing I made is an important cultural artifact and it means a lot, and it represents this big idea.\" I feel like you can't have it both ways. If you are someone that is a designer because you believe in the power of imagery and the power of communication, then you have to inherently believe in that power when you maybe inadvertently do something that offends somebody or didn't send the message you meant for it to send."
+  -
+    timestamp: "0:06:19"
+    speaker: Robyn
+    content: "Yeah. I think a lot of that goes back to ownership, right? I think if you're a designer and you're able to own that decision that you make, it's a lot different than somebody saying, \"Oh, yeah, I made this print magazine and I only did it this way because my boss told me,\" and I didn't really own it, \"He just told me what to do or whatever.\" It's like that. I think that's a different conversation, too, versus whether you're psyched about something and you own it, and you're really into the responsibility that it carries. I think that will shift how you handle feedback on whatever it is that you just made."
+  -
+    timestamp: "0:06:48"
+    speaker: Andy
+    content: "That's definitely part of it, too, right? It's much easier to, at the very least, feel like you can make your values known if you are in a position to make decisions about a project. If you are working as a junior designer or if you're a freelancer out there that feels like they're struggling to find work, and you don't really have the luxury of turning down clients that don't philosophically or politically agree with them. I think it's a lot harder to sometimes figure out how politics practically relates to you, right? Because you're like, \"Well, I've got to do this thing. And I've got to make my money to pay my rent, so if I am asked to design something where it's kind of sketchy, how do you actually say no to that or should you say no to that?"
+  -
+    timestamp: "0:07:25"
+    speaker: Robyn
+    content: "Yeah, it's a tough one. It's tough because it depends on the larger landscape. I think for me, I've been single for the majority of my life, so I haven't had to bury the weight of a family relying on the decisions that I make, on what I design, or what I don't design, and I think I would probably approach it a little bit differently if I did. But because of that, I've been in the position to basically say no when I don't want to do something, because I feel like it's off or I'll take the time to send an email, being like, \"I'm really glad that you're stoked this idea, but have you considered X, Y and Z?\" And maybe they have, maybe they hadn't. I think there's also a lot to be said about this idea of, \"If I don't take it on, somebody else is gonna take it on.\" So it's probably gonna exist in the world anyways. So do I wanna be the person to influence it in the best way I can? Those are our questions to maybe consider."
+  -
+    timestamp: "0:08:20"
+    speaker: Andy
+    content: "Yeah. I'm actually curious. I'll put this to everybody. Who here has actually turned down a project for a political stance they hold?"
+  -
+    timestamp: "0:08:30"
+    speaker: Maurice
+    content: "I have."
+  -
+    timestamp: "0:08:31"
+    speaker: Matt
+    content: "I have done that."
+  -
+    timestamp: "0:08:31"
+    speaker: Andy
+    content: "Yup. So we've all done that then?"
+  -
+    timestamp: "0:08:34"
+    speaker: Matt
+    content: "Yes."
+  -
+    timestamp: "0:08:35"
+    speaker: Andy
+    content: "I'll tell one of mine. I'm curious to hear what are the kind of projects you all have turned down. Obviously, if you can't talk about it, you can't talk about it, but the one thing in my career we've turned down at work was that we got contacted by a shooting range, like a fancy shooting range in Vegas that prides itself on having particularly dangerous guns. And just really steeped in the whole guns as entertainment culture, and that's the one thing we've ever had where it felt like... This is like in class when you're talking in senior seminar in school and they're like, \"What are you gonna do if a cigarette company wants you to design their carton?\" And I'm like, \"This feels like that, and we're just gonna have to turn this one down on those grounds.\" What are some things you all have turned down if you can talk about them?"
+  -
+    timestamp: "0:09:21"
+    speaker: Robyn
+    content: "I co-founded this site called MyTransHealth. In the middle of it, getting a lot of press, we got reached out by a VC-type person that basically sat us down for coffee, and was like, \"Hey. We just saw that you got a bunch of press for making this trans healthcare site. Trans people are pretty hot in the Internet right now. How about you stop making that healthcare site, we'll pay you a bunch of money to make a TMZ for trans people.\""
+  -
+    timestamp: "0:09:48"
+    speaker: Matt
+    content: "Whoa!"
+  -
+    timestamp: "0:09:49"
+    speaker: Andy
+    content: "Whoa!"
+  -
+    timestamp: "0:09:51"
+    speaker: Robyn
+    content: "Oh yeah."
+  -
+    timestamp: "0:09:52"
+    speaker: Andy
+    content: "That's interesting."
+  -
+    timestamp: "0:09:54"
+    speaker: Robyn
+    content: "No joke."
+  -
+    timestamp: "0:09:55"
+    speaker: Matt
+    content: "It seems like that was an obvious one, but did it sway you at all?"
+  -
+    timestamp: "0:10:01"
+    speaker: Robyn
+    content: "Did it sway me? Well, we didn't talk after that moment. We were just kind of like, \"Okay. Well, I guess we're gonna leave right now. Thank you very much.\""
+  -
+    timestamp: "0:10:10"
+    speaker: Andy
+    content: "That one is especially obvious too, because that person was also asking you to essentially abandon the mission of the site that you set out to accomplish this goal for."
+  -
+    timestamp: "0:10:20"
+    speaker: Robyn
+    content: "Correct."
+  -
+    timestamp: "0:10:21"
+    speaker: Andy
+    content: "For example, I specifically remember this gun range's website was the perfect project for us in every way, except for the fact that it was a gun range. So we pride ourselves in building custom software and this was a perfect site where they had this unique problem and there wasn't any software that already existed to solve their problem and doing the scheduling for the ranges would have been a really cool problem to solve, but... So, that was really just a content thing, yours is even more intense, because it was like, \"No, no. Please stop doing that good you're doing in the world and instead to do some trash for me.\""
+  -
+    timestamp: "0:10:52"
+    speaker: Robyn
+    content: "Right, yes. Yeah. Basically, that was the interaction. But what else does everyone have?"
+  -
+    timestamp: "0:10:58"
+    speaker: Matt
+    content: "I probably have to be semi-vague about mine, but I feel like mine was not as obvious or as easy to just be like, \"No, you're the worst. Go away.\" It was just an institution that I just didn't feel held to the same standards as I would believe it should. If that's vague enough for you, but it's just really hard, because it seemed like a really good job. It seemed like plenty of money. It seemed like it would sustain us for a period of time, but it was more than me making the decision, because I work with a couple of partners. And everyone was just kind of like, \"It will be good money, but I don't feel comfortable with it.\" There was just enough people being not comfortable after a week of thinking about it. It wasn't so obvious as just, \"I don't want to stop doing good in the world or I don't want people to shoot each other.\""
+  -
+    content: Laughter
+  -
+    timestamp: "0:11:46"
+    speaker: Andy
+    content: "What about you Maurice? Can you talk about any of the ones you've turned down?"
+  -
+    timestamp: "0:11:48"
+    speaker: Maurice
+    content: "Yeah, sure. I've done work at the state, the local and the federal level in terms of design."
+  -
+    timestamp: "0:11:57"
+    speaker: Andy
+    content: "Triple threat."
+  -
+    content: Laughter
+  -
+    timestamp: "0:12:00"
+    speaker: Maurice
+    content: "But I think the question that every designer has to ask, particularly if they're looking into how do they get more involved or how do they form some sort of a ethical guideline about their work is, how far should you go to make sure your clients meet your moral tests. I think in each of the instances that have been put forth so far it's pretty clear, you don't wanna turn MyTransHealth into a tabloid gossip site. You don't wanna work and do things for a shooting range. Those are pretty clear-cut. Here in Georgia, Georgia's a red state, I have ended up doing a lot of work for Republicans. I've done a lot of work for Democrats as well. What I've found is that politicians are just politicians in general, regardless of which side of the aisle they're on. Granted, what they say to their constituents is what they have to say in order to get votes, but politicians tend to be pretty shady in general, so you end up having to go more on the individual than just on what their party stance is. But I've turned down things like that. Atlanta's a big entertainment city so I have at times gotten a lot of adult work, like adult entertainment type work, which I'm not morally opposed to doing it, but the problem is you can't show that. If you do that work it's hard to... That's a road, once you've went down that road you're now the adult designer. It's hard to pull it back from that."
+  -
+    timestamp: "0:13:24"
+    speaker: Andy
+    content: "Not a lot of branches off of that path probably, I would guess."
+  -
+    timestamp: "0:13:26"
+    speaker: Maurice
+    content: "Right, and I've certainly gotten those kinds of approaches before, and it's like, I can't really do it because... Not because I have a moral opposition to it, but more so, I can't show this work. I can't put this in a portfolio. Who am I gonna show this to? It wouldn't make sense for me as a designer in order to do that."
+  -
+    timestamp: "0:13:45"
+    speaker: Andy
+    content: "And something you said really resonated with me, Maurice, which is that you have to decide how... So there's a spectrum, and each of us sit somewhere politically on this spectrum, and the question is, \"How far deviated from me does this client or potential project,\" or if you're working as an employee, does my boss, or this company I'm working for, how far deviated from me does this have to be before I'm saying, \"This is gonna cross the line\"? And one of the things that I'm still struggling with is that I was very much raised and spent most of my life with the opinion of, if you disagree with somebody that is not grounds to disrespect them. It's not grounds to write them off or disregard them and we have to... I was raised with the idea that you should hold people's opinions and ideas as sacred, like, \"You're allowed to have your opinion and that's your thing, and that shouldn't preclude us from working together or being friends or whatever the context is.\" And as I've gotten older and more politically engaged, I more and more feel like, \"Yeah, but some of these people, their whole philosophy is that they don't like other people. Their whole philosophy is that they don't care if this population is hurt or disenfranchised or whatever, so I don't feel like it's a thing where I can just be like, \"Oh well, you and I disagree on this thing, but water under the bridge.\""
+  -
+    timestamp: "0:15:01"
+    speaker: Matt
+    content: "To each your own."
+  -
+    timestamp: "0:15:01"
+    speaker: Andy
+    content: "As that happens it becomes more difficult for me to say where on that spectrum I'm gonna draw the line, and Matt, I'll give a similarly vague example. Some projects we have taken in the past have been for companies that, for example, it's a company of 30 people and they're literally all white men, and it's like, okay, this is clearly something that I think is a problem. This is a problem I've called out in the industry elsewhere. This is a thing that I do not stand behind and think needs rectified, so do I take this job? In those situations I was like, \"Yeah, I think I do, because... \" In those moments I feel like I'm just this little person and I have my little opinion, and even though I believe in it, I don't believe in it enough that I can say, \"You're doing this thing wrong, company who is big and been around for a long time, therefore you don't get to work with us.\""
+  -
+    timestamp: "0:15:52"
+    speaker: Matt
+    content: "Well, also do you think if I whack things up that much maybe I don't get to work with anybody, if I make enough excuses that... Like an old company that doesn't maybe respect the idea of diversity, like, I'm sure you can find a problem similar to that everywhere, and now you don't have any clients, and now you don't get to do any work or make any decisions."
+  -
+    timestamp: "0:16:11"
+    speaker: Andy
+    content: "Yeah, that's certainly where you can extrapolate it to. I would love to only work for the ACLU and Planned Parenthood and some other organizations that are just doing great work in the world, but very few people, I think, have that privilege, or maybe not, maybe I just haven't tried hard enough. I don't know. I could probably quit and go get a job designing for one of those companies, I guess."
+  -
+    timestamp: "0:16:29"
+    speaker: Robyn
+    content: "I think there's also this thing about just like that example too. I always bring out the idea of whether being a freelance designer to being a professional... Not professional, but an in-house designer, as like whether you're renting a house or buying a home. And I think when you're renting a house and you're in that freelance situation, it's... At least, in the past I've approached design a lot differently in the room when I've been freelance. And because of that, that conversation with the 30 white-dude VPs is a lot different than when you own a house and you're in office everyday with them, so I think that shifts whether you say yes or no, and how that goes for you too, right?"
+  -
+    timestamp: "0:17:11"
+    speaker: Andy
+    content: "Sure."
+  -
+    timestamp: "0:17:11"
+    speaker: Matt
+    content: "Yeah, yeah. Absolutely."
+  -
+    timestamp: "0:17:13"
+    speaker: Andy
+    content: "Absolutely, yeah."
+  -
+    timestamp: "0:17:13"
+    speaker: Matt
+    content: "Do you find to have more power in one situation than another? 'Cause I've been in both, not in the exact situation, but I've been in two similar ones and I now can't decide which is more powerful or better. 'Cause in freelance you could just walk away. The other one you're stuck with them, but the other one they might know you better, respect you more. Freelancer, what power do you have?"
+  -
+    timestamp: "0:17:34"
+    speaker: Robyn
+    content: "Oh, I've seen freelancers have a ton of power. One of the things I saw the most when I was freelancing was that whenever I was in the room and there was already an in-house designer, basically whatever I go and say is something that they've already said, but just because I'm an outside voice, my opinion means more to them or something like that."
+  -
+    timestamp: "0:17:50"
+    speaker: Andy
+    content: "Consulting bias."
+  -
+    timestamp: "0:17:52"
+    speaker: Matt
+    content: "She gets paid a higher hourly rate, listen to her."
+  -
+    timestamp: "0:17:53"
+    speaker: Robyn
+    content: "Exactly. I'm guilty of that too. I remember being at smaller companies and wanting to get a thing through a company and a bunch of people have been like, \"Well you're just like that one person that we've gotten comfortable with in the office so maybe you're right about this, or maybe you're not.\" And I've just been like, \"Oh, well you should have hire this person to say the exact same thing I'm gonna tell you.\" And then they do and then I get to make the thing that I want, so that's happened for sure too a lot."
+  -
+    timestamp: "0:18:18"
+    speaker: Maurice
+    content: "Yeah, I think you definitely have more power being the freelancer because, depending on what the relationship is as you've approached the client or if the client has approached you, you're still in the position of being the expert. And so, if you're able to, at least, put forth your moral obligations to say I won't do it because of this, or I won't do it because of that, whether or not they choose to respect it is up to them, but you're the one that has the power to say yes or no."
+  -
+    timestamp: "0:18:43"
+    speaker: Andy
+    content: "So it's interesting because I agree with that assessment of the consulting bias which is something I've definitely experienced where I think what it comes down to is the sunken-cost fallacy, right? We paid this consulting company x of dollars to solve this problem so they're giving us the solution, that must be the solution. Even if, like you said, somebody internally has been saying for months, \"If we just did this... \" But no one hears, so and so, but it's different for me because we're being hired to usually build a website and when you hire somebody to build a website, you don't automatically assume they're also the expert on x moral ethical whatever thing. We're not being hired as business management consultants or diversity consultants or whatever the issue at hand might be. I don't feel comfortable in those situations being like, \"We're here to build your website but while we're here, we wanted to point out that your family-leave policy isn't really inclusive to people that are adopting or whatever the thing is that I care about but I'm not there to do.\""
+  -
+    timestamp: "0:19:44"
+    speaker: Andy
+    content: "I also want to talk a bit about the practical side of things. Maurice, I wanna hear more about the work you've done for government, at all the different levels, how you got those jobs, what your experience has been, how you compare those jobs to the private sector and I'll say that I personally, though we've tried a couple of times to get contracts at a couple different governmental levels at work, we've never gotten any of the contracts for whatever reason, so we've never had a chance to work for any real government organization, so that's the thing I wanna hear more about and I think probably some listeners too who haven't experienced it might find it interesting."
+  -
+    timestamp: "0:20:20"
+    speaker: Maurice
+    content: "Okay, so I'll start at federal since that's the highest one. With federal, I've worked for two different federal agencies and it's been different in how I... I don't want to say how I approached it, but how I worked for them. So the first one was as an intern. I interned at NASA and did work at Ames Research Center out in Moffet Field, California. So in that instance, you're there on the base, you're working directly with people to make graphics, at the time I was doing it, for their robotics education initiative that they were doing. So it was building out websites, it was making graphics, it was making flyers. It wasn't super sexy work. It certainly wasn't anything that was really public facing to hundreds and thousands of people but for the local community, for the schools that initiative worked with out of that NASA facility, they got to see it and so it was important for them to be able to get that information, and of course, important for me to communicate the certain initiatives and the software and the hardware and the things that we had to do."
+  -
+    timestamp: "0:21:24"
+    speaker: Maurice
+    content: "Now, when I started my business and started doing RFPs or responding to RFPs, that's a totally different ballgame. Usually with local and state and federal, the way that design is meted out is done through a RFP or Request For Proposal and these can be sent out through a number of different ways. Generally, if you're registered with the state or with the city as a vendor, you will get emails that will have particular job codes that relate to what kind of work it is that you do. So if I'm a web designer, say my code is 072, and so I'll get all of the RFPs that come out for 072 type job codes. And then I can look at the RFP and decide whether or not I want to respond to that in order to bid for that job. Now, it is a bid thing, so none of it is a sure bet. You could go through the entire RFP process and not get the job. It is completely normal. A large part of that is because of open records laws and things like that. They have to do the RFPs, and just because they do the RFPs it doesn't necessarily mean that they will choose someone from that RFP process. They may choose a vendor that they've already worked with tens of dozens of times. But they go through the open process because they have to because that's the law. They have to do that."
+  -
+    timestamp: "0:22:45"
+    speaker: Andy
+    content: "And it's worth mentioning here, at one point we got approached and basically asked to submit a proposal through an RFP for a city's website. It wasn't Baltimore, it was a different city. Doesn't matter. But something that was really interesting that actually caused us not to submit a proposal is that the person that reached out to us just straight up told us, \"We'd love for you to submit a proposal, someone referred you to us and we think you'd be a great fit for the job. By the way, we're obligated by law to take the lowest proposal no matter what it is,\" and I was like, \"Record scratch?\""
+  -
+    content: Laughter
+  -
+    timestamp: "0:23:18"
+    speaker: Andy
+    content: "And if you think about it for a second, it actually kind of makes... Well, it doesn't make sense but you can see why someone would have made that law, right? Because you put the RFP out, you say what you need, if you get 10 bids back all promising you what you need, why not take the one that's cheapest because they're gonna give you what you need. But I think anybody that works in any industry knows that's not necessarily the recipe for getting the best work or even the best value for work. So when we saw that, we were like so what we write in the proposal doesn't matter as long as we just say we'll do the thing and here's the number and they were like, \"Yeah, basically.\" So we didn't bother submitting for that one."
+  -
+    timestamp: "0:23:52"
+    speaker: Maurice
+    content: "The good thing is that if you do land that, it's good money if you can get it because the projects do tend to be very long. They do to tend to pay on time. And so, if you do manage to land the project it can be pretty lucrative, especially if you maintain a good relationship with them and they continue to go to you for more work moving forward. Even to reply to the RFP, it's not just as simple as sending in an email or sending in a proposal. Oftentimes, and this will very depending on the agency or the city or the state, but you'll have to submit things in print, oftentimes in triplicate, in binders, on CDs. It can be a big cost even to put together what your bid is going to be for the proposal. So you have to decide when you get it and look through it, is this even worth doing it? That's another consideration."
+  -
+    timestamp: "0:24:44"
+    speaker: Andy
+    content: "Something that I think is important to note is that I am depressed by the idea that, especially, young and engaged designers would look at a process like that and decide it's not worth it. And instead, whatever company's been doing this for 15 years and just basically has the proposal process all laid out in a folder and they just paste the things in and hit send, I hate the idea that those are the companies that will get jobs like this. The one thing I always tell people when dealing with bureaucracy is that I always try to be empathetic to bureaucracy."
+  -
+    timestamp: "0:25:18"
+    speaker: Andy
+    content: "Because it's very easy to look at it and think, \"Oh, this is just a horrible system. Everything's broken. Look how much work it takes to get a job for the government. Why do I have to do this thing in triplicate? We still have to do it in print. And that's so archaic and old fashioned,\" but all those things are in place for a reason, usually. Even if it's not necessarily still a good reason. It's not for any one malicious organization's actions that this process is maybe not ideal. It just comes right back to me saying, \"I can imagine why it makes sense to say we should take the lowest proposal.\" It doesn't make me mad that that's how that works. I don't think it's unjust. I imagine it, I understand it and the reality for that particular one is the math worked out, \"Okay, we're just not gonna submit a proposal here because it's not worth our time.\" I do want to encourage, especially young people, to think about that a little bit and not just automatically assume that bureaucracy is not worth it because we have an instant gratification culture."
+  -
+    timestamp: "0:26:15"
+    speaker: Maurice
+    content: "And I have worked for some state agencies where that is the case. I've been in the office, I've seen proposals as they've come in and yes, they'll come in in the binders and everything and then, we'll flip right to the pricing page and see if it's in our budget. All the other stuff we'll get to later. We just want to make sure that what you're bidding is gonna be in line with what we can actually afford."
+  -
+    timestamp: "0:26:36"
+    speaker: Andy
+    content: "Seems reasonable."
+  -
+    timestamp: "0:26:37"
+    speaker: Maurice
+    content: "It does seem reasonable. And I don't wanna say... I'm saying these things because this is one way that designers, depending on if they're freelancers or agencies, etcetera, can work with state government, city government, federal government. There are other ways that it could be done. For example, if you are a registered woman owned business or minority owned business with your state, that often means that there are gonna be projects that might be set aside just for those types of businesses. It can make things a little bit easier in terms of you're not necessarily fighting for the general pool of work. You might be doing something that is more specialized. For example, I had an agency that reached out to me from New York that was looking for minority owned businesses just in general. Minority owned design businesses to work on the Obama Foundation website. Now, my company, unfortunately, is not minority registered here in Georgia. It's a long process and for companies I know that have done it, it hasn't necessarily meant that they've gotten more work. It's been a good designation to have but it doesn't necessarily guarantee the work, and so I did have to, unfortunately, turn it down because I didn't meet that particular criteria. But, it can be something which can tip the hat in your favor if that's the case."
+  -
+    timestamp: "0:27:50"
+    speaker: Andy
+    content: "Do you have any advice, Maurice, when it comes to practically... Let me step back a little bit first. Do you feel like the work you've had a chance to do for government, at these different levels, has had a net positive effect on the world? Is it good work or is it, \"Well I've got this government job and it pays well but I'm really just over here rearranging the deck furniture on the Titanic. How has it felt doing that work?"
+  -
+    timestamp: "0:28:21"
+    speaker: Maurice
+    content: "I'm gonna be honest, it's been a little bit of both. Don't get me wrong, those big, long projects, they keep the bills paid, they keep the lights on, that's great. And when you have those, you also have the opportunity to take on maybe some more meaningful projects and things of that nature. One thing I wanna say, regardless of if you wanna work or do some type of work for city government, state government, federal government, it is really still all about relationships. It's really all about still getting to know designers, getting to know other people that might work in those spheres because they could recommend you in the case that they can't do the work or something like that."
+  -
+    timestamp: "0:28:58"
+    speaker: Maurice
+    content: "I would say if you're a designer that has no idea where to start, it's probably gonna be much easier for you to get involved at the city level than anywhere else because every city has a city council. You can meet your councilman, they often have public meetings, they put all this information up on their city website for free. You can attend these meetings. Get to know whoever your local council person is, or district person is. Let them know what you do and who you are. And there's chances that they could have work for you. They may not just have known who to go to specifically for that. I know that we, as designers, probably rag a lot on government websites in general about how poor they look and everything like that. Chances are the designer, if they have a designer, they're probably swamped with work. And so, that might be why it doesn't look so good or why it's not this great, really well-designed website. It may just be overworked and underpaid, more than likely overworked."
+  -
+    timestamp: "0:29:58"
+    speaker: Maurice
+    content: "But in terms of just even trying to get involved on the local level... And I mentioned this actually in my podcast, Revision Path. I've talked to people and told them that ways you can involved are going to local neighborhood meetings, designing flyers, maybe see if you can volunteer if there's... Right here in Atlanta right now our mayoral race is going on. See if there's ways you can volunteer your services. And it's not going to be this big great sexy work again. But it could be the kind of work that ends up being seen at a bunch of different places, it's work that does go towards a certain common good. If you believe in a certain candidate and what they say and what they're about, doing that kind of work for them can be very fulfilling."
+  -
+    timestamp: "0:30:40"
+    speaker: Maurice
+    content: "In 2009, I was the director of New Media for a mayoral campaign here in Atlanta, and we did everything from websites to social media to print, t-shirts, flyers, you name it. And that work got seen by people all over the city, I still get business from that work, and that was in 2009. So the work still does have an impact and I've been able to build on that to do other work, to do work for the city of Atlanta, to do work for a couple of state senators here in Atlanta and it's branched out from there. So building those relationships is important but also just getting involved at the local level. I remembering something that Mike Monteiro said in a Medium post for Dear Design Student where he talks about citizen designers and how in order to be a citizen designer, you have to be a citizen first."
+  -
+    timestamp: "0:31:30"
+    speaker: Maurice
+    content: "There's a really good book by Elizabeth Resnick called Developing Citizen Designers that talks about how designers can learn to practice their work in a socially responsible way. How they can take their abstract ideas and turn them into concrete things that can help their community out. I would recommend checking that book out for anyone that wants to get a good primer on things they might be able to do or what the thought process is behind doing that. But getting involved at the local level can be a lot easier than you think."
+  -
+    timestamp: "0:31:58"
+    speaker: Andy
+    content: "I think that it's important for especially younger designers to know that those jobs do exist and they are in many situations... I oftentimes feel it's difficult for somebody who is trying to hire a designer for some city government or state government website to rise above the noise of the tech world right now, for example. Or even design culture in certain states. It's a very specific culture that encourages a certain type of job and it really raises up certain types of things but those jobs exist, they are out there. We know people that have these jobs, so if it's something that... If you really feel like you want to get engaged, that's a great thing to do, is go figure out if you can get a job working directly on these issues as a primary source."
+  -
+    timestamp: "0:32:48"
+    speaker: Robyn
+    content: "Yeah, I would just say too, the idea of doing politics and design, I think it's important to remember that you can do politics and design not in politics a lot of the times. It comes down to if you're in office and you're working as a person in tech or person in ad, you can still have influence in a political discussion even though you're not working on a campaign necessarily too."
+  -
+    timestamp: "0:33:13"
+    speaker: Andy
+    content: "Absolutely."
+  -
+    timestamp: "0:33:13"
+    speaker: Maurice
+    content: "That's right, yeah."
+  -
+    timestamp: "0:33:14"
+    speaker: Andy
+    content: "And that's where I wanna take the conversation too because the reality is probably still that the vast majority of people that would hear this will not work for government now or in the future. They're working for design studios, they're working for tech companies, they are working for whatever for profit business, whatever thing capitalism has deigned to grant us with because that's where the jobs are. So, if you're in one of those the jobs the question then becomes, what practically can you do? So you can obviously turn down a job for a company that you believe to be monstrous. You can try and get a job that skews that way. But just being selfish, thinking of this from my own perspective, most of our clients end up being in the eCommerce space. So our clients are selling fonts or they're selling t-shirts or they're selling boots or they're selling rugs and interior design stuff, they're selling stuff. I put that whole world, the whole e-commerce world somewhere between neutral and slightly bad for the whole world."
+  -
+    timestamp: "0:34:18"
+    speaker: Andy
+    content: "Encouraging consumerism, encouraging this kind of... All these sites trying to make something you don't have look nicer that the thing you have. It's just encouraging dissatisfaction amongst your audience such that they wanna give you money to have a piece of that satisfaction you can sell them. I oftentimes struggle with, \"Okay, these are the jobs we have. This is the market we were established in.\" We can make the most money just making e-commerce websites all day everyday doing whatever. And sometimes I wonder this is kind of... We could try and get more jobs that are better for the world and fight that good fight, or we could just take every e-commerce job that comes. Do whatever is gonna make us the most money and then donate some of that money to an organization, which I think is also a viable way to decide how your impact on the world is going to be. And I feel like there's also other ways to cut that up. So if you're in a practical job... And Robyn, I'll throw it back to you, if you have a job somewhere... You work for Amazon now. How do you reconcile your political views with having a normal job and not changing the world through political imagery and that kind of stuff?"
+  -
+    timestamp: "0:35:32"
+    speaker: Robyn
+    content: "Sure. So prior to Amazon, I was mostly freelance in startup world and obviously how I approached design there is much different than how I do now. But that being said, at the core, my work is still about figuring out the best way for a stranger to talk to a different stranger about a thing that's a shared moment between them. That's generally... I look back on every single piece of work that I've ever done. And it comes down to this idea of a stranger interacting with a thing and how they feel about it and how their experience is with it. And that's such a political conversation to have. And sure, there's biases for me to consider while I'm doing that, and I make design decisions on data more than I ever have in my life, but data also comes in quantitative to qualitative. But it depends. I think a lot of the times, what I've found through... When MyTrans sales dropped, there was a lot of tech companies that reached out to me, so I was interviewing with the main big ones in the world. And how I talked about design varied to how they wanted to talk about design."
+  -
+    timestamp: "0:36:49"
+    speaker: Robyn
+    content: "I had to make decisions on what I was gonna be comfortable with and what I wasn't gonna be comfortable with. And if I got into the room, could I throw wrenches into systems from the beginning and how I set those parameters for people? For me, I don't even know if it's really about rectifying my feelings about doing the work that I do as much as it is knowing what it is and how I can influence it in the best way. And then, ultimately really designing a great experience, but if I catch something... I think when you design at such a large scale, if I design something that works for 99.9% of the people, I'm still screwing hundreds of thousands of people. So really vying for that edge case is more of a political feeling for design."
+  -
+    timestamp: "0:37:38"
+    speaker: Maurice
+    content: "Now, I have a question I just want to throw out to everyone. Do you feel that all design is political?"
+  -
+    timestamp: "0:37:46"
+    speaker: Robyn
+    content: "Yeah."
+  -
+    timestamp: "0:37:47"
+    speaker: Andy
+    content: "I guess in a sense it is. Honestly, it feels like if I'm having a hard day, I'll be like, \"Ah, no, it's not. I just want to make these decisions and go home. This is difficult.\" But if I'm really thinking about it, it seems hard not to make a political decision in everything you do. Even just setting up a check out page and picking the form fields. You're making assumptions about people and making decisions for them. You can't not be biased in some way, and in that sense, it has to be, right?"
+  -
+    timestamp: "0:38:16"
+    speaker: Robyn
+    content: "It's important to say, when we say design is political, that doesn't mean that every single designer has this liberal agenda either. It means that they're approaching..."
+  -
+    timestamp: "0:38:26"
+    speaker: Andy
+    content: "But they should."
+  -
+    content: Laughter
+  -
+    timestamp: "0:38:29"
+    speaker: Robyn
+    content: "Well no, maybe they should, maybe they shouldn't. I don't want to push that on people for sure. I know how I feel about the world, and I know how I represent it, but that doesn't mean that every designer is gonna share that belief system with me. But what I do think is important for designers is understanding the cultural landscape, understanding the biases that they have or they don't have, so that they're able to make a political decision that benefits everyone. If you look at politics, it's kind of reiterated in Obama's speeches. Every single day he talks, there's this idea of, \"We're one house. We're one... We're all of this pieces together.\" So political decisions really, for me, are about designing for everybody. They're not just about designing for that one core group that I identify with."
+  -
+    timestamp: "0:39:08"
+    speaker: Andy
+    content: "I agree with you 100%, and the thing I will add is that, what has been true for me and everybody I've ever been close to is that, the more you do that first thing you said, Robyn, which is just, I don't have to agree with you, I don't have to be liberal or progressive, I just have to try to understand the audience and vouch for everybody. Really understand everyone has a different perspective. I have found that if you take the time to understand everyone's perspective, you end up liberal and progressive because then you actually understand people that are not just yourself. And that leads to a certain type of political... Well, anecdotally, it certainly seems like designers in most creative fields all together, do tend to skew progressive is what I'll say, liberal, whatever. But progressive certainly. And I think that's why honestly."
+  -
+    timestamp: "0:39:58"
+    speaker: Matt
+    content: "I was going to say, is that a coincidence? Or is that if your job is thinking about other people more frequently..."
+  -
+    timestamp: "0:40:01"
+    speaker: Andy
+    content: "I don't think it is."
+  -
+    timestamp: "0:40:05"
+    speaker: Matt
+    content: "Is that a way you're gonna lean? Because it's hard to not think about how other people use something all the time and not think about who those people are. I guess it's not hard."
+  -
+    timestamp: "0:40:15"
+    speaker: Robyn
+    content: "I think in order to do design really well, you have to understand sociology, and the more you dive deeper into sociology, the more that you might... I really don't want to call it out if you're gonna push out a liberal agenda, because you might push out an anarchist agenda, or a super conservative one. But the reality is that you're gonna be more conscious of people, so I think that inherently shifts how you approach design."
+  -
+    timestamp: "0:40:39"
+    speaker: Andy
+    content: "I don't think you even have to say it's liberal or not. I do think the idea that it leans... It pushes you in a direction. But I think you can say something like, is it like empathy is a skill you develop."
+  -
+    timestamp: "0:40:49"
+    speaker: Robyn
+    content: "I was going to say empathy is a buzzword white dudes are getting hired for saying."
+  -
+    content: Laughter
+  -
+    timestamp: "0:40:53"
+    speaker: Andy
+    content: "Oh, that's true. That's very true."
+  -
+    timestamp: "0:40:55"
+    speaker: Maurice
+    content: "That's very true."
+  -
+    timestamp: "0:40:56"
+    speaker: Andy
+    content: "But I think it's not a thing that... I don't know if it's as inherent. I think you have to develop it and think about it and learn about it. It's not just like you're inherently a more empathetic person than someone else."
+  -
+    timestamp: "0:41:06"
+    speaker: Maurice
+    content: "Oh, you absolutely have to develop it. It's not a skill that comes relative. And I think that could also be just based on maybe the type of design that you're doing. Granted, as a designer, you work for people, with people, that means there's some kind of purpose to it, so inherently that does mean all design is political because that purpose should connect to society in some kind of way. But I think we have all seen very unempathetic designers that might be good at what they do, but they can't break out of whatever that bubble is, or, they can't break out of those blinders to understand the perspectives of other people."
+  -
+    timestamp: "0:41:42"
+    speaker: Andy
+    content: "And I'll say too, in addition to the job of designing most things forcing you to confront the way other people think, which is me trying to avoid saying the word empathy but just basically just defining it. In addition to that, working on software products that are used by lots of people that have analytics on them that were attempting to optimize, if doing that job has convinced me so much that... It's not that people don't have free will because every individual does have free will but it is so evident how systematic changes affect what most people will do, what the vast majority of people will do if you've seen what happens when you make that button a different color or send that marketing email on a slightly different time and how many more people consistently every single time buy the thing or do the thing."
+  -
+    timestamp: "0:42:32"
+    speaker: Andy
+    content: "Then you have to think about what happens when you put, for example, some big hurdles into the voting process, of voter identification laws and you think about that and I think a lot of people would say, \"Oh well, if people really want to vote, they'll do it and these things don't have any effect on them.\" But it does. People are this... When you're designing a system, you have to think about people as this kind of giant bell curve and you are going to move that bell curve one way or the other and know it doesn't take away your autonomy but those systems are so critically important. Every little detail has a huge effect on the way things come out. And so that has politicized me more. Building websites over the past few years of watching these things have huge effects on how people behave totally convinces you of the importance of government and systems."
+  -
+    timestamp: "0:43:17"
+    speaker: Robyn
+    content: "Yeah. So the piece of that is that the designer really kinda understand what they need to make and what kind of platform they need to make it in. I think a lot of the time designers really want to get politically charged about whatever is the work that they're doing. They'll go ahead and make a website for a thing that may or may not help people. I feel like there's a lot of websites right now that are just like, \"Here's how you talk to your local officials.\" We'll give you a directory for that kind of thing, which might not be the best way to get people to do an action. One of the things that I noticed a little about the Hillary campaign is all of the web designers at a week or two before the election stopped designing screens and just started knocking on doors because that's how they could have a bigger impact. So I think designers kinda need to understand what platform they need to design something in order to get a thing that they want done too."
+  -
+    timestamp: "0:44:08"
+    speaker: Andy
+    content: "That is a very real thing. That's like law of the instrument. I'm a designer, therefore, I will use design to make this thing better. And it's like, \"Well, maybe you can just go phone bank for the candidate you care about and give up on making a viral image that Tumblr's gonna snatch up and spew all over the place,\" but..."
+  -
+    timestamp: "0:44:26"
+    speaker: Matt
+    content: "Well, that's not different than what you said about what if we just keep making e-commerce sites and then use that money for something else? I wonder that all the time if... I like designing things so I really want to find a way to design something that helps people and makes the world better but is that just my bias and so I'm just choosing that medium and I wanna do that. Should I just go volunteer somewhere or donate money to somebody and just make as much money as I can and just give it away to somebody else?"
+  -
+    timestamp: "0:44:54"
+    speaker: Andy
+    content: "It's a difficult question."
+  -
+    timestamp: "0:44:54"
+    speaker: Maurice
+    content: "I don't know if the giving money away is design but..."
+  -
+    timestamp: "0:44:58"
+    speaker: Matt
+    content: "Well, that's what I'm saying. We're having the conversation because we're designers and we wanna see how design can be... Why design is political, how it can be political, what's the best use of our design skills but..."
+  -
+    timestamp: "0:45:07"
+    speaker: Andy
+    content: "Which, I do wanna make sure that we've been clear about that because I don't think, for example, if you're a designer that cares about the fact that everything's gone to hell [chuckle] and you're trying to do your part. If your part is just that you continue to go to your job that doesn't do anything great and you want to donate some money, that's great. I'm not here to criticize people if that's how they want to allocate their resources whether that's time, money, attention, whatever. If that's your way to kind of make a dent in the world, that makes sense to me."
+  -
+    timestamp: "0:45:39"
+    speaker: Andy
+    content: "That's one of my deeply held philosophies is that you can't be perfect at everything. For example, I know that eating meat is terrible for the environment. It's really bad for the environment, but I also really like to eat meat. And so, that's one thing where I'd choose, \"Okay, every once in awhile, I'm gonna have a steak.\" And that's really bad for the environment. But you know what? I'm also not gonna own a car so I'm not gonna do that. And I'm gonna avoid flying places. I'm gonna take the train if I can because it's better for the environment. And I'm gonna make other changes in my life that are things that I'm more comfortable giving up because if you put pressure on yourself to be the paradigm ideal citizen in every little sector of your life, you'd probably go insane. That's gonna drive you up the wall because it's impossible to be so perfect. We have to let ourselves live a little bit."
+  -
+    timestamp: "0:46:29"
+    speaker: Robyn
+    content: "It's about tiny victories."
+  -
+    timestamp: "0:46:30"
+    speaker: Andy
+    content: "Sure. So given that we talked about that though, I am also interested in the things that are innate about design because we are all here because we are designers of some cloth. And we can do a podcast talking about how people in general could help, how citizens can help in a situation but there is something specific about our job. We've touched on it a little bit but our job is so often to not just communicate but also to, in my mind, in a perfect world, give form to an idea. There's something kind of floating around. People are kinda getting at it but our job as designers and communicators is to make that concrete, materialize it, so that people can all get the same idea."
+  -
+    timestamp: "0:47:17"
+    speaker: Andy
+    content: "And some examples of this, I think this happens a lot in language. The Black Lives Matter movements, when that phrase became a hashtag, became a thing, all of a sudden this disparate activism that was going off in different directions had something we unite around. And it's not that all of it is contained under that. It's not that that bucket contains everything that matters about that particular issue but that to me is endemic of the work of what a designer should be doing. These are things that are kinda floating around in the ether. And we're gonna work to give them shape, give them form, communicate them clearly, succinctly. So to that end, I think that's another way that less practically, more theoretically, you can think about the role of a designer. If you're going to be giving shape to ideas, do it to the ones that need to be spread, I guess. Does that make any sense at all?"
+  -
+    timestamp: "0:48:16"
+    speaker: Robyn
+    content: "Kind of."
+  -
+    timestamp: "0:48:16"
+    speaker: Maurice
+    content: "A little bit, yeah."
+  -
+    timestamp: "0:48:18"
+    speaker: Andy
+    content: "It sounds like a no from the silence."
+  -
+    content: Laughter
+  -
+    timestamp: "0:48:23"
+    speaker: Andy
+    content: "It's like, I'm obsessed with the idea of linguistic relativity, which is the idea that our brains, basically, the language of our brains is spoken language. So, for example, if a baby never learns to speak, that baby will struggle to learn anything about the world, not just because it can't communicate with other adults that can teach it things, but also because your brain can't really hold an idea in it, unless you've given it a convenient label and we usually call a convenient label a word. And the way this takes place... And I'll put links in the show notes, there's all kinds of practical examples of this, of cultures where they have more words to describe a certain spectrum of colors, therefore those humans that grow up in that culture are actually much more sensitive to changes in hue in that particular colour spectrum, more so than somebody that grew up with less words for that colour. So, I think all the time about how you inventing a word, you naming something actually changes the way that people's brains are able to understand it. And I think that, that to me is, like the most powerful thing design can do, is you think about branding, making a logo for something, making a mark that can be put on these products or put on this campaign, kind of makes a new way for someone to think about this thing."
+  -
+    timestamp: "0:49:44"
+    speaker: Andy
+    content: "What is a company like Nike? Sure, they're a collection of thousands and thousands and thousands of sportswear products that all do different things for different audiences, for different kinds of people and the only thing that ties that together is all of the diligent work that every designer that works at Nike has done to try and materialize what Nike is. And in that particular example it's in the service of selling more stuff. Because if you have this bigger idea that has all these little pieces to it, then you can sell the little pieces as little entry points to this bigger idea and people feel like they're a part of something and they're brought together by this thing in some small way. And I think in a perfect world that same thing can happen for political engagement, right? And there's obvious examples of this. People wanna repeal Obamacare because it's got the dude's name in it and they don't like him. [chuckle]"
+  -
+    timestamp: "0:50:36"
+    speaker: Matt
+    content: "Nobody wants to repeal the ACA but everybody wants to repeal Obamacare."
+  -
+    timestamp: "0:50:39"
+    speaker: Andy
+    content: "No. That's called the Affordable Care Act, that sounds great, everyone loves the Affordable Care, but we don't like Obama, so we're gonna repeal this thing."
+  -
+    timestamp: "0:50:46"
+    speaker: Maurice
+    content: "And that's a function of design, by changing people's perception by just giving it that different name."
+  -
+    timestamp: "0:50:51"
+    speaker: Andy
+    content: "It is, and this is not practical. I don't know, I can't say, \"Okay, with this new perspective go into your job tomorrow designers and make a new message that brings people together and blah blah blah blah.\" But that to me is on a higher level what we as a culture, as designers need to be thinking about how we can possibly help because we're really good at doing that for companies. When the deal is we gotta sell some stuff, we really wanna make people desire this automobile, we are so good at doing that. But when we wanna communicate what the heck is going on in the legislative branch of our government or we want to communicate what this law actually does and what its practical effects are on people, we collectively, as a culture, fall very far short of that. We are subjects to all of the malicious ways that same kind of approach can be used to skew people's perspectives and change people's minds. And that is designers doing that work. Whether it's people with designer on their resume or people that are doing what I'm abstractly calling design work but they're actually consider themselves marketing people or public relations people or whatever, that idea is my idea of design and that's doing so much harm in the world right now that it makes me sad."
+  -
+    timestamp: "0:52:09"
+    speaker: Maurice
+    content: "Well, I think it's important also, within the context of what you're saying to put forth the notion that design has always been used throughout history to communicate dissent in some sort of way. And when I say design I don't just mean graphic design. You could talk about fashion design, you could talk about architecture, these have all been used in some sort of way throughout the ages to communicate dissent against something. If we are to specifically narrow it down to graphic design of course we could look at something as simple as a protest poster. There's that saying that a picture is worth a thousand words, I think we've all seen some very iconic imagery that has been used in order to communicate a certain goal. Now that could be propaganda like what we've seen during the cold war, it could be political posters like what we see now, but design has always been used in some kind of way to focus on enlightening social and political issues. So because we're discussing it within the context of this podcast and within the context of our current political time, it's important to note that this is not new. This is a continuing cycle of designers using their craft in order to communicate dissent against something."
+  -
+    timestamp: "0:53:21"
+    speaker: Matt
+    content: "I do wonder if the examples that we use where it's a matter of simplification or consolidation, like taking either disparate ideas or a more complex idea and making it simple. The only example we used in the positive was Black Lives Matter where it does bring together many kind of different horrible events and put them under one umbrella, but is part of the problem our tendency to try to simplify a complicated problem into a really simple, either solution or buzzword or something that we maybe will even scoff at later and not trying to understand the bigger problem, I think the Obamacare example..."
+  -
+    timestamp: "0:54:03"
+    speaker: Andy
+    content: "You mean like Kony 2012?"
+  -
+    timestamp: "0:54:05"
+    speaker: Matt
+    content: "That could be an example, sure."
+  -
+    timestamp: "0:54:07"
+    speaker: Maurice
+    content: "I think it can be. It certainly can be. One example I'll give is Milton Glaser. So Milton Glaser has this popular book out, for those that wanna check it out it's called The Design of Dissent, and it actually talks about what I've been speaking about before with how design has been used throughout the ages to communicate that. At one point of time, I wanna say this might have been in the, maybe the '70s or the '80s, there was a picture that he did. And you all might have seen this poster. It's a poster of a hand but each of the fingers is tinted to match someone of a different ethnicity."
+  -
+    timestamp: "0:54:43"
+    speaker: Andy
+    content: "This is the We Are All African one?"
+  -
+    timestamp: "0:54:45"
+    speaker: Maurice
+    content: "Yeah, it was something to that effect where it was a good attempt. I can see where you're going with that but just..."
+  -
+    timestamp: "0:54:54"
+    speaker: Andy
+    content: "[laughter] You're being so generous."
+  -
+    timestamp: "0:54:55"
+    speaker: Maurice
+    content: "You didn't hit the mark. I think that's... But that's just with design in general. That's trial and error, we're not always gonna get it right. In that instance it was not right, but yeah, so what you're saying it's not something where I think... Actually, I just lost my train of thought from that, sorry. [laughter] But no, that was the example that I wanted to give along that."
+  -
+    timestamp: "0:55:16"
+    speaker: Matt
+    content: "Yeah, that was an attempt to simplify a message and it came off as offensive because it stripped away everything that was... It stripped away the nuance that would make that idea work, right?"
+  -
+    timestamp: "0:55:27"
+    speaker: Maurice
+    content: "Right."
+  -
+    timestamp: "0:55:27"
+    speaker: Andy
+    content: "Yeah, so oftentimes what we're trying to do is advocate for somebody understanding the complexity and you can't do that by saying, \"So I've simplified it for you into this poster that has six words on it.\" That's not how all these things work, unfortunately."
+  -
+    timestamp: "0:55:39"
+    speaker: Maurice
+    content: "Even the greats get it wrong."
+  -
+    timestamp: "0:55:42"
+    speaker: Matt
+    content: "And it may just be as easy as saying like, \"Well, it's about how much you simplify.\" If you take a piece of legislation that is 300 pages long and you simplify it down into a couple of pages that somebody can understand and it captures the essence of it versus a single symbol. Well, it seems like one of those is more understanding than the other and it might be a little bit better and you got more people to understand it. The document version still is a better understanding of it, that just is like, it's just your degree of decisions of what to remove and what's important, which I think is the same as when we talk about creating a logo. It's like that's stripping away what doesn't need to be there, but if you strip away something that does need to be there, then you have a problem."
+  -
+    timestamp: "0:56:24"
+    speaker: Robyn
+    content: "There's also a reason why documents of legislation are 9,000 pages. They were designed that way for a large intent and purpose."
+  -
+    timestamp: "0:56:34"
+    speaker: Andy
+    content: "We've worked with a number of different lawyers through work and frankly I've been unhappy with most of them and I've ended up firing many of them except for the latest one. And one of the past lawyers we ended up firing them because we're working with them on a contract template we were gonna use with certain clients and we kept having this frustrating back and forth where I was saying, \"What does all this stuff mean here? I'm reading it and I understand the words but it doesn't seem like it's adding anything. Can we take this out?\" And they kept on revising it and barely taking anything out and I kept on sending back, \"What about this?\" And it had three sentences instead of six paragraphs. And eventually the lawyer just told me straight up in an email, they were like, \"Most of our clients like this stuff to be long so that the people signing it don't read it.\" And I was like, \"I am not that client. I would like everyone signing our contracts to understand exactly what they're getting into. I see that as the point of a contract.\""
+  -
+    timestamp: "0:57:24"
+    speaker: Andy
+    content: "That stuff is out there. These tools are being used for the right reasons and for the wrong reasons, which is something that we all need to be conscious of. Because I do think that's why a lot of these bills are probably 900 pages is because it's pretty easy to sneak something in when it's 900 pages long or pretty easy to tell somebody what to think about it if they don't actually have time in their corporeal life to read it all themselves and actually understand it."
+  -
+    timestamp: "0:57:47"
+    speaker: Maurice
+    content: "You even see that on the ballots too. Certainly, I know here for local referendums and amendments and things, they'll cram six questions into one thing and you either have to vote for all of them or vote against all of them."
+  -
+    timestamp: "0:57:58"
+    speaker: Andy
+    content: "Is there something to be said for educating people that are not designers about the things that we know about? I feel like some of the most powerful work oftentimes comes from crossing over some threshold between industries, between expertises, between knowledges. And if we, for example, could somehow magically talk to the people that are writing the ballot initiatives, like you said, and explain, \"Hey, it'd be really great if someone... \" Put yourself in a voter's shoes. Be a designer, let's make this thing make sense to somebody. Is there a way we can work to educate people both that are making these decisions in the first place to make things behave a certain way and also educate people that are just consumers of it?"
+  -
+    timestamp: "0:58:44"
+    speaker: Andy
+    content: "One thing that strikes me is that we're having this whole moment right now in the world with fake news sites. Things that look on the surface like a regular news site because it's really easy to make a website these days but actually contain no journalistic integrity and very oftentimes are spun up specifically as propaganda to deceive people. I feel like as a designer I have an extremely good radar for that. Is that something we can teach to people, to teach them what to trust, what not to trust? Is there a way that our experience can be shared that way?"
+  -
+    timestamp: "0:59:14"
+    speaker: Maurice
+    content: "Absolutely, I would hope so. I have always been of the belief that regardless of if someone calls himself a designer by profession, they have been interacting with design their entire lives. Everything that we use has passed through some level of design, whether it's the houses we live in, the clothes we wear, the cars we drive. Someone had to make that, someone had to design that based on a certain set of standards or practices or principles, etcetera. So we all know when something does or doesn't work, very similar to if we know laws don't work or if we go into the voting booth and we see the ballot and it's like I don't understand what all of this stuff is. I didn't know what all of this was. As designers, we know how important visual literacy is. We know how certain colors work towards a certain goal, how certain images work, things of that nature. So certainly we have, I think, the knowledge and the tools to put forth some kind of information to people so they can become better informed of the things that they're already familiar with just through design and through interaction just so they can become more informed and more aware of what's going on."
+  -
+    timestamp: "1:00:24"
+    speaker: Robyn
+    content: "I think that's spot on. One of the things that I think about too is going back to that idea of designers influencing how people consume fake news or real news. I think there's also a piece of whether that person's mentally allowing themselves to consider that or think that through. I think right now a lot of times there'll be people who say something as a fact and it doesn't really matter if it is or not 'cause that's... They just don't care, they just care about who's saying it. So I found myself most recently when I went to get a viewpoint across to somebody else and I know that they're not gonna probably listen to me, I get somebody else to say exactly what I'm saying and they sort of digest it in a different way, which is weird and strange, but I think that needs to be considered too because I do think in an age of... Everyone keeps calling it a post-truth era, which I don't think it correct, but I do think that people have selective hearing and who's saying whatever it is being said matters to them."
+  -
+    timestamp: "1:01:25"
+    speaker: Matt
+    content: "Actually what do you mean... Do you mind providing an example, who are you getting to speak on your behalf if someone won't listen to you?"
+  -
+    timestamp: "1:01:31"
+    speaker: Robyn
+    content: "Then I'm just blowing my sources."
+  -
+    timestamp: "1:01:34"
+    speaker: Matt
+    content: "Sorry."
+  -
+    timestamp: "1:01:35"
+    speaker: Robyn
+    content: "No, I would say that there has been, in the past year, some design conversations that I've watched happen and I'm very aware of how I act on the internet and I know it doesn't land with everybody, but there's been times where somebody will say something that I think was off or strange and then I'll point that out in my way of saying this is off or strange and they won't get it or they'll kind of push back on me. So then I'll connect with somebody else and I'll be like, \"Hey, can you just tell this person this thing?\" And they're like, \"Oh yeah, sure.\" And then they do and that person's like, \"Oh wow, I totally didn't see it from that perspective.\" I see that shit happen all the time."
+  -
+    timestamp: "1:02:11"
+    speaker: Andy
+    content: "Yeah, I've been on kind of the other side of that in that I have definitely had conversations online where I've seen people have, for example, let's say women explain to them for months and months and months why some stuff they're doing might be problematic and then if I just kind of pop in and say, \"Oh, by the way, here's... \" That same thing, but said back to you from a white man's voice, then at the very least, I get treated far more respectfully."
+  -
+    timestamp: "1:02:37"
+    speaker: Robyn
+    content: "Totally."
+  -
+    timestamp: "1:02:37"
+    speaker: Andy
+    content: "And less hostilely and at most sometimes the person is immediately like, \"Oh, I never considered that.\" And it's like, \"Interesting. Interesting you've never considered that. So interesting, it's weird because I feel like I've seen people say that, but... \" That's definitely a real thing."
+  -
+    timestamp: "1:02:51"
+    speaker: Matt
+    content: "What we should do is design some white guy masks, send them out into the world and let everybody have that power. Is that what you're saying, Andy?"
+  -
+    timestamp: "1:02:57"
+    speaker: Andy
+    content: "Everybody talk like this. Confidently."
+  -
+    timestamp: "1:03:00"
+    speaker: Robyn
+    content: "Yikes."
+  -
+    timestamp: "1:03:01"
+    speaker: Andy
+    content: "Don't do that."
+  -
+    timestamp: "1:03:02"
+    speaker: Robyn
+    content: "Yeah."
+  -
+    timestamp: "1:03:02"
+    speaker: Andy
+    content: "Be yourself. Be yourself and make people care about who you are, don't pretend to be somebody else."
+  -
+    timestamp: "1:03:06"
+    speaker: Robyn
+    content: "It is weird though. I think design is so much about getting people to listen to whatever it is that's being said and sometimes it just needs to be a different voice or a different face. I kind of joke about online, running a fake Twitter account of just a white dude so somebody will listen to what I say, but then I just have better things to do with my life, so I don't."
+  -
+    timestamp: "1:03:27"
+    speaker: Andy
+    content: "Yeah. We should probably start moving to our closing statements. I want to close by saying that the most fundamental job... I'm gonna reiterate these things, but no matter what you're designing, you are almost always fundamentally being asked to understand a different perspective. Unless you are literally the exact audience for the thing you're designing, you're maybe being asked to understand a slightly older audience, an audience with a different amount of money than you or an audience that cares about a genre of music you don't care about, no matter what you're designing, as trivial as it may seem, you are being asked to consider a different audience."
+  -
+    timestamp: "1:04:08"
+    speaker: Andy
+    content: "And I think if you simply take that approach that you currently have in your design practice and apply that to the world around you, consider somebody else's perspective, put yourself in their shoes, pretend that the government and the legislation you see happening is happening to someone that is not you. I think if a lot of people did that we would be a little better off because people would have a little more understanding for people whose perspective and context is not exactly the same as theirs. And that's been a part of my personal journey, making design things and thinking about design and making things for other audiences has forced me to think about that in a way that to me political engagement and progressivism is inescapable but even for people who haven't had that experience, I would encourage you to just... If you're a good designer and you're thoughtful, take that process, apply it to other things and see where that gets you because I think we'd all be better off if that happens. Matt, what is your closing statement, Matt?"
+  -
+    timestamp: "1:05:11"
+    speaker: Matt
+    content: "Now I'm dwelling on the thing Robyn just said and I kind of love the idea that... So I think I know that the way I say something when I'm doing design work affects greatly the way people will hear it or I said it in this color or this typeface or whatever, the way you show a message, or say it, or portray it, or whatever is gonna change the outcome a lot. And I've also been feeling in the past year that I'm just shouting and no one is listening and how could the world possibly be this way? What is going on? And nothing is landing or connecting with the people who disagree with me. And now I kind of like the idea that maybe take some of that thing I think I already know, try it in a different voice, try it in another way of saying it, maybe have someone else deliver the message. I know I have that, the privilege of being the white guy on Twitter who can maybe do the same thing you do, Andy. But maybe there's other ways to think about that that can feel more useful. And not just like you're shouting at someone who has no interest in listening to you at all, even though you think you're seeing the world end."
+  -
+    timestamp: "1:06:16"
+    speaker: Andy
+    content: "Maurice, any closing thoughts for us?"
+  -
+    timestamp: "1:06:18"
+    speaker: Maurice
+    content: "Sure! So I would say that if you are a designer regardless of the stripe of designer that you are. And you're listening to this and you're wondering if this is giving you more questions than answers, if you feel like there's still more that you need to do, go to your local city's website, there should be a tab or something on there for residents. Find your neighborhood that you're in, find the next counsel meeting or neighborhood planning meeting that's going on based on where your address is and go and just get involved. I think what we're talking about a lot here aside from it just being theory. It's about putting you in the mindsets to know that you have more power as a designer than you think you might have. The important thing is to apply that."
+  -
+    timestamp: "1:07:03"
+    speaker: Maurice
+    content: "And so, I feel if you go to these neighborhood meetings, just sit in, listen to what your neighbors concerns are. Think about what are ways that I can use my skills as design to help out my neighbors with what they're working on. Or how I can help out my local councilman with what they're working on. It's gonna be that application of what we're talking about is what's gonna really make the difference. And of course you start locally, it hopefully will reverberate from there. But at the very least you can know that you've done your part, that you've made something happen. And it's more than just sitting necessarily behind the computer and typing out an e-mail, you're getting out there, you're talking to people, you're being an active part of your community. As we talked before about being a citizen designer, it's about being a citizen first. So become a part of your neighborhood, get active. I'm not saying you necessarily have to go door to door and talk to people. But go to these meetings and find out ways that you can get involved and help out."
+  -
+    timestamp: "1:08:00"
+    speaker: Andy
+    content: "Robyn, can you give us some closure on this subject that has no closure? [laughter]"
+  -
+    timestamp: "1:08:04"
+    speaker: Robyn
+    content: "Yeah, what an open ended conversation. I think that's the nature of a lot of these talks, which is good. A thing for me is just to figure out... What I've been thinking about a lot post-election is these two ideas. One is know your enemies and two, figure out what deserves the time that you have in a day. The know your enemies piece is complex because I think for me, being a designer, I have how I like to design things and how I want a conversation to happen. I was much more stern on things like the \"small things.\""
+  -
+    timestamp: "1:08:46"
+    speaker: Robyn
+    content: "I would be like, \"Well, because everything is so great right now, we can dive deeper on these things that are a little bit off but you might miss them. But you're generally on the same side as me but I just need you to get there. So that was the thing for me for awhile but post-election I've definitely been considering this know your enemies thing, which is if you're not the worst person in the world, then I might not spend time on that specific thing. So just because I know there's different things where I can put where my mindset needs to be at the moment."
+  -
+    timestamp: "1:09:20"
+    speaker: Robyn
+    content: "For me as frustrating as that is, that whole idea of knowing your enemies is a really good thing to consider. And it loops back into the time thing. I think a lot of times there's a specific set of designers who will talk about things in Slack. And they will get really into this idea like we have to tackle this weird thing that Gerbil did. Or this thing that some designer with 200 followers on the internet did. But really understanding how much time do I have, what's mattering in life right now. If ACA is about to go under in the senate, am I really gonna write some tweets about Gerbil. Or am I just gonna call my senator, whatever that is. Just really taking a step back and understanding the overall value of whatever action you take if you only have a specific amount of time in a day to take an action in that. So just understanding what it is that you're gonna do."
+  -
+    timestamp: "1:10:13"
+    speaker: Andy
+    content: "There we go. Well, that brings us to the end of the episode. This is the beginning of... Well, this is a part of a conversation that I'm sure we will continue to have both on the show and off. And I do want to take a moment to really directly thank both Robyn and Maurice, who on this show and in their lives in general have gone so far out of the way to help educate people about the way other people see the world. And that's something that I don't want anyone to take for granted. So, thank you both for everything you've taught me. And hopefully what you've just taught our listeners on this show. More to come. So Robyn, where should people go if they want more of you in their lives?"
+  -
+    timestamp: "1:10:54"
+    speaker: Robyn
+    content: "I'm very annoying on Twitter, it's just RobynKanner, R-O-B-Y-N-K-A-N-N-E-R. I'm less annoying on other various social medias, so if you just like pretty pictures follow me on Instagram. That's about it, those are the two internet parts of me. You might end up in Slack with me, that's fine too."
+  -
+    timestamp: "1:11:16"
+    speaker: Andy
+    content: "Let me just pop in to say that you are not annoying on Twitter, that was a lie. Maurice, where can people find you on the internet if they want more of you?"
+  -
+    timestamp: "1:11:24"
+    speaker: Maurice
+    content: "They can go to my website mauricecherry.com, there's links there for my Twitter and my Tumblr. And also to check out my podcast Revision Path. It's a design podcast where I talk to black designers. We've actually talked a lot on that show; I'd say maybe about four or five episodes about what we discussed here. So if you want to get some more context, definitely check out revisionpath.com. And there's links there to where we are on Facebook, Twitter, and Instagram."
+  -
+    timestamp: "1:11:52"
+    speaker: Robyn
+    content: "Cool. Oh! One last thing, a very important thing, is if anybody really loves the band Nada Surf and wants to talk to me about the band Nada Surf, please reach out to me."
+  -
+    content: Chuckle
+  -
+    timestamp: "1:12:02"
+    speaker: Andy
+    content: "Making connections. That's all we have left is these fragile connections with people."
+  -
+    content: Chuckle
+  -
+    timestamp: "1:12:07"
+    speaker: Andy
+    content: "Just love each other, everybody."
+  -
+    content: Music
+  -
+    timestamp: "1:12:21"
+    speaker: Matt
+    content: "This has been Working File. Thanks for listening."
+  -
+    timestamp: "1:12:23"
+    speaker: Andy
+    content: "This week, don't go on iTunes and give us five stars and write a review. And instead, write a letter to your senator and representative and tell them, \"No. Just stop.\""
+  -
+    timestamp: "1:12:32"
+    speaker: Matt
+    content: "Tell them to stop everything they're doing. Light everything on fire."
+  -
+    timestamp: "1:12:35"
+    speaker: Andy
+    content: "Turn it all off. I want off this ride. Stop it."
+  -
+    content: Music

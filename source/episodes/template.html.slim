@@ -4,7 +4,6 @@ episode: true
 
 - content_for(:title, "Episode #{id}: #{title}")
 - content_for(:description, "#{showNotes[0...200]}")
-- content_for(:soundcloudID, "#{soundcloudID}")
 
 .text-wrapper
 
@@ -17,7 +16,10 @@ episode: true
       | With&nbsp;
       = data.contributors.sort{ |a,b| a.lastName.downcase <=> b.lastName.downcase }.map{ |contributor| if contributorSlugs.include?(contributor.slug); link_to("#{contributor.firstName} #{contributor.lastName}", "../contributors/#{contributor.slug}.html"); end }.compact.join(" and ")
 
-  .fixed-audio-player = partial("shared/soundcloud_player", :locals => { :soundcloudID => soundcloudID })
+  .fixed-audio-player
+    iframe#audio-player src="https://w.soundcloud.com/player/?url=/workingfile/ep#{id}&auto_play=false&buying=false&liking=false&download=true&sharing=false&show_artwork=false&show_comments=true&show_playcount=false&show_user=false&hide_related=true&visual=false&start_track=0&callback=true&color=00C98C" width="100%" height="164" scrolling="no" frameborder="no"
+
+  script src="https://w.soundcloud.com/player/api.js" type="text/javascript"
 
   .show-notes = showNotes
 
@@ -30,11 +32,64 @@ episode: true
         - links.each do |link|
           li = link_to link.text, link.url
 
+
+
   - if transcript == true
     .transcript
-      .transcript-thank-you
-        span Full text transcripts brought to you by <a href="https://www.xyztype.com">XYZ&nbsp;Type</a>.
-        a href="https://www.xyztype.com" = partial "shared/xyz_logo";
-      = partial("transcripts/episode-#{id}", :locals => { :episodeID => id })
+      - data.transcripts.send("e#{id}").messages.each do |message|
+        .transcript-message class=('interstitial' unless message.timestamp.present?)
+          - if message.timestamp.present?
+            button.seek-button data-timestamp="#{message.timestamp}" = message.timestamp
+          - if message.speaker.present?
+            .speaker = message.speaker
+          .message-content = message.content
   - else
     .transcript.not-available Full transcript not yet available.<br />Check back soon!
+
+
+javascript:
+  (function(){
+    var widgetIframe = document.getElementById("audio-player"),
+        widget       = SC.Widget(widgetIframe);
+
+    var seekTime;
+
+    function hmsToMiliseconds(str) {
+      var p = str.split(':'), s = 0, m = 1;
+
+      while (p.length > 0) {
+        s += m * parseInt(p.pop(), 10);
+        m *= 60;
+      }
+
+      return s * 1000;
+    }
+
+    widget.bind(SC.Widget.Events.PLAY, function() {
+      if (seekTime != null) {
+        widget.seekTo(seekTime);
+        seekTime = undefined;
+      }
+    });
+
+    widget.bind(SC.Widget.Events.READY, function() {
+
+      var seekButtons = document.getElementsByClassName("seek-button");
+
+      for (var index = 0; index < seekButtons.length; index++) {
+        seekButtons[index].addEventListener("click", function(){
+          var timestamp = this.getAttribute("data-timestamp");
+
+          widget.isPaused(function(paused) {
+
+            if (paused == true) {
+              seekTime = hmsToMiliseconds(timestamp);
+              widget.play();
+            } else {
+              widget.seekTo(hmsToMiliseconds(timestamp));
+            }
+          });
+        });
+      }
+    });
+  }());

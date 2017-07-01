@@ -1,0 +1,1267 @@
+messages:
+  -
+    timestamp: "0:00:00"
+    speaker: Andy
+    content: "You're listening to Working File, a podcast about design practice and its relationship with the world. My name is Andy Mangold."
+  -
+    timestamp: "0:00:07"
+    speaker: Matt
+    content: "And I'm Matt McInerney."
+  -
+    timestamp: "0:00:08"
+    speaker: Andy
+    content: "This episode, we're joined by Chappell and Robyn, and we talk about the words we use to describe ourselves and our work."
+  -
+    timestamp: "0:00:14"
+    speaker: Matt
+    content: "And the elephant in the room."
+  -
+    timestamp: "0:00:16"
+    speaker: Andy
+    content: "I think you're supposed to hide it in a group of other elephants. I think that's the answer."
+  -
+    content: Music
+  -
+    timestamp: "0:00:39"
+    speaker: Andy
+    content: "Has there been a formal study yet on the effect of this administration on the sale and consumption of alcohol? [laughter] I feel like it has to be real, anecdotally."
+  -
+    timestamp: "0:00:47"
+    speaker: Matt
+    content: "It's gotta be alcohol up, tourists down. Maybe they exactly make up for each other, but I think, probably not true."
+  -
+    timestamp: "0:00:54"
+    speaker: Andy
+    content: "I'd be interested to see some study on that."
+  -
+    timestamp: "0:00:56"
+    speaker: Chappell
+    content: "Are you guys all drinking?"
+  -
+    timestamp: "0:00:57"
+    speaker: Andy
+    content: "I was told to. I was told it was rosé night. [laughter] But we don't have rosé here."
+  -
+    timestamp: "0:01:01"
+    speaker: Robyn
+    content: "The second you said that, I was like: \"Oh, crap, I didn't pour rosé.\""
+  -
+    timestamp: "0:01:03"
+    speaker: Andy
+    content: "I made myself a sidecar, I think. I think that's what this one's called."
+  -
+    timestamp: "0:01:06"
+    speaker: Matt
+    content: "You're so good at alcohol, Andy. Good job. [chuckle]"
+  -
+    timestamp: "0:01:09"
+    speaker: Andy
+    content: "The problem is I'm such a lightweight, cause I drink almost never. So, when I do have a sidecar, [laughter] I get drunk, is basically what's gonna happen."
+  -
+    timestamp: "0:01:16"
+    speaker: Chappell
+    content: "It's gonna be on the podcast."
+  -
+    timestamp: "0:01:18"
+    speaker: Matt
+    content: "Wait, explain this to me. You're telling me alcohol makes you drunk?"
+  -
+    timestamp: "0:01:20"
+    speaker: Andy
+    content: "I think it puts alcohol in your blood and that means your blood can't do blood as good. I think that's basically what it does. It makes your blood less blood, and then something happens because of that. [laughter]"
+  -
+    timestamp: "0:01:30"
+    speaker: Robyn
+    content: "It honestly makes your blood better."
+  -
+    timestamp: "0:01:31"
+    speaker: Andy
+    content: "There you go. [chuckle] It makes your blood better and cooler, but less good at getting oxygen to your muscles and brain, I think. I think it's what it does. Don't quote me on this, I'm not a scientist."
+  -
+    timestamp: "0:01:41"
+    speaker: Chappell
+    content: "I would say it brings out your blood's true self. [laughter]"
+  -
+    timestamp: "0:01:45"
+    speaker: Robyn
+    content: "True blood."
+  -
+    timestamp: "0:01:46"
+    speaker: Chappell
+    content: "True blood."
+  -
+    timestamp: "0:01:46"
+    speaker: Andy
+    content: "You never knew what blood was really thinking until blood got a little drunk, and then you found out what its opinion was of all those systems of the body, and whatnot. [chuckle]"
+  -
+    timestamp: "0:01:55"
+    speaker: Robyn
+    content: "It's always fun when blood turns blue."
+  -
+    timestamp: "0:01:57"
+    speaker: Andy
+    content: "Exactly. Well, we're here with Robyn and Chappell. Old pros, you've done this before, so..."
+  -
+    timestamp: "0:02:01"
+    speaker: Robyn
+    content: "Hi, hi."
+  -
+    timestamp: "0:02:02"
+    speaker: Chappell
+    content: "Hi."
+  -
+    timestamp: "0:02:02"
+    speaker: Andy
+    content: "We have this great chemistry now, two episodes in. That means we have good chemistry, right? That's how this works? "
+  -
+    timestamp: "0:02:05"
+    speaker: Robyn
+    content: "Yes. Yeah."
+  -
+    timestamp: "0:02:06"
+    speaker: Matt
+    content: "Good chemistry is just saying you have good chemistry. That's all it is."
+  -
+    timestamp: "0:02:08"
+    speaker: Andy
+    content: "Yep. Say it over and over again. Two episodes and tens of thousands of tweets, I have to assume, read."
+  -
+    timestamp: "0:02:13"
+    speaker: Robyn
+    content: "For sure."
+  -
+    timestamp: "0:02:15"
+    speaker: Andy
+    content: "You two are some of the most active people on Twitter that I still follow, so it's good. [chuckle] I get a lot of exposure through Twitter, which I feel like helps."
+  -
+    timestamp: "0:02:22"
+    speaker: Robyn
+    content: "Everyone knows our lives."
+  -
+    timestamp: "0:02:23"
+    speaker: Chappell
+    content: "Active is a nice way of putting it, I would say."
+  -
+    timestamp: "0:02:25"
+    speaker: Andy
+    content: "Chappell, you, somewhat recently, it's been like two months now? Have moved from your job in the public sector where you worked when we last spoke to a job in the private sector, correct? "
+  -
+    timestamp: "0:02:37"
+    speaker: Chappell
+    content: "That is correct."
+  -
+    timestamp: "0:02:38"
+    speaker: Andy
+    content: "Congratulations on that, by the way. That's exciting."
+  -
+    timestamp: "0:02:40"
+    speaker: Robyn
+    content: "That's awesome."
+  -
+    timestamp: "0:02:40"
+    speaker: Chappell
+    content: "Hey, thanks, guys!"
+  -
+    timestamp: "0:02:42"
+    speaker: Andy
+    content: "Everything is exactly the same, right? Whether you're working for the government or working for private companies? [laughter]"
+  -
+    timestamp: "0:02:47"
+    speaker: Chappell
+    content: "It's totally the same."
+  -
+    timestamp: "0:02:50"
+    speaker: Andy
+    content: "I'm curious to hear your experience. What has been your transition? What are things that are most surprising to you, or... I'm just curious to see the other side, cause I've never worked for a government of any kind. So, I'm interested to see how this changes. How you perceive the changes? "
+  -
+    timestamp: "0:03:03"
+    speaker: Chappell
+    content: "Right. So, I worked as a digital communications manager for the City of New York for a little over three years, and then I transitioned over to agency life. And it was honestly culture shock for me. Cause the three years I spent at the city, that was the first full-time, benefits job I had, and I learned so much about actually having a job and being professional and leading meetings, all that kind of stuff that you really should learn at some point."
+  -
+    timestamp: "0:03:41"
+    speaker: Chappell
+    content: "But switching over to the agency life, honestly, the day I walked in the door, I was just kind of in shock, in a good way and a bad way. Cause I was excited to be in an agency where you have all these amazing creative people, and there are dogs everywhere, and people are drinking beer at 5:00 PM, and you're kind of allowed to be who you wanna be and you can dress how you wanna dress and you don't feel weird, but at the same time, I was just like, \"Why can't this be our government? Why was I just spending three and a half years at a job where this kind of creativity and energy and intelligence isn't fostered or rewarded?\" And it kind of bummed me out super, super hard, because the struggle to even hire one amazing, awesome, talented, great designer at the city is so intense, and then to retain that person is even harder."
+  -
+    timestamp: "0:04:40"
+    speaker: Andy
+    content: "When you're competing with dogs and 5:00 PM beers, it's kinda hard to hang. [chuckle]"
+  -
+    timestamp: "0:04:44"
+    speaker: Chappell
+    content: "Exactly. And I mean, at the city, the only amenity we had was a water filter. [laughter]"
+  -
+    timestamp: "0:04:52"
+    speaker: Andy
+    content: "Cause the water's not clean enough. [laughter] Even though you work at the city, oh no."
+  -
+    timestamp: "0:04:56"
+    speaker: Chappell
+    content: "We work in the City, which is ridiculous, cause shout out, New York City tap water is pretty amazing. That was a real shock for me. And then kind of finally making it into that world of design and designers, and design speak, and design language. I have a background in design, but I've not practiced professionally as a designer. I studied graphic design, and then I went into communications in the design industry. I've been around it, but now I'm actually kind of practicing in it with designers, and now I'm kind of steeping. I'm stewing myself in that world and that language, and it's really blowing my mind."
+  -
+    timestamp: "0:05:41"
+    speaker: Matt
+    content: "Interesting. What part about it specifically is blowing your mind?"
+  -
+    timestamp: "0:05:46"
+    speaker: Chappell
+    content: "It's just even though I have been in the design industry and studying it for many, many years, now that I'm actually in it and a part of it, it's like I'm looking from the outside in. And you really start to see the language we've developed around it and how exclusionary it is. And there's just so much assumed knowledge in our industry. For me to kind of step into an agency world, there are words everyday. I'm literally writing down words secretly on a notepad, and I'm going to Google after every meeting. Cause I don't know what these things are. I just spent a week making a PRD, which is apparently I just learned, a Product Requirement Document. This is something that a lot of UX people know and are familiar with. I had no idea."
+  -
+    timestamp: "0:06:34"
+    speaker: Andy
+    content: "Wait. Can you give us the context of your agency? Is it big ad agency? Is it product design? What are the specifics? "
+  -
+    timestamp: "0:06:40"
+    speaker: Chappell
+    content: "Oh yeah. No, I mean, I'll tell you, it's not... I don't think it's a secret. I work at a digital agency based out of Brooklyn, called Huge. There's about 500 people in office, but then there's a big international group probably about 1500 people worldwide. And I started there as a..."
+  -
+    timestamp: "0:07:00"
+    speaker: Andy
+    content: "That is huge."
+  -
+    timestamp: "0:07:01"
+    speaker: Chappell
+    content: "That is huge. I started as a senior content strategist. Which is its own buzzy, messed up kind of language, that again, I'm like, \"What is this? Is this real?\" And it is. It's a real job and it's kind of been an industry for seven or eight years, now. But, no one knows what it is or what we do. Even though what we do is really cool and awesome and I love it. But again, I'm really awash in all this new design speak that I thought I knew. You think you know, but you don't know. [chuckle]"
+  -
+    timestamp: "0:07:40"
+    speaker: Matt
+    content: "I did not know what PRD meant, when you said that. I had no idea."
+  -
+    timestamp: "0:07:42"
+    speaker: Andy
+    content: "I also... Yeah, as a guy who, I think I work at a digital agency. I didn't know what that meant, either."
+  -
+    timestamp: "0:07:47"
+    speaker: Matt
+    content: "And we've made that thing, just not by that name. It's interesting that I had never heard that term, either."
+  -
+    timestamp: "0:07:52"
+    speaker: Robyn
+    content: "Yeah, we call it a BRD, a Business Requirement Document, but it's the same thing."
+  -
+    timestamp: "0:07:57"
+    speaker: Andy
+    content: "I hadn't heard that one, either. BRD, PRD. These are all new to me."
+  -
+    timestamp: "0:08:01"
+    speaker: Matt
+    content: "Andy, we can just come up with our own term and sound super cool and then make other people feel left out of it. [chuckle]"
+  -
+    timestamp: "0:08:05"
+    speaker: Andy
+    content: "Well, I'm of such a mixed mind about this stuff because we have a very small operation. So there's eight of us in our office. And we do, I'm assuming, similar type projects to what Huge takes on, but of much, much, much, much, much smaller scale. And it's nice, actually, because we don't know these terms. We don't ever say them to our clients. And our clients don't know these terms either, because they're mostly just people or small companies looking for some kind of website or app that does something. So actually, it's kind of nice that we don't have to have that discourse in our practice cause we just say, \"We're gonna build that website and it's gonna do these things. And this is called the e-mail I just sent you.\" Not a PRD or a BRD or an ABC, or whatever."
+  -
+    timestamp: "0:08:47"
+    speaker: Andy
+    content: "But at the same time, I also recognize how much having a shared language in any kind of community, professional or otherwise, helps to facilitate communication within that community and also real sense of belonging, right? If you have a name for what a PRD is, then it's much easier to talk about than like, \"Hey Matt, do you also write a document where you tell the people what you're gonna build for them?\" And trying to describe that thing abstractly, if you don't have a word for it. So part of me wants to reject this terminology because it's unnecessary in some contexts, but I also recognize the value of it, which puts me in a weird place."
+  -
+    timestamp: "0:09:23"
+    speaker: Robyn
+    content: "Sure. And you don't wanna reject the action, right? You just wanna reject the terms."
+  -
+    timestamp: "0:09:27"
+    speaker: Andy
+    content: "Yeah."
+  -
+    timestamp: "0:09:27"
+    speaker: Robyn
+    content: "That makes sense."
+  -
+    timestamp: "0:09:28"
+    speaker: Chappell
+    content: "It's a weird thing, because I think design by it's nature for me, I'm like, \"Yes, this should be the most accessible practice ever.\" Everything about design should be approachable and understandable, even to a person who knows absolutely zero about this industry. But at the same time, that's not how design makes money and is cool. You make yourself cool and worth money by seeming like you're a pretty big deal. And the way you become a pretty big deal is you develop your own language and you don't really explain it. And you kind of leave people in the dark. And I think that's kind of a bummer."
+  -
+    timestamp: "0:10:09"
+    speaker: Robyn
+    content: "Designers are so dumb."
+  -
+    timestamp: "0:10:11"
+    speaker: Matt
+    content: "Do you think that's real? Do you think the developing the language that people feel is secretive and they have to pay for, is actually what you need to do to run a business? Or do you think it's this myth we've created?"
+  -
+    timestamp: "0:10:24"
+    speaker: Matt
+    content: "I've thought that, too. But I also try to practice the opposite. I think. Maybe I'm just bad at running a business, but I think it's okay. I think people appreciate when you just use words that mean what they mean to describe them. Because ultimately, you're just talking to other people and not trying to scare them away."
+  -
+    timestamp: "0:10:43"
+    speaker: Robyn
+    content: "I don't know. I think sometimes it's about masking insecurities, right? I'll talk to senior designers who are mid level designers that are trying to protect their own. They're talking to a junior designer person. They're really hesitant to talk in the same language as that person might understand. Because it's almost like they're trying to protect their place and whatever it is that they're doing. So I feel like sometimes that language is designed to be exclusionary to protect their power."
+  -
+    timestamp: "0:11:11"
+    speaker: Matt
+    content: "Which leads into the idea that it is, the myth of it, is importance. It is indeed a myth. It's not really an actual thing of importance. It's building up these walls to make you feel special."
+  -
+    timestamp: "0:11:22"
+    speaker: Andy
+    content: "That feels true. The thing about people that are maybe more junior in the industry, being more likely to abuse terminology. I think it's partially because if you're studying something, and you learn a new word for something, you're excited to use it. Like, yeah, I know what this means, this is a PRD and that means this and I'm gonna walk around telling people about my PRDs and it's gonna show that I know what I'm doing and I'm on top of stuff. But I also think it's because, as you get more ingrained in that industry and you become a more senior level person, or a more experienced person, you realize that you maybe don't have to use that terminology. And so you skip that and go right to the more human words for the things we're describing."
+  -
+    timestamp: "0:12:00"
+    speaker: Andy
+    content: "But I've definitely observed that, where people that are newer or younger will tend to actually use the terminology more and then it kind of trails off as you are in the industry for a while, I think that's maybe not true if you're in a really, really specialized industry. And I kind of agree with Chappell, our whole job is to communicate so if we [chuckle] can only communicate with ourselves and as soon as someone who doesn't have the same lexicon walks in the room, we are helpless and can't even talk to them anymore, then I think we're failing at our job in a fundamental way. Which is not true if your a rocket designer, or whatever, you're making rocket engines, I bet there's a lot of terminology they need that's very specific, that they do have to use in order to communicate with each other in a functional way. But I feel like our work necessarily has to be more close to the people, more surface level than that, and therefore, any sort of plunging into some highly specialized language is kind of exclusionary, or serves the purpose of making us feel good, not necessarily of advancing the craft."
+  -
+    timestamp: "0:12:53"
+    speaker: Chappell
+    content: "Yeah, I don't even think people realize when they're doing it anymore, is kind of the issue. We don't realize how, just the words we're saying can be excluding groups and there's clearly been many conversations about that and how we can make our language more open and accessible, or at least be more open to the idea that there are other ways of looking at things. For example, I was working with some designers who were writing the copy for a website for a big telecommunications company, and the first screen you would see, as a user asked you, this would be as if you were buying a new cell phone plan, and the first screen would say... Greet you and would say, \"How many lines do you need?\" [laughter] And so, I just looked at the designers and I was like, \"Hey guys, do people know what lines are?\" And they were like, \"Well, if you're buying a phone, you probably know.\" And I'm like, \"Probably?\""
+  -
+    timestamp: "0:14:01"
+    speaker: Chappell
+    content: "I mean, it's not, and this of course is extrapolating a bit, this is about an object and not humans, which are of course the most important thing, but people don't even realize when they're using coded language and they're just moving along. And I'm like, \"You know, a lot of people are buying cell phone plans for the first time.\" Especially young people and who knows, people aren't speaking English as a first language..."
+  -
+    timestamp: "0:14:25"
+    speaker: Andy
+    content: "Absolutely."
+  -
+    timestamp: "0:14:25"
+    speaker: Chappell
+    content: "To refer to buying... You go online to buy a phone and the first thing is, \"How many lines do you need?\" I'd be like \"What are... Lines of what?\" I wouldn't know what to do at that point."
+  -
+    timestamp: "0:14:36"
+    speaker: Andy
+    content: "I don't want any cocaine, no, no, please! [laughter] Yeah, that's really, that's totally true. I always have this conversation with... I actually have this conversation a lot with interns we have that are doing design work in the office, where I feel like interns and also to a degree, I found engineers tend to describe things like very exactly, when the exact description might not be the description that is actually most understandable. And the thing I always say is, people tend to get defensive about it, be like, \"Well, if they're buying a phone well surely they know what a line is, if not than we can't help them.\" And I always like to... They always portray describing in some other way as catering to the lowest common denominator. Like there's something unsophisticated and below us about trying to communicate with the people that don't know what a line is. And the thing I always describe is it's like a bell curve. You have most of the people who are right in the middle and they're going to give your thing the normal amount of attention, and they have the normal amount of context and understanding about something and maybe the normal person knows what line means."
+  -
+    timestamp: "0:15:36"
+    speaker: Andy
+    content: "Then one extreme have people that are really invested in researching all the cell phone plans imaginable and of course they know what line means and that's the question they probably want to be we asked, because they want to very quickly figure out how their pricing gonna work out and they're deep in this thing. But then you have people that are trailing off on the other side, and this is both people that, like you said, first time phone buyers, people that maybe don't speak English as their first language, people that are just getting their first phone line ever and they don't know what that even means. And that trails off in that direction, and when you're designing that page and choosing that language, you're basically just drawing a line on that bell curve and you're saying, \"Nowhere below here do we care about.\" You're not losing the people on the other side by using more clear and welcoming language and compensating language, you're just cutting off people from the bottom end of that bell curve."
+  -
+    timestamp: "0:16:19"
+    speaker: Robyn
+    content: "Well, don't you think it's also... I feel like we frame it as, we're talking about people who are smart and dumb and I don't think that's it at all."
+  -
+    timestamp: "0:16:24"
+    speaker: Andy
+    content: "No."
+  -
+    timestamp: "0:16:26"
+    speaker: Matt
+    content: "I think it's even just, the amount of time and energy someone is willing to give you, which is totally fair."
+  -
+    timestamp: "0:16:31"
+    speaker: Andy
+    content: "Yeah."
+  -
+    timestamp: "0:16:32"
+    speaker: Matt
+    content: "Of course we're spending all the time and energy because, we're being paid, potentially it's the thing we're passionate about, there's a number of reasons why we would be spending time and energy but, I don't think it's that someone is stupid, it's just like, why should they be so invested? Help them out a little bit. You're trying to sell to them [laughter] not the other way around. Not that it's always selling but, it's more about level of effort someone's willing to put in and you can't always assume the max cause, again we're talking about cell phone plans, we're not talking about a video game or something. [laughter]"
+  -
+    timestamp: "0:17:02"
+    speaker: Andy
+    content: "A video game is your metric for the thing people are willing to spend the most time on? [laughter] That's your standard? "
+  -
+    timestamp: "0:17:06"
+    speaker: Matt
+    content: "Well, you know what I mean. Somebody, kind of, yes. [laughter] If somebody's willing to spend their entire life in World of Warcraft, they're very invested in solving puzzles. [laughter] I always feel like the balance is designing a product versus designing a game. A game is like, yeah you can put a puzzle in it and someone is totally willing to solve it because they're invested versus designing an app to get something done, well maybe they'll give you an absolute minimal amount of time and putting a complicated puzzle in the middle of it is the exact opposite of what you wanna do. What I'm saying is that I envy game designers, it seems like a lot of fun. The puzzles and stuff. [laughter]"
+  -
+    timestamp: "0:17:37"
+    speaker: Robyn
+    content: "Yeah it sounds like you want to be a game designer [laughter]"
+  -
+    timestamp: "0:17:39"
+    speaker: Matt
+    content: "Hey, maybe."
+  -
+    timestamp: "0:17:39"
+    speaker: Andy
+    content: "I do definitely get jealous of them for having an audience that has opted in to participating in whatever the thing they're designing is as opposed to my audience which always seems to be some group of people that don't really wanna do this thing but are forced to do it for some reason and therefore I need to design a thing for them to do that task, which is... [laughter]"
+  -
+    timestamp: "0:17:58"
+    speaker: Robyn
+    content: "Yeah, but their stories are a lot harder."
+  -
+    timestamp: "0:18:00"
+    speaker: Andy
+    content: "It's true, and I also feel like I would like designing something like games, in theory, but then in practice I would probably lay awake at night and think, \"I'm designing a game, that's my contribution to the earth.\" Not that what I'm doing now is any more meaningful but, I don't know, I have mixed feelings about it."
+  -
+    timestamp: "0:18:16"
+    speaker: Robyn
+    content: "Yeah, I go through that a lot."
+  -
+    timestamp: "0:18:18"
+    speaker: Andy
+    content: "We're having a similar related conversation in the office right now. We're actually in the midst of just updating our website which has been very simple for a long time. We don't really get work through our website, which is a chicken and egg situation, I don't know if we don't get work through the website because we never spend any time on it or if we are never going to get work through our website therefore we didn't spend any time on it. But our website right now basically just has, here's the people, we'll make anything for you, here's the button to shoot us an e-mail."
+  -
+    timestamp: "0:18:46"
+    speaker: Andy
+    content: "And we're working on changing the way we talk about ourselves, and we're coming across all these same issues that Chappell's describing, right? Where we have industry specific language or certain types of e-commerce sites for the technologies we're using to back these products we're building, for the theoretical practice of what is product design, that's what we kind of call what we do. And people know what that means, do they think it means designing a coat hanger, instead of designing a website? And the thing that I've realized is that, I think we've spent a lot of time thinking that, if we describe ourselves as abstractly as possible... Which is true, we offer a variety of services to all different clients of different sizes and, we'll build pretty much anything we can, that's kind of what we do. So it's not really accurate to say like, \"Oh we do this exact one specific thing.\" But I've had this realization that, if we don't say on the website, anything specific, we just say very vaguely that, \"We build websites and apps of all different kinds for all different companies, contact us if you want to talk about it.\" I think that, that means that nobody that looks at that website is confident that we can do the thing that they maybe need to have done, and if we instead describe..."
+  -
+    timestamp: "0:19:52"
+    speaker: Chappell
+    content: "You're just saying you need to be vague as hell."
+  -
+    timestamp: "0:19:56"
+    speaker: Andy
+    content: "Well, I'm saying that's where we are right now. But if we actually just... Go ahead."
+  -
+    timestamp: "0:20:00"
+    speaker: Robyn
+    content: "I was gonna say, \"We build websites,\" isn't really... If I'm going to your site and I'm about to hire you, it's because I have a problem, if I go to your site and I'm like, \"Oh damn I'm having this problem, so let's go to this site.\" And somebody's like, \"We build websites,\" and I'm like, \"That's not my problem.\""
+  -
+    timestamp: "0:20:15"
+    speaker: Andy
+    content: "Exactly."
+  -
+    timestamp: "0:20:15"
+    speaker: Robyn
+    content: "Or whatever it is, you're not hooking them."
+  -
+    timestamp: "0:20:20"
+    speaker: Andy
+    content: "Yeah, well it comes down to the fact that if we actually describe, well we do a lot of things, we can do anything, but these are the three things we've done most often, alright. These are the things that we have a lot of experience at. If we describe those three things, it's not that we'll alienate everybody that doesn't have a problem that fits those three things, it's that we'll actually convince the people that have those three problems to actually contact us and everybody else is in the same place as they were initially, which is not confident that this company can provide the thing that they provided until they e-mail them and ask."
+  -
+    timestamp: "0:20:47"
+    speaker: Andy
+    content: "We're going through all the same questions of, what kind of language do we use to talk about it? Do you use the accurate language? Do we use the language that makes sense to people even though we know that, maybe a technical person would look at it and go it's not quite exactly true but it makes more sense to the average person? How do we handle titles which is something we've always really kinda pushed away because we're a small company, a lot of people do a lot of different things. We don't have discrete project managers, we don't have discrete... Even me I do design work, I do project management work, I do front-end development, I do all kinds of stuff. If you were to write out my title and write all those things out it just seems ridiculous, but at the same time if we don't have that listed on the site then people are kind of curious as to who is doing what. I don't know, it's a lot of questions about..."
+  -
+    timestamp: "0:21:32"
+    speaker: Andy
+    content: "What I'm saying is as our company grows and matures, and again we're still very small, eight people, I start to get more and more sympathetic to the kinds of things that Chappell was responding to at Huge, where it's like, \"Oh now we have this huge infrastructure and all of these short hands and lingo and acronyms to describe things.\" Because as you get bigger I start to understand why those distinctions would seem, maybe not important from the outside, or not important from anyone's perspective, actually are important to help divide and separate this big organism that is a company, and actually clearly delineate who's suppose to do what and why and how. Where when you're small you kind of have the luxury of not having to do that, but I see both sides is what it comes down to."
+  -
+    timestamp: "0:22:16"
+    speaker: Chappell
+    content: "Yeah there is part of that divide of having a really small company and a large company, your language changes. It goes from just yelling across the desk, \"Hey did you read that thing I sent you?\" To, \"Hey would you expedite the response to my e-mail about the KPI?\" And it turns into this whole thing, this whole other language. And my only fear, aside from excluding people, and not just clients, but excluding people from actually just feeling what we do is approachable for them, I also worry that we're feeding into this weird kind of a scholastic institution money ball situation, where we're just starting new programs to feed these weird titles, and these kind of vague disciplines that... And I say this, and this is funny cause I say this as someone who got a degree in a very vague design discipline, but I also see how that, again, it is creating this weird, insular culture. And when I see a new job title that I've never seen before, I'm like, \"Is this some weird response to a program that started out at Cal Arts underground that I don't know about and that charges students $80,000 or whatever?\" I don't know, there's something weird and that's my weird capitalist school rant or something. [laughter]"
+  -
+    timestamp: "0:24:02"
+    speaker: Robyn
+    content: "It sounds like there's a couple different things between the language that are kind of interesting, right? There's that first one, which is the language that you use on the site and how that's translated to customers. There's a second of the language you use on your site, how that's translated to businesses that wanna potentially hire you. But when it gets down to that title thing, I just... I'm mentoring a student designer right now, and what's interesting is, they were showing me their work and their process yesterday and they were really worried about titles. They were really worried about saying, \"I don't know whether I should tell hiring managers I'm a UI designer or a UX designer, or a visual designer versus... \" She didn't know what to call herself and I just had to be like, \"It doesn't matter.\" But it does. The entire time I could feel the panic from her just... [chuckle]"
+  -
+    timestamp: "0:24:54"
+    speaker: Robyn
+    content: "It was almost like there was this huge bubble and she was trying to figure out how to get herself inside the bubble. But she wanted to figure out what she was supposed to call herself before she told people she wanted to get in the bubble. And I was just like, \"It matters, kind of.\" If a hiring manager is like, \"I really need a UI Designer,\" just call yourself a UI designer, but if you... I don't know. It's this weird thing where it's actually kind of protecting designers who are doing the craft from letting people who also wanna do design, or are doing design on a very new level, get into whatever the clique is."
+  -
+    timestamp: "0:25:28"
+    speaker: Chappell
+    content: "But isn't that also our desperation to kind of keep up with tech culture as well? Because design all of a sudden became tech adjacent and then it's, there all these new processes so we're trying to catch up with their language too. And it kinda puts you in that position where you're like, \"What's... Wait am I the old thing, or am I the new thing? Or should I be either of these things?\""
+  -
+    timestamp: "0:25:56"
+    speaker: Andy
+    content: "Yeah, mentoring a student, is a perfect encapsulation of that, right? Because that's everything this language is. It's a thing that can make people feel excluded or behind, or included and like they belong. And what you said is perfectly true, Robyn, which is that use whatever language that you think is being used internal to that company, right? Because..."
+  -
+    timestamp: "0:26:16"
+    speaker: Andy
+    content: "Right, use whatever you can to get in the job..."
+  -
+    timestamp: "0:26:18"
+    speaker: Chappell
+    content: "Yeah because really what is the difference between... Send your tweets to somebody else, but... [chuckle]"
+  -
+    timestamp: "0:26:23"
+    speaker: Andy
+    content: "What is the difference between somebody that's like, \"Oh I'm a UI, versus a UX versus a Visual versus a Experience?\" We all have similar skill sets and we take our particular processes, which may or may not be informed by whatever we happen to label ourselves as, and apply them to a problem in front of us. I really honestly feel like how you happen to identify is probably not that relevant to how good you are at a certain job. But in that same breath I will..."
+  -
+    timestamp: "0:26:48"
+    speaker: Robyn
+    content: "That works for a lot of things on how you identify too."
+  -
+    timestamp: "0:26:50"
+    speaker: Andy
+    content: "Yeah, I will also confess that if I get a portfolio from somebody and it says, \"So and so, Visual Designer,\" I'm kind of like, \"Why'd you choose that?\" That doesn't make any sense. I will be biased against that because I'm like, \"Are you just saying you only care about how things look and not any other way about things?\" At the same time I recognize..."
+  -
+    timestamp: "0:27:08"
+    speaker: Matt
+    content: "Just to be clear what are they supposed to say Andy? What are they supposed to say to get a job from you?"
+  -
+    timestamp: "0:27:12"
+    speaker: Andy
+    content: "From me? [chuckle]"
+  -
+    timestamp: "0:27:12"
+    speaker: Robyn
+    content: "Graphic designer, just say the word designer."
+  -
+    timestamp: "0:27:15"
+    speaker: Andy
+    content: "Yeah just designer. You can say something snarky, that's how you really can earn my affections, if you want. [chuckle]"
+  -
+    timestamp: "0:27:21"
+    speaker: Andy
+    content: "But at the same time I recognize the problem but I'm also a part of it. I've totally looked at intern portfolios and been like \"Visual designer, really? You call yourself visual designer?\" I don't really... That word is not part of my..."
+  -
+    timestamp: "0:27:31"
+    speaker: Robyn
+    content: "Every intern's a visual designer."
+  -
+    timestamp: "0:27:32"
+    speaker: Andy
+    content: "Yeah, that's not part of my little bubble that I happen to be in. But some other bubble might look at that and say, \"Oh that's exactly what we need.\" So it's really... That's a perfect encapsulation of the nature of the problem. In that this person does not know what to call themselves and it feels like a secret password. You're knocking on the door and the troll opens the little slot and says, \"What are you?\" And you're like, \"My favorite color is yellow.\" And they let you in. But if you stumble or say the wrong thing then you're not included in whatever the latest trend is for what we're calling ourselves these days."
+  -
+    timestamp: "0:28:03"
+    speaker: Matt
+    content: "Which is in some ways that's a unique challenge to the title but isn't that also just every interview question in the world, is just like what... It'll be this weird booby trap where who knows what the answer... But like, \"What would you say makes you unique?\" Is that any different than putting your title on your resume?"
+  -
+    timestamp: "0:28:22"
+    speaker: Robyn
+    content: "That's a horrible interview question, if you hire people, do not say that. [chuckle] I am running out the door."
+  -
+    timestamp: "0:28:30"
+    speaker: Andy
+    content: "One of my buddies interviewed for a job somewhere and one of the questions they asked him was, \"Where would you hide an elephant?\" And this was supposed to say a lot about his creative thinking skills, if he knew how to hide an elephant with no notice, which just seems so preposterous to me."
+  -
+    timestamp: "0:28:44"
+    speaker: Robyn
+    content: "In your office, cause I'll never be there. [laughter]"
+  -
+    timestamp: "0:28:49"
+    speaker: Andy
+    content: "That's good, I like that Robyn."
+  -
+    timestamp: "0:28:52"
+    speaker: Robyn
+    content: "Stop wasting my time."
+  -
+    timestamp: "0:28:53"
+    speaker: Matt
+    content: "It sounds like a thing you heard Steve Jobs would have said in an interview and you're like, \"Oh, that's really smart, we should consider that.\""
+  -
+    timestamp: "0:28:58"
+    speaker: Chappell
+    content: "Yeah."
+  -
+    timestamp: "0:29:00"
+    speaker: Robyn
+    content: "Yeah, you know a white dude's asking that question too."
+  -
+    timestamp: "0:29:01"
+    speaker: Chappell
+    content: "Yeah, I'm over... I'm post-stupid interview questions. [chuckle]"
+  -
+    timestamp: "0:29:08"
+    speaker: Chappell
+    content: "I used to... I admit too, we all judge the titles and the resumes we look at and of course if you've ever been in the position to hire, or help hire. And we went through that phase where every resume you got was, the person lists themselves as an art director. And I was like..."
+  -
+    timestamp: "0:29:28"
+    speaker: Andy
+    content: "Yeah, that was a thing."
+  -
+    timestamp: "0:29:30"
+    speaker: Chappell
+    content: "I was like kid you are 20 years old, you're not an art director."
+  -
+    timestamp: "0:29:33"
+    speaker: Andy
+    content: "Yes, I have had this experience exactly."
+  -
+    timestamp: "0:29:35"
+    speaker: Chappell
+    content: "And you don't, just because you spray painted some bananas gold and then photographed them in your friends loft apartment in Bushwick. [laughter]"
+  -
+    timestamp: "0:29:44"
+    speaker: Chappell
+    content: "You are not a creative director, or an art director or whatever. Come on kid. Partly too, which is weird is that I can't remember the last time I saw someone refer themselves, on paper as just a graphic designer. And it's as if that's not cool anymore, or cool enough and so..."
+  -
+    timestamp: "0:30:07"
+    speaker: Andy
+    content: "Oh, for sure."
+  -
+    timestamp: "0:30:07"
+    speaker: Chappell
+    content: "That's how much the industry moves that, that is... We're moving away from that. And now, to just get a degree in graphic design is so weird and programs are even renaming themselves. They'll call it a degree in visual design or in whatever. They'll come up with all sorts of names just to not call themselves graphic design anymore."
+  -
+    timestamp: "0:30:28"
+    speaker: Andy
+    content: "That seems like a sustainable plan. Try and change your name every time the industry decides to change its language. That's gonna be something you can maintain for a while, I bet."
+  -
+    timestamp: "0:30:35"
+    speaker: Robyn
+    content: "What's interesting is how little it matters. The first year at my company I was hired as a UX designer. And it was... That was the work I was doing. This, at the beginning of January, I switched teams and when I switched teams I became an art director instead of a UX designer. But I only switched teams cause I really wanted to work under a particular manager who had a team of art directors. I'm finding myself now where people are like, \"Oh, you switched from UX design to an art director role. What was that like?\" And I'm like, \"Well, I'm doing the same work. I just wanted to work under a different manager so I had to give myself a different title to do that work.\""
+  -
+    timestamp: "0:31:14"
+    speaker: Andy
+    content: "You mean your art director manager isn't like, \"Why do you keep giving me all these UX's, Robyn? There's so many UX's you're giving me.\" [laughter]"
+  -
+    timestamp: "0:31:21"
+    speaker: Robyn
+    content: "Cause I was just giving design the entire time. The biggest thing for me, and here's two other trash terms, is the other idea of saying if you work on projects or products. For me, flipping from UX design to art director meant that I stopped doing individual projects and I started looking at overall product vision. It had nothing to do with the way that I was approaching... The way that the output of the work looked like. I didn't say I was an art director and all of a sudden it was all yellow backgrounds with high fashion shots of eggs or something like that. [laughter] I'm still delivering screens and it's still system design, but it's always interesting just to hear people be like, \"What a major shift.\" And I'm like, \"No, I'm doing the same work literally. I just wanted a different manager.\""
+  -
+    timestamp: "0:32:08"
+    speaker: Chappell
+    content: "Have you guys ever had that moment where you're in a meeting or on a remote meeting call that's particularly boring and you almost feel your body astral project above you? [laughter] And you're just looking at this room full of people and you're like, \"What have we done that we've created this world, in which we need all these jobs and all these people to sell things and make things for the world?\" It blows my mind and it makes me kind of intrigued and excited and depressed."
+  -
+    timestamp: "0:32:50"
+    speaker: Robyn
+    content: "Sure. [laughter]"
+  -
+    timestamp: "0:32:51"
+    speaker: Andy
+    content: "It definitely is one of those things where if you did too many drugs and you had to break it down and you're like, \"Oh God, my job is to make things to convince people to buy things that they don't otherwise want and then I have to do that exact same thing for everybody. Oh God!\" [laughter]"
+  -
+    timestamp: "0:33:06"
+    speaker: Robyn
+    content: "Sometimes when I'm in meetings and somebody's particularly mad at somebody, and I'm just kind of a fly on the wall in the conversation. I picture what they looked like on their birthday or their wedding day. And just hone in on that image instead of not focusing on whatever mad thing that they're about. [laughter]"
+  -
+    timestamp: "0:33:24"
+    speaker: Matt
+    content: "That's a much sweeter version than the last two."
+  -
+    timestamp: "0:33:24"
+    speaker: Andy
+    content: "Yeah. We have very different places our minds go in idle moments, apparently. [laughter]"
+  -
+    timestamp: "0:33:31"
+    speaker: Robyn
+    content: "When they're mad, I just like to picture what they're like happy. I'm just like, \"What are you like? Are you a joyful person when you're not like this? I just kinda wanna know.\" [laughter]"
+  -
+    timestamp: "0:33:40"
+    speaker: Andy
+    content: "I'm much closer to Chappell. I start to anthropologically wonder about what we have done to these weird animals that have evolved into these soft pink creatures that..."
+  -
+    timestamp: "0:33:51"
+    speaker: Robyn
+    content: "No, that's just culture."
+  -
+    timestamp: "0:33:52"
+    speaker: Andy
+    content: "Well, it's... Here's what I really come back to, and this is getting really high level, but here we are, half a sidecar in. [laughter] I totally feel the thing Chappell feels about... Okay, so post-Industrial Revolution. We made everything more efficient. We made it so that jobs that humans... It used to take hundreds of humans to do a job, but now it takes one robot that can be maintained by two or three humans. And we've constantly... Then the invention of computers came along and we again, automated tons of work that previously had to be done by fleets and fleets of human beings, now can be done automatically by computers. And all of this has happened and nowhere along the line did we collectively as a society decrease the need for humans to work."
+  -
+    timestamp: "0:34:36"
+    speaker: Andy
+    content: "We just invented all these other jobs to fill in all of this space in between. And I feel this is actually, does really directly to the conversation because I feel that thing where it's like, \"Is this particular job title something that is a result of this machine that has created another niche where we need to fill it with a person to give somebody a job to do all the time?\" And then you have the design programs that pop up. The educational programs that pop up to fill that niche and it's this kind of cyclical thing where no matter what happens, we as humans will constantly create a job for us to have to occupy ourselves. Because we can't possibly handle the idea that we, as a society, have gotten to a place where we could, if we agreed, just diversify the wealth and then most people wouldn't have to work. But we don't accept that, and so instead, we invent all these jobs to keep people in this vicious cycle which..."
+  -
+    timestamp: "0:35:27"
+    speaker: Chappell
+    content: "I don't know."
+  -
+    timestamp: "0:35:27"
+    speaker: Matt
+    content: "I agree. We should do a basic income podcast, that's what we should do. [laughter]"
+  -
+    timestamp: "0:35:30"
+    speaker: Andy
+    content: "Yeah. This has turned into a socialism podcast, but..."
+  -
+    timestamp: "0:35:33"
+    speaker: Robyn
+    content: "There's an interesting piece in there that is worth dissecting, which is this idea that previously we had jobs in which they were very logistical. If you wanted to send out an e-mail or make a website, you had to code or figure out how to put things in places. But now, if a lot of that stuff is really streamlined, in theory we should be spending the time that we used to spend doing logistics on building good content because for the most part robots can't do that."
+  -
+    timestamp: "0:36:04"
+    speaker: Andy
+    content: "Yeah. Why do I have a job? Squarespace exists. Why do I have a job? "
+  -
+    timestamp: "0:36:08"
+    speaker: Robyn
+    content: "Sure, right. Yes that's a worthwhile question and not a worthwhile question. But yeah kind of a worthwhile question. But if you're building a Squarespace site, you just saved yourself hundreds of hours. Just write better content, or tell a better story or something like that. That's the core piece of it right?"
+  -
+    timestamp: "0:36:26"
+    speaker: Andy
+    content: "Yeah. And I'm exaggerating, right. I know on the..."
+  -
+    timestamp: "0:36:30"
+    speaker: Chappell
+    content: "But we end up just sitting around consuming mediocre content or just laughing at our own tweets because it's 2:00 AM and that's what we do. [chuckle]"
+  -
+    timestamp: "0:36:40"
+    speaker: Robyn
+    content: "I do that all the time."
+  -
+    timestamp: "0:36:41"
+    speaker: Andy
+    content: "That is such a thing. Me just laying in bed chuckling somewhat silently under my breath at Twitter, is such a thing."
+  -
+    timestamp: "0:36:50"
+    speaker: Chappell
+    content: "It's also weird because I feel like, yes there is some avoidance of society. Western society does not celebrate or reward an idle human, right? And that's part of our issue forever, and again not to take this podcast down a socialism philosophy rant but it's kind of true. We are... It's also natural that we're gonna continue to create occupations for ourselves. I don't know what they'll look like in the future, if they'll be occupations in the exchange for money, maybe it'll be in the exchange for some berries. I don't know. We have no idea where we're going in 100 years, or if we'll be here. But..."
+  -
+    timestamp: "0:37:34"
+    speaker: Andy
+    content: "I'm not sure if we're gonna be here in four years. In four years we're gonna be trading bread on the street corners or something. That's where we're headed."
+  -
+    timestamp: "0:37:41"
+    speaker: Chappell
+    content: "Bread lines, come on."
+  -
+    timestamp: "0:37:42"
+    speaker: Andy
+    content: "It's gonna happen."
+  -
+    timestamp: "0:37:45"
+    speaker: Chappell
+    content: "We're making it all great again. I got a... I tweeted about this recently, which maybe kind of kicked off this conversation. But I got one of those e-mails from LinkedIn where it's like, \"We have 15 jobs for you.\" And I mean I read it top to bottom, as we all do. [chuckle] No, I just... I skimmed it and I saw this one job title that really stood out to me and the name of it was verbal designer. And..."
+  -
+    timestamp: "0:38:18"
+    speaker: Andy
+    content: "Oh wow."
+  -
+    timestamp: "0:38:19"
+    speaker: Chappell
+    content: "So I was like, \"verbal designer?\" And I was like, is this something I don't even know about? Is this..."
+  -
+    timestamp: "0:38:26"
+    speaker: Andy
+    content: "We need new verbs. We need someone to design them."
+  -
+    timestamp: "0:38:28"
+    speaker: Chappell
+    content: "Do you design verbs? Do you design speech patterns? Or is this... Maybe it's for Alexa. Maybe we need people to write for Alexa, blah blah blah. I clicked on it and it was a posting for some large agency, I don't know who it was. And I was reading through the description and I was like, \"Okay this is literally just you want a copywriter who can write really well for a brand.\" That's all it is."
+  -
+    timestamp: "0:38:57"
+    speaker: Andy
+    content: "Yeah I was gonna say you clicked on it and somewhere a e-mail newsletter copywriter got their wings, when they got that conversion... [laughter]"
+  -
+    timestamp: "0:39:05"
+    speaker: Chappell
+    content: "They just went straight into the sky. And I was looking at that and was like, \"Yeah, that's just someone who can write and speak in the voice of a brand.\" And then I'm like, \"Honestly, do we even... Why is that title existing? Why did we need to hippify it more? And..."
+  -
+    timestamp: "0:39:25"
+    speaker: Robyn
+    content: "Hippify? Nice."
+  -
+    timestamp: "0:39:26"
+    speaker: Chappell
+    content: "Hippify, hippify. But why is that... What makes you accredited for that job? And I know friends who do improv for a living. They would probably kill at that job if it were posted differently with a different mindset. But employers kind of lock into this design world and they just keep kind of changing the name and pushing it more and not... It's not innovating. Not like we need to have like we need to hashtag innovate or anything. But there's something about that that is so disingenuous and frustrating to me. No offense to verbal designers out there. Cause I mean basically, I've been a verbal designer, I just didn't know it."
+  -
+    timestamp: "0:40:14"
+    speaker: Andy
+    content: "I too have been speaking for most of my life and I didn't know I was verbal designing the whole time."
+  -
+    timestamp: "0:40:19"
+    speaker: Chappell
+    content: "The whole time."
+  -
+    timestamp: "0:40:20"
+    speaker: Andy
+    content: "There's a real cost to that though which is worth mentioning, right? There's a certain type of person that will apply for a job to which they may not be confident they are qualified."
+  -
+    timestamp: "0:40:31"
+    speaker: Robyn
+    content: "That's called a dude."
+  -
+    timestamp: "0:40:32"
+    speaker: Andy
+    content: "And there's another type of person that will not apply to a job if they don't meet every single box that is listed on the job requirements form. And..."
+  -
+    timestamp: "0:40:42"
+    speaker: Robyn
+    content: "Hi, my name's Robyn. [laughter]"
+  -
+    timestamp: "0:40:44"
+    speaker: Andy
+    content: "Traditionally speaking, right? We've seen that women very often will not apply to jobs that they don't feel they are qualified for, novel concept. Men will apply for jobs they're not qualified for because of all of the ingrained..."
+  -
+    timestamp: "0:40:56"
+    speaker: Matt
+    content: "Example, the president. [laughter]"
+  -
+    timestamp: "0:41:00"
+    speaker: Andy
+    content: "All the ingrained sort of patriarchal weird arrogance that comes with that means you'll apply for that job. It's true of any under representative group is going to be less likely to apply for a job to which they don't meet all the qualifications. When you just start inventing BS qualifications because it makes you feel cool to say verbal designer instead of copywriter, there's a real cost which is that the industry does get more exclusionary. It does get less diverse because you have less people applying for jobs because you just made up a thing and put it on your job listing because you thought it was cool. It's not a trivial thing. It does actually matter."
+  -
+    timestamp: "0:41:34"
+    speaker: Robyn
+    content: "Right."
+  -
+    timestamp: "0:41:35"
+    speaker: Chappell
+    content: "Yeah."
+  -
+    timestamp: "0:41:35"
+    speaker: Matt
+    content: "Is that the same thing as asking the elephant question, of just these strange barriers that there is no right answer to and you just are hoping you get somebody confident enough they plow through and, \"Hey, they showed up here and they ended up here, great.\" Which is just white men over and over again."
+  -
+    timestamp: "0:41:48"
+    speaker: Andy
+    content: "If that's what you want Matt. If you just want somebody that is confident enough to plow into a room without thinking about it then I think that's how you get them. I'm pretty sure."
+  -
+    timestamp: "0:41:55"
+    speaker: Matt
+    content: "And that's what I'm asking. Is that the end result? Is that what happens when you do something like that? Maybe it is."
+  -
+    timestamp: "0:42:00"
+    speaker: Robyn
+    content: "Well part of that too is, especially in that interview process, a lot of people, brighter people, understand that if somebody's smart, they could be like, \"Oh, well I could get you there in three months.\" But the question they're trying to answer is do I want to hang out with you? Sometimes that elephant question is their gateway into figuring if they just wanna hang out with them. Or they just could be a really bad interviewer and they don't know what questions to ask, so they just throw something out to make them seem like they're really important when in reality they're just insecure about what they need or what they want, cause they don't know."
+  -
+    timestamp: "0:42:32"
+    speaker: Andy
+    content: "That's how I evaluate all of my potential friends I ask them where they hide an elephant, if they give me a cool answer, I know we're gonna be friends, otherwise I don't wanna hang out with them cause you don't know where to hide an elephant."
+  -
+    timestamp: "0:42:41"
+    speaker: Robyn
+    content: "Yeah, depending on how you say it, that goes from an interview question to a weird first date question, right? I don't know, when I was younger, I probably would have been like, \"Um, hmm.\" The entire time or I would have said something kind of ironically dumb, but now if I walk into an interview and somebody was like, \" Where is the elephant?\" I'd be like, \"Fuck you. Tell me your problem. I am here to solve your shit.\" [laughter]"
+  -
+    timestamp: "0:43:09"
+    speaker: Andy
+    content: "And they pull back a curtain, and there's an elephant in the next room. [laughter]"
+  -
+    timestamp: "0:43:13"
+    speaker: Robyn
+    content: "Yes, right! Yeah, yeah."
+  -
+    timestamp: "0:43:13"
+    speaker: Andy
+    content: "And they don't know where to put it. [laughter]"
+  -
+    timestamp: "0:43:16"
+    speaker: Robyn
+    content: "Totally, yeah!"
+  -
+    timestamp: "0:43:17"
+    speaker: Matt
+    content: "You clearly didn't read the job description very well. It was very clear about the elephant problem. [laughter]"
+  -
+    timestamp: "0:43:21"
+    speaker: Robyn
+    content: "And I'd be like, \"Well shit, get this elephant out of here.\" But pending that there's not an elephant in there, and somebody's doing that shit, I'm like, \"Fuck you, tell me what your thing is.\" Cause if I'm in the room, it's because there is a problem and I can help. If you talk to me about elephants, then you are not serious about whatever problem you're trying to solve, in my humble opinion. So humble. [laughter]"
+  -
+    timestamp: "0:43:44"
+    speaker: Chappell
+    content: "So humble."
+  -
+    timestamp: "0:43:45"
+    speaker: Matt
+    content: "Is this where the phrase \"the elephant in the room\" came from? [laughter]"
+  -
+    timestamp: "0:43:47"
+    speaker: Robyn
+    content: "Just me screaming. That's the whole elephant in the room."
+  -
+    timestamp: "0:43:51"
+    speaker: Andy
+    content: "Oh boy. What's the actionable thing. Is this use of lingo and use of exclusionary terminology that makes people that are new to the industry feel like they have to conform by using the language and makes people that are outside of the industry feel like they're missing some specialized experience. Is this something that should be combated? Should we be in meetings stopping people and saying, \"Well when you see MVP we mean minimum viable product and that means this: Blah blah blah blah blah.\" Should we be explaining those things or is this something that we should continue to use but with a... Sort of a grain of salt, with a sense of awareness of how it might affect people? What do you feel the practical approach to this stuff is? I recognize the problem. I myself find myself writing emails sometimes, where I'm like well... I honestly don't know how to say thing except for this thing except for this term that I know, and I'm going to have to labor over how to say in not six sentences what an MVP is other than just saying MVP and assuming someone knows what that means. What is the practical approach to this? Do you try and avoid these terms in your normal communications with people that may not know them? Or, what do you actually do? "
+  -
+    timestamp: "0:44:58"
+    speaker: Matt
+    content: "I wish the acceptable answer was just you're allowed to tease people who use those terms endlessly until they stop using them. But I don't know if that works in every scenario."
+  -
+    timestamp: "0:45:06"
+    speaker: Robyn
+    content: "I don't know. Chappell might answer this differently. For me, it's about the hierarchy in the room. If a VP starts busting out acronyms, I'm gonna Google the acronym and just start talking to it because I want to create trust with them and I want them to know that I know what I'm doing or whatever. But if I am a person that's a little bit more senior in the room and I see somebody throwing it out there, I might just cut the cord and be like, \"You can just tell me what you're trying to tell me.\" It depends on who I'm trying to appease, depending on how I'm going to respond in the moment."
+  -
+    timestamp: "0:45:39"
+    speaker: Chappell
+    content: "Robyn mentioned mentorship earlier, or someone she was mentoring or speaking with, and I agree wholeheartedly with that as a way to kind of combat the exclusionary vibe of this industry. And you know, it's not like you can help everyone all the time, but there might be one person in your office that you can just kind of make sure they know what's happening and don't assume they know anything. And of course don't belittle them or anything but explain things to them very straightforward. Because I think the goodness of our industry is really passed down through, kind of institutional knowledge, that idea. When I worked at the City, working in government, again, has its own language that's incredibly exclusionary."
+  -
+    timestamp: "0:46:33"
+    speaker: Chappell
+    content: "And when I walked in, they don't teach you anything, they don't tell you anything. Apparently, I joined a union and didn't even know I did. There's all of this crazy language that I didn't understand and it was only by the goodness of a fellow city employee, who literally sat down with me for two hours, on their free time, to just go over everything. To teach me the terminology, where I needed to go, how I needed to handle things. And I was so thankful for that. And that's kind of... It's kind of the same thing in the design industry. If I have juniors under me, I just sit down with them and I go over presentations with them and I'm like, \"Ask me questions. There's no dumb question. Just ask me anything.\""
+  -
+    timestamp: "0:47:17"
+    speaker: Robyn
+    content: "Sure."
+  -
+    timestamp: "0:47:17"
+    speaker: Andy
+    content: "Yeah, the only time I've ever felt good about asking those questions is once I felt I got to a level where anything I don't know is probably reasonable that I don't know them and then it's okay to ask questions. Whereas when I just started, it was like, \"Oh I can't ask anybody any question because then I'll just look stupid.\" But now I feel like my attitude is just, if I don't know about it it's fine, I'm just going to ask what it means and someone will explain it to me and they won't think I'm stupid, I hope. But If I had to go back in time, and just be a younger version of me, I don't know how I would have changed that and would I just adopt the exact same attitude and it's fine? Or would I just have to live through it and wouldn't it be nicer if someone just explained that to me? "
+  -
+    timestamp: "0:47:57"
+    speaker: Chappell
+    content: "You sometimes just have to... Sometimes I have to just be like, \"What would the cockiest dude do that I know?\" And I... [laughter]"
+  -
+    timestamp: "0:48:06"
+    speaker: Robyn
+    content: "Yeah, that's real."
+  -
+    timestamp: "0:48:08"
+    speaker: Chappell
+    content: "Sometimes you have to think of... I think of the cockiest guy I know and I just say, \"What would he do?\" That's literally actually how I got my job when they asked me my salary requirements. I just said in my head, \"What would that, imagining that guy in my head, do?\""
+  -
+    timestamp: "0:48:26"
+    speaker: Robyn
+    content: "That makes sense."
+  -
+    timestamp: "0:48:26"
+    speaker: Chappell
+    content: "And honestly..."
+  -
+    timestamp: "0:48:28"
+    speaker: Andy
+    content: "That's a really useful heuristic I've found. [chuckle]"
+  -
+    timestamp: "0:48:30"
+    speaker: Chappell
+    content: "It's for some people, they are the cockiest guy so they don't have to go through transformation mentally."
+  -
+    timestamp: "0:48:36"
+    speaker: Andy
+    content: "Okay, you don't have sub-tweet us, we're sitting right here. [laughter]"
+  -
+    timestamp: "0:48:41"
+    speaker: Chappell
+    content: "Haha. But..."
+  -
+    timestamp: "0:48:42"
+    speaker: Robyn
+    content: "But what I did is, I asked a cocky dude what he would charge. When I was interviewing a year and a half ago and somebody was like, \"What's your salary range?\" And I sent it to a dude and I'm like, \"I think it's this.\" And the guy was like, \"No, no, no, no. It's this. And then add 15% more.\" And I was just like, \"There's no way in hell I'm sending that number back.\" And he was just like, \"Send it.\" And I did and within an hour they were like, \"Great. Thanks.\""
+  -
+    timestamp: "0:49:07"
+    speaker: Chappell
+    content: "Yeah. That's the real deal. That's who you go to for advice on these matters, sadly. [laughter]"
+  -
+    timestamp: "0:49:15"
+    speaker: Robyn
+    content: "Right. Yeah. Fair."
+  -
+    timestamp: "0:49:16"
+    speaker: Chappell
+    content: "But it's also funny how it does feel like there's a bit of a garden wall to a lot of our industry and it is up to us to also help people over that wall when we can. But also, once you're over the wall it's like, \"Oh, it wasn't that bad. It really just takes pretending that I have confidence, then getting over the wall and then all of a sudden I do have it.\" And also just like... I used to just get really angry when I found out what something meant, like a word I didn't understand, cause I would get angry when I found out how bullshitty it was. Like agile. That is some hardcore craziness. Cause, I know there's a whole process and a whole thing and I respect that, but the name, people make it sound like it's this magic thing when I'm like, \"Oh. It's just doing work very quickly and iterating on that.\" [chuckle]"
+  -
+    timestamp: "0:50:17"
+    speaker: Andy
+    content: "Yeah. But basically that means listening to the client and responding to the changing requirements without just basically making a document and then building for six months based on that document."
+  -
+    timestamp: "0:50:29"
+    speaker: Chappell
+    content: "Yeah. But there's a whole process and I get that and I've been in those and it's really sometimes fun, sometimes a nightmare, but..."
+  -
+    timestamp: "0:50:36"
+    speaker: Andy
+    content: "Don't tweet Chappell about what agile means. No one's allowed to do that. [laughter]"
+  -
+    timestamp: "0:50:39"
+    speaker: Chappell
+    content: "No. They're like, \"Chappell, it's a great process.\" But look, I'm not a UX person, I can talk about it in a negative light, but I..."
+  -
+    timestamp: "0:50:48"
+    speaker: Andy
+    content: "She's a verbal designer, okay? She doesn't understand these X's and I's. [laughter]"
+  -
+    timestamp: "0:50:52"
+    speaker: Chappell
+    content: "I don't know. But it's also... Young me would have been so intimidated and was so intimidated by these words and practices, and I thought, \"There's no way I could ever work somewhere like Google or whatever.\" Because these words and these things..."
+  -
+    timestamp: "0:51:09"
+    speaker: Robyn
+    content: "\"That's the gate keeping shit that bothers me.\" I think at the very core of it, when I was mentoring this person yesterday and they were like, \"I don't know what to tell a hiring manager that I was, that I do or whatever like that.\" And I was just like, \"Fuck that. That is gate-keeping nonsense. Just whatever they're looking for... If they ask for this weird thing that you've never heard of, maybe Google it for two seconds but tell them that you do it.\" Cause that system is designed for a cocky dude to be like, \"Of course I do that.\" But a woman who might be much smarter than that cocky dude at the actual problem will be like, \"Hmm, I don't know if I wanna call myself that.\" Fuck that. [laughter] That's why I hate the language because it's just so exclusionary of actual talent and that is just not good. It's not..."
+  -
+    timestamp: "0:51:55"
+    speaker: Andy
+    content: "It's a real problem. For sure."
+  -
+    timestamp: "0:51:55"
+    speaker: Chappell
+    content: "And then you can use that. The problem is if you're hiring and you use that language to judge a new person, you're gonna be missing out on some amazing things they have to offer."
+  -
+    timestamp: "0:52:06"
+    speaker: Andy
+    content: "Not only that, but then you get to say in two months, you get to be like, \"Well, no women applied, so how could I have ever possibly hired them?\" And it's like, \"Well you wrote a job description and asked for a verbal designer and a... \" [laughter] \"UX ninja and so what were you expecting?\" [laughter]"
+  -
+    timestamp: "0:52:20"
+    speaker: Robyn
+    content: "Right. And then they'll think that if you ask them what that means, they'll be like, \"Oh well, yeah.\" They'll go back to their boss and be like, \"I almost hired them but they just weren't confident about what the job was.\" Like, \"No. You just weren't writing about what your actual problem that you need to be solved was.\" I just think a lot of that stuff is designed to keep people out, which is the thing that bothers me."
+  -
+    timestamp: "0:52:41"
+    speaker: Chappell
+    content: "Well, it's also... And it translates too into... It's not just language, like verbal language, it's also translates into actual physical design work. And..."
+  -
+    timestamp: "0:52:52"
+    speaker: Robyn
+    content: "Right."
+  -
+    timestamp: "0:52:53"
+    speaker: Chappell
+    content: "The way portfolios are built and projects are made, it's like you have to have gone through these programs because you're being hired by people from these programs and that's the language they understand. And so that's like whenever we're going through the whole Metahaven Yale Design School aesthetic of 2015 where everything was squiggles and..."
+  -
+    timestamp: "0:53:17"
+    speaker: Andy
+    content: "Oh yes, critical design, I believe. [laughter]"
+  -
+    timestamp: "0:53:18"
+    speaker: Chappell
+    content: "Critical design. When we were going through critical design, that was every portfolio and I was like, you know what's crazy is that Yale has just created this... Or Metahaven and the Netherlands has created this visual language that Yale has now codified in their system and they've created a whole generation of designers who have codified it. And then, they're gonna only judge design based on that visual language. And so, anything that falls out of that parameter for them, it doesn't look good or doesn't seem right. Someone who's maybe from, I don't know, a designer in North Africa who doesn't have that visual language is gonna fall outside of their parameter. They might not consider hiring them."
+  -
+    timestamp: "0:54:01"
+    speaker: Chappell
+    content: "This is where I'm like, design is not only dealing with the language that we surround the culture with. It's also the visual language."
+  -
+    timestamp: "0:54:09"
+    speaker: Andy
+    content: "And something that's interesting about that is that our offices are two blocks from MICA's campuses which is where I went to school, and I taught some classes there. I know a lot of people that teach there part-time and full-time, and from talking to both interns we've had over the years and to instructors, and I also am fairly close with the chair of the department, this stuff is actually... It's not top-down. One year, all of a sudden, people were like, \"Students are doing everything squiggly, and I don't know why but everything's squiggly now, and I'm not sure what to do about it.\" [laughter]"
+  -
+    timestamp: "0:54:39"
+    speaker: Andy
+    content: "A lot of these things are permeating in the culture, and then the professors end up being like, \"Well, I didn't learn this, but I guess this is what we're doing now, so I gotta figure out how to speak to this and catch up on what the zeitgeist happens to be at this moment.\" But it's very real that those things breed and then all of a sudden, that's what everything is. I go to the commencement show every year at MICA, and watching the design work change so dramatically year over year, and now I talk to part-time interns we have, and I'm like, \"Yeah, when I was a design student, nobody did anything that wasn't super corporate looking and very clean and graphic design with a capital G and a capital D.\" And now you go and it's like somebody took Times New Roman and made it neon and then put it through a random transformation and route processing and then printed it on a poster, and you're like, \"This is cool. This has changed so much in the six or seven years since I've graduated, but it's totally different.\""
+  -
+    timestamp: "0:55:35"
+    speaker: Robyn
+    content: "Man. Design school sounds horrible. [laughter] I never went to design school, so I don't know."
+  -
+    timestamp: "0:55:39"
+    speaker: Andy
+    content: "Design school is a really..."
+  -
+    timestamp: "0:55:40"
+    speaker: Robyn
+    content: "That just sounds atrocious."
+  -
+    timestamp: "0:55:42"
+    speaker: Andy
+    content: "A very fun time if you have the luxury of being able to afford it. It is a great privilege to be able to spend four years being like, \"What is the most important poster?\" [laughter] That is a fun thing to think about for four years."
+  -
+    timestamp: "0:55:55"
+    speaker: Robyn
+    content: "Right, yeah. I don't know what that's like, but sounds great."
+  -
+    timestamp: "0:56:00"
+    speaker: Andy
+    content: "Here's where I want to end if you all will entertain my idea. I wanna briefly go down... And I'll go first so you all have time to think about it. I want to go down just the terms and the lingo that we find ourselves using or that we actually prefer in spite of all of our strong feelings about how this stuff can be kind of exclusionary. Is there still some terms that I find myself really having to force myself to stop using? Some of them, I'm not going to say UX, UI, visual design, none of that stuff. But for me, the things that I always end up saying... I keep coming back to MVP, minimum viable product, which is a thing that when I first read about it, which was right around the time I was graduating, when the Y Combinator startup culture was just becoming a well-known, well-renowned thing, that resonated so strongly with me. And it's just like agile, right? All you're saying is, \"We're gonna build the version of it first that makes the least assumptions, and then we're going to use any new information to effect how we build it in the future.\" It's a very obvious thing, but short-handing that has been very useful for me, and I found myself wanting to say that to many potential clients or people and ending up actually explaining what that is in two or three sentences, but I have to spend two or three sentences doing it instead of just saying MVP."
+  -
+    timestamp: "0:57:11"
+    speaker: Andy
+    content: "I wish I could use that one and trust that people would know what it means. The other one... I keep coming back to that I always want to say, even though I know it has no meaning to anybody outside of the industry, is design sprint. Which is basically to say, \"You don't really know what you want yet. You have an idea, but in order for us to give you a proposal to build that idea, we have to flesh out some of these details, and that's gonna require us to spend a week to two weeks doing some preliminary design work and show you that so you can then look at something and give us feedback because it's so much easier to get feedback on something once you're looking at it. It's so much more difficult to just imagine in your head what it might be and conjure the perfect description of the work you need.\" And describing that is always cumbersome. I wish I could just say, design sprint, and everyone knew exactly what that meant, but I can't. I have to be like, \"Well, you don't know what you want yet. We can't give you an estimate for this idea giving how vague it is. We have to work with you and design this thing for this amount of time.\" I have to explain the whole thing every single time."
+  -
+    timestamp: "0:58:06"
+    speaker: Andy
+    content: "Those are the two that I want to be able to say those things, but I know I just can't, and I always have to correct myself whenever I go to just type, \"We're gonna design sprint this for you so that we can make an MVP in two weeks.\" I just have to spell it all out."
+  -
+    timestamp: "0:58:18"
+    speaker: Matt
+    content: "It's really unfair when you take the term design sprint. You've been talking this whole time, I've been thinking about things I get to say, and then you say, design sprint, and now I'm stuck with nothing. You're a jerk."
+  -
+    timestamp: "0:58:26"
+    speaker: Andy
+    content: "Bam."
+  -
+    timestamp: "0:58:27"
+    speaker: Robyn
+    content: "Well actually... A question on your design sprint thing. Why don't you just take them in for an hour long design thinking exercise where you work out Post It notes of what they're looking for?"
+  -
+    timestamp: "0:58:37"
+    speaker: Matt
+    content: "So yours is design thinking, Robyn?"
+  -
+    timestamp: "0:58:39"
+    speaker: Robyn
+    content: "Whatever you call it. A design sprint or whatever it is. If they don't know what they're trying to solve, why don't you just put them in a room and ask them a bunch of questions on Post-It notes and tell them to write it all down, and then they put all their Post-It notes on a whiteboard, and you pluck away what it is and what it isn't? As opposed to spending two weeks designing something in the dark and be like, \"Is this what it is?\""
+  -
+    timestamp: "0:58:58"
+    speaker: Andy
+    content: "It's a good question. The first answer is that a lot of these are people that haven't... Aren't clients yet, these are potential clients, and we have to propose to do something they're gonna pay us for. And we could propose to have them sit in a room for an hour and a half, let's write some things down, and maybe they'll give us enough information to make an actual proposal for a project. But in reality, we oftentimes... Someone says, \"I have an idea for a dog walking app that's like Uber.\" And it's like, \"Okay. Well, what does that actually mean?\" And they're like, \"I don't know. I just had a brilliant idea for Uber for dog walking.\" And then we have to work through what that is."
+  -
+    timestamp: "0:59:32"
+    speaker: Andy
+    content: "Also, I really do think that a lot of people don't respond well or can't actually express their idea through the Post-It notes, wireframes... Feature document, right? The description of what the product needs to do, that document, for a certain group of people is exactly what they need. When you give that document to a group of engineers or to people that are designers with that kind of background, that means everything it needs to mean, but when you give it to somebody that is outside of those worlds, oftentimes there are things that they may think are givens or obvious that aren't listed, they don't ever bring up or they may just forget to mention a very important thing. We've found constantly if we put an image in front of somebody, they can say, \"This is great, but where is X?\" And we're like, \"Oh, you literally never said anything about X. That's not a thing that just happens, we need to build X.\""
+  -
+    timestamp: "1:00:21"
+    speaker: Andy
+    content: "We found that, that's actually a much easy way for most of our clients to actually respond to things. Is that we use the visuals as a means of communication as opposed to designing perfect screens and then, building them pixel for pixel or whatever. Yeah, usually it's a week, it depends on the project. But those are the two things, those terms I keep coming back to are things that... They mean so much to me and that meaning is actually genuine. It's a short-hand for an actually meaningful thing. It's not just a different synonym for a word that I could just say. There's actually some embedded meaning there that makes those terms valuable, but I also recognize that I shouldn't just say them willy nilly to people, I have to explain what they mean."
+  -
+    timestamp: "1:00:58"
+    speaker: Robyn
+    content: "For sure."
+  -
+    timestamp: "1:00:58"
+    speaker: Andy
+    content: "Does that... Do other people have words like that, that mean things to them or that they find themselves using in spite of themselves? "
+  -
+    timestamp: "1:01:05"
+    speaker: Matt
+    content: "Well I know I always say, every person is a user, everything we ever make is a product and every short meeting is a stand-up. And I feel when I exam those I'm like, \"Oh, I'm just talking about people, talking about projects, talking about meetings. Don't know why I use these terms.\" But I feel like there's... I probably have an endless number of those that... I'm basically almost using synonyms that... Why am I using synonyms? I'm not totally sure. Cause that's what everybody else says."
+  -
+    timestamp: "1:01:29"
+    speaker: Andy
+    content: "In-culturation."
+  -
+    timestamp: "1:01:31"
+    speaker: Chappell
+    content: "Yeah, I love it in a weird way and hate myself, but I will straight up... I feel like when I get to use all those terms in a sentence, I feel like a 1940s newsman and so I'm like, \"We're not scoped for this in the MVP, you see.\" It gets... [laughter]"
+  -
+    timestamp: "1:01:53"
+    speaker: Andy
+    content: "Oh, scope is a good one."
+  -
+    timestamp: "1:01:54"
+    speaker: Chappell
+    content: "Scope. High level scoping. It's weird because I've only been in this environment for a few months now and it's already... They say, if you just drop yourself into a foreign country, you'll know the language in a couple months, it's totally true. Which I say that to anyone who is kind of freaked out of starting new jobs, or jumping into these cultures, you can pick up the language and just start using it and all the sudden people don't question you when you just use it with authority. But I don't know. I still cringe at words like deliverables and assets and anything that just means, \"Here is the work I made for you.\" And... But I'm also kind of like an old person I refer to all Apple products as Macintosh's, still. And I still talk about..."
+  -
+    timestamp: "1:02:48"
+    speaker: Andy
+    content: "Nice Macintosh phone."
+  -
+    timestamp: "1:02:49"
+    speaker: Chappell
+    content: "A nice Macintosh phone."
+  -
+    timestamp: "1:02:52"
+    speaker: Matt
+    content: "Do you use that to get on the Facebook? [chuckle]"
+  -
+    timestamp: "1:02:53"
+    speaker: Chappell
+    content: "To get on the Facebook and I use my CD-ROM driver. But, I don't know, I feel like an outlier, which is weird. Because even though I've been studying design for 15 years, but I still pause and stare into space thinking, \"Oh God, do I say font or typeface?\" [chuckle]"
+  -
+    timestamp: "1:03:16"
+    speaker: Andy
+    content: "That's a good one."
+  -
+    timestamp: "1:03:16"
+    speaker: Chappell
+    content: "And it's just a very simple thing and I still will Google that everyday. I don't know why I don't retain any of this stuff even though I've been in it. But it's just... It's whatever."
+  -
+    timestamp: "1:03:27"
+    speaker: Andy
+    content: "You probably don't retain it cause it doesn't matter, is my guess."
+  -
+    timestamp: "1:03:29"
+    speaker: Chappell
+    content: "It doesn't matter. I've also tried to get people to instead of brainstorming, I try to just get people to say stormin', but it hasn't caught on, but I'm hoping soon."
+  -
+    timestamp: "1:03:44"
+    speaker: Andy
+    content: "You're saying you wanna add more. You wanna add more lingo to this ever growing list of lingo, but you just wanna take credit for it."
+  -
+    timestamp: "1:03:49"
+    speaker: Chappell
+    content: "I just wanna lingo, the lingo, because then we all realize how dumb all this is. [chuckle]"
+  -
+    timestamp: "1:03:55"
+    speaker: Matt
+    content: "And then you might get a sweet Urban Dictionary entry, which is what we all want."
+  -
+    timestamp: "1:04:00"
+    speaker: Chappell
+    content: "Oh yeah. I mean, it depends what the entry is but..."
+  -
+    timestamp: "1:04:02"
+    speaker: Andy
+    content: "The lingo ouroboros. That could be a title for this episode. We maybe have that already. Robyn, you wanna get in the last word? Do you have any final thoughts on this topic? I feel like we've all gotten something in, but what are your last thoughts? "
+  -
+    timestamp: "1:04:14"
+    speaker: Robyn
+    content: "Yeah, sure. I kinda mentioned this a little bit earlier but this idea of depending on who you're talking to, like depends on the language that you shift to. And that just comes down to the idea of... If I'm talking to somebody and I can see that they want a specific thing and I think I can provide that thing but I needed to talk about it in their language to give them that. I'll manipulate that moment and just start speaking in their language, and that's fine because I can just rush off and figure out what they were saying after the conversation."
+  -
+    timestamp: "1:04:44"
+    speaker: Robyn
+    content: "But if I'm not in the position of needing something from that person and I'm in a position where somebody wants something from me, then I have a little bit more control to just change how that conversation rolls. I could figure out where I push myself in the conversation to being a little bit more accessible versus if I'm talking to somebody who is in a position of power that I listen to what they say and then take it and digest it and then flip it into an actual accessible language. It depends on the moment, depends on the person, depends on what I need out of the moment. Just your miles may vary. That and my second point that I always tell people is to just listen to Navasurf. That's all I have."
+  -
+    timestamp: "1:05:32"
+    speaker: Andy
+    content: "There you go. Yeah. I will say, if you have the privilege to, something I've been trying to get better about, is just if I don't know some terminology, either because I think the person I'm talking to is much smarter than me or because I think the person I'm talking to is BSing me, I will just ask them to explain it. I will not sit there and Google it and pretend like I'm supposed to know this thing. I'll be like, \"I'm sorry, can I stop you for a moment? What do you mean when you say free cycles? Can you just explain that?\" The result is either, you learn something valuable because this is actually a term with true meaning that needs to be short-handed in some way because it's got depth and purpose, or you make somebody explain the dumb word that means nothing. And both of those situations are a big win for you because watching somebody explain that, \"Oh, cycles just means that you have some time to work on it.\" And you're like, \"Okay, great, wanted to make sure I knew what you were talking about.\" That's a win."
+  -
+    timestamp: "1:06:22"
+    speaker: Matt
+    content: "I did shame a coworker the other day for saying free cycles. It really worked. I think I'm not gonna have to hear that anymore."
+  -
+    timestamp: "1:06:26"
+    speaker: Andy
+    content: "Yeah. All you have to do is ask."
+  -
+    timestamp: "1:06:27"
+    speaker: Robyn
+    content: "What the hell is free cycles?"
+  -
+    timestamp: "1:06:28"
+    speaker: Chappell
+    content: "Tell us what that means? I have no idea."
+  -
+    timestamp: "1:06:30"
+    speaker: Andy
+    content: "Oh, that's a thing people say... We get contacted all the time. We get an e-mail and be like, \"Hey, we need some movie development. Do you have any free cycles coming up?\" And what that means is do you have weeks or some other unit."
+  -
+    timestamp: "1:06:42"
+    speaker: Matt
+    content: "Do you have any availability? Do you have free time?"
+  -
+    timestamp: "1:06:44"
+    speaker: Andy
+    content: "Yeah. It just means do you have time to work on this project and people say cycles instead and it's like, \"Okay, cool, don't know what that means.\" If you have the privilege and you're not worried about losing your job or something, ask people what the words mean. That's a fun game to play."
+  -
+    timestamp: "1:06:56"
+    speaker: Chappell
+    content: "In most cases there are very few times that asking what something means will get you in trouble, especially if you're a new person. But if you just as a thought experiment, if you take a day and promise yourself to not assume anything and when people say something and you don't know what it means, just ask them. You will be shocked at the end of your day how much you learned and recognize that's all stuff I would have just walked by and ignored because I just was gonna pretend I knew what it was."
+  -
+    timestamp: "1:07:33"
+    speaker: Chappell
+    content: "And you have... How many times do you mention a movie and your friend is like, \"Oh!\" And they nod about it and you're kind of like, \"Yeah, they haven't seen it.\" You know? And it's really interesting because they have the choice to either say, \"I've never seen that, what's it about?\" You have an every opportunity when someone says something if you haven't heard of it to say, \"Hey, what is that?\" And that's for me the most exciting thing when someone doesn't know a movie I've seen or a word I'm using, I get super excited that I get to tell them about that. There's also this idea of taking joy in just explaining something. It's really, really lovely. When someone hasn't heard of a band that you love that is the best moment to be like, \"Pull up a chair, kid.\" You know?"
+  -
+    timestamp: "1:08:26"
+    speaker: Robyn
+    content: "Well, that moment is an interesting one too. Cause I feel like... I think it was Leah Reich or something like that was talking to me about, was it Cat Stevens or something like that of this band that if somebody's like, \"Oh, do you listen to whatever the band is?\" And then they're like, \"No.\" And then they take like a half hour to talk to about that thing or whatever it is. [laughter] Don't be that person, just give him your 30 second highlight on why that thing is dope. And then maybe text them a link."
+  -
+    timestamp: "1:08:57"
+    speaker: Chappell
+    content: "Yeah. That's good."
+  -
+    timestamp: "1:08:58"
+    speaker: Andy
+    content: "I will say being really excited to explain why a thing you like is great is exactly what your cocky male friend would do. You've come full circle. They'd be very excited about explaining that too."
+  -
+    timestamp: "1:09:09"
+    speaker: Robyn
+    content: "It's gonna crush me that I can't remember the band, that it was happening with her."
+  -
+    timestamp: "1:09:14"
+    speaker: Andy
+    content: "I don't know. We made a podcast though. Good job everybody. [laughter]"
+  -
+    timestamp: "1:09:17"
+    speaker: Matt
+    content: "Hurray, thanks for coming, thanks for joining us."
+  -
+    timestamp: "1:09:20"
+    speaker: Andy
+    content: "Thank you very much. Is there anything you want to promote at the end of this episode so that people can go click on it."
+  -
+    timestamp: "1:09:26"
+    speaker: Chappell
+    content: "No."
+  -
+    timestamp: "1:09:27"
+    speaker: Andy
+    content: "Robyn, anything to promote? "
+  -
+    timestamp: "1:09:30"
+    speaker: Robyn
+    content: "New My Trans Health drops in a couple of weeks."
+  -
+    timestamp: "1:09:31"
+    speaker: Andy
+    content: "Ooh, very exciting."
+  -
+    timestamp: "1:09:32"
+    speaker: Matt
+    content: "Cool. Nice."
+  -
+    timestamp: "1:09:33"
+    speaker: Andy
+    content: "New as in like functional new, new as in facelift for the front end, what are we talking about? "
+  -
+    timestamp: "1:09:39"
+    speaker: Robyn
+    content: "Oh, it is whole brand new life. We basically didn't design the first one to scale very well so we redesigned it to scale a lot better. And that redesign involved switching platforms from sort of Native React and we flipped everything over to Wordpress which is really exciting. We have a functional CMS now as before we were just like hard-copying, hard-coding in providers and stuff. We re-did that and that's really exciting. I re-did the whole UIX, whatever we're calling it nowadays. It looks different and the buttons are in different places."
+  -
+    timestamp: "1:10:17"
+    speaker: Andy
+    content: "Did you carefully consider the verbal design when you were redoing that? [laughter]"
+  -
+    timestamp: "1:10:22"
+    speaker: Robyn
+    content: "I very carefully considered the verbal... The language that I... The words and the letters..."
+  -
+    timestamp: "1:10:27"
+    speaker: Andy
+    content: "That's good. The verbal design is very important. I can't overstate how important it is."
+  -
+    timestamp: "1:10:31"
+    speaker: Robyn
+    content: "Yeah. It was really critical that the letters looked good. I used a typeface where the letters looked crisp."
+  -
+    timestamp: "1:10:40"
+    speaker: Andy
+    content: "Very exciting. Well we'll be on the lookout for that."
+  -
+    timestamp: "1:10:42"
+    speaker: Robyn
+    content: "That's it."
+  -
+    timestamp: "1:10:43"
+    speaker: Andy
+    content: "Do you have a date for that? When does that drop? Is that official yet? "
+  -
+    timestamp: "1:10:45"
+    speaker: Robyn
+    content: "I wish we had a date. No, we don't have a date. We've been telling people end of April but it's April 27th now. We're not going to do April, but my guess is first or second week of May will be good."
+  -
+    timestamp: "1:11:01"
+    speaker: Andy
+    content: "There you go."
+  -
+    timestamp: "1:11:02"
+    speaker: Robyn
+    content: "Yeah. It's a very exciting time. That's what I'm doing."
+  -
+    timestamp: "1:11:05"
+    speaker: Andy
+    content: "I am, of all the issues to have, I'm very glad you're having scaling issues. That's a good sign. That's good to hear."
+  -
+    content: Music
+  -
+    timestamp: "1:11:24"
+    speaker: Andy
+    content: "This has been Working File, thanks for listening. Do us a favor. Open up iTunes, search for Working File and then go to that review box and here's what I want you type. I want you to click on the fifth star and then type, \"Very good podcasts, all about design,\" and hit enter."
+  -
+    content: Music
