@@ -26,8 +26,8 @@ episode: true
 
 .meta-data-wrapper
 
-  button.seek-button data-timestamp="300000" Go to 5 Minute Mark
-  button.seek-button data-timestamp="600000" Go to 10 Minute Mark
+  button.seek-button data-timestamp="00:33:36" 00:33:36
+  button.seek-button data-timestamp="25:41" 25.41
 
   - if links.present?
     .show-links
@@ -53,6 +53,18 @@ javascript:
 
     var seekTime;
 
+    function hmsToMiliseconds(str) {
+      var p = str.split(':'),
+          s = 0, m = 1;
+
+      while (p.length > 0) {
+        s += m * parseInt(p.pop(), 10);
+        m *= 60;
+      }
+
+      return s * 1000;
+    }
+
     widget.bind(SC.Widget.Events.PLAY, function() {
       if (seekTime != null) {
         widget.seekTo(seekTime);
@@ -71,10 +83,10 @@ javascript:
           widget.isPaused(function(paused) {
 
             if (paused == true) {
-              seekTime = timestamp;
+              seekTime = hmsToMiliseconds(timestamp);
               widget.play();
             } else {
-              widget.seekTo(timestamp);
+              widget.seekTo(hmsToMiliseconds(timestamp));
             }
           });
         });
