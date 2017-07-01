@@ -288,7 +288,7 @@ body {
       .transcript-message .seek-button {
         position: absolute;
         top: 0;
-        right: calc(100% + 1em); } }
+        right: calc(100% + 0.5em); } }
   .transcript-message .speaker {
     font-weight: bold;
     display: inline; }
