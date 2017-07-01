@@ -26,9 +26,6 @@ episode: true
 
 .meta-data-wrapper
 
-  button.seek-button data-timestamp="00:33:36" 00:33:36
-  button.seek-button data-timestamp="25:41" 25:41
-
   - if links.present?
     .show-links
       h3 Links Discussed
@@ -36,12 +33,16 @@ episode: true
         - links.each do |link|
           li = link_to link.text, link.url
 
+
+
   - if transcript == true
-    .transcript
-      .transcript-thank-you
-        span Full text transcripts brought to you by <a href="https://www.xyztype.com">XYZ&nbsp;Type</a>.
-        a href="https://www.xyztype.com" = partial "shared/xyz_logo";
-      = partial("transcripts/episode-#{id}", :locals => { :episodeID => id })
+    - data.transcripts.send("e#{id}").messages.each do |message|
+      .transcript-message
+        - if message.timestamp.present?
+          button.seek-button data-timestamp="#{message.timestamp}" = message.timestamp
+        - if message.speaker.present?
+          .speaker = message.speaker
+        .message-content = message.content
   - else
     .transcript.not-available Full transcript not yet available.<br />Check back soon!
 
