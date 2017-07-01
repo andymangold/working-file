@@ -624,7 +624,7 @@ messages:
   -
     timestamp: "29:27"
     speaker: Jon
-    content: "We've already [29:27] ____ about that."
+    content: "We've already asked Designer News about that."
   -
     timestamp: "29:27"
     speaker: Andy
@@ -755,8 +755,8 @@ messages:
     content: "If we can use informed design tools to help us, like augment our intellect rather than constrain us, I think that's pretty interesting."
   -
     timestamp: "40:22"
-    speaker: Andy
-    content: "Because the way I think of coming up with an idea is in some sense is very robotic. I don't think coming up with an idea is walking through the park and just hoping it pops in your head. I think it's doing it like 20 times, doing it 100 times, and then picking the best one. And that is very much like what a computer can do. I'd like to think that I'm better than that because I have experience but, doing something many times and then pulling out the one sounds very robotic to me and that's kind of how I like to do design work and come up with new ideas. Do you guys also do the same thing or is that just totally [40:54] ____?"
+    speaker: Matt
+    content: "Because the way I think of coming up with an idea is in some sense is very robotic. I don't think coming up with an idea is walking through the park and just hoping it pops in your head. I think it's doing it like 20 times, doing it 100 times, and then picking the best one. And that is very much like what a computer can do. I'd like to think that I'm better than that because I have experience but, doing something many times and then pulling out the one sounds very robotic to me and that's kind of how I like to do design work and come up with new ideas. Do you guys also do the same thing or is that just totally foreign?"
   -
     timestamp: "40:55"
     speaker: Jon
@@ -794,7 +794,7 @@ messages:
   -
     timestamp: "44:55"
     speaker: Andy
-    content: "For me, I think... The thing I always say in the office when we're talking about these things is I always say that you can justify a new design if we're talking about a new thing. This is not a new thing. Don't try and make a new design for it. If we're just making a contact form, don't try and reinvent the contact form, probably. But if we're talking about an actually new thing, here is a unique aspect of whatever entity we're designing for, we're trying to represent that is somewhat special, or at least, you wanna draw attention to, then yes, let's let the reins go a little bit, let's maybe do something that takes a little more time to [45:31] ____, that's a little bit less aware of, limitations, because that's where energy should be focused. And that's, I guess, where my frustration comes from when I see somebody that's totally reinvented the one-page restaurant website where everyone just wants the hours and the stupid address. It's like, Great! Cool! Glad you poured your totally reinventing juice into this problem, and not something that maybe you could've actually used to be totally reinvented. And I don't know if that's just jaded..."
+    content: "For me, I think... The thing I always say in the office when we're talking about these things is I always say that you can justify a new design if we're talking about a new thing. This is not a new thing. Don't try and make a new design for it. If we're just making a contact form, don't try and reinvent the contact form, probably. But if we're talking about an actually new thing, here is a unique aspect of whatever entity we're designing for, we're trying to represent that is somewhat special, or at least, you wanna draw attention to, then yes, let's let the reins go a little bit, let's maybe do something that takes a little more time to implement, that's a little bit less aware of, limitations, because that's where energy should be focused. And that's, I guess, where my frustration comes from when I see somebody that's totally reinvented the one-page restaurant website where everyone just wants the hours and the stupid address. It's like, Great! Cool! Glad you poured your totally reinventing juice into this problem, and not something that maybe you could've actually used to be totally reinvented. And I don't know if that's just jaded..."
   -
     timestamp: "45:55"
     speaker: Matt
