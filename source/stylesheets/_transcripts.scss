@@ -29,11 +29,21 @@
   margin: 1em 0;
   line-height: 160%;
 
+  .timestamp {
+
+    @media screen and (min-width: $side-by-side-breakpoint) {
+      position: absolute;
+      top: 0;
+      right: calc(100% + 1em);
+    }
+  }
+
   .seek-button {
     appearance: none;
     background: none;
     border: none;
-    padding: none;
+    padding: 0;
+    margin: 0;
     outline: none;
     color: $light-gray;
     font-family: 'Roboto Mono', monospace;
@@ -48,12 +58,6 @@
 
     &:after {
       content: " ▷";
-    }
-
-    @media screen and (min-width: $side-by-side-breakpoint) {
-      position: absolute;
-      top: 0;
-      right: calc(100% + 0.5em);
     }
   }
 
