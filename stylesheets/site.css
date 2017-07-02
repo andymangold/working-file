@@ -266,13 +266,19 @@ body {
   position: relative;
   margin: 1em 0;
   line-height: 160%; }
+  @media screen and (min-width: 800px) {
+    .transcript-message .timestamp {
+      position: absolute;
+      top: 0;
+      right: calc(100% + 1em); } }
   .transcript-message .seek-button {
     -webkit-appearance: none;
        -moz-appearance: none;
             appearance: none;
     background: none;
     border: none;
-    padding: none;
+    padding: 0;
+    margin: 0;
     outline: none;
     color: #bfc3c5;
     font-family: 'Roboto Mono', monospace;
@@ -284,11 +290,6 @@ body {
       color: #00C98C; }
     .transcript-message .seek-button:after {
       content: " ▷"; }
-    @media screen and (min-width: 800px) {
-      .transcript-message .seek-button {
-        position: absolute;
-        top: 0;
-        right: calc(100% + 0.5em); } }
   .transcript-message .speaker {
     font-weight: bold;
     display: inline; }
