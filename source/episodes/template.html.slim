@@ -36,6 +36,9 @@ episode: true
 
   - if transcript == true
     .transcript
+      .transcript-thank-you
+        span Full text transcripts brought to you by <a href="https://www.xyztype.com">XYZ&nbsp;Type</a>.
+        a href="https://www.xyztype.com" = partial "shared/xyz_logo";
       - data.transcripts.send("e#{id}").messages.each do |message|
         .transcript-message class=('interstitial' unless message.timestamp.present?)
           - if message.timestamp.present?
