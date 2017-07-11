@@ -11,116 +11,142 @@
   slug: matt-mcinerney
   host: true
   twitter: mattmc
-  website: matt.cc
+  websites:
+    - url: matt.cc
   bio: "Matt is one of the hosts and creators of Working File. He is a designer at <a href='http://motel.is/'>Motel</a> and formerly worked at <a href='http://pentagram.com/'>Pentagram</a>. He enjoys telling Andy why he is wrong and watching American Football."
 -
   firstName: Jen
   lastName: Mussari
   slug: jen-mussari
   twitter: jenmussari
-  website: jenmussari.com
+  websites:
+    - url: jenmussari.com
   bio: "Jen is a lettering artist, illustrator, fine artist, and cat mother living in Brooklyn, NY."
 -
   firstName: Satchell
   lastName: Drakes
   slug: satchell-drakes
   twitter: SatchellDrakes
-  website: satchell.me
+  websites:
+    - url: satchell.me
   bio: "Satchell is a Senior UX Designer at <a href='http://www.endava.com/en/'>Endava</a>, video producer, and the host of <a href='https://www.youtube.com/satchbagsgoods'>Satchbag&rsquo;s Goods</a>."
 -
   firstName: Chappell
   lastName: Ellison
   slug: chappell-ellison
   twitter: ChappellTracker
-  website: chappellellison.com
+  websites:
+    - url: chappellellison.com
   bio: "Chappell Ellison is a writer, editor, content strategist, and design advocate based in New York City. She primarily works with and for designers, and offers a full range of editorial services for companies and individuals. She is renowned for her weekly design roundup on Twitter."
 -
   firstName: Maurice
   lastName: Cherry
   slug: maurice-cherry
   twitter: mauricecherry
-  website: mauricecherry.com
+  websites:
+    - url: mauricecherry.com
   bio: "Maurice is the founder and principal at <a href='http://yepitslunch.com/'>Lunch</a>, a multidisciplinary studio in Atlanta, GA that helps creative brands craft messages and tell stories for their targeted audiences, including fostering relationships with underrepresented communities. Past clients and collaborators include Vox Media, NIKE, Mediabistro, Site5, SitePoint, and The City of Atlanta."
 -
   firstName: Meg
   lastName: Lewis
   slug: meg-lewis
   twitter: darngooood
-  website: darngood.co
+  websites:
+    - url: darngood.co
   bio: "Meg is a designer and founder of <a href='http://www.ghostlyferns.com/'>Ghostly Ferns</a>, a family of freelancer BFFs. You can find her making fun things for happy companies. She specializes in creating brands that are fun to interact with and enjoy. She works with companies to make their brand more personable. She believes that through friendly design and thoughtful strategy, it&rsquo;s easy to create a brand that the world loves."
 -
   firstName: Gitamba
   lastName: Saila-Ngita
   slug: gitamba-saila-ngita
   twitter: monumentsinking
-  website: gitamba.com
+  websites:
+    - url: gitamba.com
   bio: "Gitamba is designer and strategist that has collaborated with a variety of companies, including Apple and Nike. Once, he designed a <a href='http://matthewkihm.com/#/sanctuary-nyc-public-telephone-redesign/'>phonebooth</a> for the city of New York."
 -
   firstName: Kristy
   lastName: Tillman
   slug: kristy-tillman
   twitter: KristyT
-  website: todayyesterdaytomorrow.com
+  websites:
+    - url: todayyesterdaytomorrow.com
   bio: "Kristy is the Head of Communication Design at <a href='https://slack.com/'>Slack</a> and was formerly the design director at <a href='https://www.societyofgrownups.com/'>Society of Grownups</a>. She publishes a newsletter highlighting the best in creativity from Black women around the globe called <a href='http://www.tomorrowlooksbright.com/'>Tomorrow Looks Bright</a>."
 -
   firstName: Lola
   lastName: Landekic
   slug: lola-landekic
   twitter: lolamachine
-  website: artofthetitle.com
+  websites:
+    - url: artofthetitle.com
   bio: "Lola is an interdisciplinary designer and illustrator working in Toronto, Canada. She is also the managing editor of <a href='http://www.artofthetitle.com/'>Art of the Title</a>, the definitive resource for title sequence design, spanning the film, television, conference, and video game industries. She lectures internationally about design."
 -
   firstName: Victoria
   lastName: Rushton
   slug: victoria-rushton
   twitter: victoriaalissia
-  website: victoriarushton.com
+  websites:
+    - url: victoriarushton.com
   bio: "Victoria is a letterer, type designer, and owner of <a href='http://victoriarushton.typenetwork.com/'>her own foundry at TypeNetwork</a>, where she has released three families &mdash; <a href='http://victoriarushton.typenetwork.com/news/article/marcia-text-with-the-spirit-of-lettering'>Marcia</a>, <a href='http://victoriarushton.typenetwork.com/news/article/embury-text'>Embury</a>, and <a href='https://store.typenetwork.com/foundry/victoriarushton/fonts/gautreaux'>Gautreaux</a>."
 -
   firstName: Annie
   lastName: Yiling Wang
   slug: annie-yiling-wang
-  website: annieyiling.wang
+  websites:
+    - url: annieyiling.wang
   bio: "Annie is a visual designer at <a href='https://circleci.com/'>CircleCI</a> and breakfast enthusiast. She was born in Taiwan and raised in Los Angeles, with a layover in Minneapolis."
 -
   firstName: Linda
   lastName: Eliasen
   slug: linda-eliasen
   twitter: littlenono
-  website: lindaeliasen.com
+  websites:
+    - url: lindaeliasen.com
   bio: "Linda is a designer and illustrator. Previously, she worked for companies like <a href='https://ueno.co/'>UENO</a>, <a href='http://dropbox.com/'>Dropbox</a>, <a href='http://mailchimp.com/'>MailChimp</a>, and <a href='http://www.squarespace.com/'>SquareSpace</a>."
 -
   firstName: Jon
   lastName: Gold
   slug: jon-gold
   twitter: jongold
-  website: jon.gold
+  websites:
+    - url: jon.gold
   bio: "Jon is an inter-disciplinary designer and engineer building better design tools at <a href='https://www.airbnb.com/'>AirBNB</a>. He is from London, but is more happily found nestled in the mountains of California."
 -
   firstName: Robyn
   lastName: Kanner
   slug: robyn-kanner
   twitter: robynkanner
-  website: robynkanner.com
+  websites:
+    - url: robynkanner.com
   bio: "Robyn is a senior product designer at <a href='https://www.etsy.com/'>Etsy</a> as well as a co-founder and designer for <a href='http://mytranshealth.com/'>MyTransHealth</a>, a resource dedicated to helping trans people find access to quality healthcare. She loves Nada Surf."
 -
   firstName: Kara
   lastName: Haupt
   slug: kara-haupt
   twitter: karahaupt
-  website: karahaupt.com
+  websites:
+    - url: karahaupt.com
   bio: "Kara is a designer and art director for <a href='http://www.newyorker.com/'>The New Yorker</a> and formerly worked on the <a href='http://www.karahaupt.com/hillary-for-america/'>Hillary for America</a> campaign. On the side, she runs her own independent media project called <a href='http://www.babevibes.com/'>Babe Vibes</a>."
 -
   firstName: Cap
   lastName: Watkins
   slug: cap-watkins
   twitter: cap
-  website: capwatkins.com
+  websites:
+    - url: capwatkins.com
   bio: "Cap is a product designer, <a href='http://blog.capwatkins.com/'>blogger</a>, <a href='http://capwatkins.com/#podcasts'>podcaster</a>, and <a href='http://capwatkins.com/#conferences'>speaker</a> who works as the VP of Design for <a href='http://buzzfeed.com/'>BuzzFeed</a>. He believes in thoughtful, holistic design solutions that get out of the way and empower people to accomplish more."
 -
   firstName: Nicole
   lastName: Killian
   slug: nicole-killian
   twitter: saucyunicorn
-  website: http://www.nylondip.com/
+  websites:
+    - url: nylondip.com
   bio: "Nicole is an Assistant Professor at Virginia Commonwealth University. She is co-editor and co-designer of ISSUES with Sarah Faith Gottesdiener and a current recipient of the Neo Future Residency at Arteles Creative Center in Hämeenkyrö, Finland. She has two cats, one named Pony and one named Bear."
+-
+  firstName: Dan
+  lastName: Auer
+  slug: dan-auer
+  twitter: danauer
+  websites:
+    - url: gamespot.com
+    - url: giantbomb.com
+  bio: "Dan is a design lead working on <a href='https://www.gamespot.com/'>GameSpot</a> and <a href='https://www.giantbomb.com/'>Giant Bomb</a>. He’s a former co-host of <a href='http://5by5.tv/onthegrid'>On the Grid</a> and tweets occasionally."

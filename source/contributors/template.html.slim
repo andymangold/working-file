@@ -11,8 +11,9 @@
   ul
     - if twitter.present?
       li = link_to "@#{twitter}", "http://www.twitter.com/#{twitter}"
-    - if website.present?
-      li = link_to website, "http://#{website}"
+    - if websites.present?
+      - websites.each do |website|
+        li = link_to website.url, "http://#{website.url}"
 
 - unless host == true
   .featured-episodes
