@@ -1126,3 +1126,40 @@
     -
       url: https://en.wikipedia.org/wiki/Nada_Surf
       text: Nada Surf
+-
+  id: 17
+  published: true
+  date: 2017-07-11
+  title: Back and Forth Forever
+  soundcloudID: 332598679
+  contributorSlugs:
+    - dan-auer
+  showNotes: "This episode reunites Matt and Andy with Dan Auer, cohost of On the Grid, the podcast that eventually led to the creation of Working File. We get caught up on developments in Dan's life and discuss how we've grown and changed in the five years since we recorded the first episode of On the Grid."
+  links:
+    -
+      url: http://5by5.tv/onthegrid
+      text: On the Grid
+    -
+      url: http://www.maximumfun.org/shows/my-brother-my-brother-and-me
+      text: My Brother, My Brother, and Me
+    -
+      url: https://www.instagram.com/andymangold/
+      text: "Andy's Garden on Instagram 🌱"
+    -
+      url: https://en.wikipedia.org/wiki/Cyberbullying
+      text: Cyberbullying
+    -
+      url: https://en.wikipedia.org/wiki/Dreamcast
+      text: Dreamcast
+    -
+      url: http://www.pentagram.com/
+      text: Pentagram
+    -
+      url: https://en.wikipedia.org/wiki/Hedonic_treadmill
+      text: Hedonic Treadmill
+    -
+      url: https://burningman.org/
+      text: Burning Man
+    -
+      url: http://sagmeisterwalsh.com/
+      text: "Sagmeister &amp; Walsh 🤔"
