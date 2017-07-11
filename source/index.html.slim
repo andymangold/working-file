@@ -3,6 +3,25 @@ title: Working File Podcast
 ---
 
 - content_for(:description, "Working File is a podcast about design practice and its relationship to the world.")
+- episode = data.episodes.sort{ |a,b| b.id <=> a.id }.first
+
+.featured-episode
+  h3 Newest Episode
+  = partial("shared/soundcloud_player", :locals => { :soundcloudID => episode.soundcloudID })
+  .episode-info-wrapper
+    .episode-secondary-info
+      .episode-number Episode #{episode.id}
+      .episode-date #{episode.date.strftime('%B %e, %Y')}
+    .episode-primary-info
+      h2
+        = link_to episode.title, "/episodes/#{episode.id}.html"
+        .new-flag New!
+      - if episode.contributorSlugs.present?
+        div
+          | With&nbsp;
+          = data.contributors.sort{ |a,b| a.lastName.downcase <=> b.lastName.downcase }.map{ |contributor| if episode.contributorSlugs.include?(contributor.slug); link_to("#{contributor.firstName} #{contributor.lastName}", "../contributors/#{contributor.slug}.html"); end }.compact.join(" and ")
+  .text-wrapper
+    .show-notes = episode.showNotes
 
 .text-wrapper
   h1 Working File is a podcast about design practice and its relationship with the world.

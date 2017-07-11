@@ -9,36 +9,19 @@ change_frequency: weekly
 h1 Episodes
 
 - data.episodes.sort{ |a,b| b.id <=> a.id }.each_with_index do |episode, index|
-  - if episode.published == true
-    - if index == 0
-      .featured-episode
-        .text-wrapper
-          .episode-number Episode #{episode.id} <span class="episode-date"> &mdash; #{episode.date.strftime('%B %e, %Y')}</span>
-          h2
-            = link_to episode.title, "/episodes/#{episode.id}.html"
+  .episode
+    = link_to "/episodes/#{episode.id}.html", class: "play-button" do
+        = partial "shared/play_icon"
+    .episode-info-wrapper
+      .episode-secondary-info
+        .episode-number Episode #{episode.id}
+        .episode-date #{episode.date.strftime('%B %e, %Y')}
+      .episode-primary-info
+        h2
+          = link_to episode.title, "/episodes/#{episode.id}.html"
+          - if index == 0
             .new-flag New!
-          - if episode.contributorSlugs.present?
-            div
-              | With&nbsp;
-              = data.contributors.sort{ |a,b| a.lastName.downcase <=> b.lastName.downcase }.map{ |contributor| if episode.contributorSlugs.include?(contributor.slug); link_to("#{contributor.firstName} #{contributor.lastName}", "../contributors/#{contributor.slug}.html"); end }.compact.join(" and ")
-          .show-notes = episode.showNotes
-        = partial("shared/soundcloud_player", :locals => { :soundcloudID => episode.soundcloudID })
-    - else
-      .published-episode
-        = link_to "/episodes/#{episode.id}.html", class: "play-button" do
-          = partial "shared/play_icon"
-        .episode-number Episode #{episode.id} <span class="episode-date"> &mdash; #{episode.date.strftime('%B %e, %Y')}</span>
-        h2 = link_to episode.title, "/episodes/#{episode.id}.html"
         - if episode.contributorSlugs.present?
           div
             | With&nbsp;
             = data.contributors.sort{ |a,b| a.lastName.downcase <=> b.lastName.downcase }.map{ |contributor| if episode.contributorSlugs.include?(contributor.slug); link_to("#{contributor.firstName} #{contributor.lastName}", "../contributors/#{contributor.slug}.html"); end }.compact.join(" and ")
-  - else
-    .unpublished-episode
-      .episode-number Episode #{episode.id} <span class="episode-date"> &mdash; coming #{episode.date.strftime('%B %e, %Y')}</span>
-      h2 = episode.title
-      - if episode.contributorSlugs.present?
-        div
-          | With&nbsp;
-          = data.contributors.sort{ |a,b| a.lastName.downcase <=> b.lastName.downcase }.map{ |contributor| if episode.contributorSlugs.include?(contributor.slug); link_to("#{contributor.firstName} #{contributor.lastName}", "../contributors/#{contributor.slug}.html"); end }.compact.join(" and ")
-

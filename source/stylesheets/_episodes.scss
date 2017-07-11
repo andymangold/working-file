@@ -1,39 +1,106 @@
-%episode {
-  display: block;
-  border-top: 1px solid $light-gray;
-  padding: 1.25em 0 1.25em 60px;
-  position: relative;
+$episode-breakpoint: 1100px;
+
+@keyframes slide-up {
+  from {
+    opacity: 0;
+    transform: translateY(1em);
+  } to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.episode-info-wrapper {
+  margin: 1.25em 0;
 
   h2 {
     margin-bottom: 0.15em;
 
     a {
       text-decoration: none;
+
+      &::after {
+        content: "\00a0";
+      }
+    }
+  }
+
+  @media screen and (min-width: $episode-breakpoint) {
+    display: flex;
+    flex-direction: row-reverse;
+
+    .episode-secondary-info {
+      flex: 1;
+    }
+
+    .episode-primary-info {
+      flex: 2;
+    }
+  }
+}
+
+.episode-secondary-info {
+  @extend %all-caps;
+  line-height: 160%;
+
+  @media screen and (max-width: $episode-breakpoint - 1px) {
+    margin-bottom: 0.5em;
+
+    .episode-number {
+      font-weight: bold;
+      display: inline-block;
+    }
+
+    .episode-date {
+      display: inline-block;
+
+      &::before {
+        content: "\00a0—\00a0";
+      }
     }
   }
 }
 
 .featured-episode {
-  margin: 2em 0 2.5em;
+  padding: 1.2em;
+  border: 1px solid mix($white, $black, 85%);;
+  margin: 0 0 2.5em;
+  border-radius: 5px;
 
-  h2 {
-    margin-bottom: 0.15em;
+  h3 {
+    margin: 0 0 1em;
+  }
 
-    a {
-      display: inline-block;
-      margin-right: 0.4em;
-      text-decoration: none;
-    }
+  .show-notes {
+    margin: 1em 0 0;
   }
 }
 
-.published-episode {
-  @extend %episode;
+.episode {
+  padding: 1px 0 1px 60px;
+  border-top: 1px solid $light-gray;
+  position: relative;
 }
 
-.unpublished-episode {
-  @extend %episode;
-  color: $light-gray;
+.individual-episode {
+  @extend .text-wrapper;
+
+  .episode-secondary-info {
+    margin-bottom: 0.5em;
+
+    .episode-number {
+      font-weight: bold;
+      display: inline-block;
+    }
+
+    .episode-date {
+      display: inline-block;
+
+      &::before {
+        content: "\00a0—\00a0";
+      }
+    }
+  }
 }
 
 .play-button {
@@ -47,6 +114,7 @@
   width: 43px;
   height: 43px;
   border-radius: 50%;
+  backface-visibility: none;
 
   svg {
     position: absolute;
@@ -79,32 +147,21 @@
 }
 
 .new-flag {
+  animation: slide-up 0.5s;
+  animation-delay: 1s;
+  animation-fill-mode: both;
   background: $highlight-color;
   display: inline-block;
   padding: 0.25em 0.5em;
   line-height: 1.2em;
   font-size: 0.8rem;
-  font-weight: normal;
   color: $white;
   vertical-align: 30%;
-}
-
-.episode-number {
-  @extend %all-caps;
-  font-weight: bold;
-  margin: 0 0 0.5em;
-
-  .episode-date {
-    font-weight: normal;
-  }
+  -webkit-font-smoothing: antialiased;
 }
 
 .episode-title {
   margin-top: 0;
-}
-
-.coming-soon-date {
-  font-style: italic;
 }
 
 .fixed-audio-player {
@@ -116,4 +173,10 @@
   border-top: 1px solid $light-gray;
   z-index: 100;
   padding: 0.5em;
+
+  @media screen and (max-width: 800px) {
+    iframe {
+      height: 120px;
+    }
+  }
 }

@@ -5,11 +5,12 @@ episode: true
 - content_for(:title, "Episode #{id}: #{title}")
 - content_for(:description, "#{showNotes[0...200]}")
 
-.text-wrapper
+.individual-episode
 
   = link_to "&larr; Back to all Episodes", "../episodes.html", class: "back-link"
-
-  .episode-number Episode #{id} <span class="episode-date">&mdash; #{date.strftime('%B %e, %Y')}</span>
+  .episode-secondary-info
+    .episode-number Episode #{id}
+    .episode-date #{date.strftime('%B %e, %Y')}
   h1.episode-title = title
   - if contributorSlugs.present?
     .byline
