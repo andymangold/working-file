@@ -179,4 +179,10 @@ $episode-breakpoint: 1100px;
       height: 120px;
     }
   }
+
+  @media screen and (max-width: 600px) {
+    iframe {
+      height: 100px;
+    }
+  }
 }
