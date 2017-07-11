@@ -450,6 +450,9 @@ body {
   @media screen and (max-width: 800px) {
     .fixed-audio-player iframe {
       height: 120px; } }
+  @media screen and (max-width: 600px) {
+    .fixed-audio-player iframe {
+      height: 100px; } }
 
 h1.contributor-name {
   margin-top: 0; }
