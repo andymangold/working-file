@@ -23,19 +23,16 @@
     - data.episodes.each do |episode|
       - if episode.contributorSlugs.present?
         - if episode.contributorSlugs.include? slug
-          - if episode.published == true
-            .episode
-              = link_to "/episodes/#{episode.id}.html", class: "play-button" do
-                = partial "shared/play_icon"
-              .episode-info-wrapper
-                .episode-secondary-info
-                  .episode-number Episode #{episode.id}
-                  .episode-date #{episode.date.strftime('%B %e, %Y')}
-                .episode-primary-info
-                  h2 = link_to episode.title, "/episodes/#{episode.id}.html"
-                  - if episode.contributorSlugs.present?
-                    div
-                      | With&nbsp;
-                      = data.contributors.sort{ |a,b| a.lastName.downcase <=> b.lastName.downcase }.map{ |contributor| if episode.contributorSlugs.include?(contributor.slug); link_to("#{contributor.firstName} #{contributor.lastName}", "../contributors/#{contributor.slug}.html"); end }.compact.join(" and ")
-          - else
-            li #{episode.title} <span class="coming-soon-date">(Coming #{episode.date.strftime('%B %e')})</span>
+          .episode
+            = link_to "/episodes/#{episode.id}.html", class: "play-button" do
+              = partial "shared/play_icon"
+            .episode-info-wrapper
+              .episode-secondary-info
+                .episode-number Episode #{episode.id}
+                .episode-date #{episode.date.strftime('%B %e, %Y')}
+              .episode-primary-info
+                h2 = link_to episode.title, "/episodes/#{episode.id}.html"
+                - if episode.contributorSlugs.present?
+                  div
+                    | With&nbsp;
+                    = data.contributors.sort{ |a,b| a.lastName.downcase <=> b.lastName.downcase }.map{ |contributor| if episode.contributorSlugs.include?(contributor.slug); link_to("#{contributor.firstName} #{contributor.lastName}", "../contributors/#{contributor.slug}.html"); end }.compact.join(" and ")
