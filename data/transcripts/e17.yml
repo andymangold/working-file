@@ -1,0 +1,1345 @@
+messages:
+  -
+    timestamp: "00:00"
+    speaker: Andy
+    content: "You are listening to Working File, a podcast about design practice and its relationship with the world. My name is Andy Mangold."
+  -
+    timestamp: "00:07"
+    speaker: Matt
+    content: "And I'm Matt McInerney."
+  -
+    timestamp: "00:08"
+    speaker: Andy
+    content: "This show, we're joined by Dan Auer for a throwback to On The Grid, Working File's predecessor. Let's go."
+  -
+    timestamp: "00:14"
+    speaker: Matt
+    content: "Let's go."
+  -
+    timestamp: "00:17"
+    speaker: Andy
+    content: "Ooh, stings."
+  -
+    content: Music
+  -
+    timestamp: "00:41"
+    speaker: Matt
+    content: "Oh, hello."
+  -
+    timestamp: "00:42"
+    speaker: Andy
+    content: "The boys are back in town."
+  -
+    timestamp: "00:43"
+    speaker: Dan
+    content: "All right."
+  -
+    timestamp: "00:45"
+    speaker: Andy
+    content: "Guess who just rolled in today? Those podcasting boys that have been away. They are on a show, so they have lots to say. I should've thought out this further. The boys are back in town."
+  -
+    content: Chuckle
+  -
+    timestamp: "00:58"
+    speaker: Matt
+    content: "That's like a McElroy brothers intro. That was a good one, Andy."
+  -
+    timestamp: "01:01"
+    speaker: Andy
+    content: "Except, well, you can't call it out like that, you've ruined it."
+  -
+    timestamp: "01:05"
+    speaker: Matt
+    content: "Oh, sorry. I mean that was very natural and..."
+  -
+    timestamp: "01:06"
+    speaker: Andy
+    content: "Commit to the bit. Play with me."
+  -
+    timestamp: "01:09"
+    speaker: Dan
+    content: "No, dude. Just take it out in post, it's fine."
+  -
+    timestamp: "01:11"
+    speaker: Matt
+    content: "Everything? The whole thing?"
+  -
+    timestamp: "01:12"
+    speaker: Dan
+    content: "Yeah. All of it."
+  -
+    timestamp: "01:13"
+    speaker: Matt
+    content: "I just, I cut down... I cut the episode down to nothing. It's not an episode. In post."
+  -
+    timestamp: "01:15"
+    speaker: Andy
+    content: "Just take Andy out in post. That's the key. You just cut me out in post, replace me with some nice, I don't know, audio clips of instructional videos or [Chuckle] maybe a babbling brook."
+  -
+    timestamp: "01:25"
+    speaker: Dan
+    content: "Or no, just an air horn."
+  -
+    timestamp: "01:27"
+    speaker: Andy
+    content: "There you go. Yeah. [Chuckle] Just a loud, like a boat horn, like a steam horn, a fog horn on a big boat, just that constantly."
+  -
+    timestamp: "01:36"
+    speaker: Matt
+    content: "Based on the stat that you talk through 90% of these episodes, that'll be a super pleasant one. People will love it."
+  -
+    content: Laughter
+  -
+    timestamp: "01:40"
+    speaker: Andy
+    content: "I know. It'll be really poetic. It'll be this long horn, punctuated by little smart thoughts from you guys. [Chuckle] For those who haven't picked up on it, this week on the show, we're joined by Dan Auer."
+  -
+    timestamp: "01:53"
+    speaker: Dan
+    content: "Hello."
+  -
+    timestamp: "01:54"
+    speaker: Matt
+    content: "Hi, Dan."
+  -
+    timestamp: "01:54"
+    speaker: Dan
+    content: "Hi. How're you guys doing?"
+  -
+    timestamp: "01:56"
+    speaker: Andy
+    content: "Oh, we're... Ugh, ooh. That's a big question. There's a lot of ins and outs to that question. Lot of heres, lot of theres."
+  -
+    timestamp: "02:03"
+    speaker: Dan
+    content: "Okay."
+  -
+    timestamp: "02:04"
+    speaker: Matt
+    content: "I'm great actually. I don't know, Andy must be having a hard day. I'm fine, Dan."
+  -
+    timestamp: "02:07"
+    speaker: Dan
+    content: "Okay."
+  -
+    timestamp: "02:08"
+    speaker: Matt
+    content: "Doing fine."
+  -
+    timestamp: "02:08"
+    speaker: Dan
+    content: "Are you doing well, Andy?"
+  -
+    timestamp: "02:10"
+    speaker: Andy
+    content: "Yeah. Yeah. I'm living. I'm alive."
+  -
+    timestamp: "02:13"
+    speaker: Dan
+    content: "Are you getting enough sleep?"
+  -
+    timestamp: "02:15"
+    speaker: Andy
+    content: "Oh, yeah. I'm sleeping great. I sleep well these days. I've gotten older."
+  -
+    timestamp: "02:18"
+    speaker: Dan
+    content: "And obviously you're eating well with that garden."
+  -
+    timestamp: "02:20"
+    speaker: Andy
+    content: "Oh, yeah. Eating lots of vegetables. Getting a lot of exercise, just sitting out in the sun, picking weeds. That's my whole life right now."
+  -
+    timestamp: "02:27"
+    speaker: Dan
+    content: "There you go."
+  -
+    timestamp: "02:28"
+    speaker: Andy
+    content: "I'm a very exciting young person that has a very exciting young person things to do."
+  -
+    timestamp: "02:33"
+    speaker: Matt
+    content: "Yeah. You grow a vegetable, you bring it inside, living the life."
+  -
+    timestamp: "02:36"
+    speaker: Dan
+    content: "Yeah."
+  -
+    timestamp: "02:36"
+    speaker: Matt
+    content: "Exciting life."
+  -
+    timestamp: "02:37"
+    speaker: Andy
+    content: "If I did that, it's like a cool EDM beat, that makes it young, right? "
+  -
+    timestamp: "02:40"
+    speaker: Matt
+    content: "Yeah."
+  -
+    timestamp: "02:41"
+    speaker: Andy
+    content: "I'm picking vegetables, now there's like a nasty drop."
+  -
+    timestamp: "02:44"
+    speaker: Dan
+    content: "Yep."
+  -
+    timestamp: "02:45"
+    speaker: Andy
+    content: "For those of you that are wondering what the heck is going on on this podcast, this is a little bit of a throwback/reunion tour because Dan, our lovely guest... Do you boys know, that it's almost exactly five years ago to the day that we recorded our first podcast together? "
+  -
+    timestamp: "03:01"
+    speaker: Dan
+    content: "Holy cow. Really?"
+  -
+    timestamp: "03:02"
+    speaker: Matt
+    content: "Oh, I did not know that."
+  -
+    timestamp: "03:03"
+    speaker: Andy
+    content: "I looked it up in my email."
+  -
+    timestamp: "03:04"
+    speaker: Matt
+    content: "But that sounds about right."
+  -
+    timestamp: "03:05"
+    speaker: Andy
+    content: "Yeah."
+  -
+    timestamp: "03:06"
+    speaker: Matt
+    content: "That sounds about right."
+  -
+    timestamp: "03:06"
+    speaker: Andy
+    content: "Basically, exactly five years ago that we recorded the first episode of what will become our... Well, at least, the three of our first podcasts. I know, Matt, you had a podcast before that, but the first podcast we did together called On The Grid. And On The Grid ran for 120 some episodes, and was kind of the spiritual precursor to this show and... But unfortunately, we lost Dan in the transition, so we decided to have him back on for a nice reunion show, and here he is."
+  -
+    timestamp: "03:30"
+    speaker: Dan
+    content: "Hello. Thanks for having me."
+  -
+    timestamp: "03:31"
+    speaker: Matt
+    content: "Say something interesting."
+  -
+    timestamp: "03:33"
+    speaker: Andy
+    content: "So, Dan..."
+  -
+    timestamp: "03:33"
+    speaker: Dan
+    content: "Something interesting."
+  -
+    content: Laughter
+  -
+    timestamp: "03:35"
+    speaker: Andy
+    content: "You left us for a more balanced life, for greener pastures, for not having to record a podcast every week with a bunch of goons. How has your balanced life been going or how are things? "
+  -
+    timestamp: "03:46"
+    speaker: Dan
+    content: "It's been exceptionally balanced, that's it. It's not even exciting. I spend my free time at home exercising and sleeping, so it's really... There's nothing new to it, there's nothing special, but it has been very nice to not have side projects or anything like that that I do."
+  -
+    timestamp: "04:07"
+    speaker: Matt
+    content: "Did you go make a chair or something? Well, you didn't do any side projects? Did you get married at a Taco Bell? I don't know. Did you do something?"
+  -
+    timestamp: "04:16"
+    speaker: Dan
+    content: "No. Married at Taco Bell, my co-worker did and that's amazing. But no, I made a coffee table."
+  -
+    timestamp: "04:22"
+    speaker: Andy
+    content: "That's depressing, I had to play my role. That's depressing, but go ahead."
+  -
+    timestamp: "04:25"
+    speaker: Dan
+    content: "Yeah."
+  -
+    timestamp: "04:25"
+    speaker: Andy
+    content: "Yeah."
+  -
+    timestamp: "04:26"
+    speaker: Dan
+    content: "I mean if you knew Dan, not me, the other Dan, it makes total sense, but sure."
+  -
+    timestamp: "04:31"
+    speaker: Matt
+    content: "Actually if we knew you Dan, that also would make sense actually. That could also make sense."
+  -
+    timestamp: "04:36"
+    speaker: Dan
+    content: "See, I don't even really eat much fast food anymore. So, I'm not even the old Dan I used to be."
+  -
+    timestamp: "04:42"
+    speaker: Andy
+    content: "Oh, these jokes aren't gonna land then."
+  -
+    timestamp: "04:44"
+    speaker: Dan
+    content: "I know. This is just cyber bullying now. This isn't a joke at all."
+  -
+    content: Laughter
+  -
+    timestamp: "04:49"
+    speaker: Dan
+    content: "God, why is Matt being so mean?"
+  -
+    timestamp: "04:51"
+    speaker: Andy
+    content: "I don't know. He said he was fine, so I have to trust him."
+  -
+    timestamp: "04:54"
+    speaker: Dan
+    content: "Yeah. But I mean side projects, side... I did make a coffee table, that was interesting. I'm in the middle of working on another piece, it's kind of like a console-ish, but that's..."
+  -
+    timestamp: "05:05"
+    speaker: Andy
+    content: "Like a competitor to Playstation, Xbox, like your own console? "
+  -
+    timestamp: "05:08"
+    speaker: Dan
+    content: "Yes. Yeah. Yeah. It's cool."
+  -
+    timestamp: "05:10"
+    speaker: Matt
+    content: "Are you gonna make the Dreamcast again? 'Cause I think that's a good idea."
+  -
+    timestamp: "05:14"
+    speaker: Dan
+    content: "Oh, shit. There's already something called the Dreamcast?"
+  -
+    timestamp: "05:16"
+    speaker: Andy
+    content: "Hey, you swore."
+  -
+    timestamp: "05:17"
+    speaker: Dan
+    content: "Oh, I swore. Yep."
+  -
+    timestamp: "05:16"
+    speaker: Andy
+    content: "Dreamcast was forever my aspirational consoles. The one I always wanted and never got just because I didn't need it at all, but it seemed so cool, a little screen in the controller, that was progressive and forward thinking."
+  -
+    timestamp: "05:34"
+    speaker: Matt
+    content: "Yeah."
+  -
+    timestamp: "05:36"
+    speaker: Dan
+    content: "And then it fell flat on its face. And now, I guess the closest thing is Playstation 4 has a track pad on its controller 'cause that's worth it."
+  -
+    timestamp: "05:43"
+    speaker: Andy
+    content: "Well, the closest thing is that doesn't Nintendo have a whole controller, it's also a Game Boy basically? "
+  -
+    timestamp: "05:48"
+    speaker: Dan
+    content: "Yeah. I mean it's basically a tablet with the controls on the side."
+  -
+    timestamp: "05:52"
+    speaker: Andy
+    content: "Yeah. That seems pretty close."
+  -
+    timestamp: "05:54"
+    speaker: Dan
+    content: "Yeah. It's really cool."
+  -
+    timestamp: "05:55"
+    speaker: Andy
+    content: "So, I think we should talk about design things even though, that's not really in the spirit of On The Grid."
+  -
+    content: Chuckle
+  -
+    timestamp: "06:05"
+    speaker: Matt
+    content: "Well, we just have to pretend that we're talking about design things and then we just talk about anything. This is not to the spirit of it."
+  -
+    timestamp: "06:09"
+    speaker: Andy
+    content: "There's a couple loose ends I want to tie up though because I know that the die-hard listeners out there that had followed us from podcast to podcast just need to know, they gotta figure it out. I gotta know Dan, how many jobs have you had since we stopped recording On The Grid? "
+  -
+    content: Laughter
+  -
+    timestamp: "06:26"
+    speaker: Dan
+    content: "Screw you, man."
+  -
+    timestamp: "06:28"
+    speaker: Andy
+    content: "It's a sign of a good career, you're lively, you're bouncing around, you're a hot commodity."
+  -
+    timestamp: "06:32"
+    speaker: Dan
+    content: "I think... Okay, I have to think about timelines. So when I left the show, after that, a few months later I went to go work at another startup. Surprise. Surprise. But I was only there for six months, it just wasn't a good fit."
+  -
+    timestamp: "06:46"
+    speaker: Andy
+    content: "Sounds about right."
+  -
+    timestamp: "06:48"
+    speaker: Dan
+    content: "Yeah, but afterwards I returned back to CBS Interactive and I've been incredibly happy being back."
+  -
+    timestamp: "06:54"
+    speaker: Andy
+    content: "Great."
+  -
+    timestamp: "06:54"
+    speaker: Dan
+    content: "Yeah, that's it. So again..."
+  -
+    timestamp: "06:56"
+    speaker: Andy
+    content: "So really only one other job 'cause you're not gonna... You can't go back to the same place."
+  -
+    timestamp: "07:00"
+    speaker: Dan
+    content: "No, no. Yeah, yeah, yeah. And it was very convenient because I left for about six months almost to a day and then when I left, they still had my position open so it was... I was very fortunate but..."
+  -
+    timestamp: "07:13"
+    speaker: Matt
+    content: "They realized they couldn't live without you."
+  -
+    timestamp: "07:16"
+    speaker: Dan
+    content: "Yeah. They sure did. So yeah, yeah, again very anti-climatic but back at CBS, I'm super happy and working on really, really big projects so I could stay busy."
+  -
+    timestamp: "07:29"
+    speaker: Andy
+    content: "Great. So we did talk a little bit about what topics we would cover. Which I gotta say, again, not on the spirit of On The Grid, clearly we've fallen off our game 'cause we had to talk about topics ahead of time. But, Matt, I think you brought up the idea of just how our perspective on our careers has changed given that we started the podcast five years ago which doesn't seem like that much time but that was for all of us more than half our careers ago. So we're in very different places now than we were then. It's my birthday."
+  -
+    timestamp: "08:00"
+    speaker: Matt
+    content: "Even a significant portion of our lives. We're not that old."
+  -
+    timestamp: "08:02"
+    speaker: Andy
+    content: "Yeah, no, exactly. It's my birthday in two days so I'm almost 29 now, which is one away from 30. So we're getting up there and I think that we kind of like... I think we should make this a nice Bildungsroman, a coming-of-age podcast, [Chuckle] and just talk about... 'Cause we've known each other for a long time and we've been doing this for a long time and this is a good opportunity I think to revisit some of the big takeaways from the past five years."
+  -
+    timestamp: "08:28"
+    speaker: Matt
+    content: "And I think the way I phrase this specifically was, what are the things you used to worry about? And what are the things you worry about now? 'Cause that's my life. It's just hopping from one worry to the next worry and then realizing that and then be like, \"Well, I'm bored, what else should I worry about?\""
+  -
+    timestamp: "08:41"
+    speaker: Andy
+    content: "Okay, let me start. Let me start. Ooh, I have an idea. So I used to worry about graphic design, and now I worry about a mentally unstable president with access to nuclear codes just ending it all."
+  -
+    timestamp: "08:54"
+    speaker: Matt
+    content: "What app is that?"
+  -
+    timestamp: "08:55"
+    speaker: Andy
+    content: "What app is that..."
+  -
+    content: Laughter
+  -
+    timestamp: "09:01"
+    speaker: Dan
+    content: "Wow."
+  -
+    timestamp: "09:01"
+    speaker: Andy
+    content: "I said that flippantly but I do genuinely, you could definitely genuinely track my concerns from over the last five years being almost entirely career-oriented and design-oriented to being very slightly career and design-oriented and much more just world-in-general-oriented. I would say that my scope of concern has broadened, my aperture has only opened over the past five years as I've kind of disengaged from any design community and more engaged with the rest of the world."
+  -
+    timestamp: "09:36"
+    speaker: Dan
+    content: "Yeah, there's something interesting there, 'cause I feel the same way. It started out with graphic design and biggest concerns being things like fonts and colors and..."
+  -
+    timestamp: "09:45"
+    speaker: Andy
+    content: "Oh yeah, yeah. Oh yeah, that stuff."
+  -
+    timestamp: "09:47"
+    speaker: Dan
+    content: "And now, it's not like I've outgrown it, it's more like I just don't care. I've transitioned from that to other things that mean more to me. We're talking about work stuff sure, it's what bigger system level design problems that you have to solve. When it comes to life stuff, I do not do anything design-related when I leave work. I just leave it all where it is at the desk at work and I come home and my biggest concerns are things like paying rent and buying groceries. And that's something that I didn't really care about five or 10 years ago, 'cause I was like, \"Oh yeah, it's just like a normal adult thing,\" but now that's... I don't know. For some reason I'm more present in my mind rather than dumb old design things."
+  -
+    timestamp: "10:38"
+    speaker: Matt
+    content: "Wait a minute, that sounds worse. You went from not worrying about rent and groceries to worrying about them all the time."
+  -
+    timestamp: "10:44"
+    speaker: Dan
+    content: "Well, I also moved to San Francisco so you can't blame me."
+  -
+    timestamp: "10:47"
+    speaker: Matt
+    content: "There you go. That's true, that's true, you quadruple, is it four times, 10 times, 100 times? Is it around $1million a month or something like that?"
+  -
+    timestamp: "10:55"
+    speaker: Andy
+    content: "Yeah, give or take."
+  -
+    timestamp: "10:57"
+    speaker: Matt
+    content: "Yeah, that's what I figured. I understand how math works. I don't have that at all. I always worry about everything all the time. Just different things, just different work things but even when I'm worried about the entire world, I can't let go of like, \"I hope this thing is on time. Or I hope we can make enough money at work. Or I hope we can continue to survive.\" Andy, do I have to just do it longer? Do the thing that you have been doing for a long time and then you're just like, \"Oh, well, it's fine forever.\" Or is that just... You just get used to dealing with that?"
+  -
+    timestamp: "11:32"
+    speaker: Andy
+    content: "Well, I don't know. It might just be a time thing. I will say that weathering some very distinct hardships professionally has given me a sense of resiliency that I did not maybe know was there before my career. It might be a time thing, it might just be different approaches. Did you think, Matt, that you suffer disproportionately from anxiety for an average person? "
+  -
+    timestamp: "12:00"
+    speaker: Matt
+    content: "Oh, absolutely. There's no doubt in my mind. Yes."
+  -
+    timestamp: "12:03"
+    speaker: Andy
+    content: "Do you feel this affects your quality of life? Or do you think you manage it pretty well? What's your overall relationship with that anxiety? "
+  -
+    timestamp: "12:09"
+    speaker: Matt
+    content: "Pick a day. I don't know."
+  -
+    timestamp: "12:11"
+    speaker: Dan
+    content: "Today."
+  -
+    content: Laughter
+  -
+    timestamp: "12:13"
+    speaker: Matt
+    content: "Some days, better than others. But I think I'm probably disproportionately affected by anxiety. And it probably hurts my well-being in general, I would say. It'd be weird if it didn't. If I acknowledge that I think I feel it a little bit harder than everybody else and then it doesn't affect my life. I would say it does, for sure."
+  -
+    timestamp: "12:33"
+    speaker: Andy
+    content: "And do you think your anxiety has... This is actually a very relevant question. Do you think your anxiety has changed one way or the other since you left Pentagram and effectively started working for a company that you have ownership over to some degree? "
+  -
+    timestamp: "12:46"
+    speaker: Matt
+    content: "I don't think so. I feel like it's always been exactly the same and I just find a new threshold. I will worry about a small detail and then I get through that small detail and I'm fine. And then I just worry about the next thing, but in equal amount. It's just a steady thing. I talk about this with my wife Suzy all the time where I'm just, \"Oh, well, I got through that one so I don't worry about it anymore and now I just worry about this new one now, until I get through that and then I'll worry about the next thing.\" Feels more like that."
+  -
+    timestamp: "13:13"
+    speaker: Andy
+    content: "So you feel like almost you have to have something to worry about or else there's something terribly wrong? "
+  -
+    timestamp: "13:20"
+    speaker: Matt
+    content: "I don't know if I feel like I have to, it just seems like I find the next thing. It's going through a checklist and then you realize, \"Oh, that checklist never ends.\""
+  -
+    timestamp: "13:29"
+    speaker: Andy
+    content: "It ends at death."
+  -
+    timestamp: "13:30"
+    speaker: Matt
+    content: "There you go. As soon as I check death off the list, I'll just be good to go. [Laughter] It'll be great."
+  -
+    timestamp: "13:35"
+    speaker: Andy
+    content: "Then you can finally go on vacation."
+  -
+    timestamp: "13:37"
+    speaker: Matt
+    content: "Yeah, exactly."
+  -
+    timestamp: "13:39"
+    speaker: Andy
+    content: "You're not truly an over-planner until you have death on your checklist and you have that constantly looming on the bottom."
+  -
+    content: Laughter
+  -
+    timestamp: "13:45"
+    speaker: Andy
+    content: "There's an idea for a new to-do app. Hey, cool new start-up idea. Make a to-do app that just says 'death' at the bottom. Always looming there."
+  -
+    timestamp: "13:50"
+    speaker: Matt
+    content: "I do like the idea of just... [Laughter] You get one of those trendy... You do one thing at a time, and then at the very last screen it just says 'death' and you can't click. There's no button to click and like, \"God! Dang it!\""
+  -
+    timestamp: "14:03"
+    speaker: Andy
+    content: "You receive those calendars that you can get that are big wall calendars. And they have little circle or square for every single day of your projected lifespan and you check off how many you've been alive for. You can see your whole life right there on the wall."
+  -
+    timestamp: "14:18"
+    speaker: Matt
+    content: "Sounds terrible. But I guess..."
+  -
+    timestamp: "14:18"
+    speaker: Dan
+    content: "I didn't know about that. Yeah."
+  -
+    timestamp: "14:20"
+    speaker: Matt
+    content: "Doesn't sound fun."
+  -
+    timestamp: "14:21"
+    speaker: Andy
+    content: "Yeah. Scale's a weird thing when you actually get to look at it and be like, \"Oh yeah, those days are clearly discernible. I can see all the days I have left.\""
+  -
+    content: Laughter
+  -
+    timestamp: "14:29"
+    speaker: Andy
+    content: "It's all of the sunrises, all of the sunsets. And there they are, just on a poster. Thanks, graphic design. Hey, we've already covered a lot of the important parts of On The Grid. We talked about death, [Chuckle] we got real dark. It's good, we're checking all the boxes."
+  -
+    timestamp: "14:45"
+    speaker: Matt
+    content: "Am I the only one who feels this way? I feel like this is now Matt therapy session but maybe there's some hope for me."
+  -
+    timestamp: "14:52"
+    speaker: Andy
+    content: "Well, not being your wife, which I'm not. I take this opportunity to remind the listener, I'm not married to Matt. I don't see the effects you're describing of the anxiety. You seem like a pretty even-keel dude for the most part, so I have to just trust you that you are affected by this. And yeah, I feel almost everybody will probably feel this way. But I feel like the amount of anxiety I have is an appropriate amount of anxiety. Because there's a certain amount that is good for survival, like fight or flight."
+  -
+    timestamp: "15:25"
+    speaker: Matt
+    content: "Yeah."
+  -
+    timestamp: "15:25"
+    speaker: Andy
+    content: "If you lose your job and have no savings, you should feel anxiety because you're about to lose your apartment or not make your car payment or whatever. A certain amount of that anxiety is what keeps us going and living our lives. But when you're worrying about things that don't actually pose real danger to you, I do feel maybe that's not super great for your mental well-being. And, Dan, you're just like a parrot head. [Laughter] 'Cause you quit the podcast and those side projects. You're just out there making coffee tables and chilling."
+  -
+    timestamp: "15:58"
+    speaker: Dan
+    content: "Yeah. Honestly, it did help a lot because we've all done it where we have side projects. And I feel that there's a common mentality that people have, or designers have that when you start to do a thing that's on the side, it's almost like you have to serialize it or make it commercial in a way where it's just not that one thing but a series of these things."
+  -
+    timestamp: "16:20"
+    speaker: Andy
+    content: "Yeah. You gotta brand it. You gotta make a logo, gotta have a website."
+  -
+    timestamp: "16:23"
+    speaker: Dan
+    content: "Yeah. Yeah. And what I realized when I was doing things like making furniture for myself is that it's a one-off thing. I'm never gonna make more than one coffee table. If I do, it's just gonna be replacing the older one that I made. I don't think I ever need to. But it was very refreshing where it was no longer a design thing, it was just like this is something I'm doing for myself. And that feels really good."
+  -
+    timestamp: "16:46"
+    speaker: Andy
+    content: "Yeah. And not for your captive audience or Twitter followers or whatever."
+  -
+    timestamp: "16:50"
+    speaker: Dan
+    content: "Yeah. I think just having the mentality where you're thinking about the things that you participate in on your free time, or for yourself rather than for a hypothetical audience. Or a literal audience in the case of a podcast."
+  -
+    timestamp: "17:06"
+    speaker: Andy
+    content: "Mm-hmm. Yeah."
+  -
+    timestamp: "17:07"
+    speaker: Matt
+    content: "Yeah."
+  -
+    timestamp: "17:08"
+    speaker: Andy
+    content: "Matt, do you feel... I feel like you and I might have similar brains in some ways, but all this energy that you're describing that kind of moves down the things to worry about checklist, I feel like I pour a lot of that energy into my hobbies. Do you have a hobby that totally can suck up a lot of your brain power? "
+  -
+    timestamp: "17:27"
+    speaker: Matt
+    content: "Well, I feel I definitely... I know the problem is that my hobby has been design things and then related to design things. Pour all the time into work stuff and then do podcast stuff about design stuff. They're all related to this realm pretty much. You know what I mean? Yeah, I've got hobbies and it's recording a podcast with you and talk about work. Laughter"
+  -
+    timestamp: "17:52"
+    speaker: Andy
+    content: "Yeah. I forget how much time this podcast really does take up until I look back at my life. [Chuckle] And I'm like, \"Oh wow, yeah, that's a lot of time this took up to make.\""
+  -
+    timestamp: "18:02"
+    speaker: Matt
+    content: "Yeah, no offense, but I never forgot that and the amount of time I have back is great."
+  -
+    timestamp: "18:07"
+    speaker: Dan
+    content: "It's a real time suck."
+  -
+    timestamp: "18:08"
+    speaker: Andy
+    content: "Yeah. Okay, yeah. [Laughter] Dan's like, \"That's all I gotta say, just don't regret leaving you.\" [Laughter] I wanna make sure that's been stated."
+  -
+    timestamp: "18:19"
+    speaker: Dan
+    content: "Yeah, well, okay, so there's one thing. There's this idea of a hobby, which I feel goes right back to this whole concept of \"I have free time, therefore I have to fill it with a regular thing or a thing I do regularly\" and I don't feel like... It almost sounds like a chore a lot of times when people discuss this sort of thing, like a hobby or whatever. I tried to frame it in my mind of, like for Matt, how would you spend your free time? \"Watching football,\" like that's something that's not a hobby, that's something that you just enjoy doing."
+  -
+    timestamp: "18:51"
+    speaker: Matt
+    content: "Yeah, that's why I don't say like... I don't think playing a video game is a hobby, I don't think playing fantasy football or watching football or things like that, those don't strike me as hobbies. Podcasting might be a hobby."
+  -
+    timestamp: "19:00"
+    speaker: Andy
+    content: "See, I don't think watching football can really be considered a hobby because you're so limited on when you can actually do that, but I totally think fantasy football and video games can definitely be a hobby, for sure. Why don't you feel like it's a hobby, Matt? "
+  -
+    timestamp: "19:13"
+    speaker: Matt
+    content: "It feels so passive, maybe not fantasy football, playing video games feels so passive. Don't you have to participate more in a hobby?"
+  -
+    timestamp: "19:20"
+    speaker: Andy
+    content: "You don't think you're participating... That's the definition of video games is, like, they're interactive instead of not. Yeah, I guess they're..."
+  -
+    timestamp: "19:27"
+    speaker: Matt
+    content: "You should watch how I play a video game."
+  -
+    content: Laughter
+  -
+    timestamp: "19:28"
+    speaker: Andy
+    content: "I'm just picturing you..."
+  -
+    timestamp: "19:31"
+    speaker: Matt
+    content: "I think my brain is just off."
+  -
+    timestamp: "19:32"
+    speaker: Andy
+    content: "I'm picturing you playing Grand Theft Auto, you're just walking down the street [Laughter] for eight, nine miles."
+  -
+    timestamp: "19:38"
+    speaker: Dan
+    content: "\"Matt, your car's just been in the ocean for an hour,\" and you're like, \"Yeah, I'm going, it's fine.\""
+  -
+    timestamp: "19:41"
+    speaker: Andy
+    content: "Yeah, you look over at Matt like, \"Are you okay?\" and there's just drool coming out of his mouth and that's it."
+  -
+    content: Laughter
+  -
+    timestamp: "19:48"
+    speaker: Dan
+    content: "Yep."
+  -
+    timestamp: "19:48"
+    speaker: Andy
+    content: "Yeah, I guess that does lump into this whole thing of just entertainment. It's like watching TV or reading a book, it might be a little bit more interactive, but it's kind of meant to shut certain parts of your brain off and then activate others that don't get to ignite in work or other things that are related to work. If we may continue the Matt therapy session, I think maybe Matt doesn't count it as a hobby if there's no end product, like nothing to show for it."
+  -
+    timestamp: "20:15"
+    speaker: Matt
+    content: "That might be the case, I can't say I haven't lived my life that way, where I..."
+  -
+    content: Laughter
+  -
+    timestamp: "20:22"
+    speaker: Andy
+    content: "I know that feeling."
+  -
+    timestamp: "20:23"
+    speaker: Matt
+    content: "One day I'll just discover like, \"Oh my God, all the things that I made didn't fill that hole it me, uh-oh. [Laughter] I'm still not a complete person. [Laughter] Even with all these podcast episodes and posters I made.\""
+  -
+    timestamp: "20:41"
+    speaker: Andy
+    content: "For me, I have two classes of hobby. One class of hobby is definitely things I have basically obligated myself to do, of which I would consider this podcast, right? I think it's a commitment to continue to make this podcast and to find guests every week. If I was gonna... Well, no, that's a bad example. I was gonna say if I was gonna die next month, I would stop doing it, but I wouldn't. I would definitely get the last podcast episodes out, but it's not like what I would do with my free time in a vacuum, right? Same goes for gardening actually, I mean planting a garden is fun and it's very rewarding, but it's also an enormous responsibility. And it's like, if you let those weeds go for three days consecutively, good luck, you're out to sea."
+  -
+    timestamp: "21:22"
+    speaker: Andy
+    content: "So doing that is a way for me to force myself to spend at least X amount of time every other day or whatever, outdoors, not looking at a computer screen, not doing design stuff, just kind of doing something else. But I've very much obligated myself to that. I don't have the option to quit the garden unless I want my backyard to totally fall part and all of my neighbors send me angry emails. And then there's the hobbies, or really in my case, hobby, which is car games [Chuckle] which are the thing I would do in a vacuum given no other stimuli, that would occupy my entire... All of my free brain cycles would just be thinking about games, basically, if I had the freedom to do so."
+  -
+    timestamp: "22:04"
+    speaker: Dan
+    content: "So, I guess a question I have is that, we've kind of talked about the stuff that we do to distract ourselves from work or like an offset from it now and we kind of talked about where we were five years ago and we kind of... Matt alluded to, even 10 years ago, when we were all fresh out of college and I guess my question is, do you feel..."
+  -
+    timestamp: "22:27"
+    speaker: Andy
+    content: "I was just starting college, by the way, I'm young. [Chuckle]"
+  -
+    timestamp: "22:29"
+    speaker: Dan
+    content: "Oh, okay. Well, I was definitely kind of out of college, but well... Well no, that was my third try, yeah. Fun times. But given that span of time, we all treat our time off of work or our inactive hours of the day, differently than what we did five or 10 years ago and do you feel like, are you better off now? Do you feel like you're more balanced or do you look back five or 10 years ago, those were the simpler times?"
+  -
+    timestamp: "23:01"
+    speaker: Matt
+    content: "I don't know if I look at them as the simpler times. I mean I know there's a lot of things that are hard now, but I wouldn't wanna go back and be like, have to face all those things again. The thing I mentioned of these hurdles of worry or stress or whatever, it wasn't any less real at the time, right? Doing a thing I would consider not to be an issue now, if I had to do it again and be in the same place, it would be just as painful or stressful or whatever. So I like having that experience to be like, \"Oh, I know how to do this stuff now and I'm not gonna die, that's fine.\""
+  -
+    timestamp: "23:39"
+    speaker: Andy
+    content: "I do really feel like..."
+  -
+    timestamp: "23:40"
+    speaker: Matt
+    content: "I think of now as a much more stable and steady and fun time to be alive than being 20 or 25 or whatever."
+  -
+    timestamp: "23:49"
+    speaker: Andy
+    content: "At least you're married now, so you have someone else to drag through it with you."
+  -
+    timestamp: "23:52"
+    speaker: Matt
+    content: "Yeah, perfect."
+  -
+    content: Laughter
+  -
+    timestamp: "23:55"
+    speaker: Andy
+    content: "I feel we've talked about this on On The Grid before, but this kind of comes back to the idea of the hedonic treadmill which is something I have anecdotally felt to be true my entire life, which is basically, everyone kind of has the way they are and except for rare and temporary deviations from that norm like something really horrible happens to you, something really great happens to you. You basically have the same baseline level of anxiety, joy, sadness, whatever, no matter what's going on in your life because you're kind of calibrated for that. And, you know, even if your career now was 40% better in all ways than it was four years ago or five years ago, like you said, Matt, the things you're worrying about then you still would have worried about then and you're just gonna find new things to worry about now. So, I felt that to be true."
+  -
+    timestamp: "24:43"
+    speaker: Dan
+    content: "Interesting, yeah. I mean, I don't know. I feel like... Okay, when we're talking about On The Grid version of me, and then, now version of me, I kinda feel like it's the before and after of Office Space when he's hypnotized."
+  -
+    content: Chuckle
+  -
+    timestamp: "24:56"
+    speaker: Dan
+    content: "He was a worrywart and just stuck at his work and then he's hypnotized and then everything is magically better. I feel like that. So, it actually feels a little bit strange to be back in this old scenario and talking about almost like a retrospective of where we've been because I actually feel much..."
+  -
+    timestamp: "25:13"
+    speaker: Andy
+    content: "You feel that different? "
+  -
+    timestamp: "25:14"
+    speaker: Dan
+    content: "I actually feel much different and a lot of it was situational and everything from years past. But now, I think, I would say five years ago, age was a thing for me that was creeping up on me and it was the inevitable thing that I didn't want to happen. I felt like I was getting very apparently older every day, and that age was like this terrible thing and it was awful. And now, I actually feel much younger than I did then, and just have a much greater optimism about things. I'm 31 now and I actually feel younger in spirit than I did when I was 25. So, it does feel a little bit strange and hearing you guys where you're like, \"Yeah, I'm pretty much same.\" Yeah."
+  -
+    content: Laughter
+  -
+    timestamp: "26:04"
+    speaker: Andy
+    content: "Dan, did you go to Burning Man? "
+  -
+    timestamp: "26:05"
+    speaker: Dan
+    content: "No, I did not."
+  -
+    timestamp: "26:06"
+    speaker: Matt
+    content: "Yeah, what happened to you?"
+  -
+    timestamp: "26:07"
+    speaker: Dan
+    content: "No."
+  -
+    timestamp: "26:10"
+    speaker: Andy
+    content: "Okay. Yeah, see, if this could be the result of a desert acid trip but it sounds like that's not what happened."
+  -
+    content: Laughter
+  -
+    timestamp: "26:15"
+    speaker: Dan
+    content: "No. Oh, God. I actually did not enjoy people go to Burning Man because they are really uppity about it and, I don't know. Anyways."
+  -
+    timestamp: "26:25"
+    speaker: Andy
+    content: "Well, not everyone #notallBurningMan-ers but sure. A lot of them around town."
+  -
+    timestamp: "26:27"
+    speaker: Dan
+    content: "But, yeah, I guess, given life changes and just like re-adjusting myself from few years ago up until now. I feel a lot more optimistic, a lot more fresh about things. I also just don't stress about things that used to get me. I used to have this mentality where, especially with work, where I let small details build up a lot of situational anxiety for me. And so I would feel like, \"Oh, my God, if this thing isn't gonna work and if this thing isn't gonna work, it's all gonna fall apart and this project is gonna be ruined and all that.\" And now, if something doesn't work out as intended or the stuff that we planned, I'm fine. We just wing it and that seems totally reasonable and it's also like, \"Well, it is a totally reasonable setup or mindset.\" So, I think that was just like a level of growing up, and to Matt's point, almost, it's like you're ramping up the amount of things that you have a tolerance for. Where the daily stuff doesn't bother me. If I was bankrupt tomorrow that would definitely stress me out but that's very..."
+  -
+    timestamp: "27:44"
+    speaker: Andy
+    content: "Justifiably so."
+  -
+    timestamp: "27:45"
+    speaker: Dan
+    content: "Yeah, but that's very different from like, \"Oh, this project isn't going as expected.\" I just had a very different mentality back then."
+  -
+    timestamp: "27:54"
+    speaker: Matt
+    content: "Yeah, I can hear that. I probably would sweat the details more myself too just... I don't know. You know what it was? It was more that any little mistake was the end of the world 'cause you just hadn't seen mistakes before. You just hadn't seen something go wrong. You are like, \"Well, of course, what happens is you go out in the world and you get a job, and then everybody expects everything to be perfect.\" And then you see something going wrong and you're like, \"Oh, my God, I'm the only person who's ever gotten anything wrong before. This is a nightmare.\""
+  -
+    timestamp: "28:20"
+    speaker: Andy
+    content: "And you make a mistake and you get fired."
+  -
+    content: Laughter
+  -
+    timestamp: "28:21"
+    speaker: Dan
+    content: "Yeah."
+  -
+    timestamp: "28:22"
+    speaker: Andy
+    content: "Immediately."
+  -
+    timestamp: "28:23"
+    speaker: Dan
+    content: "That's how jobs work."
+  -
+    timestamp: "28:24"
+    speaker: Matt
+    content: "Yeah."
+  -
+    timestamp: "28:25"
+    speaker: Dan
+    content: "It's actually been very refreshing for me because when we had our interns for the summer start, I wanna say maybe about a month, month-and-a-half ago. And just being around them, like that fresh state of their career from their perspective is almost jarring, because I have weekly one-on-ones with my intern, and we just chat about stuff and recently we've been discussing things around like both of our stages of both of our careers respectively. And she's done a bit of freelance work. She is pretty familiar with the whole concept of designing for interfaces and all that. She's really green. She's new to it. And just listening to the stuff that she thinks about, how she thinks about it, her process, how her mind just wraps around problems, it feels barely, barely familiar like I was there 10 years ago but it feels so foreign now. And it's like when we talk about our own experiences I kinda feel like it's a bit deluded because it's mixing in how we feel now and just trying to remember where we were back then."
+  -
+    timestamp: "29:39"
+    speaker: Dan
+    content: "But when somebody else is saying from their perspective, you are like, \"Oh, I was totally there, but God that feels weird.\" Because I think, more unlike the broader system level stuff now, just the big picture design stuff that's my job. When somebody else is talking about like, \"Oh, should we do this in two columns? We put account info over here, I have concerns about this icon, of the placement.\" I'm just like, \"Man if it works, just do it.\" 'Cause there's that page but then all these other things. And just the way that we talk about it and the language around it, that was very eye-opening to me and it was funny for me think, because we were talking about topics last night and to know that we were gonna talk about it later, I was like, \"Oh yeah.\" This for me, internally, is perfect because I feel like I have a better perspective on just a career of 10 years and how far all of us have gotten but how hard it is to actually have a decent perspective on it."
+  -
+    timestamp: "30:52"
+    speaker: Matt
+    content: "I have to say, I don't have the feeling of... I think I said earlier I don't sweat the details, I don't if that's true actually. I think it's just that it doesn't seem like a life or death decision, it's just like, \"Well, there are some obvious choices we can make, there are some other choices that we can make but probably no one's gonna die based on this. Probably that icon can be 10 pixels to the right or 10 pixels to the left and nobody dies.\" But I do care about it, that's not a different..."
+  -
+    timestamp: "31:17"
+    speaker: Andy
+    content: "It is the Hippocratic Oath of graphic design. First, to kill nobody Laughter, all the rest of graphic design is put on top of that. Well, I made a listicle boys."
+  -
+    timestamp: "31:27"
+    speaker: Matt
+    content: "Oh boy."
+  -
+    timestamp: "31:28"
+    speaker: Dan
+    content: "Ooh."
+  -
+    timestamp: "31:30"
+    speaker: Andy
+    content: "Listicle, top 10, top five, top three, top 50, top three things that I have learned since we originally started On The Grid as it pertains to my career. Should I break off number one? "
+  -
+    content: Overlapping Conversation
+  -
+    timestamp: "31:45"
+    speaker: Matt
+    content: "Let's do this. Go for it Sagmeister."
+  -
+    timestamp: "31:49"
+    speaker: Dan
+    content: "Cool, sick burn Matt. Sick burn."
+  -
+    timestamp: "31:51"
+    speaker: Andy
+    content: "Number one, I've learned I like getting naked in my graphic design. Wait a minute, wait a minute, hold on."
+  -
+    content: Laughter
+  -
+    timestamp: "31:55"
+    speaker: Matt
+    content: "Wait a minute, where'd I read this one from?"
+  -
+    timestamp: "31:58"
+    speaker: Andy
+    content: "Oh gosh, I can't believe I'm reading this out loud, how embarrassing. Alright, these are things we've maybe touched on before but I now believe them to be old truths that I know about the world and the first thing is that truly, and I have to imagine this, this expands to every career that I've been able to witness, I have to imagine that it expands well beyond the design worlds, all kinds of other careers and that is just to say that talent has no correlation with success, pretty much whatsoever. I have seen so many incredibly talented, smart, thoughtful people basically fail at their career and I have seen so, so many people with a quarter as much talent, a quarter as much wit, be completely successful because really just not at all connected. Has this been true for you all too? "
+  -
+    timestamp: "32:44"
+    speaker: Dan
+    content: "Yep."
+  -
+    timestamp: "32:45"
+    speaker: Matt
+    content: "What does talent even mean though? At this point I'm not even clear on what that means. Is talent just they showed up on day one, you were good at the thing you did?"
+  -
+    timestamp: "32:55"
+    speaker: Dan
+    content: "Yeah, like you could draw well?"
+  -
+    timestamp: "32:57"
+    speaker: Andy
+    content: "In this situation, put it in any context right? Talent, we are all effectively product and or, sometimes graphic designers. Talent in product design, let's say the talent of product design is being able to make the most beautiful, intuitive, useful product on the first try, you're just extremely good at that, that does not in any way guarantee success for you at all."
+  -
+    timestamp: "33:19"
+    speaker: Matt
+    content: "It just seems like I feel like I feel like we think we know what talent means and then we all have slightly different definitions of it, you just said, \"Well, nail it on the first try.\" I'm not even... Is it that? Is it being good when you're young? I feel it's just kind of fuzzy thing that..."
+  -
+    content: Overlapping Conversation
+  -
+    timestamp: "33:36"
+    speaker: Andy
+    content: "I think you can sub in skill if the word talent is giving you a problem, skilled at your career, no correlation with success, I still maintain."
+  -
+    timestamp: "33:44"
+    speaker: Dan
+    content: "That works, that definitely works, because if you think about, there is different skills, you could be on a team, you might not be the best visual designer or whatever, it might be your occupation but you might be really good with communicating with other people on the team and arriving to a conclusion together. That might be the thing that you're really good at, which is also really valuable. I could imagine that would be a thing, I don't know. But I also don't necessarily think that if you're talented or skilled in one matter, necessarily means that you're going to have a great career and be paid all sorts of money and gain all sorts of fame. There's not a correlation."
+  -
+    timestamp: "34:28"
+    speaker: Andy
+    content: "Yeah, there's also no correlation no matter how you define success, even if you don't want to make a bunch of money. Unless your definition of success is, \"I get to do whatever I want and think I'm cool,\" then I guess you could do that no matter what but I really feel like... I also think this extends beyond just a person. You can also say that a well-designed product does not guarantee it will be successful. A good anything is not necessarily gonna be the successful version of something and what it comes down to for me is I feel regardless of whether or not you work at a company or you are a freelancer or you're a contractor, whatever. I think being reliable and being easy to work with are six times more important than being skilled at the thing you're doing. I think there's a lot of room for being just fine at the thing you're doing or mediocre if you are reliable and easy to work with over somebody that is maybe extremely skilled but not reliable and not easy to work with."
+  -
+    timestamp: "35:23"
+    speaker: Matt
+    content: "I'll take that a 100% of the time, I agree with that."
+  -
+    timestamp: "35:26"
+    speaker: Andy
+    content: "Yeah, yeah, yeah. Everyone does."
+  -
+    timestamp: "35:27"
+    speaker: Matt
+    content: "Also, what is... I don't even know... If you give me a panic attack having to work with you, I don't care how skilled you are. If you disappear for a month then come back and you're like, \"Ah, I made the most beautiful thing,\" I'm like, \"Well, I died of a heart attack because I didn't know when were you coming back.\""
+  -
+    timestamp: "35:43"
+    speaker: Andy
+    content: "Too late. I'm dead."
+  -
+    content: Laughter
+  -
+    timestamp: "35:45"
+    speaker: Matt
+    content: "Really, thank you so much for that, I'm stoked about this."
+  -
+    timestamp: "35:47"
+    speaker: Andy
+    content: "Too late, I checked off that last check box and I'm in the sky and I'm dead. I'm dead now. The other thing that comes up here and this doesn't necessarily apply inside of companies as much in a normal career but if you're making anything that is gonna be consumed by people, the way you promote yourself is way more important than the thing you're making or what you are. Good promotion always makes up for a lackluster product regardless of whatever it is. And I might've felt this way cynically when I was younger like, \"Oh man, all those bad stuff gets popular because of dumb promotions.\" I think I've just kind of accepted it at this point and kind of recognized that it's just a part of what you have to do if you are trying to make things in the world."
+  -
+    timestamp: "36:30"
+    speaker: Dan
+    content: "Well, it's not a dumb promotion. You can make something in an enclosed space all to yourself but if nobody else knows about it then you keep it all to yourself. So..."
+  -
+    timestamp: "36:40"
+    speaker: Andy
+    content: "Yes. It's like being..."
+  -
+    timestamp: "36:41"
+    speaker: Matt
+    content: "Yeah, but sometimes they are dumb promotions."
+  -
+    content: Laughter
+  -
+    timestamp: "36:43"
+    speaker: Andy
+    content: "Those work too."
+  -
+    timestamp: "36:44"
+    speaker: Dan
+    content: "Yeah. Yeah."
+  -
+    timestamp: "36:45"
+    speaker: Matt
+    content: "But if you do the opposite of that. And you're like, make a thing and you put it in your closet and then you get really upset that no one's taking a look at it you go, \"Well, that's kind of stupid.\" So, it's not crazy that the inverse is true, right?"
+  -
+    timestamp: "36:57"
+    speaker: Andy
+    content: "Oh yeah. Yeah, yeah. Alright, number two, number two, top 10, top 20, top three, things Andy learned in his career since starting On The Grid. I have no desire to be part of any design community... Period. Full stop."
+  -
+    timestamp: "37:11"
+    speaker: Dan
+    content: "Yeah. I wholly agree with that. Okay so, I've turned into almost like a curmudgeon in the office I guess from what other people see because if you haven't changed at all."
+  -
+    content: Overlapping Conversation
+  -
+    timestamp: "37:24"
+    speaker: Andy
+    content: "You haven't changed at all. You haven't changed at all."
+  -
+    timestamp: "37:25"
+    speaker: Dan
+    content: "Interesting than what you think you used to be..."
+  -
+    timestamp: "37:28"
+    speaker: Andy
+    content: "Mr. I Changed, hasn't changed one bit."
+  -
+    timestamp: "37:31"
+    speaker: Dan
+    content: "No, I've just focused it on to... Into work and then after that I'm fine, I'm great but..."
+  -
+    timestamp: "37:37"
+    speaker: Andy
+    content: "Okay, okay."
+  -
+    timestamp: "37:38"
+    speaker: Dan
+    content: "I definitely... When it comes to any sort of celebrity or organization or anything that around design, I do not wanna participate. I don't like the conferences, I don't like the celebrity around people, I don't like any of it because it seems superficial and it has no... There's no progress, there's nothing constructive out of it, it's just all worthless to me."
+  -
+    timestamp: "38:02"
+    speaker: Matt
+    content: "That is the most extreme version of that."
+  -
+    timestamp: "38:03"
+    speaker: Dan
+    content: "Yeah."
+  -
+    timestamp: "38:05"
+    speaker: Matt
+    content: "I don't know if I totally feel this way, like obviously we have this podcast where we invite other designers on to talk about design stuff, that's kind of design community. So I don't really agree with you Andy, I think that's intense, I think you just make your own little world and you just don't like the way design communities exist right now, but man, you've tried really hard to build other ones so that's kind of a silly thing to say."
+  -
+    timestamp: "38:29"
+    speaker: Andy
+    content: "Well, but that's the thing, right? Like even though we have this show and we've intentionally tried to open up the show to other kinds of people in other perspectives and broaden the scope just beyond you and I or you and I and Dan. Yes, you can call that a community. I would call that a podcast community more than a design community, but sure. It's just so interesting to me and something I ruminate on a lot that, of all of the subreddits, all of the designer news is all of the dribbbles, all of the newsletters, all of the whatever the design thing is, design groups on Twitter, whatever. I just feel like I have no desire to be a part of any of them. And I don't have a great explanation why other than..."
+  -
+    timestamp: "39:11"
+    speaker: Matt
+    content: "Well, I think it's 'cause they're all like the ones you name tend to all be like..."
+  -
+    timestamp: "39:15"
+    speaker: Andy
+    content: "Well, name a good one."
+  -
+    timestamp: "39:16"
+    speaker: Matt
+    content: "No, I can't. I can't. But the ones you named are... Seemed to be like kids fresh out of college talking about very cliche design things..."
+  -
+    timestamp: "39:26"
+    speaker: Andy
+    content: "Okay, I'm also not really a design observer."
+  -
+    timestamp: "39:27"
+    speaker: Matt
+    content: "It's boring. It's like a... I mean, it's just. I don't know, that doesn't... I never quite... I didn't, change has never really clicked with me, I don't quite understand that. But... I don't know, the things that bore me are the ones that are like that people started telling the same jokes over and over again, that's not as fun. And then the other... It's either communities are just... They're interesting 'cause they're not design-based they just have maybe designers, that's one thing. Or they're just like boring cliche things people say over and over again. That stinks."
+  -
+    timestamp: "39:58"
+    speaker: Dan
+    content: "Yeah, see like, I feel like the difference with this show is that it's almost like you guys are sitting down with myself or with Satchwell or with Gitamba or Robyn or Chappell or like anybody like that and you're just sitting down and just talking as people, as Matt's point, who happen to be designers. This is not like a professional forum between designers discussing all design things all the time and it's kept very professional and very strict and all that. It's just not that, it's just people who have a common ground, they're discussing topics that they enjoy talking about. So it doesn't feel like this is a design community thing, it just feels like some well-respected, very nice people that are just talking over a mic."
+  -
+    timestamp: "40:43"
+    speaker: Andy
+    content: "Well, I wanna interject there and just say that, I think, what distinguishes Working File as compared to something On The Grid is much more of a focus on those things you said it's not. Which is we do come in with the topic every week that is related to design at least. I mean pretty directly. It's not... Hasn't been any real far-fetched episodes yet. And the reason that I want to make Working File, the podcast, is because of the kind of outpouring of great feedback we got about how people felt like On The Grid helped them through their careers in spite of us cracking jokes [Chuckle] basically."
+  -
+    timestamp: "41:21"
+    speaker: Andy
+    content: "Oh yeah, yeah, yeah. I wish that we were famous enough and charming enough to basically have a personality podcast of the successful, we could just like, be ourselves and just talk about whatever. 'Cause that's the kind of thing that I like most in the world. But I think that I wanna make Working File, this show, because I think that us and our contributors have something valuable to share with people and there are conversations that are worth having that are not happening elsewhere. So, I'm actually more on Matt's side like, I do want this show to become a thing that resembles design community or at least addresses it a little bit."
+  -
+    timestamp: "41:58"
+    speaker: Andy
+    content: "But yeah, I mean we started On The Grid, I did not feel this way. I mean, I was, again, kind of sarcastic, but I was on Dribbble. I was on Designer News. It didn't exist yet, but I was on Designer News when it came out. I was one of the first users. I was following all of the designers on Twitter. I was in those communities at that time. All the design blogs. Everything like that, and now I'm just not at all. And I think we've talked about it before. I feel like it was a phase I had to go through in my career and now I feel like there's not much value left there for me, which is partially a criticism of those places, and partially just recognizing that I've kind of moved on in my career and design practice. But, Matt, I do think that there is a contrast, 'cause I'm part of many online communities for many other things that I do find very valuable. So..."
+  -
+    timestamp: "42:43"
+    speaker: Matt
+    content: "Are those communities different because you don't spend all day thinking about them? So things are new and interesting to you whereas in design communities are like, \"Yeah. I think about that for eight hours a day, every day, five days a week\" is boring."
+  -
+    timestamp: "42:57"
+    speaker: Andy
+    content: "I mean, that's part of it."
+  -
+    timestamp: "42:57"
+    speaker: Matt
+    content: "These are not new conclusions for me."
+  -
+    timestamp: "42:58"
+    speaker: Andy
+    content: "That's part of it, but I think there's something to be said for the fact that the connective tissue, the only things... A community is defined by what does people have in common. Every person in a community is their own fully formed individual with their own disparate interests, but the thing that connects everybody's, whatever their sort of shared things are, and frankly, I just think, in the design community, the thing that is shared amongst the most people is just a very shallow thing. It is not a deep thing. It is not a meaningful thing. It is not a way of thinking about the world. It is not a methodology or philosophy. It is just, \"Oh. You just made stuff on the computer, graphics-wise.\" That's basically the thing we all share. Therefore that's the defining feature of it. And I don't think that the sub-cultures... Like we are part of a certain sub-culture, design people, that really are still on Dribbble. They are still a very vibrant community on Dribbble. That's a whole different sub-culture that's unto itself."
+  -
+    timestamp: "43:57"
+    speaker: Andy
+    content: "There's probably something to be said for all kinds of other web places that are similar. I just don't think the sub-cultures have solidified enough in a lot of circumstances for one to be appealing to me. Obviously, if I could talk with like-minded people, as we do every week on the show, about things I care about, about systems, about how small decisions can affect things at scale when you're working in a broader context. Those things, I'm deeply interested in. I would love to have a community of people that all cared about a pattern language, and design, and all the things that interest me. It's just that that's not the design community. The design community is people that happen to have Photoshop in their machines when they were in high school. Pretty much."
+  -
+    timestamp: "44:41"
+    speaker: Matt
+    content: "I have to say, I had a very similar thing happen to me in high school, which was being in a metal band and then realizing that the connection shared amongst the greater group was kind of boring, especially when you got older. We were all like, we're all just really angry and we like these bands. But there are plenty of people I met that came out of that that were fantastic and wonderful and I still love today. But I think a lot of those people got very bored of this shallow connection that everybody shared. I think a lot of things have that. I think you've identified it. It's just this... If the very core of it is this shallow thing, it gets boring and repetitive, but then people spawn little sub-cultures off of that and it gets more interesting and they find deeper meaning in it."
+  -
+    timestamp: "45:32"
+    speaker: Andy
+    content: "Oh yeah."
+  -
+    timestamp: "45:32"
+    speaker: Dan
+    content: "Yeah, the way it feels to me a lot of times is that when you see these sort of design communities online, it almost feels like the group of co-workers that all agree that they wanna go out for a beer. They get to the bar. They get their beer and then they continue to talk about work. That's the topic that is discussed and there's a level of fatigue about it. And it's almost like we can't talk about anything else. I get that we're co-workers, but can we just talk about a different subject other than that thing? And it feels like designers leech onto the tropes and just continue to talk about that over and over and over again, rather than... That's kind of the point I was trying to make with this show and especially with On The Grid, is that that wasn't really the case. It doesn't feel like you guys are getting back from work and just talking about work all over again. You just got done with eight hours and you're gonna clock two more. It actually feel more like intellectual discourse. And something that's more interesting and more compelling and much more broader than the pixels that you worked on that day."
+  -
+    timestamp: "46:31"
+    speaker: Matt
+    content: "I want to talk to Dan about metal bands again. I'm un-bored by it."
+  -
+    content: Laughter
+  -
+    timestamp: "46:34"
+    speaker: Dan
+    content: "Uh. Yeah. Okay."
+  -
+    timestamp: "46:38"
+    speaker: Andy
+    content: "Between the Buried and Me. Colors."
+  -
+    timestamp: "46:40"
+    speaker: Dan
+    content: "I think I'm gonna see them in a few months."
+  -
+    timestamp: "46:44"
+    speaker: Matt
+    content: "Andy's like a person who speaks a foreign language and just memorized three things and he just said those in order and Dan's like... And it worked. Dan's like, \"Oh, I'm gonna see them.\""
+  -
+    content: Laughter
+  -
+    timestamp: "46:58"
+    speaker: Andy
+    content: "Yeah."
+  -
+    timestamp: "46:58"
+    speaker: Matt
+    content: "He's like, \"Oh my God, I did it. I said a thing.\""
+  -
+    timestamp: "47:01"
+    speaker: Dan
+    content: "Nailed it."
+  -
+    timestamp: "47:02"
+    speaker: Andy
+    content: "I didn't mean for that to go totally off the rails and be a total criticism of the communities. It's honestly just an observation on my part. I look back on the past five years and the amount to which I wish to be engaged in design communities has gone from a huge part of my interest in life to basically nothing, aside from, as you pointed out, Matt, this sort of community that we are working to build. Hopefully, fingers crossed."
+  -
+    timestamp: "47:26"
+    speaker: Matt
+    content: "That's fair. Back to the listicle, I wanna know what all these things are."
+  -
+    timestamp: "47:31"
+    speaker: Andy
+    content: "All right. Number three, top three. This is the last one."
+  -
+    timestamp: "47:34"
+    speaker: Matt
+    content: "You only have three? You hyped this up like you had top 15, top 10, top 20, top 25, top 100."
+  -
+    timestamp: "47:40"
+    speaker: Andy
+    content: "I was throwing you off. I was throwing you off the scent. We only got 10 minutes left. I can't have nine more things."
+  -
+    timestamp: "47:46"
+    speaker: Matt
+    content: "That's true."
+  -
+    timestamp: "47:47"
+    speaker: Andy
+    content: "I wanted to be curated, Matt, focus on the things that really matter. Anyway, number three, number three top three things I learned since we started On The Grid five years ago, my emotional well-being is so strongly associated with how I feel about the work I am doing presently, and it's a thing that took me a long to realize, but if I feel like I'm making good work, and this is honestly unrelated to whether or not... Whether clients like the work, whether we have enough money coming in the door, all the kind of practical considerations. Totally void of that. Just how I feel about myself is so attached to how I feel about the work I am doing. If I feel like I can't do anything interesting and new, and appropriate, and everything I'm doing is a rip-off or just some kind of re-jumbling of something I saw elsewhere and already liked, I feel bad."
+  -
+    content: Chuckle
+  -
+    timestamp: "48:36"
+    speaker: Andy
+    content: "And then there are periods of my life where I feel like the work I'm making is totally on point, it's focused, and it's answering the prompt and doing the right thing. And then I feel really good about myself, and it's always a spectrum, and it's always kind of ebbing and flowing, but it took me a long time to realize that that was a really important part of just how I felt in my life in general, and it's the one way that I don't get away from work when I leave. Where I'm not actively thinking about work when I'm picking weeds and listening to a comedy podcast, but I might feel a little bad while I'm doing it, and if I do, it's probably because I didn't like what I did that day."
+  -
+    timestamp: "49:13"
+    speaker: Matt
+    content: "I feel like I go through this but it's like this cycle of like, \"Alright, I feel like I'm doing good work. I'm doing good work. Wait, now I've been doing this good work for a period of time. It's getting consistent and boring and oh my God! I better do something weird, and I have to do something really really weird now. It's strange and it's bad and then. Oh, it's kind of interesting, and now it's it good again, and then it gets boring and weird and interesting and terrible and good.\" Kind of goes like that. I think I'm doing good work, and this feels like boring work, and then I feel like I need to do something really weird. Is that relatable?"
+  -
+    timestamp: "49:40"
+    speaker: Dan
+    content: "Yeah."
+  -
+    timestamp: "49:44"
+    speaker: Andy
+    content: "No, you're crazy."
+  -
+    timestamp: "49:45"
+    speaker: Dan
+    content: "Yeah. You're totally crazy. No. My stuff, I don't know. I think it's just because I do work on so many things that are purely functional. Things like a video player, or something like that. At the end of the day if it was concluded as that it is more usable, it's more intuitive, people get it, and people like it, then that's perfect for me, and I don't spend a lot of time stressing in between about that, because I think we could try this out. If it doesn't work, we can just roll it back and try something new. So, it doesn't hang with me anymore, which is really, really liberating. So yeah, I don't have that thing. I also don't have that thing where I have to do something new and interesting and special, or unique in any way. I just think about, \"Okay, here's the practical thing that we need to accomplish. Let's go through our options. Let's move forward with this one.\""
+  -
+    timestamp: "50:44"
+    speaker: Matt
+    content: "If I go through too many cycles of like, \"Hey, that worked well over there. We should try that, 'cause it's working well for them. Hey, that worked well over there. We should try that, 'cause that's working well for them.\" I can't do too many of those without being like, \"Oh my God, we're just doing the same stuff that everybody else is doing. We should do something new!\""
+  -
+    timestamp: "51:00"
+    speaker: Dan
+    content: "Yeah, yeah. I get it."
+  -
+    timestamp: "51:00"
+    speaker: Matt
+    content: "Yeah, yeah. Conventions, Dan, conventions."
+  -
+    timestamp: "51:05"
+    speaker: Dan
+    content: "God, I sound so boring. [Chuckle]"
+  -
+    timestamp: "51:06"
+    speaker: Andy
+    content: "I definitely hear where Dan's coming from, and there's a lot of my work that is like that, where it's like, \"Look, we just know this needs to work.\" And I genuinely, in those situations, for the most part don't feel like an emotional attachment. Not only because I know it's detrimental to the work because getting emotionally attached to something that will just end up not meeting the prompt is useless and detrimental, but also it's hard for me to feel invested in that process when it's, \"Well, I know I'm just gonna kind of follow best practices, maybe match some patterns I've known to be successful elsewhere. Maybe test some things, but just figure out what works and then go with it.\""
+  -
+    timestamp: "51:43"
+    speaker: Andy
+    content: "But even in between all that stuff, like, \"Sure, okay, we're gonna make this website and it's gonna look like this, and it's gonna have this layout, and we know we're gonna solve all these practical concerns.\" When it comes to down to how those buttons look or the type choice or these kind of superficial things, I still feel a sense of... That's where I feel like the kind of artistic, for lack of a better word, sense of pride in my work. If I feel like I can't make a stupid contact form look good, I just get so down on myself. I'm like, \"Why can't I make this blog just look nice? It's just a blog. There's been a billion blogs, and I can't make a blog that looks good and fits this particular context.\" And those situations is not really a failure of some practical thing, which I recognize logically is the most important, but it's more an emotional thing of, I still like making stuff with my hands. I like directly manipulating things and trying to make something beautiful, and if I feel like I can't do that, I get real down."
+  -
+    timestamp: "52:47"
+    speaker: Dan
+    content: "Yeah, so, I was thinking about it, and I wonder if this might be a difference. Where you guys it's... You get a project, either you have to invent something that's new or create something for a new entity, or also revise things based of either a project or something that's on a retainer or whatever, and the site I work on has... GameSpot, one of two, has been around for 20 years, so people have... It's like trying to balance out giving things that are either long overdue or much appreciated with the other things that are almost... It's a tough love sort of project, like taking this one setting and burying it a little more because at some point it doesn't matter anymore. You get the small group people are gonna be upset and having to almost be callous about it, where you essentially say like, \"I get it. I get your concerns, but this has to happen because of things that are gonna be really good in the future, and you just kind of have to deal with it. Sorry.\""
+  -
+    timestamp: "53:48"
+    speaker: Dan
+    content: "Where the other thing's like how we... Recently, we just changed how we did promotional stuff on the site. That was something that was just a vast improvement internally and externally, and everybody's happy and everything's great. That's the reward I get, is that when it's easier to work with internally but also it works better for most people outside of us, then that's when I'm like, \"Okay, I can sleep totally fine.\" If everything fell apart and it totally ruined a part of the site and then we have to roll back and there's a whole process to it. Yeah, I'll probably feel bad about it but also, that hasn't happened yet since I've been there, so hey-yo."
+  -
+    timestamp: "54:28"
+    speaker: Andy
+    content: "Good work."
+  -
+    timestamp: "54:29"
+    speaker: Matt
+    content: "Yeah, I've always found, especially moving to doing my own thing, is there is this odd feeling or this balancing feeling I have between working on little small new projects that are exciting because you can kind of do anything, but then also, there's not that much budget, so maybe you can't do anything, versus really big projects, where maybe you're helping a bigger team and there's a huge number of resources to get stuff done, but also there's all these conventions that they've been working with for forever. So, you're like, \"Oh man, we could kind of do anything but we can't do anything on this side, on the big project's side.\" On the other side, the exact same thing, but the reverse."
+  -
+    timestamp: "55:10"
+    speaker: Matt
+    content: "Sometimes you find something in the middle that is really nice to work with but sometimes in a smaller budget, it just feels really good to be like, \"Ah, we solved it quickly and efficiently and it works really well, and it's not the most exciting looking thing in the whole world, but we sure did pull it off,\" versus, \"We have so many resources but we also have to deal with this gigantic app that's been around forever, that we can't change a ton of stuff. So, how do we work in that framework?\" I guess they're both satisfying in their own kind of way but also, you work on one for long enough and you want to go back together and then bounce back and forth and do that forever."
+  -
+    timestamp: "55:42"
+    speaker: Dan
+    content: "Back and forth forever."
+  -
+    timestamp: "55:45"
+    speaker: Matt
+    content: "Like pooping back and forth forever?"
+  -
+    timestamp: "55:46"
+    speaker: Andy
+    content: "Exactly. Dan, I think I've decided that you are far too well-balanced and well-adjusted to have a podcast."
+  -
+    content: Laughter
+  -
+    timestamp: "55:56"
+    speaker: Andy
+    content: "I think you need to be just a little bit perturbed and you're just not there, man. I think you've got it all figured out too much."
+  -
+    timestamp: "56:03"
+    speaker: Matt
+    content: "Have we figured this out? Andy is perturbed about Design Community and I have uncontrolled anxiety and it keeps us motivated to keep on recording stuff."
+  -
+    timestamp: "56:15"
+    speaker: Andy
+    content: "Talk about it and fill that hole. You've got to fill that hole."
+  -
+    timestamp: "56:17"
+    speaker: Matt
+    content: "Just tell the world that, or have the world tell us, that we're okay."
+  -
+    timestamp: "56:20"
+    speaker: Dan
+    content: "Yeah, yeah. Meanwhile, you guys are probably gonna do some post stuff with the podcast, probably go to sleep or something. I'm gonna go drink some Jameson and play Hitman because that's my life now. Yeah."
+  -
+    timestamp: "56:33"
+    speaker: Andy
+    content: "That's pretty good. It sounds violent."
+  -
+    timestamp: "56:35"
+    speaker: Dan
+    content: "Well yeah, it is but oh man, it's so good."
+  -
+    timestamp: "56:38"
+    speaker: Andy
+    content: "Well, this was a pleasure. Dan, thank you for joining us."
+  -
+    timestamp: "56:40"
+    speaker: Dan
+    content: "Oh, thank you for having me."
+  -
+    timestamp: "56:42"
+    speaker: Andy
+    content: "On this episode. Such a great thing to do a little call back to the past."
+  -
+    timestamp: "56:46"
+    speaker: Dan
+    content: "No, I definitely appreciate it. Thanks for having me."
+  -
+    timestamp: "56:49"
+    speaker: Andy
+    content: "I think I know the answer. Is there anything you want to promote, though? "
+  -
+    timestamp: "56:52"
+    speaker: Dan
+    content: "No."
+  -
+    content: Laughter
+  -
+    timestamp: "56:55"
+    speaker: Andy
+    content: "Not like your new coffee table business because you're gonna turn your hobby into a side project or something like that? "
+  -
+    timestamp: "57:04"
+    speaker: Dan
+    content: "No. I wouldn't even say check out my Twitter because it's still just stupid dumb jokes, just fewer of them because I don't tweet as much."
+  -
+    timestamp: "57:12"
+    speaker: Andy
+    content: "Yeah, I don't see you tweet much no more? "
+  -
+    timestamp: "57:14"
+    speaker: Dan
+    content: "Yeah. No, because I'm just hanging out, man. That's it. Living life."
+  -
+    content: Music
+  -
+    timestamp: "57:31"
+    speaker: Matt
+    content: "Thanks, as always, to XYZ Type for sponsoring the transcripts of this show."
+  -
+    timestamp: "57:33"
+    speaker: Andy
+    content: "Check them out at XYZtype.com and write us a review on iTunes, please, which I think it's changing to Apple Podcasts. They're changing the name. Whatever it is, write us a review and give us five stars. We really need that so bad."
+  -
+    timestamp: "57:46"
+    speaker: Matt
+    content: "Just copy one of your old On The Grid reviews, paste it, give us five stars. We don't care what you write. Write anything."
+  -
+    timestamp: "57:51"
+    speaker: Andy
+    content: "That's actually pretty ideal. If you could do that, that would be really good."
+  -
+    timestamp: "57:54"
+    speaker: Matt
+    content: "Perfect."
+  -
+    content: Music
