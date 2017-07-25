@@ -150,3 +150,11 @@
     - url: gamespot.com
     - url: giantbomb.com
   bio: "Dan is a design lead working on <a href='https://www.gamespot.com/'>GameSpot</a> and <a href='https://www.giantbomb.com/'>Giant Bomb</a>. He’s a former co-host of <a href='http://5by5.tv/onthegrid'>On the Grid</a> and tweets occasionally."
+-
+  firstName: Sabrina
+  lastName: Majeed
+  slug: sabrina-majeed
+  twitter: sabrina
+  websites:
+    - url: sabrinamajeed.com
+  bio: "Sabinra is an independent product designer and advisor. Most recently, she designed apps and managed design teams at <a href='http://www.buzzfeed.com/'>BuzzFeed</a>."
