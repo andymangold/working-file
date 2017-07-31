@@ -1,0 +1,785 @@
+messages:
+  -
+    timestamp: "0:00:00"
+    speaker: Andy
+    content: "You are listening to Working File, a podcast about design practice and its relationship with the world. My name is Andy Mangold."
+  -
+    timestamp: "0:00:06"
+    speaker: Matt
+    content: "And I'm Matt McInerney."
+  -
+    timestamp: "0:00:08"
+    speaker: Andy
+    content: "On this episode, we're joined by Kristy Tillman and Sabrina Majeed to discuss what it means to be senior in any field."
+  -
+    timestamp: "0:00:14"
+    speaker: Matt
+    content: "And why experience is definitely the most important thing, no matter what."
+  -
+    timestamp: "0:00:18"
+    speaker: Andy
+    content: "Matt, you're an extremely immature designer."
+  -
+    timestamp: "0:00:20"
+    speaker: Matt
+    content: "Oh, thank you. Wait a minute. That's an insult."
+  -
+    content: "Music"
+  -
+    timestamp: "0:00:44"
+    speaker: Andy
+    content: "Hey, we're all here. Thanks everybody for joining us."
+  -
+    timestamp: "0:00:47"
+    speaker: Kristy
+    content: "Hi."
+  -
+    timestamp: "0:00:48"
+    speaker: Andy
+    content: "We made it happen."
+  -
+    timestamp: "0:00:49"
+    speaker: Sabrina
+    content: "Thanks for having us."
+  -
+    timestamp: "0:00:50"
+    speaker: Andy
+    content: "We are joined once again by Kristy Tillman. How are you doing, Kristy?"
+  -
+    timestamp: "0:00:54"
+    speaker: Kristy
+    content: "I'm good."
+  -
+    timestamp: "0:00:56"
+    speaker: Andy
+    content: "I know we got slotted right in after your last meeting of the day, so you're still hyped from that, I imagine?"
+  -
+    timestamp: "0:01:01"
+    speaker: Kristy
+    content: "No."
+  -
+    content: "Chuckle"
+  -
+    timestamp: "0:01:02"
+    speaker: Andy
+    content: "Good, you are able to calm down more than I am after work, which is good."
+  -
+    timestamp: "0:01:06"
+    speaker: Kristy
+    content: "Today was actually a pretty breezy day at work."
+  -
+    timestamp: "0:01:09"
+    speaker: Andy
+    content: "Ugh, I'm so jealous. Breezy sounds good. It's also really hot here. And we have a new contributor on this episode. I didn't ask you how to pronounce your name but I believe it's just Sabrina Magid, right?"
+  -
+    timestamp: "0:01:19"
+    speaker: Sabrina
+    content: "Yeah, perfect."
+  -
+    timestamp: "0:01:20"
+    speaker: Andy
+    content: "Okay, great. Thank God. So you're joining us on this episode, too. Thank you for hopping on."
+  -
+    timestamp: "0:01:24"
+    speaker: Sabrina
+    content: "Yeah, thanks for inviting me."
+  -
+    timestamp: "0:01:25"
+    speaker: Andy
+    content: "Of course. We should just jump right into the topic, I think. We're kind of inspired by this article that Sabrina, you sent along ahead of time, which is titled \"On Being a Senior Engineer,\" and it's from the Kitchen Soap blog. And it's written as, best I can gather, by a higher up engineer at Etsy, which seems to be the case?"
+  -
+    timestamp: "0:01:46"
+    speaker: Sabrina
+    content: "Yeah, Ex-CTO."
+  -
+    timestamp: "0:01:48"
+    speaker: Andy
+    content: "There you go. Ex-CTO of Etsy."
+  -
+    timestamp: "0:01:50"
+    speaker: Sabrina
+    content: "Yeah."
+  -
+    timestamp: "0:01:50"
+    speaker: Matt
+    content: "That's pretty high up."
+  -
+    timestamp: "0:01:51"
+    speaker: Andy
+    content: "Yeah, it's pretty high up, I would say."
+  -
+    timestamp: "0:01:53"
+    speaker: Matt
+    content: "I'd say that's pretty senior."
+  -
+    timestamp: "0:01:54"
+    speaker: Andy
+    content: "Yeah, and it's basically an entire... It's a little like greatest hits of other writing about being a senior engineer or being a senior in any position. And I think that you centered along with the context Sabrina, that it really applies to all kinds of different industries, not just engineering, which I think is definitely true. Why don't you start us off? I'm just curious to know how we're gonna be defining the word \"Senior\" for this conversation, because I know it can mean a lot of different things. Sabrina, when you say senior designer, senior engineer, what does that word mean to you?"
+  -
+    timestamp: "0:02:27"
+    speaker: Sabrina
+    content: "Yeah. I guess this isn't really a definition, but I was thinking a lot about this and having read the article, and I think it's very different for different companies, which is why it's so hard to define. It means something, I think, really specific at BuzzFeed and when I was at BuzzFeed, I helped define that. But I don't think that that necessarily translates across the industry. But I guess I could say, for us, one of the... I can go into specifics but I think the major thing was it was actually a lot about leadership and communication, almost more so than execution in certain points, at least for product design."
+  -
+    timestamp: "0:03:04"
+    speaker: Andy
+    content: "Yeah. And to echo that point, I mean we actually use the term senior at my very small company. We only have two tiers, two salary levels, and two tiers of employees, and it's just senior and not senior. And the only distinction for us is, basically, that a senior level person at our company just means that you can work without oversight. We hope everybody is still learning. I don't wanna ever say that people are gonna stagnate, and stop learning new things and stop getting better at their job. But at a certain point, the hope is that you are also able to bill hours in the consulting world, get things done on a reasonable timeline while you're doing that learning as well. I'm familiar with the ideas in bigger organizations, obviously, but it definitely just, at our small company, has a different meaning. It's very simple."
+  -
+    timestamp: "0:03:50"
+    speaker: Sabrina
+    content: "Yeah, I think that's a really succinct way of putting it. If I had to say it in one word, I think lack of oversight is a good way to put it."
+  -
+    timestamp: "0:03:58"
+    speaker: Kristy
+    content: "That's really interesting to me. I'm just soaking in this conversation. Sabrina, thanks for bringing this article, I read it, and I've actually passed it on to a couple of people right now. My team is super new at Slack. I've been in Slack for 10 months and I'm building a team, so I'm really in the throes of thinking about what this means, as I start to hire people, and start to build out career paths for my teams. Team starts to scale so it's like this is top of mind, so thank you for bringing this topic up. Andy, it sounds like... Is two tiers really enough?"
+  -
+    timestamp: "0:04:31"
+    speaker: Andy
+    content: "When your company has eight people, it is."
+  -
+    content: "Chuckle"
+  -
+    timestamp: "0:04:34"
+    speaker: Kristy
+    content: "Well, okay. That's true. I guess that goes back to the point about company size and different companies."
+  -
+    timestamp: "0:04:41"
+    speaker: Andy
+    content: "I think at some point, it would make sense certainly to have a little more hierarchy. I guess you could even say we have three tiers, 'cause we do sometimes have an intern position which is a current student that works part-time. It is kind of a third tier, even at a really tiny company. But I definitely don't think that's sufficient to scale. It just works for our tiny little operation."
+  -
+    timestamp: "0:05:02"
+    speaker: Kristy
+    content: "Got it."
+  -
+    timestamp: "0:05:02"
+    speaker: Matt
+    content: "I can hop in and add one other thing, is I have very similar structure to Andy, but I think we define it a little bit differently. But we still only really have two tiers and it's just people who mentor and people who are being mentored, kind of. But when it's only five to 10 people, that range, it's hard to break in any more tiers. 'Cause it's like, \"Who mentors the person under the other mentor?\" You know what I mean? It's hard to make it any more shapes than just two levels."
+  -
+    timestamp: "0:05:28"
+    speaker: Kristy
+    content: "Yeah, so one of the things that stuck out to me about this article that I really loved, and it was able to articulate something that I've always felt but just really hadn't been able to put words to it, I think it was in here about the ability to anticipate needs, and also the ability to understand how other people view you. And I would definitely categorize those two things as being senior. And to me, just from managing and hiring designers, there's can't work without oversight, can't work without oversight.\" And then this next tier, where you have the ability to anticipate needs, understand how people view you politically around the organization. And I would even throw in the ability to think more strategically long-term, wider. I think the article also talked about not viewing a problem and a solution as two different things. To me, there's this next tier thinking that starts to put you into this senior leadership category. And to me, that's a much different thing than being able to work without oversight."
+  -
+    timestamp: "0:06:34"
+    speaker: Andy
+    content: "Sure. Absolutely. Are we equating senior engineer, senior designer with a leadership position, or is there room in some organizations for somebody that is considered a senior in their role, but is maybe... Isn't into leadership? They don't want to manage people. They just want to do their job. Is that something there's room for?"
+  -
+    timestamp: "0:06:54"
+    speaker: Kristy
+    content: "Well, I just wanna clarify because from my end, I didn't mean leadership as in managing people. I meant, leadership in displaying craft leadership or technical leadership, basically leading through influence, and not necessarily the idea of managing people."
+  -
+    timestamp: "0:07:10"
+    speaker: Andy
+    content: "Right, that makes sense. Okay."
+  -
+    timestamp: "0:07:11"
+    speaker: Sabrina
+    content: "Yeah, I would second that and agree with that, 'cause I know I mentioned leadership before too and I think of it the same way. It's not necessarily people management, but there's still an area of skill set leadership."
+  -
+    timestamp: "0:07:22"
+    speaker: Andy
+    content: "And does that differ from just proficiency? If I can do my job really well, does that account for some sort of skill set leadership, or is there a different thing there? Does it come back to the strategic thinking that Kristy mentioned, and the kind of thinking more outside the box?"
+  -
+    timestamp: "0:07:39"
+    speaker: Sabrina
+    content: "Yeah. I think that a leader who... Doesn't have to be a manager. I think a senior designer is still responsible for mentorship, and maybe setting best practices for a team. So it's not just about what the person does individually, but how they're helping the broader team with their expertise. I think it's not enough to just be proficient yourself, if you're not expanding and helping to shape the process for the team."
+  -
+    timestamp: "0:08:03"
+    speaker: Andy
+    content: "Yeah, I found in my career, my short career, that I feel like a lot of the things... We should say, if we haven't said explicitly, this article talks about senior engineering and doesn't really mention any engineering things, in my mind. It mentions pretty generic things that apply to any industry, because as they point out early in the article, the mark of a senior engineer is not somebody that is really good at writing a particular algorithm, or doing a big, long regular expression. It's somebody that exhibits all of these kind of more abstract qualities that are not directly tied to the thing you're making. But I've found that as I have gotten, I think, better proficiency-wise at my practical job, that is what has brought me the exposure to the bigger thinking that Kristy brought up, right?"
+  -
+    timestamp: "0:08:50"
+    speaker: Andy
+    content: "As I become a better designer, and think about designing products, and thinking more critically about them, that by definition, comes with an understanding of, \"Oh, and we're in a larger organization, and this organization has these kinds of priorities, and there's a business side of things, and we have to satisfy that, and we have to advocate for the users, we have to... \" All of these complex constellation of variables and different motivations that you have to balance, I think just comes naturally to most people when you spend a lot of time doing your craft. I can't really picture somebody that's a senior designer that is really good at designing, but doesn't think about those things, because I'm not sure you can be good at designing without thinking about those things."
+  -
+    timestamp: "0:09:29"
+    speaker: Kristy
+    content: "Yeah, I say that on a spectrum. It's been my experience too that some of that stuff does not come naturally to people, so you almost have to point it out to them around when they're mid-level. To me, a mid-level person is someone who's really good at their craft, but they haven't started to develop this type of stuff that we're talking about. They have the polish, they have the proficiency of being able to make things, and they have not started to think about this stuff yet. So in my experience mentoring, some of this comes naturally to people. Sometimes you have to throw them as someone who's responsible for people's career path and growth, and throw them into situations where they can get this stuff. Part of being a mentor, and lead on a team, is also pointing that this is the stuff that they need to learn, and coaching them around that. I think you can be good at making things, and be proficient at your job. I just see it on a spectrum, so this is like the end of that spectrum. To me, that's what I would consider a mid-level designer, in my head. That's how I would level people. They are really good at their craft, they just haven't started to learn this stuff yet, or they're at the very beginning of it."
+  -
+    timestamp: "0:10:47"
+    speaker: Andy
+    content: "I'm interested in the nature versus nurture thing. You brought up the idea that, a lot of the things, again, this article mentions, I think we all recognize are true of people that are senior in their position. Really coming down to empathy, people skills, being able to see the bigger picture, as we mentioned. Those are some things that I think do just come naturally to some people, more than they come to others. And I'm curious to know how you all feel about just how much is seniority tied to time you spent doing your job. Are those things correlated? Are they completely separate? Are they very direct? If you've been there 10 years, are you pretty much guaranteed to be senior at that point? How are those things related?"
+  -
+    timestamp: "0:11:30"
+    speaker: Matt
+    content: "And also is it... As opposed to just living your life if you never did your job and just hopped into it. I feel like part of it is just getting older and being more of a human being, as opposed to being a 22-year-old who doesn't have work experience or life experience."
+  -
+    timestamp: "0:11:47"
+    speaker: Kristy
+    content: "I can speak to that. I've hired people who have freelanced, or they've worked in jobs at one place for a really long time, and they have been there for a very long time and they had none of these skills. So actively mentoring them and opening their eyes to this broader skill set was a mystical thing for them. I've actually seen and witnessed designers, who have been designers for a really long time. And because of where they were, or the position at their company, they've never been exposed to that type of thinking. And it took lots of mentoring to get them there but they eventually got there. So I've had experience with people, it was just not a function of how many years. I definitely have hired people who have more years of experience than me, but they don't have the same level of depth or breadth of thinking, in terms of design thinking."
+  -
+    timestamp: "0:12:45"
+    speaker: Matt
+    content: "When you say, as opposed to freelancers, because freelancers have had so much contact with varying clients, varying people, had to deal with a lot of different stakes?"
+  -
+    timestamp: "0:12:54"
+    speaker: Kristy
+    content: "Well, in my experience, I'm not saying all freelancers, but these particular people that I've worked with. They can pick and choose the projects that they wanna do. Either you can push yourself in that dichotomy, or you can do the same thing, over and over and over and over again, which means you don't really get growth. If you're a really great illustrator and all you wanna do is make really sick icons..."
+  -
+    content: "Chuckle"
+  -
+    timestamp: "0:13:19"
+    speaker: Kristy
+    content: "You can do that for 10 years, and that might mean that you never have to solve certain types of problems, or get exposed to very complex projects that push your thinking. So it's really not just a function of working, or a function of time. 'Cause I've seen plenty of people who have lots of design years, who can't do this. And I've seen people who've been designers less than 10 years and who can."
+  -
+    timestamp: "0:13:46"
+    speaker: Andy
+    content: "Does that ring true for you, Sabrina?"
+  -
+    timestamp: "0:13:48"
+    speaker: Sabrina
+    content: "Yeah. Yeah, definitely. Yeah, I was gonna say it kind of... I guess, it kinda goes back to my point about, I think senior is really different depending on the company, 'cause I've also interviewed designers who have way more experience than me, in years. And they even have really impressive, very senior titles. But then when we interview them, they're not quite matching our definition of senior. Because I think maybe, the company they were at, it was more of a years thing versus the leadership, or the specific skills. I don't think years is a guarantee thing."
+  -
+    timestamp: "0:14:21"
+    speaker: Andy
+    content: "I agree completely and I feel like it's actually, kind of a controversial stance to some people. There's a lot of people that definitely have the \"Respect your elders. Experience is the greatest indicator of proficiency, or experience is the greatest indicator of skill.\" I've criticized things on Twitter or whatever, and had somebody come back and be like, \"Well, they've been a designer for 12 years more than you've been alive.\" And it's like, \"Well, yeah, but are we playing this game? Because Bill O'Reilly's been commenting on politics since before I was alive, but I still think that guy's totally wrong.\""
+  -
+    content: "Laughter"
+  -
+    timestamp: "0:14:55"
+    speaker: Andy
+    content: "I don't know how much we can really put any credence to that. So I think that it is really important. I think Kristy mentioned somebody drawing icons for 12 years, and then thinking that makes them a senior designer. I think it really comes down to the kind of work you're doing and how you're working. And one of the most important things, for me, personally, in my career, is feeling like I've not stagnated. Those are the moments I've tried to break out of some pattern, if I feel like, \"I'm doing the same thing over and over again. Am I really learning anything new?\" And try and kinda break out of those things, because I definitely feel like a career spent... You can spend your career and not advance your skill set or thinking if you're not careful. And honestly, in most situations, I don't think it's the individual person's fault. I think that they end up in a system that doesn't encourage growth in that way, and they just fall into the system and it kinda eats them up. But that does happen, for sure."
+  -
+    timestamp: "0:15:43"
+    speaker: Sabrina
+    content: "Yeah. I have a question for you guys, which is, how much do you think titles manage externally, outside of the company you work at?"
+  -
+    timestamp: "0:15:52"
+    speaker: Matt
+    content: "I feel like titles are such a company specific thing. I never have any idea what to make of them, from company to company. It makes sense within the walls of how you define it, and you can refer to your co-workers that way and it makes sense. But I don't know. If I'm reading a resume, I feel like I'm looking more at what the jobs were and how they described their work, and if you're in an interview setting, asking questions. And it seems so subjective. People define it in so many different ways."
+  -
+    timestamp: "0:16:18"
+    speaker: Andy
+    content: "Yeah, I find that they're very fraught. We, for a long time, didn't have any public facing titles. We didn't have titles really, period. Again, very small company. We all kinda did different things. We knew what each other did and it didn't really come up at all. Eventually, we started to realize that certain clients just really didn't have any idea what each of us did, even after talking to us for months. So we decided that we do have to have titles for the purposes of just, \"On this call, this is my responsibility and this is this other person's responsibility,\" which is a very fundamental thing we had to learn the hard way, 'cause we're a bunch of idiots. But yeah. I think that we avoided them, because it didn't really have any meaning to us, internally. And we knew that, externally, saying you're the art director, or design director or whatever. What does that really mean though, at the end of the day?"
+  -
+    timestamp: "0:17:06"
+    speaker: Sabrina
+    content: "Yeah, that's interesting. That just reminded me that I've seen companies where their sales team have external titles that are often inflated relative to their internal title just in order to get people to respond to their emails and their cold calls."
+  -
+    timestamp: "0:17:19"
+    speaker: Andy
+    content: "To their cold emails?"
+  -
+    timestamp: "0:17:20"
+    speaker: Sabrina
+    content: "Yeah. It's like everyone's a VP of something."
+  -
+    content: "Chuckle"
+  -
+    timestamp: "0:17:24"
+    speaker: Andy
+    content: "Here's the thing that happens. We have an office in Baltimore and it's on the third floor of a building, and there's no sign on the front door, so you'd know you were coming into our office. You have to go in the door and go up some stairs, and there's another door at the top of the stairs, that you can go into. And it's not locked during the day when we're there. And the thing that happens to us, pretty regularly, which boggles my mind, is that we'll be sitting in our office, just doing our work on our little computers, typing away like a bunch of nerds. And then somebody will just walk in our office. They have come in the front door, they have walked up the stairs, they are now walking in our door. And they start handing out a business card, trying to sell fax machines or something. There's still door to door salesman working in Baltimore, they just come in and they're like, \"Who gives you your paper?\" And I'm like, \"We don't use paper. I don't know what to tell you.\" I always feel bad for people that are forced to cold contact people, so I get the inflated titles they have. They're just trying to get any little percentage edge they can."
+  -
+    timestamp: "0:18:19"
+    speaker: Sabrina
+    content: "Yeah."
+  -
+    timestamp: "0:18:20"
+    speaker: Andy
+    content: "There were a couple other things that stood out to me about this particular article. One thing that really jumped out at me was a little section where the author points out that good engineers, and again, I think you could insert non-engineers in there, good people, senior people in any profession, don't shy away from making estimates, which is a very interesting thing that, again, I think, we ended up learning the hard way when we first started our company six years ago. We made estimates for things kind of flippantly. We're like, \"Yeah, sure, that'll take about this amount of time.\" We very quickly realized that we were always wrong. Estimates are very difficult to make. And so, for many years, we basically took the tact of explaining to most of our potential clients and partners like, \"Hey, we'll do our best but we really can't estimate these things, it's super difficult.\""
+  -
+    timestamp: "0:19:06"
+    speaker: Andy
+    content: "And now we've kinda swung back in the past couple years and realized like, \"Well, that's our whole job, is to do this thing and make the estimate.\" And I think Kristy made the good point that your job as the engineer specifically, is to absorb a lot of the risk in the engineering of the product, and same would go for design, same would go for any other kind of management. But that's something that definitely rung true. We spend so much time and so many years trying to avoid making estimates for anything, and now we just embrace it and we're like, \"Yep, that's necessary. We have to do that.\" That was an interesting moment of the article for me."
+  -
+    timestamp: "0:19:40"
+    speaker: Kristy
+    content: "Yeah, that stuck out to me too as someone who is constantly making estimates all the time. I feel like because I work so closely with our marketing team, and we always are needing to get things out of the door. And as we start to understand the capacity of our team and how much stuff we can kinda get through, I'm all the time making estimates or making promises that we can get X thing done by Y, and trying to make sure I can motivate and move the right obstacles out of the way for the team to get those things done. So yeah, that one stood out to me too. I was like \"Oh, Okay.\""
+  -
+    content: "Laughter"
+  -
+    timestamp: "0:20:16"
+    speaker: Kristy
+    content: "I really should be making these estimates. I'm not the only person that's really fumbling with that, but yeah, that stood out to me too."
+  -
+    timestamp: "0:20:25"
+    speaker: Matt
+    content: "Actually, that stood out to me specifically because I thought that translated a little bit less to design, just in the sense that I think it's a lot easier to estimate a design thing than it is to estimate an engineering thing, for the simple reason that, I don't think you can brute force an engineering problem and be done with it, as quickly as if you have a deadline and you're like, \"Oh, I need a logo. Here it is, it's done.\" If you had to get a design problem done you could, even if you did a bad job, where it's like... I don't know if you can do the same thing on the engineering side, so it's like... I've had to do that recently too, getting better about estimating, but I've had a harder time trying to figure out the engineering side of it more than the design side of it, 'cause... I don't know. You can always get a design thing done if you really need too. It's more about getting the estimate right to make it really, really good and efficient."
+  -
+    timestamp: "0:21:17"
+    speaker: Andy
+    content: "You're really just saying it's easier to do a really bad job designing something, and if you tried to do that in engineering, you just didn't do it, period."
+  -
+    timestamp: "0:21:24"
+    speaker: Matt
+    content: "Yeah, right. You could do a bad job if you just didn't do it engineering-wise. It just didn't work, right?"
+  -
+    timestamp: "0:21:28"
+    speaker: Andy
+    content: "Yeah, exactly."
+  -
+    timestamp: "0:21:29"
+    speaker: Matt
+    content: "It's a lot more measurable."
+  -
+    timestamp: "0:21:32"
+    speaker: Andy
+    content: "I've had that conversation plenty of times in art work too, 'cause like I said, if you needed a logo in 30 minutes, I could do something. We could put it on a business card and it would do the job of a logo. It would be recognizable and repeatable and have your name or colors on it or whatever. But obviously, it would be bad, it'd be a terrible, terrible example of that."
+  -
+    timestamp: "0:21:50"
+    speaker: Kristy
+    content: "Well, I mean in the context of not... I guess, taking this out of the context of being senior into the context of design leadership. I mean we have to make estimates about things all the time that don't relate to design. I mean, I had a conversation last week with finance about anticipating how much work are we gonna get from marketing, how much work are we gonna get for the other part of organization, and how that translates to headcount. And that's a really hard thing to estimate, but when we're forecasting and I'm saying, \"Okay, I think we can get work done with this many more people.\" And I know that I'm probably even not gonna get what I requested, it's probably gonna be less than that."
+  -
+    content: "Laughter"
+  -
+    timestamp: "0:22:34"
+    speaker: Kristy
+    content: "And we still have to get the work done, so in the context of running a design team or a design shop, is not just on the projects that you have to put a line in the sand. You do it for budgets, you do it for headcount, you do it for a whole host of other things. And the skill set is not just about a logo."
+  -
+    timestamp: "0:22:56"
+    speaker: Matt
+    content: "Yeah, and I find it translates to... It's not just a logo or it's not just an engineering problem. The challenge is always multidisciplinary, and you also have to do the same thing if you're running a business. It's not wildly different than forecasting your budget or whatever business thing you have to do, it's essentially the same skill. It's not getting good at predicting the future, it's just knowing these kind of repeatable things, and how... Trying to make them predictable."
+  -
+    timestamp: "0:23:22"
+    speaker: Sabrina
+    content: "Yeah, to me, I think it wasn't so much about being right or being really accurate about it. It was more of being comfortable with being wrong with your estimates, but being willing to put something out there. I think a lot of the designers that I'd managed in the past, I think there's a lot of hesitation to throw out a number or to commit to something, 'cause they're afraid of being wrong, but it's like by being accountable for that, it's the only way that you're gonna learn 'cause you'll actually go back and look at it if you're wrong, and be like, \"Okay, this is how long it actually took, so next time I know for the future.\" I thought it was... His point was about being okay with being wrong."
+  -
+    timestamp: "0:24:00"
+    speaker: Andy
+    content: "Yeah. I hear that for sure. And also, to come back to what Kristy said, she mentioned that she has to estimate things all the time. It's a huge part of her job, and I think that's, to the author's point, a huge part of what being a senior person is, because you're one of the only people at the organization that could even possibly make those estimates. And it may feel difficult from where you sit to be like, \"Well, how can we know what all these things are gonna be and we feel like we're taking a shot in the dark?\" But truly, someone like you, Kristy, you're in a much better position and have a much better experience and knowledge at your fingertips to be able to make a best estimate than anybody else and anywhere near you in the organization, which is why it kind of falls to you. It's like it's an indicator of seniority and also a by-product of seniority. You end up being the only person that has that perspective to understand all the moving pieces and make a best guess. And then, as Sabrina said, if you're wrong, you update it and you aren't too afraid to put yourself out there."
+  -
+    timestamp: "0:24:56"
+    speaker: Matt
+    content: "Well, the other thing I've learned too is that when you don't do it, someone else does it for you, and they get it really wrong. And then you're oftentimes stuck with that. So, you're gonna be like, \"Oh, I better do this 'cause I will do a much better job than someone else will, and they'll stick with some deadline that I don't want.\" It doesn't make any sense."
+  -
+    timestamp: "0:25:11"
+    speaker: Sabrina
+    content: "Yeah."
+  -
+    timestamp: "0:25:11"
+    speaker: Kristy
+    content: "It's so true."
+  -
+    timestamp: "0:25:11"
+    speaker: Sabrina
+    content: "That's a really good point. Yeah, oftentimes when estimating did come up at BuzzFeed, on the design team, it was because someone else was forcing a very tight deadline on the product designer, like, \"Oh, you can get this done in a week,\" and then sort of have to encourage them to go in and push back against that, feel like this isn't realistic. So yeah, it's definitely important."
+  -
+    timestamp: "0:25:33"
+    speaker: Andy
+    content: "I'm curious to know, I have a couple of questions related to these things. So, I think we're in agreement, more or less, that experience does not directly correlate to proficiency in the sense that we're describing it or seniority in a sense that we're describing it. So, I'm wondering, especially for you, Kristy and Sabrina, who have worked at bigger companies, what value do you ascribe to experience? For an agreement that you could work somewhere for 12 years, and maybe not grow or learn much, just by nature of where you happen to work and the context you were in. What, if any, value do you ascribe to that experience?"
+  -
+    timestamp: "0:26:05"
+    speaker: Sabrina
+    content: "I guess, for me, because when I think of experience, for some reason, I always think to the data versus intuition debate that used to be in the design industry a few years ago. And I always felt like experience was just providing you more data points that actually inform your intuition. So, things kind of might seem more obvious because you're pattern matching with experience. I guess that's the value that I see in it."
+  -
+    timestamp: "0:26:31"
+    speaker: Kristy
+    content: "She stole my answer."
+  -
+    content: "Chuckle"
+  -
+    timestamp: "0:26:36"
+    speaker: Andy
+    content: "I guess practically, if you have someone sitting in front of you, and they have a resume that says 16 years of progress and experience or whatever. That wasn't even a term 16 years ago. But if they've got 16 years of experience and somebody next to them has two years of experience, do you essentially ignore those numbers? Is that not a factor at all in your evaluation of how this person will fit on your team? Or does that weigh in even a little bit?"
+  -
+    timestamp: "0:26:57"
+    speaker: Kristy
+    content: "I actually very much ignore those numbers. So, I have learned that there are a group of people who will put X number of years of experience on their resume, on their LinkedIn. And to me, that is a huge red flag, and I have not been wrong yet."
+  -
+    timestamp: "0:27:18"
+    speaker: Matt
+    content: "What's the red flag?"
+  -
+    timestamp: "0:27:19"
+    speaker: Kristy
+    content: "The red flag is they think that connotes expertise."
+  -
+    timestamp: "0:27:20"
+    speaker: Andy
+    content: "Counting the years?"
+  -
+    timestamp: "0:27:23"
+    speaker: Kristy
+    content: "And I don't necessarily agree with that, and every portfolio I've seen with someone who says on the top of their resume '20 years of designing experience, or 10 years of design experience'. And when I look at their stuff, it is not good."
+  -
+    timestamp: "0:27:41"
+    speaker: Andy
+    content: "Well, it's basically one step away from saying like, \"I have designed over 120 websites\", which I think we all would agree means okay great that means nothing. That has no value."
+  -
+    timestamp: "0:27:50"
+    speaker: Kristy
+    content: "Absolutely. So, when people flag that as a thing, \"I have never been wrong yet,\" so that's a red flag to me. But just if no one's flagging, I just have two resumes, then I can just count the number of years of experience. I really wanna get into what they have done. The industry has changed so much, and that person who has two years of experience could have two really strong years of interesting, deep, complex problems. And I really want to get to the bottom of what they've been doing for the last two years. To me, when I'm looking and evaluating candidates, it's really about the type of experiences they've had, not necessarily the quantity."
+  -
+    timestamp: "0:28:32"
+    speaker: Andy
+    content: "Sure."
+  -
+    timestamp: "0:28:33"
+    speaker: Matt
+    content: "Is this unique to not only our industry but is this unique to our industry because things move so fast? If we were working in some totally industry where you could just repeat the same process over and over and things would be fine, we would think experience is much more valuable?"
+  -
+    timestamp: "0:28:51"
+    speaker: Andy
+    content: "What are the slow industries, Matt? Can you name one?"
+  -
+    timestamp: "0:28:54"
+    speaker: Kristy
+    content: "Maybe something like accounting."
+  -
+    timestamp: "0:28:55"
+    speaker: Matt
+    content: "I don't know. What if you make widgets for 20 years. You just make the same widget over and over again for 20 years."
+  -
+    content: "Laughter"
+  -
+    timestamp: "0:29:02"
+    speaker: Andy
+    content: "Well, I'm kind of putting him on the spot, but also, I really feel like this is probably the way most industries are, right? Just look at something like plumbing. We've had indoor plumbing for a hundred years or whatever, but I know for a fact that every year there's people making new ceilings, and new products, and new tools, and that's only accelerated as the whole world has accelerated. So, I don't know that there is an industry where it's like... Honestly, when I think of the grizzled, old wise person that really knows the ins and outs of something, I never think of that in a proficiency sense, I always think of that in a bigger picture human sense. You can imagine some great mentor in any industry, and it's never somebody that's gonna be like 'Well, let me tell you how to work that piece of software, or let me really show you how to fix that pipe, or whatever it is you're doing. It's somebody who understands the greater context, which keeps working around these same ideas, but I do feel like that experience is the valuable experience, more so than the technical proficiency. Plus, we're all gonna be replaced by robots in 12 years. So, don't bother doing anything a robot can do. Focus on the things robots can't do, like, talk to humans, for now."
+  -
+    timestamp: "0:30:12"
+    speaker: Kristy
+    content: "I also think in this industry because there's so many opportunities to do just very vastly different things, it just really, once again, goes back to types. I was at a Women in Design event last night and Kate Aronowitz, who was the VP of Design at Wealthfront spoke. When she started her presentation, she said that she'd been leading design teams for 17 years. And I was blown away by that number. Well, she had been designing for 17 years, I think she'd been leading teams for 14 years. But don't quote me on the numbers. It was definitely a double-digit number. I was pretty blown away by that fact. But the advice she gave us in her talk was extremely relevant. She's been on the cutting edge of her career and consistently staying in that position. So to me, that's 17 years or 14 years of amazing experience. She's consistently pushing and consistently staying on the cutting edge versus someone who might be 14 years or 15 years doing the same thing."
+  -
+    timestamp: "0:31:16"
+    speaker: Kristy
+    content: "So once again, it comes down to what type, and her experience would definitely be better than someone who had two years of experience, right? Bar none, right? Say someone who had two years of experience who had spent their time at IDEO. And I'm only using that because I'm super familiar, because I worked there before. Two years there, in really deep complex problems, getting a total experience with different types of companies, with different ranges of problems. That two years experience to me is much better than two years at one company for two years, most likely, because of the types of problems that I know that person would have been exposed to and they're not in the variant. So, it just really is a bunch of different weighing of variables that there's really no one answer. It just really comes down to evaluating the opportunity space that that person's had and their ability and willingness to continue to be on the cutting edge of learning."
+  -
+    timestamp: "0:32:18"
+    speaker: Andy
+    content: "Yeah. I would say that, in a situation where we have those two resumes and two numbers in the resumes, aside from the red flag it raises by even putting those numbers in the resumes, as Kristy pointed out, I wouldn't ignore that. What I think about that as, I think about that as raw material. So, I feel like different people have their approaches to the world and their values, and the people that I admire most, and I feel like are most skilled, kind of suck the marrow out of every experience they have. If they're gonna be working at some small company, doing something, they're gonna learn everything they possibly can there. If they're on some big team somewhere, they're gonna soak up everything they can possibly soak up there. And I feel like you can get a sense for what kind of person somebody is by interviewing them in other ways like that."
+  -
+    timestamp: "0:33:03"
+    speaker: Andy
+    content: "And then when I see someone like that with a huge amount of experience, I'm like, \"Okay, this person has been applying this process, which I understand and witness, for this amount of time,\" which tells me they've learned a lot over that amount of time and probably have a lot to bring to the table, more than I could ever surface in an interview by asking them questions about what they've done. And, similarly, if you have somebody that is really engaged in what they're doing and really picking up a lot of information that only has a little bit of experience, I think that can stand in contrast to somebody that maybe has a lot of experience but doesn't approach life like that, or doesn't approach their career like that, which is a difference, I think."
+  -
+    timestamp: "0:33:39"
+    speaker: Sabrina
+    content: "Yeah. For me, with the two resumes, I tend to agree with Kristy. At least when people say x amount of years in design, to me, it's really hard to actually evaluate what that means, 'cause it could be so different. But I will say I think that there is value in a human being that has worked for a certain amount of time and is used to working with other people and has skills in those areas. And that's usually not what people call out on their resumes. They don't generally call out their years of experience, it's always in a certain industry. But I think there is some value in that and maturity and stuff like that."
+  -
+    timestamp: "0:34:13"
+    speaker: Andy
+    content: "Yeah."
+  -
+    timestamp: "0:34:14"
+    speaker: Kristy
+    content: "That's a great point."
+  -
+    timestamp: "0:34:15"
+    speaker: Andy
+    content: "Yeah. I do think there are some things that you just can't learn quickly or are much harder to learn quickly. And a lot of those things do circle around what we've been describing as senior traits, being able to see the big picture, communicate with a bunch of people, empathize with people that are coming from a very different perspective from you. That seems like something that you can't just, week two of your career, someone explains, \"Hey, you should really put yourself in other people's shoes.\""
+  -
+    content: "Chuckle"
+  -
+    timestamp: "0:34:40"
+    speaker: Andy
+    content: "And you go, \"Okay, I will! Now I have that skill!\" That seems like a thing that really has to be hard-earned, more so than other skills."
+  -
+    timestamp: "0:34:47"
+    speaker: Sabrina
+    content: "Yeah, something that stands out to me is when I was earlier on in my career, everything seemed like a huge deal. If the product wasn't executed the way I designed it, it was like the end of the world. But with time and maturity, you realize it's never the end of the world and..."
+  -
+    timestamp: "0:35:01"
+    speaker: Andy
+    content: "You realize nothing is a huge deal and we're all just dust."
+  -
+    timestamp: "0:35:05"
+    speaker: Sabrina
+    content: "Yes. But you're just a lot more relaxed and can handle that situation better."
+  -
+    timestamp: "0:35:11"
+    speaker: Andy
+    content: "Yeah. The one last thing I'll say about the X years of experience and what credence we give just experience as a raw value as opposed to what the kind of experience was is that I think there's something to be said for the fact that certain people will under-represent themselves and the things they've learned, either because they don't perceive they've learned as much as they've actually learned or because they have been taught by society to downplay their achievements and the things they've accomplished. And so, for those people, I feel like sometimes that evidence of a long career can lend some credibility and some... Lend some credibility that maybe the person is not comfortable expressing directly. And the example I'll give for this is that the whole startup world and technology, which I feel like is kind of waning, thank God, in the past few years. I feel like there are less silly companies getting a million zillion dollars to do some dumb thing, run by like a 22-year-old."
+  -
+    timestamp: "0:36:12"
+    speaker: Andy
+    content: "That's a good example of like... I have no doubt there's a lot of 22-year-old co-founders that are brilliant. Maybe they're really great in their industry, they know a lot about what they're doing, but that kind of make the same kinds of just immature mistakes that really anybody with any experience would not make. And I think oftentimes you think about those people, and if you had the wherewithal to hire somebody maybe 10 years older than you, or that had been working for a while, there's a lot of things you could have just, just because of that experience, escaped. So, I do think there's something that comes from experience, and it might be better... Maybe you said it better, Sabrina, when it's just like, having worked for that long, and being in a job, and held a job down and worked on a team, is just evidence of a certain amount of maturity and teamwork that you really can't fake early on in your career."
+  -
+    timestamp: "0:37:00"
+    speaker: Andy
+    content: "Alright. Other things that came up in this piece, for me, and please somebody else steal this, steal it if you want, I was very interested in the idea of CYA consulting or CYA engineering is what they describe in the piece, which was just covering your ass, which resonated for me in a couple of ways which I was not super pleased about. But basically, it was describing the blaming others for the problems in a project. And I think the name actually, really said a lot to me. Basically, the idea that you, in your position, are going to do all the things you know are correct, such that when things go wrong, you can point to all the evidence of, \"Well look, I didn't mess anything up, I did my job, I matched the spec, I told you this was gonna take X amount of time or whatever,\" which is something that has come up for me so much in consulting, where it's like, \"You know what? If you're in consulting, being right just does not really matter, if someone doesn't feel like the situation went the way they wanted it to go.\""
+  -
+    timestamp: "0:37:58"
+    speaker: Andy
+    content: "And you may have explained 10 times the costs of the servers were gonna be X, but they didn't read those e-mails. And it's still, in some ways, your fault for not communicating that in a way that it was actually understand by somebody. And all of the sort of evidence that you've done the correct thing, and you've communicated things as you're \"suppose to,\" really is not worth much at the end of the day. And that's a lesson that I'm still learning, and it's still hard for me to grasp because I'm a very thorough person, and I like to be very careful in my communications and in all the work we do. And so, I do cover my ass. I'm doing all the things I'm supposed to do just naturally by my existing. And it's hard for me to accept sometimes that, that is not enough. That is not doing a good job, that is just being thorough. Doing a good job is making sure that you've been thorough, and you've expressed, in whatever way it needs to be expressed to all of your stakeholders, the sort of state of things."
+  -
+    timestamp: "0:38:51"
+    speaker: Matt
+    content: "I feel like this section really stood out to me, because if I'm ever lying in bed awake at night worrying about a thing, it's because I'm worried I didn't cover my ass 'cause I did everything I could think of, but somebody will come back to me and say, \"Hey, but what about this?\" And I never could have guessed it. I would love to cover all situations and never have to worry about something like this, but I don't quite know how to handle this one, because I... Kind of what Andy's saying like, \"I love to be as thorough as possible and try to explain every little detail and anticipate everything that could happen,\" but then sometimes things go wrong, and you have to absorb that too. I wanna live in a world where you can just do everything correctly and then you don't have to worry anymore."
+  -
+    content: "Laughter"
+  -
+    timestamp: "0:39:34"
+    speaker: Andy
+    content: "Of course you do."
+  -
+    timestamp: "0:39:36"
+    speaker: Matt
+    content: "Can I just have that reality?"
+  -
+    timestamp: "0:39:37"
+    speaker: Andy
+    content: "I would like to live in a world where my rational, thorough approach to the world is rewarded, exclusively."
+  -
+    content: "Laughter"
+  -
+    timestamp: "0:39:43"
+    speaker: Andy
+    content: "What it comes down to for me, is it's just an understanding that... Really what it is, is it's accepting that you are not going to cover everything, that it's not possible. And what \"cover your ass\" really means is, all of the things that we agreed could go wrong upfront, I took care of. And this other thing happened, and I can't be blamed, because we didn't agree that might go wrong. And it really resonated with me that a mature approach to that is not to go, \"Well look, look at all the things I've done that have proven how correct I am,\" but instead just to be like, well yeah, that's another thing that comes up, and kind of accept responsibility for it. And recognize that that's a huge part of the job, right? Whatever job you're doing, that's why your client hired you, that's why your boss hired you, because you were gonna be responsible for something. And just making sure that you've checked all the boxes, does not equate to doing a good job, and really doesn't equate to being a mature and thorough person."
+  -
+    timestamp: "0:40:37"
+    speaker: Matt
+    content: "I do like to think that my internal self is screaming and panicking, going, \"Oh no, why has this come up?\" But my external self is saying, \"Okay, well, how do we solve this problem?\" And I do try to do that, where it's like, okay, this thing no one could have ever anticipated has come up, well, let's deal with it even if internally I'm not stoked about it, or I'm panicking. Externally hopefully I'm saying, how do we deal with this? Let's come up with a reasonable way to solve for it, and we'll handle this together."
+  -
+    timestamp: "0:41:02"
+    speaker: Kristy
+    content: "I probably think that's the right approach. I have coached people through difficult situations before, and I always tell people they're entitled to their feelings. So, I don't like to talk people out of how they feel about a situation. I always talk to them about how they own their reaction to the situation, and those are two separate things. So, you can choose how you wanna react to a situation, and I think you're totally right with that, Matt. But you're entitled to still feel the way you want to about it."
+  -
+    timestamp: "0:41:31"
+    speaker: Matt
+    content: "Yeah, right. I don't have to be stoked about it, but I can work through the problem."
+  -
+    timestamp: "0:41:35"
+    speaker: Kristy
+    content: "Exactly."
+  -
+    timestamp: "0:41:36"
+    speaker: Andy
+    content: "Yeah. I could fill up a whole binder with just e-mail threads where Andy was right, and no one cared."
+  -
+    content: "Laughter"
+  -
+    timestamp: "0:41:43"
+    speaker: Matt
+    content: "It's like the difference between a contract and a person, right? Like, \"But it was in the contract and it said this,\" and you're like, \"Yeah, well, it didn't work.\""
+  -
+    timestamp: "0:41:51"
+    speaker: Andy
+    content: "Yeah, guess what? They didn't read the contract. They never read the contract, they just sign it."
+  -
+    content: "Chuckle"
+  -
+    timestamp: "0:41:56"
+    speaker: Sabrina
+    content: "I actually... For me, the CYA thing, I thought it uniquely applied to design maybe in a better way than engineering, because designers, they... Or the way that I see it often manifesting in design is a lot of designers, especially the ones who are less experienced, they think that they're only responsible for the mockup or the design itself and not necessarily the finished product. And so, when the finished product isn't performing the way people expect it, it's like, \"Oh, it's because engineering did this. I designed it perfectly, it's pixel perfect.\" And I feel like seniority to me is taking responsibility for the end result. And even that it's not even like what's shipped, it's the actual result of what's shipped that you should be responsible for, not the mockup or the design per se."
+  -
+    timestamp: "0:42:42"
+    speaker: Matt
+    content: "Well, the thing I feel like I try to explain to clients is, the design part it's a lot cheaper to mock it up and draw it first so we can agree on it, but that has nothing to do with the final result, that's just a picture of it. We're gonna sketch out and show you what it's gonna be and then later we'll build it. But no one sees the thing you've drew, that was just an expression of your idea. And then the building is the part that matters so who cares what your drawing was, nobody's ever gonna look at that."
+  -
+    timestamp: "0:43:08"
+    speaker: Sabrina
+    content: "Right, exactly."
+  -
+    timestamp: "0:43:09"
+    speaker: Andy
+    content: "This ownership you're talking about, Sabrina, is a tension I definitely feel in our work where sometimes I don't know where the line should be, like where we should stop doing our job, because there is a line somewhere, right? I really like it when a client comes to us with a very clear set of parameters. They're like, \"I'm assuming this,\" so we have to work under that assumption because that's the whole tent pole on which this entire thing is built. And sometimes I struggle with what assumptions to question and what ones not to, 'cause when someone comes up to me and is like, \"Hey, I need you to redesign a website for this non-profit,\" and then our response is, \"You need to hire a copywriter, you need to hire a photographer, and you need to reconsider completely how you accept donations and explore these other companies here that accept donations differently.\" All these things. They're like, \"Woah! We wanted a pretty website.\" And I'm like, \"Yeah. Well, we have opinions about other stuff too.\" I like that about me and the work we do, that we are comfortable coming back to a client that wants a website and say, \"Well, look, right now the way you accept donations just through PayPal is not great in these nine different ways and maybe you should explore a different way to do that.\""
+  -
+    timestamp: "0:44:17"
+    speaker: Andy
+    content: "I like that we are kind of holistic in that sense, but we're definitely sometimes met with not consternation but a little bit of curiosity, where it's like, \"Wait a minute, you're designers. Why are you commenting on this thing that doesn't apply to you?\" So ultimately, I agree. That's a thing that... There's still a tension I feel where I don't know where that line is sometimes."
+  -
+    timestamp: "0:44:34"
+    speaker: Sabrina
+    content: "Yeah. I feel like in larger companies, at least from my experience, I feel like we almost see the opposite thing, where designers are often like, \"Oh, that's not my job. I was hired to do this, not really stretch\" and all kinds of things that they need to stretch into are things that no one's explicitly asking, it's just that nobody's doing it, if that makes sense. But it's interesting, I feel like maybe I'm giving away an answer here but when we interview managers at BuzzFeed or when I did, we did a mock one-on-one where we actually had a designer bring a problem and say, \"That's not my job\" to see how a manager candidate would react to someone saying that. Would they accept that and let that be or would they push against that person and be like, \"Take responsibility for the whole situation.\""
+  -
+    timestamp: "0:45:22"
+    speaker: Matt
+    content: "It's a challenging thing to get right because I tend to be on the side of like I kinda want to control everything and have as much say as possible, but I have been in situations where that's taken advantage of and I have to say like, \"Okay, give me priorities. Tell me what to work on 'cause I can't work on everything at the same time.\" That instinct I think is good for a designer but it also can totally backfire, in that you're scattered around a thousand different things and you don't get anything done."
+  -
+    timestamp: "0:45:50"
+    speaker: Kristy
+    content: "It's been my experience that the first person who raises their hand to solve their problem gets to set the constraints. So, I always coach people on my team to getting to the problem and offering to solve problems, and ask them to set the parameters about what the constraints are going to be. So, I haven't really been in a situation where I'm kind of stepping out of... My swim lane was taken advantage of, because offering to do the thing allows me the control over how little or how much of it I'm going to do."
+  -
+    timestamp: "0:46:31"
+    speaker: Matt
+    content: "Yeah. I think one thing that's different about being in-house versus consulting is if you're in-house, you probably know a lot about the business that you're in, versus when you're consulting, you try to learn as much as you can but you don't have as much expertise as if you were to work at a place all the time and know everything about it. So, there are times where I feel like I hit up against limitations where I'm like \"I want to do everything and know everything but also you know a lot about your business. This is the part where you tell me what your business goals are and what you know about your company that I couldn't possibly know in the period of time that I've been working on this.\""
+  -
+    timestamp: "0:47:04"
+    speaker: Kristy
+    content: "Yeah, that's totally fair."
+  -
+    timestamp: "0:47:07"
+    speaker: Andy
+    content: "I've also definitely felt paralyzed by that extinctive mind to reach outside of the prompt and ask bigger questions. When someone does come to us and is like, \"Hey, we needed this website to look nicer and be easier to read,\" I'm like, \"Alright. Well, I have all kinds of ideas about other things you can change that would also be better.\" So, I think I started off by saying I really like when someone comes to us with very clear assumptions, as opposed to an open-ended thing, where it's like, \"Look, this is the donation platform. We take money through this donation platform. It's not gonna change for reasons that you don't have to concern yourself with, but we're stuck with that. Being given that limitation, even if it might not make the end product better, often lets me do what is ostensibly my job better because I can not get distracted by all the potential.\" I've definitely been in situations where like a relatively simple project was put on my plate and I like spun out and like had a mild existential crisis about all the things about it that were like surrounding it that I would sure like to be different and better but just can't be and I have to kind of accept that."
+  -
+    timestamp: "0:48:10"
+    speaker: Matt
+    content: "Do you like those limitations only when you assume they're correct? Can you deal with those limitations if you're questioning the authority of the person making, creating those restrictions?"
+  -
+    timestamp: "0:48:20"
+    speaker: Andy
+    content: "That's a great question. We have definitely had situations where we have been like, \"This is the assumption and we think it is very completely wrong, but it's what we were hired to do.\" Usually, in those situations, it's like not with an established product, it's like a new kind of thing. It's kind of a prototype for a new idea and it's gonna be tested with a small group of people. It's not gonna hit market as it is and the idea is basically like, \"I wanna test this assumption\" and we may disagree with that assumption. We may think that assumption makes no sense at all and is completely impractical, but our client thinks they're gonna learn something by testing that assumption. So in those situations, I'm oftentimes very blunt about the fact that I feel like we can test that assumption, here are the reasons why we think that assumption is completely wrong but if you think you're gonna learn something from it, then we're happy to be the way that you get to test that. And frankly, those are some of my favorite projects because we get to do things that we ourselves would never do because we think we know better. And I'm also very hesitant of ever thinking I know better than anything because sometimes those projects we are just shown to be wrong and I like that because it keeps us honest."
+  -
+    timestamp: "0:49:22"
+    speaker: Matt
+    content: "It makes me feel better about taking on a new project where I... There's definitely some projects where I won't take them on because it's like super clear that this won't work. But there's some where they're on the fence, you're like, \"Oh, this is either a new weird idea and could be really interesting\" or like \"this is just crazy but I'm not really sure where it's at.\""
+  -
+    timestamp: "0:49:40"
+    speaker: Andy
+    content: "Yeah."
+  -
+    timestamp: "0:49:41"
+    speaker: Sabrina
+    content: "One thing that I'm curious about when it comes to senior designers, I'm curious if anyone else here has had experience with helping people who aren't at that level try to get to that level. And something I guess I struggle with is trying to not make it seem like this checklist mentality, 'cause a lot of times people want clarity and they want really clear definitions on what they're supposed to do but I'm curious how you guys communicate, like what your standards for seniority are to people without making it seem like it's just checking off a box."
+  -
+    timestamp: "0:50:11"
+    speaker: Kristy
+    content: "So, I have what I call design values and roles document. I developed it at my last company, I'm using it again. I'm gonna be using again in Slack, I haven't rolled it out yet. But it's really more about behaviors than like explicit checkmarks. In that document, it lists like different ways those behaviors could manifest so that people can kind of get a sense of level setting. I've definitely coached people from a mid... What I would consider mid to senior. It took like a year. I'm thinking of one specific instance where someone was really clear about one of their goals being that they really wanted to level up and we were actively working on that and that involved like making sure that person got into certain projects and kind of throwing them in the deep end. Also talking to people on other teams and letting them know that this was actively going on and so that they each could have kind of a long-extended spoon with that person, so they knew that person was actively learning in that role."
+  -
+    timestamp: "0:51:18"
+    speaker: Kristy
+    content: "So, we have a list of behaviors and that's tended... And characteristics, that's tended to work really well, just so that people can kind of sense that they're in the ballpark but not like it must be this, it must be that. So that's worked really well. I've been working for the last four, going on five years now, at really early stage companies and on very brand-new teams. So, my perspective is also probably skewed because a lot of times, we're like figuring out like no one on my team ever walks in understanding exactly what their role is gonna be when they get there 'cause we're just like still figuring it out. So, a lot of very newness and lots of tinkering to get there. So that's one of the other reasons I'm really... I kind of created my kind of document where it's not so check boxy and more about characteristics and behaviors, because it's just too hard. We haven't seen enough stuff happen yet."
+  -
+    timestamp: "0:52:22"
+    speaker: Andy
+    content: "That question doesn't apply so directly to my work environment, again, just because it's a really small company, so we don't usually have like senior person is mentoring lower people in this certain thing. What we have a lot of is this cross-pollination, where it's like, \"Well, this person might be a designer, maybe they are new to working with React on the front end and so this engineer will kind of mentor them in how React works, and maybe we have an engineer over here that isn't familiar with thinking about the user experience in a certain way,\" and so some mentorship happens there, and in those situations, whenever there is a mentorship relationship, the thing that I have found is really important is understanding the motivations of the person you're mentoring, 'cause for a long time I blindly assumed that the thing that would help somebody get to the next stage in a particular skill set or in their career was what helped me get to the next stage in that skill set or that career and I'm driven by a very particular set of things that is just not true of what drives everybody else."
+  -
+    timestamp: "0:53:23"
+    speaker: Andy
+    content: "The really kind of the gauntlet for learning this lesson, the crucible for me, was I taught a couple courses in design like Typography I and Graphic Design I at a college and just really experiencing firsthand the number of times you have to say a thing and the number of different ways in which you have to express it before a majority of the people in the room will have actually internalized it is a very good learning experience for me to realize that, as a mentor, you have to be extremely receptive to how the person that you are dealing with wants to be taught, so you mentioned this checklist mentality. Some people really like a checklist, and for them, maybe you have to do your best to give them a checklist. Like, \"Well, listen. When you can approach a problem and cover all your bases and you can ask these certain questions and you can understand the full context, that's when you'll be a senior level person.\" And some people don't care about the checklist and they really want some more abstract expression of it, maybe they want a measure of time and, I think communicating with somebody in that relationship always comes down to understanding where they're coming from and what they're gonna benefit best from and how they're gonna understand that situation which is so, so difficult to do it. It cannot be overstated, from my perspective, how difficult it is to put yourself in someone else's shoes to that degree."
+  -
+    timestamp: "0:54:37"
+    speaker: Kristy
+    content: "I think it's interesting that you say that 'cause one of the things... I think your point is really true, 'cause I've been hiring for such early stage teams, I tend to have to hire people who have some sameness, just because your first 10 hires are different than your second 10, different than your third 10, right? And so, in these very early teams, they're just certain characteristics that I have to hire for. I think it was either Andy or Matt, you said, \"I prefer firm parameters and I don't really wanna work on projects where the parameters aren't really firm.\" I could never have someone like that on my team right now. Maybe two, three years down the line, but right now, I have to have people who can really dig through ambiguity and really kind of be able to take out, look at a lot of stuff and organize it really quickly and help teams that aren't designers. So, check boxes just don't work for us at this particular stage and I can't hire for people who would need that type of learning 'cause that's not what I think it's a priority right now. So, I definitely agree with you, like different people need different types of learning, just like when you're working on teams that are super young, you hire and think about things a little bit differently as they mature."
+  -
+    timestamp: "0:55:55"
+    speaker: Andy
+    content: "And I think the way you said that is such a great indication that you're probably doing things the right way because to be able to know that, \"Listen, if you need to learn in a certain way, this is not a context for you to do that,\" is huge and could save so much wasted time and headaches, not just for you but people you might hire that might come in that situation and might not be well-suited to the context you're in. Most places I feel like do not have the self-awareness to be like that, so that's... Kudos on that."
+  -
+    timestamp: "0:56:23"
+    speaker: Andy
+    content: "Alright, let's go to final thoughts. I will start off to give you all time to think of what your final thought is going to be, and what I will say is that one of the underlying things for this whole conversation for me that I find to be very true throughout my entire life and is something that I always need to remind myself is that it's so easy to kinda get caught in a habit, or get caught in a ritual, or get caught in a job that's comfortable and you know and you understand it, especially if it's not challenging you intellectually or challenging you in sort of the ways that you wanna be challenged, and I always have to remember that in five years, I will be the person that did this for five years and that person has a very specific set of experiences and perspective that is shaped so much by how that time is spent."
+  -
+    timestamp: "0:57:09"
+    speaker: Andy
+    content: "And really just the way you spend your time is so precious and shapes you so much as a person that being... Taking time to be like what some people would describe as selfish about that and finding a team that shares your values and finding a mentor that can help you do the things you wanna do and accomplish things you wanna accomplish is so valuable because it's all too easy to end up regretting a chunk of your career because you weren't chasing the things you wanted to chase and you were just kinda stuck somewhere. So, I really am a huge fan of self-awareness for that as much as possible."
+  -
+    timestamp: "0:57:44"
+    speaker: Matt
+    content: "Actually, related to that, when I was reading this article, there's parts of it I can relate to and parts of it where I was kinda like, \"Well, in my company, senior is such a binary thing, like you're either senior or not.\" Like, what does this mean? But I appreciated the idea of maturity 'cause there's more like being able to go through this list and more ask the question like, \"How do I stack up on this?\" 'Cause it's kinda like when you're such a small place where it's close to flat, it's not like you're moving up the ladder and measuring yourself that way, so it's more just like thinking about ways in which I am senior and I am not even though I happen to be one of the leaders of the company. And I kinda like the idea of measuring myself that way and saying, \"Do I have the maturity to not try to work in this cover-your-ass fashion or do I have this maturity to lead people in the right way?\" I don't know. The term \"senior\" means so many different things to so many different people. I don't think that's as valuable as just like trying to measure your career maturity and trying to get better."
+  -
+    timestamp: "0:58:47"
+    speaker: Andy
+    content: "Kristy, what's your final thought?"
+  -
+    timestamp: "0:58:49"
+    speaker: Kristy
+    content: "I actually too, I wanna piggyback on that. I actually did really love the term \"maturity\" too over senior and I'm actually wondering if it's a better term to use that actually I'm designing our career paths for my team."
+  -
+    timestamp: "0:59:03"
+    speaker: Matt
+    content: "Put that on the business card. \"Mature designer.\" I like that."
+  -
+    content: "Laughter"
+  -
+    timestamp: "0:59:06"
+    speaker: Kristy
+    content: "Mature designer. Totally. But I wonder, I guess my other kind of competing thought is like, 'What does it mean to be an immature designer and does anyone want that at all?\""
+  -
+    content: "Laughter"
+  -
+    timestamp: "0:59:17"
+    speaker: Kristy
+    content: "So how does that boost morale or not? I guess it's easy for me to say because I've reached a point in my career where title really doesn't matter that much anymore, and I really would love for us to just focus on learning and getting great experience and less on titles. I wish we could kinda do away with them to some degree, but I know they matter to people, so I guess we'll keep on working at trying to get them better."
+  -
+    timestamp: "0:59:45"
+    speaker: Matt
+    content: "Can I say I really like the idea of the immature designer. It's just like a designer who says \"No!\" And knocks the laptop out of your hand when things don't go his way."
+  -
+    content: "Laughter"
+  -
+    timestamp: "0:59:54"
+    speaker: Andy
+    content: "Sabrina, put a bow on it."
+  -
+    timestamp: "0:59:56"
+    speaker: Sabrina
+    content: "Yeah, my takeaway was very similar to Kristy's. I think it's actually from this discussion, my takeaway is that, it's less about the amount of years or the title and more like what you do with that time in a certain job or in a place. It's actually hearing about the two resumes question like, \"Who do we gravitate towards or do we care about that?\" I think it can be really easy to be seduced by a title, to have a senior title or even a VP title at a really young age, but it might actually be better to go somewhere where you don't have that title, but you're actually learning from someone or you're working on something that's gonna be on the long run. So, I feel like it's really important to think about what you're actually doing in that job, not just your title and how long you're there."
+  -
+    timestamp: "1:00:40"
+    speaker: Andy
+    content: "Heck, yeah! Hey, good podcast, everybody. You all did a great job."
+  -
+    timestamp: "1:00:44"
+    speaker: Kristy
+    content: "Yeah!"
+  -
+    timestamp: "1:00:44"
+    speaker: Sabrina
+    content: "Yeah."
+  -
+    timestamp: "1:00:45"
+    speaker: Andy
+    content: "Kristy, do you have anything to promote that you want people to know about?"
+  -
+    timestamp: "1:00:50"
+    speaker: Kristy
+    content: "No. This is a first."
+  -
+    timestamp: "1:00:51"
+    speaker: Andy
+    content: "Are you still hiring, or can people come work for you or no?"
+  -
+    timestamp: "1:00:55"
+    speaker: Kristy
+    content: "Not right now."
+  -
+    timestamp: "1:00:57"
+    speaker: Andy
+    content: "Alright, don't work for Kristy. You missed the window, you chump. You had a great opportunity and you let it pass you by."
+  -
+    timestamp: "1:01:02"
+    speaker: Kristy
+    content: "You can follow me on Twitter @KristyT, maybe?"
+  -
+    timestamp: "1:01:05"
+    speaker: Andy
+    content: "Do it."
+  -
+    timestamp: "1:01:05"
+    speaker: Matt
+    content: "That's fair. That's promotion."
+  -
+    timestamp: "1:01:07"
+    speaker: Andy
+    content: "Sabrina, is there anything you want to promote?"
+  -
+    timestamp: "1:01:10"
+    speaker: Sabrina
+    content: "I guess I can promote myself 'cause I recently left BuzzFeed, so I'm on the market for freelance and contract jobs. So, you can find me @sabrina on Twitter, or sabrinamajeed.com, which hopefully will be up by the time this podcast goes live."
+  -
+    timestamp: "1:01:27"
+    speaker: Matt
+    content: "You have 'till Monday."
+  -
+    timestamp: "1:01:27"
+    speaker: Andy
+    content: "And that's a good goal."
+  -
+    timestamp: "1:01:28"
+    speaker: Sabrina
+    content: "Okay. That's my goal. That's my goal anyway."
+  -
+    timestamp: "1:01:30"
+    speaker: Andy
+    content: "Monday, late night. So, I think you can get it done."
+  -
+    timestamp: "1:01:32"
+    speaker: Sabrina
+    content: "That's perfect. That was my deadline anyway."
+  -
+    timestamp: "1:01:34"
+    speaker: Andy
+    content: "Alright, everyone should hire Sabrina and give her lots of money to do a great job."
+  -
+    timestamp: "1:01:37"
+    speaker: Kristy
+    content: "I agree."
+  -
+    timestamp: "1:01:38"
+    speaker: Sabrina
+    content: "Thanks."
+  -
+    timestamp: "1:01:39"
+    speaker: Andy
+    content: "Good talk, everybody. Good talk. Alright, we did it!"
+  -
+    content: "Music"
+  -
+    timestamp: "1:01:54"
+    speaker: Matt
+    content: "Thanks, as always, to XYZ Type for sponsoring our transcripts. You can check them out at xyztype.com."
+  -
+    timestamp: "1:02:00"
+    speaker: Andy
+    content: "We have gotten so many nice pieces of feedback about the show through Twitter, via e-mail, on other social networks, and I gotta say, people, we love it. Thank you so much for saying the kind words, but, if you could just put that in an iTunes review, it would mean so much more. We're proud of the show we're making, we'd love for more people to find it, and I know it's lame, but writing the iTunes review really does help. So five stars, paste your e-mail in there, it really helps us out."
+  -
+    content: "Music"
