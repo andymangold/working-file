@@ -1176,3 +1176,121 @@
     -
       url: http://www.sabrinamajeed.com/
       text: "Hire Sabrina ⭐️"
+-
+  id: 19
+  date: 2017-08-08
+  title: A Human Podcast
+  soundcloudID: 336936196
+  contributorSlugs:
+    - jon-gold
+    - annie-yiling-wang
+  showNotes: "Annie and Jon join us for a speculative discussion about the future of design. Will artificial intelligence and machine learning replace us in the future? How will we develop taste in automated systems? What will become of our industry when capitalism finally implodes?"
+  links:
+    -
+      url: https://en.wikipedia.org/wiki/Merlin_Mann
+      text: "&ldquo;Merlin Manndroid&rdquo; 🤖"
+    -
+      url: https://airbnb.design/
+      text: AirBNB Design
+    -
+      url: https://en.wikipedia.org/wiki/Artificial_intelligence
+      text: Artificial Intelligence
+    -
+      url: https://en.wikipedia.org/wiki/Assembly_line
+      text: Assembly Line
+    -
+      url: https://en.wikipedia.org/wiki/Twitterbot
+      text: Twitterbot
+    -
+      url: https://en.wikipedia.org/wiki/Algorithm
+      text: Algorithm
+    -
+      url: https://en.wikipedia.org/wiki/Pun
+      text: "Pun 🙄"
+    -
+      url: https://en.wikipedia.org/wiki/Machine_learning
+      text: Machine Learning
+    -
+      url: https://en.wikipedia.org/wiki/Word_embedding
+      text: Word Embedding
+    -
+      url: http://gutterstats.com/2017/04/16/pupper2vec-analysing-internet-dog-slang-with-machine-learning/
+      text: "Pupper2Vec: Analyzing Internet Dog Slang with Machine Learning"
+    -
+      url: https://en.wikipedia.org/wiki/Anthony_Jeselnik
+      text: Anthony Jeselnik
+    -
+      url: https://en.wikipedia.org/wiki/Markov_chain
+      text: Markov Chain
+    -
+      url: https://replika.ai/
+      text: Replika App
+    -
+      url: https://en.wikipedia.org/wiki/Creativity
+      text: Creativity
+    -
+      url: http://www.npr.org/sections/money/
+      text: Planet Money
+    -
+      url: https://airbnb.design/painting-with-code/
+      text: AirBNB — Painting with Code
+    -
+      url: https://material.io/
+      text: Material Design
+    -
+      url: https://www.youtube.com/watch?v=rAbhypxs1qQ
+      text: Image Synthesis From Text With Deep Learning
+    -
+      url: https://en.wikipedia.org/wiki/Philosopher_king
+      text: Philosopher King
+    -
+      url: https://en.wikipedia.org/wiki/Basic_income
+      text: Basic Income
+    -
+      url: https://en.wikipedia.org/wiki/A/B_testing
+      text: A/B Testing
+    -
+      url: https://en.wikipedia.org/wiki/Zine
+      text: Zine
+    -
+      url: https://en.wikipedia.org/wiki/Baby_boomers
+      text: Baby Boomers
+    -
+      url: http://quoteinvestigator.com/2012/11/15/arc-of-universe/
+      text: "The arc of the universe is long&hellip;"
+    -
+      url: https://en.wikipedia.org/wiki/Dark_Ages_(historiography)
+      text: Dark Ages
+    -
+      url: https://en.wikipedia.org/wiki/List_of_countries_by_infant_mortality_rate
+      text: List of Countries by Infant Mortality Rate
+    -
+      url: https://en.wikipedia.org/wiki/The_Matrix
+      text: The Matrix
+    -
+      url: https://www.youtube.com/watch?v=H-U96W89Z90
+      text: Pokémon Red Programmed in Minecraft
+    -
+      url: https://blog.ycombinator.com/making-music-and-art-through-machine-learning-doug-eck-of-magenta/
+      text: Making Music and Art Through Machine Learning
+    -
+      url: https://medium.com/@samim/musical-novelty-search-2177c2a249cc
+      text: Musical Novelty Search — Evolutionary Algorithms + Ableton Live
+    -
+      url: http://www.imdb.com/title/tt4975722/
+      text: Moonlight
+    -
+      url: http://www.imdb.com/title/tt2084989/
+      text: Upstream Color
+    -
+      url: http://store.steampowered.com/app/654880/Dream_Daddy_A_Dad_Dating_Simulator/
+      text: Dream Daddy
+    -
+      url: https://en.wikipedia.org/wiki/SmarterChild
+      text: SmarterChild
+    -
+      url: https://en.wikipedia.org/wiki/Amazon_Alexa
+      text: Alexa
+    -
+      url: https://en.wikipedia.org/wiki/Siri
+      text: Siri
