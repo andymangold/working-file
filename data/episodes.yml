@@ -1181,6 +1181,7 @@
   date: 2017-08-08
   title: A Human Podcast
   soundcloudID: 336936196
+  transcript: true
   contributorSlugs:
     - jon-gold
     - annie-yiling-wang

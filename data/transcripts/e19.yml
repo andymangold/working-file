@@ -1,0 +1,1131 @@
+messages:
+  -
+    timestamp: "0:00:00"
+    speaker: Andy
+    content: "You are listening to Working File, a podcast about design practice and its relationship with the world. My name is Andy Mangold."
+  -
+    timestamp: "0:00:07"
+    speaker: Matt
+    content: "And I'm Matt McInerney."
+  -
+    timestamp: "0:00:08"
+    speaker: Andy
+    content: "On this episode we're joined by Annie Wang and Jon Gold to talk about AI, socialism, basic income. You know, design stuff."
+  -
+    timestamp: "0:00:15"
+    speaker: Matt
+    content: "Everything's gonna stay the same. You're safe. Don't worry about it. It's fine."
+  -
+    timestamp: "0:00:19"
+    speaker: Andy
+    content: "Or we're the Roman Empire."
+  -
+    content: "Music"
+  -
+    timestamp: "0:00:41"
+    speaker: Andy
+    content: "Tonight, we're gonna make an old-fashioned podcast with people instead of robots. They're gonna look back on podcasts from this era, pre robot AIs taking over all podcasting duties, and this is gonna be a total novelty. But for now it's all we got. So we're gonna make a people podcast, and we have Annie and Jon joining us from the same room at AirBed and Breakfast headquarters."
+  -
+    content: Chuckle
+  -
+    timestamp: "0:01:01"
+    speaker: Andy
+    content: "Right? That's where you are?"
+  -
+    timestamp: "0:01:02"
+    speaker: Annie
+    content: "That is exactly where we are."
+  -
+    timestamp: "0:01:04"
+    speaker: Jon
+    content: "We're here."
+  -
+    timestamp: "0:01:05"
+    speaker: Andy
+    content: "Thank you for joining us in the same room. This is the first time. This is a first for Working File that you are both in the same room."
+  -
+    timestamp: "0:01:10"
+    speaker: Jon
+    content: "With a complicated multitrack audio setup to match."
+  -
+    timestamp: "0:01:14"
+    speaker: Andy
+    content: "Exactly, yeah. So fingers crossed, everything goes well."
+  -
+    timestamp: "0:01:18"
+    speaker: Matt
+    content: "Oh Andy, I thought of a joke to say to your previous thing but I didn't have time. Can I say it now?"
+  -
+    timestamp: "0:01:22"
+    speaker: Andy
+    content: "Okay. Yeah, say it now and then you can slide it in later with your editing magic."
+  -
+    timestamp: "0:01:24"
+    speaker: Matt
+    content: "Okay good. Merlin Mandroid."
+  -
+    timestamp: "0:01:27"
+    speaker: Andy
+    content: "That is a very specific joke that... [chuckle]"
+  -
+    timestamp: "0:01:30"
+    speaker: Annie
+    content: "I have no idea what you're talking about."
+  -
+    timestamp: "0:01:32"
+    speaker: Andy
+    content: "A small, small portion of the population is gonna get."
+  -
+    timestamp: "0:01:34"
+    speaker: Matt
+    content: "Okay, perfect. That's all I wanted to say."
+  -
+    timestamp: "0:01:35"
+    speaker: Andy
+    content: "But Matt, they're gonna like it. Tonight we are talking about artificial intelligence, and automation, and the future of design, I guess. I think we're gonna get a little bit more broad than that. I'm excited for this episode because I think usually we try and cover very practical things because it feels good to be practical and you can pretend like you're helping people, but I'm excited to get speculative and just kinda talk about what we think the future might hold for design."
+  -
+    timestamp: "0:02:02"
+    speaker: Matt
+    content: "I'm excited not to help anybody. I'm not gonna help a soul today."
+  -
+    content: Chuckle
+  -
+    timestamp: "0:02:08"
+    speaker: Andy
+    content: "And so the context for this, as I gave a... So Jon you've worked in... You're probably one of the preeminent, on-the-cutting-edge people that are working on automation in design, right? Specifically in graphic design, user interface design, the kind of work you've done is kind of right on that spectrum, correct?"
+  -
+    timestamp: "0:02:25"
+    speaker: Jon
+    content: "I wouldn't like to use the word 'preeminent' because it's... Yeah, I think it's a bit much."
+  -
+    timestamp: "0:02:29"
+    speaker: Andy
+    content: "'Cause it's arrogant."
+  -
+    timestamp: "0:02:29"
+    speaker: Jon
+    content: "It's a bit much. But we are..."
+  -
+    timestamp: "0:02:31"
+    speaker: Matt
+    content: "Would you say you're like a legendary artificial designer or is that how you prefer to be referred to?"
+  -
+    timestamp: "0:02:38"
+    speaker: Jon
+    content: "Only on my visa application for the US Government. I think for everyone else, yeah, I've been dabbling in this for a while and I think artificial intelligence plus design are like two fields that haven't been smashed together as much as other parts of AI. Yeah, we've been having fun."
+  -
+    timestamp: "0:02:54"
+    speaker: Andy
+    content: "And then the other context is, Annie, I get the sense from our emails and Slack chats back-and-forth that you are more just concerned that a robot's gonna take your job, and wonder if you should totally switch industries, right?"
+  -
+    timestamp: "0:03:04"
+    speaker: Annie
+    content: "Oh, I'm not concerned, I'm celebrating it. [chuckle] I'm very excited about potentially not having to design anymore."
+  -
+    content: Chuckle
+  -
+    timestamp: "0:03:14"
+    speaker: Andy
+    content: "Alright. Let's dive into this. Somebody, either Jon or Annie I think, can you give us just a background on what we are actually talking about? When we say 'artificial intelligence,' if someone is not familiar with the practical, real-world, current applications for artificial intelligence, they're thinking of HAL 9000 or whatever. What do we mean when we say 'artificial intelligence'?"
+  -
+    timestamp: "0:03:36"
+    speaker: Jon
+    content: "I would say artificial intelligence refers to systems that can learn to think and can learn to pick out rules in unfamiliar data. We can personify things with big, scary, red, laser eyes and that kind of personification; I think that's what IBM are doing with Watson and it's kinda bullshit. But mostly we're talking about machines that can think beyond specific things that they've been programmed to do."
+  -
+    timestamp: "0:04:11"
+    speaker: Andy
+    content: "And I think most people, not everybody, but most people are pretty resigned to the fact that... Gosh, I don't know how to say this without being politically incorrect, but unskilled labor jobs, jobs that basically are repetitive, they're a task that can just be done repetitively with no variation from instance to instance. Those kind of jobs, I think most people kind of understand, probably as technology continues to get more affordable, more efficient, are likely to disappear. And in many industries have already disappeared to automation, right? Like there are very few... What's the thing where everyone gets in a line and everyone does one part of something?"
+  -
+    timestamp: "0:04:54"
+    speaker: Matt
+    content: "Assembly line."
+  -
+    timestamp: "0:04:54"
+    speaker: Annie
+    content: "Assembly line."
+  -
+    timestamp: "0:04:54"
+    speaker: Andy
+    content: "Thank you."
+  -
+    timestamp: "0:04:54"
+    speaker: Matt
+    content: "You're trying to say assembly line."
+  -
+    content: Laughter
+  -
+    timestamp: "0:04:55"
+    speaker: Andy
+    content: "Thank you."
+  -
+    content: Laughter
+  -
+    timestamp: "0:04:58"
+    speaker: Andy
+    content: "I think there are very few assembly lines that are left in modern factories, with the caveat that there is kind of the whole social and political mess in certain parts of the world where even though factory... Machines to do assembly line labor are available there are people that can pay absolute no wages at all to do it for even cheaper. Besides from that weird social political force, which is a whole 'nother topic we won't get into tonight, I think most people accept that labor jobs are likely to disappear to automation at some point. And I think a lot of people are unfamiliar with the idea that what some people might call 'creative jobs' could also potentially disappear or at least be significantly augmented and changed dramatically by technology."
+  -
+    timestamp: "0:05:44"
+    speaker: Andy
+    content: "Are there examples of this, that of... One example I can think of that I always come back to is one thing I think people kinda feel like is super-innately human and can never be automated is comedy, right? Like telling a joke and making people laugh is this really, deeply human thing that involves relating to people and making an interesting observation that's unexpected. And it's hard to program unexpected things. And yet I find myself literally laughing out loud at Twitterbots constantly on Twitter because of the weird ways they'd combine things."
+  -
+    timestamp: "0:06:14"
+    speaker: Annie
+    content: "Absolutely. Yeah."
+  -
+    timestamp: "0:06:16"
+    speaker: Andy
+    content: "So that to me is a very real, practical and kind of tame example of like, \"Here's the thing, it's programmed,\" and sometimes it's programmed with very dumb logic, and yet it is still able to basically write humor; it's being a comedian for better or worse."
+  -
+    timestamp: "0:06:29"
+    speaker: Matt
+    content: "Yeah."
+  -
+    timestamp: "0:06:31"
+    speaker: Jon
+    content: "Sure. Can I dive into just that humor one because it's one that I've been thinking about a lot recently?"
+  -
+    timestamp: "0:06:36"
+    speaker: Andy
+    content: "Yeah. Please do."
+  -
+    timestamp: "0:06:38"
+    speaker: Jon
+    content: "Okay. So, with... Wow! There were so many things that we just talked about. With talking about assembly line jobs becoming automated, that's using automation as a way of conflating robotics and AI; and the automation that happens might be algorithmic or it might be literal server motors and solenoids moving virtual hands in a factory space, that may or may not include AI, it might be as simple as an If-Else statement. And when we talk about the creative industry as being automated, well that's probably a little bit different. We might for fun, make a designer robot that sits there wearing a plaid shirt listening to Tycho, it's unlikely that it's gonna be that anthropomorphized. I can't speak recently."
+  -
+    timestamp: "0:07:29"
+    speaker: Jon
+    content: "And then when we talk about things like comedy, there's different things happening. There's using weird things that algorithms have generated as a source of humor itself, and then there's the algorithm being funny in a way that a human might expect. So if you have a very simple Twitterbot that is generating new words based on previous things it's seen, sometimes the machine gets it wrong and that's when things are pretty funny or you have a bot that samples through all of the words in the English dictionary and pre-fixes them with like \"Millennials are ruining,\" every noun, something like that. And so that's funny not because algorithmically it's funny or not because it has some deep semantic understanding of linguistics; it's just funny because millennials are ruining Buffalo Wild Wings or something like that. That's kinda funny in its randomness."
+  -
+    timestamp: "0:08:26"
+    speaker: Andy
+    content: "Yeah."
+  -
+    timestamp: "0:08:28"
+    speaker: Jon
+    content: "To me though, we can also solve creativity. What is creativity? What is comedy? Comedy is picking up disparate semantic concepts and linking them together in a way that makes you laugh. So I've been thinking a lot about puns. What are puns? Puns are ways of..."
+  -
+    timestamp: "0:08:48"
+    speaker: Andy
+    content: "Puns are bad comedy, right? That's what they are?"
+  -
+    timestamp: "0:08:50"
+    speaker: Jon
+    content: "I think puns are good comedy but we can agree to disagree."
+  -
+    content: Laughter
+  -
+    timestamp: "0:08:53"
+    speaker: Andy
+    content: "Alright. Alright."
+  -
+    timestamp: "0:08:54"
+    speaker: Jon
+    content: "My point is, at some level that's some kind of linguistic trick happening. And when there's a linguistic trick that works to one thing, it can probably work to another thing. And that's something that machine learning is pretty good at figuring out. So, to get a little bit technical for a second, there's a concept called 'word embedding'. Word embedding is a way of representing a bunch of different words in kind of geometric space. So, if you can imagine two axes, like an X and Y axes, you could represent say man, woman, king, queen on those axes. So, you could have the presenting gender as one axis and then you could have royalty on another axis. So you could scrub between the male or femaleness and the regalness. And so you could say, \"Man plus a bit of royalness is king,\" but then to the other side of the spectrum, on a gender spectrum, would be queen."
+  -
+    timestamp: "0:10:04"
+    speaker: Andy
+    content: "I don't mean to show off, Jon, but I did read that article about putting the DOGO language on a word map like that, so I think I know what you're talking about."
+  -
+    timestamp: "0:10:13"
+    speaker: Jon
+    content: "Totally."
+  -
+    content: Laughter
+  -
+    timestamp: "0:10:14"
+    speaker: Jon
+    content: "And I'll send links to all of these things. But so the idea is that if you... You probably can't represent the whole nuance of the English language on two dimensions like that. The cool thing about neural networks and machine learning is that you can represent things on like a gajillion dimensions, realistically with 100 to 300 dimensions, which you can't picture because you can't picture 300 dimensions, like it's... You can't do it in your head. But you can represent the whole nuance of the English language. So the point is that you can represent words and phrases in geometric space. Now to me, I don't think anyone's really solved it in this way, but a pun is just like a geometric mapping from one space to the other; we just have to figure out what that function is. But as soon as you do that, I think you'll have AI making better dad jokes than me."
+  -
+    timestamp: "0:11:06"
+    speaker: Matt
+    content: "It does seem like we're at the phase of the things that can make you laugh are just a machine making a mistake and so it's absurd comedy. It seems like we could get to that logical... The kind of logical joke making like a joke teller, like a Steven Wright or like a Anthony Jeselnik where it's like... You take a route and then you make an unexpected turn but an unexpected logical turn as opposed to unexpected absurd turn, but that's not a thing I've seen yet, I think we're still at the thing Andy pointed out, which is probably like a Markov chain gone wrong, right?"
+  -
+    timestamp: "0:11:41"
+    speaker: Andy
+    content: "Well, there are a couple bots I'm thinking of that do specifically use neural networks. They're not just basically chopping and screwing language and hoping that it comes out funny. They're definitely not as rigorously structured as you just describe, Matt, but I think there's definitely more deep things happening than just kind of the \"Millennials have ruined Buffalo Wild Wings,\" kind of bots. So..."
+  -
+    timestamp: "0:12:06"
+    speaker: Annie
+    content: "There's a new app, have you heard, it's called Replica."
+  -
+    timestamp: "0:12:08"
+    speaker: Jon
+    content: "I haven't seen that."
+  -
+    timestamp: "0:12:09"
+    speaker: Andy
+    content: "Oh, so my friend was just telling me about this. It's a chat app where you interact with this chat bot. And it kind of works as a Talkspace, like a anxiety therapy thing. So you talk to this bot and it'll, the more you talk to it, the more it learns about your mannerisms and how you talk. So it reflects kind of how you text, and then you can also I think connect it to your social media and so it'll ask you questions about things that it saw."
+  -
+    timestamp: "0:12:37"
+    speaker: Andy
+    content: "So you can depress the robot too?"
+  -
+    timestamp: "0:12:39"
+    speaker: Annie
+    content: "Yeah, it'll ask you like, \"You had coffee yesterday, who was this person you had coffee with?\" to kind of create this more robust relationship basically with yourself I think, which is kind of an interesting... That's an interesting tool. But I think that, I don't know, chat UI is interesting to me, just moving away from kind of a digital interaction screen."
+  -
+    timestamp: "0:13:09"
+    speaker: Matt
+    content: "Can I just bring up one thing before we get too deep into it? It's just, we're talking about the idea of creativity. Should we define what that is, or why that's different than the assembly job thing? 'Cause I think, in my mind, maybe we're just discovering the assembly line was a really simple formula and a really simple if/then statement or whatever. Are we just gonna discover that creativity is just a more complicated formula but it's still a formula? I think about things like... I just say this 'cause I've been listening to too much Planet Money recently, but investment. There was a time where I think people might have thought that was a skill or a creative endeavor in the way that it requires a human to pick and have hunches. And in a similar way to most creative endeavors now, people kinda pretend like they're magic."
+  -
+    timestamp: "0:14:00"
+    speaker: Matt
+    content: "And then because people have spent so much time and money and energy trying to create computer programs to figure that out, we actually found that for the most part humans are actually pretty bad at investing; machines are a lot better at it. Or even just simple things like index funds are better at it. Are we just on that path and we'll find out, actually, you know what's better at designing? A robot running through this process like a million times whereas a person could run through it 100 times. It just seems like magic 'cause you're not actually looking at what's going on."
+  -
+    timestamp: "0:14:26"
+    speaker: Andy
+    content: "I think that's very possible. To me I think, what are the big differences between those two examples and something like design, is that you could very clearly know when you've done the correct thing. When the thing comes off the assembly line, and it's all together, and there's no problems with it, and when you make more money, then success is very clear. In our industry and so many other creative industries, we talk about robots making music or making visual art of something, success is not clear, right? The best you can do is just poll a million people and be like, \"Do you like this?\" And then... Or, \"Is this kind of solving the prompt?\" But even the prompt in our... Relative to music and visual art..."
+  -
+    timestamp: "0:15:01"
+    speaker: Matt
+    content: "Well, sometimes, right?"
+  -
+    timestamp: "0:15:03"
+    speaker: Andy
+    content: "Go ahead, Matt."
+  -
+    timestamp: "0:15:04"
+    speaker: Matt
+    content: "Well, sometimes though, 'cause sometimes your prompt is, we need to grow the user base and you have a pretty clear thing to test against. Even though it might be a complicated series of things to get you to there, it's a pretty binary answer, if it went up or down, much like investing."
+  -
+    timestamp: "0:15:19"
+    speaker: Andy
+    content: "Yeah, and that's kind of..."
+  -
+    timestamp: "0:15:19"
+    speaker: Matt
+    content: "There are other things, right? Like art or music, but..."
+  -
+    timestamp: "0:15:22"
+    speaker: Andy
+    content: "Yeah. To me I think it's kind of a slightly different conversation, because I would argue that anybody who's designing just to make a number go up is not really a designer. They're basically just doing a bad job of being a robot because I would certainly agree in that situation then yeah, just throw all the spaghetti at the wall and then go through and pick out the spaghetti that's stuck. But yeah, I..."
+  -
+    timestamp: "0:15:42"
+    speaker: Jon
+    content: "But isn't all design just trying to make some number go up?"
+  -
+    timestamp: "0:15:44"
+    speaker: Matt
+    content: "Yeah, I was gonna say, aren't we all kinda trying to do that same thing and then we just have... We add some flowery language around it to pretend we're not, maybe."
+  -
+    content: Chuckle
+  -
+    timestamp: "0:15:54"
+    speaker: Andy
+    content: "So, to be clear, I'm not saying that there is something special and magical; there's not some mythical spark about designing or any other creativity. I do think that to put it in Jon's words, the array of all of the variables that you're considering when you're designing something is way more complex than the array of all the variables when you're trying to make a stock go up, or when you're trying to make a robot that puts this door on a car correctly."
+  -
+    timestamp: "0:16:19"
+    speaker: Matt
+    content: "But to my point, it might still be an array that is just more complex or many dimensions or whatever. It might still be that; it's just more complex than we know at the moment. But maybe some day we will know."
+  -
+    timestamp: "0:16:29"
+    speaker: Andy
+    content: "That I do agree with, and I think at a certain point the questions I have are... The design process to me, in most places, involves a certain type of work we call design. You're sitting down at your computer, you are making something look a certain way, you're creating a layout, you're designing a logo, you're making a poster, you're doing whatever it is that we maybe call the design work. But I think anybody that's worked for any amount of time knows that the job spans so far beyond that in terms of talking to people and figuring out what the actual problem is and what the prompt is. And I think in some ways, even if you could have an infinitely powerful super computer and map every single variable that matters in a design problem, the real problem then is like, \"All right, here's the 9,000 variables we need to get to put into the system,\" and those are not gonna be clear cut. That's gonna involve a huge amount of work talking to the client, and understanding the use case, and to get all the input, to actually put it into the system, to have it do its thing and spit out something."
+  -
+    timestamp: "0:17:30"
+    speaker: Jon
+    content: "I just have a feeling that the reason we haven't made much progress on design and AI thus far, design and machine learning thus far, is because in terms of the amount of money it makes, it's way, way less than for example high-frequency trading. High-frequency trading is pretty complex as you have to understand how the worlds work, you have to understand how markets work, you have to understand the relationship between news events and annual stock. And you have to do that like gagillion of times a second. Big finance makes a ton of money I don't know why, and that's why we've invested so much into it; or robotics, production lanes. Even the fact that for example in AutoCAD now or a bunch of Autodesks products now can do structural optimization algorithms that's way more complex than 2D product design. It just makes more money. So I don't think creativity's that that difficult. I think no one's just had the time and energy to explore it yet."
+  -
+    timestamp: "0:18:39"
+    speaker: Matt
+    content: "Or is it like, it's like we're... The example Andy used at the beginning where we have these social structures that allow a human to do it for less money than a computer; we're just at that point where a human will do it for less money than a computer 'cause it costs too much money to make a computer do it."
+  -
+    timestamp: "0:18:52"
+    speaker: Jon
+    content: "For now, for now. I seriously think we're close. Some AI projects that have been interesting me recently are like synthesizing photographs from text description. So you can type, \"Show me a photo of a yellow budgie in front of a green tree wearing a San Francisco 49ers baseball cap.\" That last bit was probably a little bit too much actually, but you can... And then it will go and generate a photograph for you from nothing, like it hallucinates a photograph; it's completely wild."
+  -
+    timestamp: "0:19:26"
+    speaker: Andy
+    content: "But that doesn't even resemble creativity in my mind; that's not a thing I would even describe as creative. I don't disagree, I just think that the only thing that we disagree about is I think the scale of the problem is much greater than it sounds like either of you think it is."
+  -
+    timestamp: "0:19:41"
+    speaker: Matt
+    content: "I seriously think the scale of the problem is way less than we think."
+  -
+    timestamp: "0:19:44"
+    speaker: Annie
+    content: "I think also like we keep talking about this idea of creativity too, this fear that AI is going to somehow crack the nut on what creativity is, but I also think the design is creative in a sense but there's a lot of intangible. I think we're concentrating on the machine learning kind of taking care of all the artifacts of what we produce, but I don't know if it could... I think it might just change our design process but I don't know necessarily if it will actually replace us. I think we will just have to use our skills in a different way. I can already see just like the work that Jon's been doing at Airbnb like from React to Sketch is really interesting because there's a lot of... The Fast Company, that Fast Co. '5 design jobs that won't exist in the future', there is a lot of work that is downstream that I can see AI taking care of. And I don't think that's necessarily scary because there's a lot of stuff, like I don't wanna make 600 variations of a layout when I know a machine can do this a lot faster."
+  -
+    timestamp: "0:20:52"
+    speaker: Annie
+    content: "I'm more interested in solving the problem further up the stream and not necessarily always being at the tail end doing a bunch of iterations on something when ultimately a lot of these problems... And we are talking specific about screen-based and apps and digital work. A lot of these problems to a certain extent have been solved before. That's why... We're also the most complex AI, right? As a UX designer you've solved a problem, you can probably scale it to your next job so technically you are your own best AI tool. And so I can see that machine learning taking care of a lot of that stuff. So I don't know if that's a different conversation but I don't know if it will take care of... I don't know if we can outsource creativity per se but I do see the value of AI and machine learning maybe taking care of a lot of stuff that is kind of a chore for us. I see a lot of potential there."
+  -
+    timestamp: "0:21:47"
+    speaker: Matt
+    content: "I guess it's kind of like it's gonna... I see it as moving up the chain of... We've already kinda taken care of... There was a time where you would have to produce every asset; we're kinda past that now. Now we're talking about having to produce every layout. I'm sure we'll be past that soon; just moving up the chain of complexity until which point we're just talking about, \"Okay, what part of that whole thing was creative?\" and now are we at the top where you're coming up with the initial idea, is that... Can a machine replicate that or not? Which I think Jon and I seem to be saying that we think it can at some point and maybe not. Maybe it's not as complex as we think."
+  -
+    timestamp: "0:22:21"
+    speaker: Jon
+    content: "I guess what you missed when Annie was speaking was me just nodding my head and shutting up and listening to her."
+  -
+    content: Laughter
+  -
+    timestamp: "0:22:26"
+    speaker: Matt
+    content: "Yeah. Yeah."
+  -
+    timestamp: "0:22:28"
+    speaker: Jon
+    content: "I think there's scales of design and there's the whole creative process. I think we'll get there and we're trying to get there, but that's also like, that's one tiny facet of it. There is so much design that happens that doesn't really need to happen. There's so much production work, there's no much dragging rectangles for reasons that are non-creative. Let's take an example. You're designing a screen on IOS and then you wanna see what it will look like in material design. You can do it and it's just gonna be a ton of rectangles to drag to get there."
+  -
+    timestamp: "0:23:03"
+    speaker: Jon
+    content: "There should be a magic flip switch that's like \"Understand what this design is, show it to me in this UI kit,\" as an example. Or in a non-constrained space tool you should be able to flip between screen sizes super quickly without having to drag rectangles all the time. So I think that's a lot of the design process that just doesn't need to happen, and I think there's a ton of the actual, the fun stuff that we will be empowered to do when we have... And this is just low level automation, this is stuff we're trying to work on Airbnb. When we get these rote tasks done and kind of taken care of, then we can spend more time focusing on the interesting stuff whether or not the interesting stuff gets augmented by AI as well, it kind of doesn't matter."
+  -
+    timestamp: "0:23:54"
+    speaker: Andy
+    content: "But the exciting part is that hopefully we just get to the point where we decide why any of that happened, right? 'Cause there is this thing we're not talking about which is, there's the jump off point where, \"Why did we need to automate any of this?\" It comes from some sort of decision that a human makes. Not that maybe we can talk about that later, but any initiative, we're setting machines on this path because we decided this was a good idea, right?"
+  -
+    timestamp: "0:24:21"
+    speaker: Jon
+    content: "Can we circle back to this idea of synthesizing images from scratch based on a text description? The reason that I am... Neuro, let's see... Neuro-image synthesis..."
+  -
+    timestamp: "0:24:32"
+    speaker: Andy
+    content: "While you're pulling that up, I do wanna say that I definitely am also not afraid of this potential future where AI has \"taken over the design process\" because frankly I don't see it as any different than any other tool. And I know that some AI people, maybe Jon included, would take issue with that, but I think it's something that we will still ultimately use, and use however we want. And a comparison I always think of is when photography was invented, a lot of people were like, \"We're done painting. Why bother painting anymore? We have photographs. That's all we need to capture images, and so we're gonna do a portrait or something.\" Or, \"Any of these things we were doing with paintings before, we'll just take a picture.\" And that was the whole impetus for modernism and the making painting actually interesting, where before that it was just people trying to paint an apple as good as they could possibly paint an apple. So I know it's very different to have a camera versus a neural network that has more nodes and power than a human brain, but ultimately I think that more tools just means that people can do more and are freed up to possibly break out of expectations that we've already set for ourselves."
+  -
+    timestamp: "0:25:43"
+    speaker: Matt
+    content: "Well more than that, it's identifying the strength of each thing, identifying the strength of the machine tool and identifying the strength of the human tool, which maybe we're just using humans as machines, and it's dumb, and we'll find that out soon."
+  -
+    timestamp: "0:25:55"
+    speaker: Andy
+    content: "Yeah. And the other thing I would say up to that end..."
+  -
+    timestamp: "0:25:55"
+    speaker: Jon
+    content: "And again I think there's just like a range of things. There are humans doing things which are essentially a fault loop, and we fixed that in industry, we fixed that on assembly lines by replacing that with robot arms and stuff, and we're fixing it with design tools now. There's also just using the computer as a really interesting exploratory tool. As an example, this... I think I've sent the right video over, and I guess you wanna mute as you scrub through it. Just click around it and you can see what's going on there. This is a paper where you give a text description, and it hallucinates an image from scratch. And the images aren't great resolution right now. They'll get better as technology gets better. But to be able to go from a text description to a user interface, or a UI concept, that's not that far out. I genuinely think that you could say, \"Hey, I'm a designer at Airbnb. I wanna see a settings page for our host to manage the availability and the pricing of their listing.\" And we should be able to synthesize a pretty decent exploration of a UI from that."
+  -
+    timestamp: "0:27:02"
+    speaker: Jon
+    content: "So it's just like seeing these crazy, crazy computers hallucinating things, examples. I have kind of confidence that we just need the right data, and we need to ask the right questions, but then we'll have it porting over to aid the creative process. But it's also this idea of aiding the creative process. Whatever we do, it's just a new tool. As soon as guitars got amplifiers, we started using the amplifiers for the weird stuff they do. Amplifiers distort. That wasn't a thing that was intended, that was an interesting side effect, and then heavy metal got invented because of that. You just have new tools..."
+  -
+    timestamp: "0:27:37"
+    speaker: Andy
+    content: "That was like when we started the podcast and you held your guitar pick ups to the speaker just to see how fun that would be."
+  -
+    content: Vocalization
+  -
+    content: Chuckle
+  -
+    timestamp: "0:27:44"
+    speaker: Jon
+    content: "That was a little bit of feedback right there. Yeah, and I'm just incredibly optimistic, and the deeper I get with this stuff, the more optimistic I get, because it's super cool, and it's super fun, and I think design's gonna be really interesting coming up."
+  -
+    timestamp: "0:27:58"
+    speaker: Annie
+    content: "I think so too. It just frees us up to work on stuff that might not be so tangible, which is really exciting. It doesn't have to be... Thinking about it, I'm like, oh, maybe one day I don't have to show a portfolio of like, \"Here's my desk... Here's a desktop website, and here it is in responsive, in a mock up.\" I'm really interested in freeing up what design actually means, and that it isn't always the tangible artifact that we show. I'm really curious about... I would love to find someone who's working on all the Google Home or Alexa, all those designers. How do you design a conversation with someone? That is really fascinating to me. How do you tell people about that, and where do you even begin? I feel like that's something that I don't know if AI is gonna take over yet, but I don't know, just words, words are cool."
+  -
+    timestamp: "0:29:00"
+    speaker: Andy
+    content: "So I have two questions just to continue my cynical tact, which I tend to take on all things. And the first question is just: Given that we exist primarily in a capitalist society, and that as we talked about before, the reason that so many resources have been spent to make trading robots as good as possible is because everything in this society is fueled by money, and if you can gain more money, then you're gonna dedicate resources to accomplishing that goal. The other thing I think when I think about all these things is how far down the line of all of the jobs that you could potentially automate, creative and otherwise, and all of the things you could do to have a return on your research and investment, it seems to me like we'd be so far down that line that the world will be such a different place by the time we would be doing anything that resembles automated design that it's almost not even worth talking about because at that point, have we eliminated the need for human labor? Are we all philosopher kings and queens that are just sitting around all day, pontificating? What do you people think about that? The idea that..."
+  -
+    timestamp: "0:30:05"
+    speaker: Matt
+    content: "We definitely... There's no way to have this conversation without having the basic income conversation, right?"
+  -
+    timestamp: "0:30:09"
+    speaker: Annie
+    content: "Yup. Let's talk about it."
+  -
+    timestamp: "0:30:11"
+    speaker: Jon
+    content: "Let's do it."
+  -
+    content: Laughter
+  -
+    timestamp: "0:30:11"
+    speaker: Matt
+    content: "Once you get to the thing that we're describing, I do think that you've eliminated so many jobs and so many other things that like... The people who are working are working 'cause they wanna be working. That is the thing we're talking about, right?"
+  -
+    timestamp: "0:30:25"
+    speaker: Andy
+    content: "Basically, it's what I'm saying, yeah."
+  -
+    timestamp: "0:30:25"
+    speaker: Matt
+    content: "We've eliminated all these tasks; we don't wanna make the layout in this many different ways, we don't wanna do this many different things. So now we just don't need as many of us. And maybe if we're lucky, maybe Jon, legendary artificial designer or whatever, you get to have a job. But maybe Andy, Andy, you and I, we don't get to have jobs."
+  -
+    timestamp: "0:30:41"
+    speaker: Andy
+    content: "Hey, if I get a basic income, I'm checking out of jobs. I'm done with that."
+  -
+    content: Laughter
+  -
+    timestamp: "0:30:45"
+    speaker: Matt
+    content: "Yeah. So I don't know."
+  -
+    timestamp: "0:30:45"
+    speaker: Andy
+    content: "Trust me."
+  -
+    timestamp: "0:30:46"
+    speaker: Jon
+    content: "No. I'm gonna be backpacking. I'm not working."
+  -
+    timestamp: "0:30:48"
+    speaker: Matt
+    content: "I do think it kinda goes to... It's a political conversation and it's an AI conversation, right?"
+  -
+    timestamp: "0:30:56"
+    speaker: Jon
+    content: "We can't separate automation and artificial intelligence from economics and politics. You can't not have those conversations together."
+  -
+    timestamp: "0:31:04"
+    speaker: Annie
+    content: "Circling back to that, I guess the motivation to move faster too is to make more money. That, we can't really deny either that the reason that so many things are automated is because companies wanna move a lot faster and it's a lot of this is first to market, quicker, whatever. And so I can understand that it's not exactly the purest motivation for us to just be like, \"Yay, we're not gonna have jobs anymore. This is amazing.\" It is ultimately the companies need to make a lot of money but the best..."
+  -
+    timestamp: "0:31:36"
+    speaker: Matt
+    content: "And it's a motivation to win, right? Where it's actually fewer people making even more money."
+  -
+    timestamp: "0:31:39"
+    speaker: Annie
+    content: "Yeah, yeah."
+  -
+    content: Chuckle
+  -
+    timestamp: "0:31:42"
+    speaker: Andy
+    content: "That is the general trend of society which is very terrifying."
+  -
+    timestamp: "0:31:45"
+    speaker: Annie
+    content: "But is the best way to overcome capitalism is to just run through it, right? [chuckle] Let's just..."
+  -
+    timestamp: "0:31:53"
+    speaker: Andy
+    content: "Lean in basically?"
+  -
+    timestamp: "0:31:53"
+    speaker: Annie
+    content: "Lean into this hyper-capitalism and see if it implodes."
+  -
+    content: Chuckle
+  -
+    timestamp: "0:31:56"
+    speaker: Annie
+    content: "I don't know."
+  -
+    timestamp: "0:31:58"
+    speaker: Matt
+    content: "Like, \"Guys, we got to the very end of capitalism and here's what happened; I got the last chapter.\""
+  -
+    content: Chuckle
+  -
+    timestamp: "0:32:02"
+    speaker: Jon
+    content: "I wanna see the credits at the end of it."
+  -
+    content: Laughter
+  -
+    timestamp: "0:32:04"
+    speaker: Jon
+    content: "After we beat the final boss."
+  -
+    timestamp: "0:32:06"
+    speaker: Andy
+    content: "Well, to take that to its logical conclusion, I don't even mean like, \"Oh, there'll be so many other jobs that are automated that we surely must have a basic income, therefore, who cares about talking about automated design?\" Even before that, think about what our industry really is. It is almost entirely, vast, vast majority advertising. And now that we've moved over into user experience and user interface design, that's really just you're kind of smoothing out all the edges to again, make sure people can spend their money on a website as easily as possible and sign up for a product as easily as possible, and kinda keep them..."
+  -
+    timestamp: "0:32:40"
+    speaker: Jon
+    content: "Or spend their attention, spend their time refreshing your infinite newsfeed."
+  -
+    timestamp: "0:32:43"
+    speaker: Andy
+    content: "Yeah."
+  -
+    timestamp: "0:32:43"
+    speaker: Jon
+    content: "These are all things that are optimizable."
+  -
+    timestamp: "0:32:45"
+    speaker: Andy
+    content: "Yeah. So much of our industry is really just that. That's what the sort of founding force of the industry was, and I think that we have some credit to give to people that have taken those prompts and done something beautiful and artistic with it, right? I think there are examples of design work that are not just hockin' widgets for whatever company paid you the most money. I think that's not because that's what the industry is, it's just because people have applied creativity to a situation to make something interesting and novel. But at the point where we're talking about automating these things... There are certain design things that's hard for me to imagine automating, but as we're talking about it, I'm also certain there are lots of, what some people will call design decisions that essentially are automated, in the sense that human input is not valued when you're deciding what it is. I think about sites that are hyper-optimized like Amazon. I'm sure Amazon has A/B tested the living bejesus out of every little piece of their website..."
+  -
+    timestamp: "0:33:43"
+    speaker: Annie
+    content: "Oh, for sure. For sure."
+  -
+    timestamp: "0:33:43"
+    speaker: Andy
+    content: "And I'm sure parts of the checkout flow or parts of the layout of the product page were essentially decided by robots. It said, \"Hey guess what, this is how you're gonna sell the most books, so do this.\" And humans said, \"Okay.\" It wasn't that somebody sat down and laid out the page and said, \"What do you think of this?\" It's that the robot kind of over time arrived at that solution. And it probably didn't feel magical in the way we're describing because it wasn't like you said, \"Robot, make me an Amazon website,\" and it just spat it out. But the reality of what happened is that, that much A/B testing and that much being able to optimize for a clear goal of selling products means that essentially the answer was automated. It was just that people kind of shepherded it along."
+  -
+    timestamp: "0:34:24"
+    speaker: Annie
+    content: "I think what I'm excited... So this is also this idea that design is synonymous with kind of capital; we are designing ultimately for capitalism. But then on the flip side, that's exciting 'cause if automation takes care of all this stuff, then we can... Like I would love to just sit around and make zines that don't make any money. I wanna use design in a way to create things that don't necessarily serve a business or a client, or just using my research skills to kind of do what I wanna do. [chuckle]"
+  -
+    timestamp: "0:34:57"
+    speaker: Andy
+    content: "Yeah."
+  -
+    timestamp: "0:34:58"
+    speaker: Jon
+    content: "The basic income thing is relying on this logical jump from automating all the jobs, making tons of money, providing enough clean energy to provide for everyone. And then also that wealth being redistributed. And so what we're facing... Well, what we're assuming is the capitalists and factory owners are benevolent, and I think thousands of years of history have shown us that well, capitalists probably aren't gonna do anything for the public good unless forced to. So there's a political question there as well. How do we make sure that this redistribution of wealth happens? Because what I think is, likely is that, \"Hey, we have this solution. The solution is universal basic income.\" That is the solution as far as I can see. The problem is how do we get that? How do we make sure that the wealth gets redistributed towards that? I'm not a politician. I don't know how we do that."
+  -
+    timestamp: "0:35:56"
+    speaker: Andy
+    content: "If we're actually having this conversation, then I have to say that, I don't believe that within my lifetime, for example, we will ever see something that resembles the basic income in this country at least because we are already one of, if not, the wealthiest country in the world depending on how you're measuring, and we can't even agree that everyone deserves to be healthy. So it's gonna be a long time before we can agree that everyone deserves to just live a life. If you look just from World War I to now, the sheer amount of resources in capital and things that are automated, there should be hundreds of thousands if not millions of people that don't need to work and can just chill, and yet they're not 'cause we invented middle management and we invented all these other things because the very fundamental cellular level of our society is based on this idea of capitalism and that your self-worth comes from work. And so when there was no more work to do, we invented it. And I think we'll continue in that pattern for a very long time, possibly until some sort of horrible apocalypse."
+  -
+    timestamp: "0:36:52"
+    speaker: Jon
+    content: "Is that a human problem? Is it an American problem? Is it a generational problem? The way I see it, the problem is basically baby boomers, [chuckle] Everywhere else in the world..."
+  -
+    content: Laughter
+  -
+    timestamp: "0:37:02"
+    speaker: Jon
+    content: "Everywhere else in the world."
+  -
+    timestamp: "0:37:02"
+    speaker: Andy
+    content: "Get 'em, Jon."
+  -
+    timestamp: "0:37:04"
+    speaker: Jon
+    content: "Everywhere else in the world we have healthcare, experiments are happening with basic income, socialism isn't a dirty word, and yet for some reason in this microcosm of society..."
+  -
+    timestamp: "0:37:17"
+    speaker: Andy
+    content: "It's a pretty big cosm of the country."
+  -
+    timestamp: "0:37:19"
+    speaker: Jon
+    content: "In this cosm of society, we've decided that we shouldn't love each other and take care of each other. Now, I like to believe that humans are pretty similar and we're more similar than we are desperate, so I feel like it's just a localized blip, and I hope we get over it in this country."
+  -
+    timestamp: "0:37:38"
+    speaker: Matt
+    content: "Especially when you consider that the president is like the caricature of a baby boomer; if you had to describe all... In the way that..."
+  -
+    timestamp: "0:37:45"
+    speaker: Andy
+    content: "Like with a pacifier and a big diaper on, in that sense?"
+  -
+    timestamp: "0:37:47"
+    speaker: Matt
+    content: "Yes. Yeah. In that way. I do think we'll get over it eventually. We're just in the absolute worst part of it. Andy, are you saying you think capitalism will blow up before we come to the idea that health insurance needs to happen, basic income needs to happen, any of that needs to happen?"
+  -
+    timestamp: "0:38:08"
+    speaker: Andy
+    content: "I really hope that the arc of history is long but bends towards justice or whatever the quote is. What is the quote?"
+  -
+    timestamp: "0:38:15"
+    speaker: Annie
+    content: "I think that's correct. Yeah."
+  -
+    timestamp: "0:38:16"
+    speaker: Andy
+    content: "I hope that's it."
+  -
+    timestamp: "0:38:17"
+    speaker: Matt
+    content: "Something like that."
+  -
+    timestamp: "0:38:17"
+    speaker: Andy
+    content: "I hope that's the case but to answer Jon's question, I think it is fundamentally a human problem, and I think it is greatly exacerbated by the unique history of this particular country and the power dynamics that it has experienced over its history. Yeah, I don't know. If we're being real about it, I think it's entirely likely that capitalism will blow things up and we could go into a second Dark Ages before we realize that everyone should have basic income. I think we might be the Roman Empire, everybody. That's what I really genuinely feel, l but that's probably not a good thing to go too deep into."
+  -
+    timestamp: "0:38:54"
+    speaker: Jon
+    content: "Babies in America aren't born thinking that people shouldn't have healthcare. It's not like German babies are born thinking people should have healthcare and American babies are born thinking they don't have healthcare. It's an entirely environmental thing so yeah..."
+  -
+    timestamp: "0:39:07"
+    speaker: Matt
+    content: "Well, we have a very high infant death rate so they might not even be born thinking anything."
+  -
+    content: Chuckle
+  -
+    timestamp: "0:39:12"
+    speaker: Matt
+    content: "That's kind of where we're at, right?"
+  -
+    timestamp: "0:39:14"
+    speaker: Jon
+    content: "Wow. I just think it's entirely environment. It's entirely conditioning. We can get over that. It'll take 18 years if we think about it to have voters who are entirely devoid of this one behavior that we should not love our neighbors."
+  -
+    timestamp: "0:39:28"
+    speaker: Andy
+    content: "Well, I hate to break it to you, Jon, but most babies are raised by people and those people tend to talk to their baby about things they think and how they feel..."
+  -
+    content: Laughter
+  -
+    timestamp: "0:39:34"
+    speaker: Jon
+    content: "What if AI raises the babies?"
+  -
+    content: Laughter
+  -
+    timestamp: "0:39:36"
+    speaker: Jon
+    content: "Oh, you know what we should do?"
+  -
+    timestamp: "0:39:37"
+    speaker: Matt
+    content: "Jon, that's your next challenge, you gotta design an AI parent that doesn't do this. [chuckle]"
+  -
+    timestamp: "0:39:41"
+    speaker: Jon
+    content: "What if we just farm humans and plug them into this system and they can hallucinate in this virtual reality?"
+  -
+    timestamp: "0:39:45"
+    speaker: Andy
+    content: "Oh the matrix. You discovered the matrix."
+  -
+    timestamp: "0:39:47"
+    speaker: Jon
+    content: "Oh yeah. I just watched it the other day. It's actually really good."
+  -
+    timestamp: "0:39:48"
+    speaker: Annie
+    content: "It's still really good."
+  -
+    timestamp: "0:39:50"
+    speaker: Jon
+    content: "Yeah. I hadn't watched this since I was like 12. Turns out it's actually really good when you're an adult and you can understand it."
+  -
+    timestamp: "0:39:57"
+    speaker: Annie
+    content: "Yeah."
+  -
+    timestamp: "0:39:57"
+    speaker: Jon
+    content: "Anyway, we're talking about when, devoid of a 9:00 to 5:00 work to do, people will work on stuff that motivates them. I wanna believe that's true. I wanna believe that if I didn't have to work then I would just go hiking and play guitar all day, and that's probably true for me. But humans are wired to get flow and enjoyment from routines and from work, and so if you remove any kind of routine, any kind of purpose from people, I wonder what impact that will have. My utopian vision is that everyone will just water the community gardens and take care of old people and that kinda thing..."
+  -
+    timestamp: "0:40:49"
+    speaker: Andy
+    content: "Philosopher kings and queens. Everyone's an artist."
+  -
+    content: Chuckle
+  -
+    timestamp: "0:40:52"
+    speaker: Jon
+    content: "I just don't see that happening. I think people will be at a loss with what to do without that kind of structure."
+  -
+    timestamp: "0:41:00"
+    speaker: Andy
+    content: "Yeah, I agree. I think that's why we don't have even a shred of that now. If you were to believe that this was the path of the future, then I would expect it this time, again, relative to the pre-industrial era or relative to World War I, World War II, that we would have tons more people that were just kind of doing this, a big chunk of the population. There's just really... In some ways you could say that we do because people make animated GIFs on Tumblr all day and I saw a video a couple weeks ago, of somebody that rebuilt all of Pokemon Red in Minecraft, programmed it in Minecraft manually."
+  -
+    timestamp: "0:41:36"
+    speaker: Annie
+    content: "Wow."
+  -
+    timestamp: "0:41:38"
+    speaker: Andy
+    content: "So people are still doing stuff but I don't know if... I think the result of leisure is most people just watch TV, not do things interesting and make stuff. I don't wanna get..."
+  -
+    timestamp: "0:41:50"
+    speaker: Annie
+    content: "And I think that's totally fine too. I don't know. [chuckle]"
+  -
+    timestamp: "0:41:52"
+    speaker: Andy
+    content: "Oh yeah. I don't mean to judge watching TV at all. I just mean that I think that the future where everyone's an artist is optimistic 'cause not everyone wants to be an artist, and that's totally fine."
+  -
+    timestamp: "0:42:01"
+    speaker: Annie
+    content: "Yeah, I think that's fair."
+  -
+    timestamp: "0:42:01"
+    speaker: Matt
+    content: "I think it's just that then it comes down to your nature. Are you a Border Collie or not? Do you have to run around in a circle to be happy or can you watch House Hunters?"
+  -
+    timestamp: "0:42:06"
+    speaker: Annie
+    content: "Right. [chuckle] What if you can do both? I can do both."
+  -
+    timestamp: "0:42:11"
+    speaker: Matt
+    content: "Actually, I'm a little bit of both too I think. More run around in a circle but sometimes House Hunters."
+  -
+    timestamp: "0:42:15"
+    speaker: Andy
+    content: "Alright, I wanna bring us a little bit back to design just for the sake of the fact that this is technically a design podcast, for now at least."
+  -
+    timestamp: "0:42:22"
+    speaker: Jon
+    content: "Oh, you tricked us."
+  -
+    timestamp: "0:42:23"
+    speaker: Andy
+    content: "I know. My second question that I have is... I know we could get technical 'cause Jon could probably describe some technical things here but I think I wanna talk about this more just theoretically. My question is, when you are making something with a neural network or an AI that is, let's say, a little fuzzy as to whether or not it's successful. Lt's talk about music, which is the example of the podcast that Jon sent us before this which we can put in the show notes. When you're making something like music and you're basically trying to make a neural network that makes interesting music and kind of invents it out of effectively thin air or from a really deep source material that kind of represents all of humans history of music, my question is, the art that I have always found the most meaningful to me has without exception never been the most popular thing, right?"
+  -
+    timestamp: "0:43:12"
+    speaker: Andy
+    content: "There is pop music, there is music that most people like; and it's not that I hate that, I'm not some hipster, that's fine. But that's not the music that's most meaningful to me. And you could say the same for literature, you could say the same for design, you could say the same for visual art. The things that have had the most resonance and impact for me have never been the things that everyone loves a whole lot. And so the thing that I'm trying to understand is how we can program these networks to make interesting work and not just spit out the gray average of what everyone is interested in or finds valuable in a world where it's hard to evaluate the success of a system like that."
+  -
+    timestamp: "0:43:50"
+    speaker: Jon
+    content: "That was the most hipster thing that I've heard anyone say in a long time, but notwithstanding, absolutely fair question."
+  -
+    timestamp: "0:43:56"
+    speaker: Andy
+    content: "Guilty."
+  -
+    timestamp: "0:43:57"
+    speaker: Jon
+    content: "The thing is in this new model of collaborating with machines, we choose how we collaborate with them. If you want something that's gonna optimize towards people refreshing your newsfeed or clicking the big green 'buy' button, that's one thing that we could converge to and then we'll probably converge design. If you just wanna do interesting stuff, that's another thing that you can just ask for. There was a really, really great article by this guy Samim about using evolutionary algorithms to come up with interesting riffs and drum beats and stuff like that in Ableton Live. It uses... Evolutionary algorithms are a lot like... Oh god, we're getting technical."
+  -
+    timestamp: "0:44:38"
+    speaker: Jon
+    content: "Well, this is also theoretical which..."
+  -
+    content: Chuckle
+  -
+    timestamp: "0:44:42"
+    speaker: Jon
+    content: "Evolutionary algorithms basically follow the kind of how DNA, how organisms evolved; so you have fitness functions, you have mating of different strategies, and they evolve towards some certain goal. That's how you get bland results. Now, this was a really interesting experiment because he was using a variation of that called Novelty Search. Novelty Search is basically evolving away from conformity so it's just saying, \"If things are converging, let's go in the other direction.\" And he came up with some really cool interesting, weird music. I think that's the role of designer is conductor, composer in harmony with machines to be like, \"I'm a unique snowflake, show me stuff that's unique.\""
+  -
+    timestamp: "0:45:31"
+    speaker: Annie
+    content: "I love the idea of that. So Simon, my husband, has been kind of talking about designers as conductors now, and I think that's an interesting framework to think about what we actually do and moving forward is, we are conducting, we are kind of using the tools that we have to produce ultimately what our vision is. And I still, I don't know if AI can create something that is meaningful but I don't... I'm not against it. I'll believe it... What is it? I'll see it when I believe it, I guess. Who knows? I think anything is possible."
+  -
+    timestamp: "0:46:14"
+    speaker: Andy
+    content: "But what does it even mean to be meaningful?"
+  -
+    timestamp: "0:46:16"
+    speaker: Annie
+    content: "Yeah, that too."
+  -
+    timestamp: "0:46:16"
+    speaker: Andy
+    content: "I feel like AI has created things that are meaningful and it's just about... You can ascribe whatever meaning you want to it."
+  -
+    timestamp: "0:46:22"
+    speaker: Annie
+    content: "Yeah, the idea of meaningful it's all kind of... Everything is socially constructed, and what does 'meaningful' even mean? And just looking at the... Just scrubbing through the video that Jon had sent over about like, \"I wanna see a blue cat,\" or whatever. Just all of those errors, I find that extremely meaningful because it shows flaws and it shows kind of how vulnerable that process is; and I think that's incredibly meaningful. I don't know if you can scale that to an entire movie but I think there's potential there."
+  -
+    timestamp: "0:46:54"
+    speaker: Andy
+    content: "Well, I guess the kind of thing that I'm trying to express is that I definitely understand Jon's point that you could ask it for, \"Show me the hipster things, because I'm not a mainstream person, blah,\" and then you get the hipster stuff. I get that. What I think is important about art is that good art oftentimes for me has given me something I never would've thought to ask for. I never would have thought to think to ask for this particular thing, and instead I'm getting a perspective that is the result of an entire person's life. Every experience they've had in some way contributes to this thing they've made. They're referencing things from their childhood, they're referencing thoughts they've had in idle moments. They're referencing all of these things when they pull it together and really make something in a way that the sheer vastness of the variables there... I guess what I'm really saying is that I think that I can imagine a future where neural networks are spitting out all kinds of creative work that will be very interesting."
+  -
+    timestamp: "0:47:54"
+    speaker: Andy
+    content: "I have a hard time imagining a world where the creative work they're spitting out is indistinguishable and/or replaces the creative work of humans, just because I feel like the unique perspective that any creator brings to something is always going to have this kind of not worth emulating importance. Yes, you could hypothetically load up a neural network with every single thought I've ever had and everything I've ever seen and then see what kinds of things it'd spit out; but the collection of that data, the organization of it is just never gonna be worth it when instead you have this other repository of information to use. And so I imagine a world where there's human comedians and they tell certain types of jokes, and there's robot comedians and they tell certain types of jokes, and those things kind of maybe don't overlap as much as we think they would."
+  -
+    timestamp: "0:48:41"
+    speaker: Jon
+    content: "What if what makes creativity valuable isn't the consumption of it? It isn't that you've had all of these experiences and you've remixed them in a way that is interesting to me. What if it's the fact that you've created it? What if the flow that you get from the creative process is what defines and what make it interesting? And that's not something that can be replaced unless you have a one-click 'make art' button. As long as we are creating, I think the work will inherently have value because my friend's labor and my friend's ideas have value and whether or not those have been augmented with machines, that's valuable to me."
+  -
+    timestamp: "0:49:13"
+    speaker: Matt
+    content: "But I can also picture a world where it's... Maybe part of why it's meaningful is because you identified with it and you discovered it and you ascribe some meaning to it. I can see that world where what if it is... Maybe it's not the, you hit a button and you get exactly what you need, but you find something amongst this generated music or whatever and you ascribe meaning to it because this series of random things came together and it's indistinguishable for something else that you may have discovered 20 years ago, right?"
+  -
+    timestamp: "0:49:44"
+    speaker: Andy
+    content: "Sure, I think that happens currently in regular creative work, right? Like I will ascribe meaning to things that the creator didn't intend. It's one of the most beautiful things I think about doing any kind of creative work. But I think there's just a depth to every decision that's made when you're, say, making a movie and you're the writer and director. And every decision you make could be inspired by something that... Is just a little piece of this overall work but it itself actually has an entire depth to it. Maybe you want this character to say this thing because it's a line from some fairytale that you remember from growing up, and I never heard that fairytale, so I'm not gonna get the reference, I'm not gonna understand the fairytale, but the fact that that line has these deep roots in this thing and meant something to somebody else is gonna be translated in a way that makes it more meaningful than if it was just a random string that I also would have no relationship to. I just... I don't know."
+  -
+    timestamp: "0:50:36"
+    speaker: Jon
+    content: "What if you could inject yourself into the process? What if it wasn't a one-size-fits-all creativity button? What if it was the tool that is shaped to Andy's brain and the tool that is shaped to Annie's brain and the tool that's shaped to Matt's brain and they're all kinda different?"
+  -
+    timestamp: "0:50:52"
+    speaker: Andy
+    content: "That is the most terrifying thing I have ever thought of. The idea that a machine will be trying to make things to basically appease me? I can think of no faster way to..."
+  -
+    timestamp: "0:51:00"
+    speaker: Jon
+    content: "Not to augment you, to help you, to make things more exciting for you based on how you work. I'll give you a really quick example. We're working on a tool right now where you sketch a wireframe and it turns it into a real app with real code. Now, it's kinda cool; the problem is that everyone draws wireframes slightly differently. People draw images in different ways. People squiggle out text in slightly different ways so we're making it now so it also learns from everyone but it also specifically learns about how you like to draw wireframes. And then you have a custom shop tool that's built to how your brain works, and similar things could happen with things that empower creativity."
+  -
+    timestamp: "0:51:45"
+    speaker: Andy
+    content: "So that makes more sense to me as a creative tool. The thing I'm responding viscerally to is the idea that as a consumer, something will be tailored to me. In both cases though, I do feel like you run this danger of basically... You just invented the 'put yourself in a rut' machine. You like these things, give them more of that thing..."
+  -
+    timestamp: "0:52:03"
+    speaker: Jon
+    content: "Well, get yourself 'out of the rut' machine."
+  -
+    timestamp: "0:52:04"
+    speaker: Andy
+    content: "And then you're just basically doing the e-commerce optimize checkout of whatever you think is cool, and that to me is the opposite of what creative work should be. That's a dark dystopian future, the idea that, \"We learned that you really like music that has this kind of beat, so here it is over and over again forever, and you're always gonna like it 'cause your dumb little brain is programmed that way.\""
+  -
+    timestamp: "0:52:23"
+    speaker: Jon
+    content: "That's literally how advertising work... That's like you're describing the advertising industry."
+  -
+    timestamp: "0:52:27"
+    speaker: Annie
+    content: "Yeah, that's how Spotify works. [laughter]"
+  -
+    timestamp: "0:52:28"
+    speaker: Andy
+    content: "I know. That sucks. And that's why don't like those things. [laughter]"
+  -
+    timestamp: "0:52:31"
+    speaker: Matt
+    content: "Well I'm sure we'll also find that they have same side effects as..."
+  -
+    timestamp: "0:52:33"
+    speaker: Jon
+    content: "That's how the Facebook newsfeed works as well though. That's how all of theses these things work anyway. That's how..."
+  -
+    timestamp: "0:52:40"
+    speaker: Annie
+    content: "But I think it's just the reasons... I think what we're getting at too, the reasons why those things work the way they do is because companies are behind it, and so if we just shift the reason why we're even creating these things to be a little bit more open and collaborative and creative, I think there is a potential for more interesting things to come about. But the only examples that we even experience on a day-to-day day basis is because they're products of these large companies that want us to click and engage and whatever, spend more time on their app."
+  -
+    timestamp: "0:53:15"
+    speaker: Andy
+    content: "Yeah."
+  -
+    timestamp: "0:53:15"
+    speaker: Jon
+    content: "Because of baby boomers and capitalism. It's just baby boomers and capitalism. As soon as we get rid of both of those variables then we'll have these systems with pure intention that are just trying to get us to wholeheartedly connect and love each other."
+  -
+    timestamp: "0:53:31"
+    speaker: Andy
+    content: "I love your optimism, Jon."
+  -
+    timestamp: "0:53:31"
+    speaker: Annie
+    content: "I know, I'm like, \"That's so optimism,\" but I'm like, \"Humans are awful garbage most of the times.\""
+  -
+    timestamp: "0:53:36"
+    speaker: Andy
+    content: "Yeah. I think before that happens, Jon, we're just gonna find out that the thing that Andy described, we're also gonna find out that that has the same side effects as doing heroin repeatedly, and then we'll have to back off on it."
+  -
+    content: Laughter
+  -
+    timestamp: "0:53:46"
+    speaker: Jon
+    content: "Probably not great. Let's not do heroin."
+  -
+    timestamp: "0:53:48"
+    speaker: Andy
+    content: "But I do understand. Certainly I understand that when I watch a movie or something and I like it, it's not some magical experience where I'm growing dendrites and thinking brand new thoughts and expanding my sense of self. It's just like, \"Oh, yeah, I'm recognizing things about that.\" And some things might be unexpected and challenging, but at the core of most things is, you get it. It is familiar to you. And so, the question I began this whole thing with was, basically, I don't wanna end up with every movie being a summer blockbuster movie because those are the ones that sell the best and the ones that most people like because they're the least offensive. And the idea that, basically, you have an AI that was making your personal summer blockbuster movie that maybe no one else likes, but we know for sure you're gonna like reliably..."
+  -
+    timestamp: "0:54:34"
+    speaker: Annie
+    content: "But I think that also doesn't give humans a lot of faith. 'Cause Moonlight did really well, and it wasn't necessarily a blockbuster, but it still did... You can also have blockbusters that are actually very meaningful. I understand the point but I think that's faulting the humans, not necessarily the... I don't know if I'm phrasing it correctly, but..."
+  -
+    timestamp: "0:55:01"
+    speaker: Andy
+    content: "Well, but that's what I was gonna say is that both on an individual level and I think on a wider cultural level, every once and a while something comes along that if you'd fed it into the machine and said, \"Will this work? Will this individual, will all these people like this?\" the machine would've said, \"Certainly not. There's no evidence in all of our millions of points of data that anyone would ever like this,\" and then people like it. I think we've all seen a movie or seen a painting or listened to a song that was in some way totally unfamiliar. You would've never thought it was possible. The only example I can think of that's even close is the movie Upstream Color. When I saw that movie, I never would have thought to have asked for that movie. If you described it, I probably would've said, \"I don't think I'm gonna like that.\" And yet it was an amazing movie that I totally loved, that I can't imagine any kind of automated system that is just trying to learn from the past, is going to ever spit that out at me, or on a wider cultural level, spit out the new movie that changes what a summer blockbuster could be, or totally defies the paradigm."
+  -
+    timestamp: "0:56:01"
+    speaker: Andy
+    content: "And to me that is a result of the fuzziness of the success of a creative thing. If someone likes it, why do they like it? Do they like it for this reason? For that reason? What are the actual underlying explanations for these things that we're never really gonna be able to put our fingers on for our audiences? The fact that there's a fuzzy measure of success means that there is this possibility to come along and really make something novel. The other dumb example I can think of is, right now, the most popular video game on Steam, is this video game, where you create a dad and then go on dates with other dads. It's a dad dating sim, which defies everything anyone ever would have thought about a blockbuster video game, right?"
+  -
+    timestamp: "0:56:44"
+    speaker: Annie
+    content: "That's amazing."
+  -
+    timestamp: "0:56:45"
+    speaker: Andy
+    content: "It's made by these two people that just wanna make this game, and they sat down and they made it, and everyone loves it. It is a widely successful, mass appeal game, that you never would have expected could have been possible. And those are the things that I think there is something... You could program the robot to say, \"Make this new thing, and then we'll see if everyone likes it,\" and that's the reality where it's just a tool, and that's the reality I can understand and get behind. But the reality where the robot takes over the decision process of, \"Here's what people are going to like. Here's what we're going to do,\" the robot is directing itself, that's where I feel like we run this risk of..."
+  -
+    timestamp: "0:57:19"
+    speaker: Annie
+    content: "But I wonder then... I'm sorry. Now, I wonder then if a robot is able to produce something so much more quickly, what if they're able to produce 2,000 versions of that kind of movie, or that kind of video game, and one of them happens to be dad dates dad? Right?"
+  -
+    timestamp: "0:57:35"
+    speaker: Andy
+    content: "Yeah. It's possible and then..."
+  -
+    timestamp: "0:57:36"
+    speaker: Annie
+    content: "That could be possible."
+  -
+    timestamp: "0:57:37"
+    speaker: Andy
+    content: "And that raises whole new questions about what happens when the entire market is flooded with a billion songs that are made every single day you could possibly listen to? And how do we make tools to curate that to figure out the ones that we actually like and there's all those kinds of questions there."
+  -
+    timestamp: "0:57:47"
+    speaker: Annie
+    content: "Yeah. That's a new job. [chuckle]"
+  -
+    timestamp: "0:57:51"
+    speaker: Andy
+    content: "To me, I don't think the creative work is magical. I don't think it's distinct from any other kind of, \"Put variables in, get output out,\" kind of thing. I just think the array of variables for creative work is so, so so vast in ways that are difficult to measure, that the results we're gonna get, while may be valuable, will be so different from what a human could do in the same situation. That's my overall... I don't know. I feel like I've babbled a lot."
+  -
+    timestamp: "0:58:20"
+    speaker: Matt
+    content: "I think that the fact that it's difficult is what makes it interesting. Just through trying to solve this, you think a lot about creativity, and you think a lot about what design is, and you think about how design works. I know it's really fun just getting to hammer away at this thing or chisel away at this thing more like, just trying to figure out what is creativity, what is the design process? I guess it's just a really compelling field of work to try and solve even if it takes us 50 years, even if we never get there within several lifetimes."
+  -
+    timestamp: "0:58:57"
+    speaker: Andy
+    content: "Yeah, I love the pursuit of something like that. I will never have a critical word to say about the pursuit of it. I'm cynical about the glorious future where everything is great and robots do what we expect and want, and make beautiful art for us."
+  -
+    timestamp: "0:59:12"
+    speaker: Matt
+    content: "I feel like we just got Jon and Andy's final thoughts. Was that..."
+  -
+    timestamp: "0:59:15"
+    speaker: Andy
+    content: "I was gonna say, I think we're into the final thoughts category. Matt, what are your final thoughts?"
+  -
+    timestamp: "0:59:19"
+    speaker: Matt
+    content: "I'm intrigued by all this. I like the idea of it. I also am sure that by the time we get there, we better have come up with basic income or then we're the Roman Empire. Two options, that's all we got."
+  -
+    timestamp: "0:59:30"
+    speaker: Andy
+    content: "Yeah."
+  -
+    timestamp: "0:59:30"
+    speaker: Annie
+    content: "Fair."
+  -
+    timestamp: "0:59:32"
+    speaker: Andy
+    content: "Annie, this whole episode stemmed from you. You wanna talk about this stuff? And I feel like [chuckle] we talked too much."
+  -
+    timestamp: "0:59:38"
+    speaker: Annie
+    content: "No, this is perfect."
+  -
+    timestamp: "0:59:39"
+    speaker: Andy
+    content: "How are you feeling at the end of this? Finish this up for us."
+  -
+    timestamp: "0:59:41"
+    speaker: Annie
+    content: "What is it? Am I pessimistically optimistic or the other way around? My body's ready. I'm like, \"Automation, let's do this.\" Matrix seemed pretty chill. I don't know. I don't know why everyone was trying to break out of the Matrix."
+  -
+    content: Laughter
+  -
+    timestamp: "0:59:58"
+    speaker: Andy
+    content: "Yeah."
+  -
+    timestamp: "0:59:58"
+    speaker: Jon
+    content: "You could eat pizza three meals a day..."
+  -
+    timestamp: "1:00:00"
+    speaker: Annie
+    content: "I know."
+  -
+    timestamp: "1:00:01"
+    speaker: Jon
+    content: "For free, forever."
+  -
+    timestamp: "1:00:03"
+    speaker: Annie
+    content: "[chuckle] Sounds great."
+  -
+    timestamp: "1:00:05"
+    speaker: Andy
+    content: "I'm not sure that's how the Matrix worked, but that's a topic for another podcast episode 'cause this podcast episode is over. We did it. Good job, everybody!"
+  -
+    timestamp: "1:00:11"
+    speaker: Matt
+    content: "Yay!"
+  -
+    timestamp: "1:00:12"
+    speaker: Annie
+    content: "Yay!"
+  -
+    timestamp: "1:00:12"
+    speaker: Matt
+    content: "Fantastic! Good job, people."
+  -
+    timestamp: "1:00:13"
+    speaker: Jon
+    content: "Good work."
+  -
+    timestamp: "1:00:13"
+    speaker: Matt
+    content: "This one might be one of the last human podcasts. But we did it."
+  -
+    timestamp: "1:00:17"
+    speaker: Annie
+    content: "[chuckle] I would love to listen to a machine learning podcast. I think that would be really funny."
+  -
+    timestamp: "1:00:23"
+    speaker: Jon
+    content: "Sponsored by Square Space."
+  -
+    timestamp: "1:00:24"
+    speaker: Annie
+    content: "Oh my God."
+  -
+    timestamp: "1:00:25"
+    speaker: Jon
+    content: "Sponsored by Mail Chimp. That's the end."
+  -
+    timestamp: "1:00:27"
+    speaker: Annie
+    content: "For real."
+  -
+    timestamp: "1:00:28"
+    speaker: Andy
+    content: "So you listen to a podcast that was just like Alexa talking to Siri talking to..."
+  -
+    timestamp: "1:00:31"
+    speaker: Annie
+    content: "Oh my gosh. That would be so good!"
+  -
+    timestamp: "1:00:35"
+    speaker: Andy
+    content: "What was the name of that stupid robot that was on AIM back in the day?"
+  -
+    timestamp: "1:00:39"
+    speaker: Annie
+    content: "What?"
+  -
+    timestamp: "1:00:40"
+    speaker: Matt
+    content: "Oh Smart Bot. Smart something?"
+  -
+    timestamp: "1:00:41"
+    speaker: Andy
+    content: "No it was..."
+  -
+    timestamp: "1:00:42"
+    speaker: Jon
+    content: "Something 'child' was in it."
+  -
+    timestamp: "1:00:43"
+    speaker: Andy
+    content: "Smarter child. Smarter child."
+  -
+    timestamp: "1:00:43"
+    speaker: Jon
+    content: "Smarter child."
+  -
+    timestamp: "1:00:44"
+    speaker: Matt
+    content: "Smarter child. There it is."
+  -
+    timestamp: "1:00:45"
+    speaker: Annie
+    content: "That's so gross, that name. [chuckle]"
+  -
+    timestamp: "1:00:47"
+    speaker: Andy
+    content: "Yeah. Smarter Child talking to Alexa talking to Siri is a good podcast."
+  -
+    timestamp: "1:00:53"
+    speaker: Annie
+    content: "Oh my god. Let's do it."
+  -
+    timestamp: "1:00:53"
+    speaker: Matt
+    content: "All it's gonna do is order 1,000 toilet paper rolls. [chuckle]"
+  -
+    timestamp: "1:00:57"
+    speaker: Andy
+    content: "Yeah. The robots will agree at the end. We should spend all the human's money 'cause that's the only thing that matters."
+  -
+    timestamp: "1:01:02"
+    speaker: Annie
+    content: "That's true. [chuckle]"
+  -
+    timestamp: "1:01:04"
+    speaker: Andy
+    content: "Good news, Matt, we signed up for six more credit cards and maxed them out. [chuckle]"
+  -
+    content: "Music"
+  -
+    timestamp: "1:01:23"
+    speaker: Matt
+    content: "As always, thanks XYZ Type for the transcripts. You can check them out at xyztype.com."
+  -
+    timestamp: "1:01:28"
+    speaker: Andy
+    content: "And a big thank you to you all who finally went on iTunes and left us some reviews. Ah I'm delighted in reading those. I sent them all to Matt excitedly. Thank you both so much. It means a lot."
+  -
+    timestamp: "1:01:38"
+    speaker: Matt
+    content: "He really did. Keep them coming."
