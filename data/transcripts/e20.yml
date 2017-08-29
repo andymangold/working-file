@@ -1,0 +1,629 @@
+messages:
+  -
+    timestamp: "0:00:00"
+    speaker: Andy
+    content: "You are listening to Working File, a podcast about design practice and its relationship with the world. My name is Andy Mangold."
+  -
+    timestamp: "0:00:08"
+    speaker: Matt
+    content: "And I'm Matt McInerney."
+  -
+    timestamp: "0:00:09"
+    speaker: Andy
+    content: "On this episode, we're joined by Meg and Maurice to discuss different paths to becoming a designer, whether it's higher education or if something, completely."
+  -
+    timestamp: "0:00:17"
+    speaker: Matt
+    content: "Don't worry, you'll get it wrong."
+  -
+    timestamp: "0:00:18"
+    speaker: Andy
+    content: "We all did."
+  -
+    content: Music
+  -
+    timestamp: "0:00:41"
+    speaker: Andy
+    content: "Here we are again in podcast town. Welcome."
+  -
+    content: Chuckle
+  -
+    timestamp: "0:00:47"
+    speaker: Matt
+    content: "That's a really cool and smooth intro."
+  -
+    timestamp: "0:00:48"
+    speaker: Andy
+    content: "I know. I think about these things a lot. I really prepare quite a bit for the show before we record. Well, so tonight we're gonna be talking education, I wanna start with a little quip because Meg, the last episode you were on we were discussing... What was the topic? Oh gosh, I can't remember what the topic was. Whatever we were discussing, Matt brought up the sub position that the four of us who were on the podcast were probably the kinds of people that during school did all of the group projects, everybody in graphic design. And Meg, you just kinda rolled with the punches and just ignored that weird bias that we showed for assuming everybody went to school for graphic design. Because this episode, we're talking about formal education and design. And Meg, I know you spent a little bit of time there but ended up not graduating from your program, correct? "
+  -
+    timestamp: "0:01:31"
+    speaker: Meg
+    content: "That is super correct. I dropped out."
+  -
+    timestamp: "0:01:34"
+    speaker: Andy
+    content: "You were only there for a semester. You didn't stick around for too long, right? "
+  -
+    timestamp: "0:01:38"
+    speaker: Meg
+    content: "Yeah, I went to school to become a freelancer and at some point, during a very short time while I was there, I realized that I could just be a freelancer and I didn't need to be in school, so I peaced out."
+  -
+    timestamp: "0:01:47"
+    speaker: Andy
+    content: "There you go."
+  -
+    timestamp: "0:01:48"
+    speaker: Matt
+    content: "There you go."
+  -
+    timestamp: "0:01:49"
+    speaker: Andy
+    content: "So that's what we're gonna talk about tonight. I wanna talk about different paths to design and kind of each of our experiences and how we became a designer and maybe reflections on that. And if we would have any advice for somebody who was looking to become a designer now and considering the options of formal study or other options available to them. So Meg, I think you kinda gave us a little bit, but what is your full story of how you got into design? When did baby Meg know that she wanted to be a designer? "
+  -
+    timestamp: "0:02:17"
+    speaker: Meg
+    content: "Oh, little Baby Meg. Alright. So, Baby Meg actually wanted to go to school for fashion so I left Kansas city, moved to LA, went to a fashion school, realized I didn't like LA or the fashion industry. Too competitive. I'm not a competitive person."
+  -
+    timestamp: "0:02:32"
+    speaker: Andy
+    content: "Sure."
+  -
+    timestamp: "0:02:33"
+    speaker: Meg
+    content: "So I finished that program, and it was an accelerated program. I think it took me about a year-and-a-half. Got out of there. Realized I wanted to be freelance web designer. So, I've found a school in Chicago that would let me make up my own major because at the time, they weren't teaching web development and graphic design in one course anywhere except for this school in Chicago that let me make up my own major. And I went to school to learn how to be a freelance web designer and I wanted to know how to design and code a website. So, I went to school and was using student loans to finance my education, was paying for it on my own. Not at the time I was planning on dealing with it later. Hence, the loans. [chuckle]"
+  -
+    timestamp: "0:03:11"
+    speaker: Andy
+    content: "Yep, that's how those work."
+  -
+    timestamp: "0:03:13"
+    speaker: Meg
+    content: "Yeah. So, I was using the loans to also pay for my living which was really smart at the time but not so smart for me now. I went to school for about a year. I went there for two semesters and I was one of only a handful people who had ever done this program where you make up your own major at the school. So, they didn't know what to do with me at any time. I kept just taking a class here and a class there from different majors. And then at some point, I convinced them to let me graduate after it had only been a year. [chuckle] And someone gave me a soft yes so I just took that soft yes and I ran with it and I just got out of there. And then I realized, eventually, that I never really got my diploma and I didn't really know what was going on there. So I contacted them and they said... They looked at me in the system and I couldn't get my diploma 'cause I had an unreturned library book. And so..."
+  -
+    timestamp: "0:04:07"
+    speaker: Andy
+    content: "Wait, seriously? That's like the stereotypical joke about why you can't get your diploma."
+  -
+    timestamp: "0:04:10"
+    speaker: Meg
+    content: "Yeah. Well, that's what they told me. So, I looked and I found the book, but then I realized that I didn't care at all so I just kept the book instead. So, I'm really not sure. I went to school for a year and maybe could've graduated. Not really sure. But I have a book now that I didn't have before."
+  -
+    content: Chuckle
+  -
+    timestamp: "0:04:27"
+    speaker: Andy
+    content: "You should frame the book as if it was a diploma and put it on your wall, like a nice..."
+  -
+    timestamp: "0:04:31"
+    speaker: Meg
+    content: "I've never even looked at it. [chuckle]"
+  -
+    timestamp: "0:04:33"
+    speaker: Andy
+    content: "Nice, matted frame. Alright. I have a lot of questions there but I wanna kind of go through everyone's beginning story. And then we'll kinda come back and answer the same questions, all of us. So, Maurice, I'm curious to know what we thought about a little bit, but for those that don't know, what is your path to becoming a designer been? "
+  -
+    timestamp: "0:04:48"
+    speaker: Maurice
+    content: "Oh, that's interesting. I've always had an interest in design. But I've been more so through coding. Design had sort of become something that was a hobby turned into a profession. I mean, as a kid I always drew and sketched on things. My older brother is actually the designer and the artist in the family. He paints, he sculpts, he does all kind of stuff at a level that I will probably never attain in terms of natural artistic ability. But for me, I mean, my background is actually in math and science. I mean, I didn't really have design as a profession, I think, at any point growing up. I kind of wanted to be a writer, if anything else. I mean, I did a lot of writing, I had things published in middle school and in high school, but I was also really good in math and science. And I was captain of the math team and captain of the French team and all that kind of stuff. And so, when it came time for college, I kinda just went to the one place that gave me the most money. [chuckle] If I'm being completely honest."
+  -
+    timestamp: "0:05:51"
+    speaker: Andy
+    content: "Sure."
+  -
+    timestamp: "0:05:51"
+    speaker: Maurice
+    content: "Which ended up being Morehouse College here in Atlanta, Georgia. And for those who are listening that don't know, Morehouse College is an HBCU, a Historically Black College University. It is the, I think, the only all-male HBCU in the world. It's certainly one of the most prestigious HBCUs but they don't have a designing program. So, when I went there, I started in Computers Engineering, switched to Computer Science, and then switched to Math which is what my undergrad degree is in. But I was always kind of doing design stuff kind of on the side. Like for my scholarship program, I made the website for that. I had some design clients on the side. I had copies of Photoshop and Illustrator. And even in my Math program, we were doing 3D Modeling with Mathematica and things like that."
+  -
+    timestamp: "0:06:39"
+    speaker: Maurice
+    content: "So, I kinda had a little bit of an inroads into design sort of. Once I graduated, I basically did a bunch of customer service type job because apparently you can't get a job with a Math degree unless you wanna teach math which I did not want to do. [chuckle] I was kinda over school after 12 years and then going into four years in college. I just didn't wanna do anymore school. So, I did a bunch of customer service jobs. I sold tickets. I was a telemarketer. I did a bunch of kind of odd jobs here and there, and then I got my first..."
+  -
+    timestamp: "0:07:08"
+    speaker: Andy
+    content: "You'd be a good telemarketer, Maurice, like..."
+  -
+    content: Laughter
+  -
+    timestamp: "0:07:12"
+    speaker: Andy
+    content: "I think you have the skills for that."
+  -
+    timestamp: "0:07:14"
+    speaker: Maurice
+    content: "I think so now. Now that I'm doing all this podcasting, yeah. But in 2005, I got my first design job. I applied to a design job in the back of our local weekly called Creative Loafing. And it was a design job at the state of Georgia. And I did that for two years. And then after that, I did a short stint at WebMD as a developer. And then I did a longer stint at AT&T as a junior web designer then a senior web designer. And then I quit in 2008 and started my own studio. At the time, it was called 318 Media. Now, it is known as Lunch. And I've been doing that ever since. Oh, and between that first design job and starting my studio, I also went back to school and got a Master's degree in Telecommunications Management."
+  -
+    timestamp: "0:08:01"
+    speaker: Andy
+    content: "Gotcha. So, just to clarify, at no point did you sit in a classroom and have somebody teach typography or graphic design or anything that might be considered a graphic design skill to you, correct? "
+  -
+    timestamp: "0:08:16"
+    speaker: Maurice
+    content: "None. I have not taken a single design course."
+  -
+    timestamp: "0:08:17"
+    speaker: Andy
+    content: "So, that was all learned on the job kind of just through doing it, right? "
+  -
+    timestamp: "0:08:21"
+    speaker: Maurice
+    content: "Yeah, on the job or even just kind of on my own. Just starting projects and building my knowledge from there."
+  -
+    timestamp: "0:08:27"
+    speaker: Andy
+    content: "Did you ever have a mentor or anybody that was a practicing designer that you kind of learned from? Or was it literally all just you, kind of figuring it out? "
+  -
+    timestamp: "0:08:39"
+    speaker: Maurice
+    content: "Well, I did have mentors that were designers. My friend, Lusania, is a big mentor of mine. My friend, Honey, she's a big mentor of mine. But I wouldn't say that I really looked to them to teach me. If anything, I was kind of... I don't know, I guess sort of emulating from a distance in a way, if that kinda makes any sense. I wasn't asking anyone..."
+  -
+    timestamp: "0:09:00"
+    speaker: Andy
+    content: "Role models maybe more than mentors."
+  -
+    timestamp: "0:09:02"
+    speaker: Maurice
+    content: "Yeah, like I wasn't asking anyone specifically. I didn't have any design mentors at all during all this. It was basically just seeing who was doing great stuff out there that I kind of really associated myself with and that I felt like I had a strong connection to and then just sort of seeing what they do and seeing what moves they make and trying to emulate that."
+  -
+    timestamp: "0:09:24"
+    speaker: Andy
+    content: "Matt."
+  -
+    timestamp: "0:09:26"
+    speaker: Matt
+    content: "You know me."
+  -
+    timestamp: "0:09:27"
+    speaker: Andy
+    content: "What was your path to design? I know, I know you. But not everyone knows you or knows how you got here."
+  -
+    timestamp: "0:09:30"
+    speaker: Matt
+    content: "I get to tell Andy's story before Andy gets to tell Andy's story."
+  -
+    timestamp: "0:09:34"
+    speaker: Andy
+    content: "I'm giving you the opportunity to do it first."
+  -
+    timestamp: "0:09:36"
+    speaker: Matt
+    content: "Yeah. So, I just was like a kid who wanted to make art things in high school and decided I wanted to go to arts school in college. I do remember when I was in high school my... What do you call it? Not a guidance counselor but person who helps you figure out colleges?"
+  -
+    timestamp: "0:09:54"
+    speaker: Andy
+    content: "Life coach."
+  -
+    timestamp: "0:09:56"
+    speaker: Matt
+    content: "Whatever it is. Yeah, life coach. [laughter] I told him I want to go to art school and he's like, \"That's gonna look terrible for my numbers\", 'cause he really wanted some Browns and some Harvards. But anyways, so I greatly disappointed him going to art school. But I applied to Savannah College of Art and Design, RISD, a couple of... I can't remember. A couple of other ones. And got into SCAD, was very excited about that, and then spent the next four years, first learning about drawing naked people and sculpting, and then typography. Space between letters and things like that. And then I got a job in New York and figured out the rest of it. I learned like, I don't know, a quarter of what I need to know maybe. Is that fair, Andy? What'd you do?"
+  -
+    timestamp: "0:10:43"
+    speaker: Andy
+    content: "Well, first, before we move on to me, did you feel like the four years you spent in school, you learned a lot, you were happy with the program? Overall, it was a positive experience in college, right? "
+  -
+    timestamp: "0:10:51"
+    speaker: Matt
+    content: "Yeah, I really enjoyed it. I bet if you asked me at the time, I would've said they're not dealing with technology enough. I know more about web design than these people. Which was true but also I think probably my time was pretty well spent. That was just me being a jerk. A little bit of me being a jerk. A little bit of true."
+  -
+    timestamp: "0:11:10"
+    speaker: Andy
+    content: "Sure. Yeah, I mean, my story is pretty similar. I would say that the key differences are that when it came time for me to apply to colleges, which in my family, in my high school, in my town, was just an assumed thing. Everyone goes to college. So, it's not a thing that I gave a great deal of critical thought. I was like, \"Of course, I'll go to college\". So of the college options, I picked the arty one because I was the arty kid. So, it was very much assumed that I would go to college and I did not really do my due diligence researching schools and applying. I don't know why. I can't really remember what I was feeling at the time. It was a long time ago, obviously. I don't think I ever felt like it was super important or that it was gonna have a huge effect on my life which it obviously was. I just didn't feel that level of import at the time. So, I've only applied to two schools."
+  -
+    timestamp: "0:12:00"
+    speaker: Andy
+    content: "I applied to MICA in Baltimore and I applied to Kutztown which is a state school in Pennsylvania, which has a pretty decent art program for a state school. My thought at the time was definitely that I wanted to go to MICA and if I didn't get into MICA then I can go to Kutztown that was like a kinda fall back application. I visited RISD but didn't apply because they've required you to make specific drawings just for them for your portfolio. If I remember correctly, you had to draw a bicycle and two other things and..."
+  -
+    timestamp: "0:12:30"
+    speaker: Matt
+    content: "You need to put them on slides. That was the most challenging part."
+  -
+    timestamp: "0:12:32"
+    speaker: Andy
+    content: "Yeah. And indignant high school, Andy was like, \"I'm not drawing something just for your portfolio, you arrogant school.\" Also I had a bad time visiting. It was not super well organized. So, I just didn't apply there for dumb excuses I made up. So, basically, by luck, I only applied to MICA, by the way, because a friend of mine who was in my high school, who was the only other person to apply to art schools from my entire graduating class of 560 people, she was very on top of her stuff and she visited MICA and like done all the research about it and she basically said to me, \"I think you would like this place.\" And she was right, I did. So, she did the research for me and told me I would like this place and I applied and ended up there."
+  -
+    timestamp: "0:13:11"
+    speaker: Andy
+    content: "But I had a great time at college. I feel like I learned a lot. It was an overall positive experience for me, for sure. And then after school I started my own business and that's where I am now. There's a lot of other details in there but not really relevant to this conversation. The thing I wanna ask, I guess specifically Meg is, like I mentioned, when I was growing up, it was very much assumed that I would go to college and so I just did it because that was the assumed path that I would follow by everyone in my sort of community. Was that kind of assumption or pressure on you where you grew up? "
+  -
+    timestamp: "0:13:40"
+    speaker: Meg
+    content: "Absolutely. I did a really bad job too of researching my options as far as careers went. I have an older sister who's four years older than me and she was going to school for fashion as well. So, I just thought, \"Okay, that's the only non-traditional career option I have to choose from.\" So, that's why I went to fashion school because I really had no idea besides doctor, lawyer, teacher, what my job options were and I thought, \"Oh fashion, that's cool. I'll do that.\" And so, it was just assumed like you said, that I would go to college because everyone went to college. I never really thought that it would be an option not to because there was a stigma that you go to college and that's how you make money. That's how you get anywhere. You go on these steps, these predetermined steps that you're supposed to take to get somewhere in life, and college was just one of them."
+  -
+    timestamp: "0:14:30"
+    speaker: Andy
+    content: "Yeah, I definitely had the same pressure where I grew up. It was just like this huge stigma. If you didn't get in or chose not to go to college, the assumption was that you screwed up and now your life's off the tracks and what's gonna happen to you? So, the other thing that I kind of just kinda went along with at the time because I assumed it was what everyone did and when I was supposed to do was taking out loans. My parents helped be a little bit with school. I ended up taking out quite a bit of loans myself as well. But I took them out in the way that I just assumed it was what I was supposed to do and had to do it. And so, I took out those loans and... MICA is a very expensive school and they're also pretty generous with their scholarships and I got quite a few while I was there. And MICA's interesting that you can earn more scholarships throughout your time at the college. More so than most other places."
+  -
+    timestamp: "0:15:15"
+    speaker: Andy
+    content: "So, I didn't have as many going in because I didn't go to like art magnet high school or anything so my portfolio was not as good as many of my peers coming in to school. But I earned more by working hard over the time I was there. But still accrued quite a bit of debt over my time there which was a thing that... I don't regret anything I've done in my life but I certainly did not understand all of the implications when I made that decision to take on that debt. I had not sort of settled exactly what that would mean for future Andy's life, when I did it. So, so yeah. So Meg, you kinda picked this stuff up yourself as well, kind of similar to Maurice's story? You just kinda dove in head first and kinda figured things out for yourself? "
+  -
+    timestamp: "0:16:00"
+    speaker: Meg
+    content: "Oh yeah. No one ever helped me. I also never really had a mentor or anything. Nobody told me what I was supposed to do at any point. I just had to kind of guess along the way and figure it out as I went. And I think it worked out pretty well. I think if somebody was there to give advice to me along the way, I would have figured it out a lot faster but I'm pretty impressed that I was able to figure it all out by myself."
+  -
+    timestamp: "0:16:24"
+    speaker: Andy
+    content: "And figure it all out means, of course, you had to learn software to actually make the things you were making, and you had to learn the basics of design, and how to make something laid out that made sense, and all of the sort of philosophical and academic things we talk about which is a lot to take on. What I'll say is I think, let's just jump into evaluating whether or not... Like if you're a student today, let's say you're graduating high school this coming year, you're a senior. I'm trying to think what advice I would give to a student that said they wanted to study design. My reflection on my educational experience, again, overwhelmingly positive. I loved college. And the reasons I loved it were because of my peers, first and foremost, going to a small, fairly exclusive art school you get to meet all sorts of really interesting, talented people from all over the world. Lots of international students, people from all over the country, with all sorts of weird and interesting kind of focuses, and interests, and bodies of work, and meeting all those people and getting exposed to the diversity of that kind of population was, I think, in hindsight the most valuable thing that I got out of my college experience."
+  -
+    timestamp: "0:17:32"
+    speaker: Andy
+    content: "Second thing is the actual things I was taught. Matt, just like you, I think when I was in school, I would've complained about the relevance of some of the things that I was studying and I also was mostly interested in working on websites or digital products or something involves with software and technology. And that was a thing that, 10 years ago, was not as supported at colleges as I understand it is now. So we were still... Let's see. I took a class of 'how to make websites in flash,' that was a class that I took. We were using Fireworks for our course work so it was a while ago. And those were things that were already dated at the time and I knew they were dated but that was just sort of academic world had not caught up to it yet. So, even though I was studying graphic design formally, I'm still on my own, learning a lot of the things that I cared about because all the web stuff, all the technology stuff was not really covered by the curriculum."
+  -
+    timestamp: "0:18:26"
+    speaker: Andy
+    content: "So, it's not like I wasn't also teaching myself things, but yeah, at the end of the day I think, my feelings is that it would have been pretty easy for me to have learned the same kinds of things that I learned about Graphic Design, and about typography like if I got in the textbooks and read them and followed some people on early days of Twitter or like read some design blogs, I think I could have picked up a lot of the same things I had picked up by studying it formally at school. I don't think I could have replicated the experience of being in that community any other way, meaningfully. To me, I think, that was the irreplaceable part of going to college. So, I guess if I'm like kind of turning it into any kind of advise for people that might be listening is, the academic experience is such a small part of what college is. And if you have the privilege of being able to go and you or your family can afford it or you get scholarships to afford it, I think that choosing a place that will surround you with people and ideas that are new and interesting to you is probably more important than even like finding the perfect program or something."
+  -
+    timestamp: "0:19:33"
+    speaker: Matt
+    content: "The way I think about it now is just that the... I'm sure I could've learned the nuts and bolts of it, but I probably needed someone to tell me that my work was bad a couple of times in order to really get there. And I don't... Not that I couldn't have gotten that elsewhere, but once you get out of college, you'll realize that there are not that many people who are super motivated to do that for you. I mean, if you get a job, sure. Which is probably a little bit challenging without a degree but not impossible. But it's also not a place that's structured for learning. Actually, I can remember feeling this frustration where I really wanted to do type design in school and there's nobody teaching a class so I had to try to do it on my own and post in the internet and try to get people to critique. Just realizing that no one's as motivated as I am to look at my own work and pay attention to it."
+  -
+    timestamp: "0:20:23"
+    speaker: Andy
+    content: "Yeah, no one's really in your corner."
+  -
+    timestamp: "0:20:26"
+    speaker: Matt
+    content: "Yeah. Whereas, that is something you get at a college. Who's somebody is actually there. I mean, I'm sure, I guess, we go to bad school. But if you go to a school where you have some teachers that care about you, then at least someone is in your corner and trying to make you better which is a hard thing to find."
+  -
+    timestamp: "0:20:41"
+    speaker: Andy
+    content: "Maurice, who told you your early work was bad? "
+  -
+    timestamp: "0:20:45"
+    speaker: Maurice
+    content: "Clients."
+  -
+    content: Laughter
+  -
+    timestamp: "0:20:47"
+    speaker: Matt
+    content: "That's scary."
+  -
+    timestamp: "0:20:47"
+    speaker: Andy
+    content: "There you go."
+  -
+    timestamp: "0:20:48"
+    speaker: Maurice
+    content: "I think that's probably the easiest way to get feedback when you think you're doing something great and your clients get it back and they're like, \"What the hell is this?\" That's probably the easiest way. I mean, a lot of what I learned was from books and magazines and like I said I had friends that were designers, but I didn't really have any sort of clue about how to go about to make good design if that makes any sense. And partially, it was because I was trying to approach it I think from a... I hate to say this from a creative point of view but that's sort of the best way that I can think of to describe it."
+  -
+    timestamp: "0:21:23"
+    speaker: Maurice
+    content: "What I was doing was trying to imitate things that I saw that I looked at in magazines like dot net magazine or computer arts or... At one point in time, I lived across the street from a Barnes & Noble. And I would just go in the Barnes & Noble and spend an afternoon looking through design books and taking pictures with... This is before we had cameras on phones but I would take a little camera and take pictures of things and then take them back to my computer and try to study and deconstruct what made a good designer. So, I think a lot of my early stuff was about imitating what other people were doing instead of trying to put my own kind of spin on it. And so, as I grew as a designer and as I got feedback from clients and from others, that's really how my style sort of evolved."
+  -
+    timestamp: "0:22:12"
+    speaker: Andy
+    content: "Yeah, and that's true. I think no matter how you're learning design. If you're in a formalized program, you're still doing a whole lot of imitating for the first couple years that you're doing it formally because it's hard to do anything else, right? You haven't really developed your own voice or your own sense of your work. So..."
+  -
+    timestamp: "0:22:29"
+    speaker: Maurice
+    content: "Yeah."
+  -
+    timestamp: "0:22:29"
+    speaker: Andy
+    content: "That can be a difficult thing."
+  -
+    timestamp: "0:22:30"
+    speaker: Maurice
+    content: "And I mean, even at the companies that I worked at, I mean when I came in, they had already strictly defined style guide, so it's not like I really had opportunities to go in there and make something my own. Everything had to fall within certain strict guidelines, like my first design job was for state government. And so everything that we had to do had to follow certain accessibility guidelines and they already had an established style guide across all the different brands. So, I couldn't really go in and go hog wild with how I wanted my design style to be. I had to follow within these certain constraints. And it was the same way at WebMD. It was only until I got to AT&T that I was able to kinda branch out a little bit and do some different design things. And even then, the feedback that I would get would come from QA, it would come from clients. It would be that sort of direct feedback to let you know that, \"Okay, what you did here was great but you did here, not so much.\""
+  -
+    timestamp: "0:23:23"
+    speaker: Matt
+    content: "Did you find that clients were able to tell you why it didn't work or just that it wasn't and you had to figure that part out on your own?"
+  -
+    timestamp: "0:23:32"
+    speaker: Maurice
+    content: "Oh, I had to figure that part on my own. The clients did not come with any sort of great level of design knowledge but I think what might have been a benefit was that I didn't come with any design knowledge either. So, we were kind of both at the same level of trying to figure out, \"Okay. What is it that you want?\" And I'm trying to decipher what they need from the comments that they're giving me. I'm trying to meet them where they're at. I feel like if I had come and had a more established design knowledge, then the client, I could come off as probably a little snooty if they were saying, \"Well, we just need this to pop more.\" Okay, well, what does that mean?"
+  -
+    timestamp: "0:24:10"
+    speaker: Maurice
+    content: "Now I know if a client says that I can sort of talk them through articulating that in a way that I can understand it or at least me try to come down to their level to see, \"Okay, well, what are the things that influence you and inspire you and what about these things do you think has pop?\" And so I can take what they say from that, extrapolate it to their project, and hopefully try to get to a happy medium."
+  -
+    timestamp: "0:24:33"
+    speaker: Andy
+    content: "You know, Maurice, listen to you talking about this, it occurs to me that, I think, one of the very common byproducts of a formal design education is that you get young designers that come out of those programs and there's this... They grate against the real world. When they hit their first design job, are they gonna have their first couple of freelance clients? I've talked to a lot of young students and a lot of young designers that more or less have the opinion of, \"These clients don't get it.\" I think it's where you get the epitome of the Clients from Hell mentality. I think there's a lot of really young, really kind of green designers that aren't familiar with a service industry that are having a hard time to grapple with client's needs and the way they kind of put things and ask for things."
+  -
+    timestamp: "0:25:19"
+    speaker: Andy
+    content: "I get the sense of listening to you talk Maurice, that you never would have developed that in any... There's no possible way you could have developed that because of the kind of humility with which you approached the industry. You were learning it as you went and you very much were guided by client's needs more so than some kind of abstract academic ideal which you believed to have internalized and were gonna kind of go out into the world and kind of force upon people. Is that fair to say? "
+  -
+    timestamp: "0:25:44"
+    speaker: Maurice
+    content: "I think that's fair to say. I think what I had to do was tap into my own sense of empathy to try to reach the client where they are. As I said earlier, one of the first jobs I had certainly when I was in college, one of the first jobs I had, I was selling tickets at the symphony. And so, I would often get these old, snooty, rich, white clients, or customers I would say, that would come to the window and just talk to you any kind of way. And so, it's like, \"Okay, well, let me see if I can try to figure out how we can get to some happy medium to what... \" They can get what they need and then they can get from in front of my face. So, how do we get to that point? How do we get from A to B? And so, with clients, it's sort of that same thing where you need to try to reach them where they're at. Try to understand where they're coming from with whatever feedback it is that they're giving you and then try to, like I said, reach the middle from there."
+  -
+    timestamp: "0:26:41"
+    speaker: Andy
+    content: "And it makes sense that would be near impossible to teach in a formalized program, right? Because you can't fake that real interaction. You can't fake a client that is really like, \"Hey look, this doesn't do what I need it to do,\" or \"It doesn't work for X very practical reason.\" You can talk about those things theoretically but it's not the same as when you're actually feeling it. And in some ways it kind of makes sense that a designer that just spent $100,000 and four years of their life to ostensibly become a graphic designer is gonna have a huge chip on their shoulder when they go into a meeting and the client is like, \"Hey, I really love this font that you think is bad,\" or \"I think this doesn't make sense, this thing you did here,\" and they're like, \"Well, no, you don't understand the, Josef Alber is in the typography pillars and this is the correct way to do it.\" It totally tracks that people would have that kind of attitude. I, myself, had that kind of attitude, I'm not trying to throw people under the bus. I, myself, had this exact attitude completely and you have to kind of work to unlearn that. Which is a thing you don't have to do, I presume, if you were self taught."
+  -
+    timestamp: "0:27:45"
+    speaker: Maurice
+    content: "Yeah, I can only surmise that that's the case. Like I said, I haven't had any experience with being in a formal design program but I would guess that that is kind of very much the case. You have to unlearn certain behaviors because... And then I know this, mainly from talking with designers on Revision Path, is that you get out into the real world and it's totally different from what you learned in school."
+  -
+    timestamp: "0:28:05"
+    speaker: Andy
+    content: "Yeah. Necessarily so, I think. I don't know that school should be a perfect facsimile of the real world 'cause if so, then why aren't you just out in the real world, right? It's supposed to be different in some way. Those differences do cause some problems, though. Kind of coincidentally. Meg, I feel like your voice in your work is perhaps one of the strongest relationships I'm aware of, of the human being making the work to the work itself. I feel like I can spot a Meg Lewis piece of work from a mile away and it... If I had never met you, I could have extrapolated from your work, what you might be like, and it would be a pretty good approximation. How did you develop such a distinct and kind of refined voice without having the privilege of basically multiple years to just kind of sit and figure out what you wanted your voice to be without the kind of demands of the real world? "
+  -
+    timestamp: "0:28:57"
+    speaker: Meg
+    content: "Oh yeah, interesting. Okay, so, whenever I was in school for a hot second, I would get in trouble all the time because I always had a style, they said, and I couldn't see my style at all but everyone would comment on it and they would try so hard for me to change my style. And I would keep changing it and then everyone else would just assume I didn't change anything but I felt like I had changed everything because I had the style that people just said that I always had. And so, as I started the freelancing, it was hard for me to get out of that style because the type of work that I was getting was for a lot of stationery companies, yarn stores, little Mom and Pop shops, and I was really clashing with those clients because my style does not fit in with that industry at all. And so I was having a really hard time producing anything that they liked. And yet, at the same time, I would have these clients that were working for really friendly tech companies or companies that really valued my style and I couldn't really figure out, for many years, why this wasn't working with a handful of companies in a certain industry and why it was working for these other companies and this other industry."
+  -
+    timestamp: "0:30:03"
+    speaker: Meg
+    content: "And I realized that my style just isn't complementary for certain industries and it's not complementary for certain businesses really. So, that was really hard for me and I had to figure out how to deal with that. And for awhile, I tried to really, really change my style for the happiness of my clients and to make better work for them. And it was just really hard for me and I couldn't do it. And so, I decided eventually to only just work for companies that have the same values as I do, companies that want to hire me for my style, that want friendly personable design and because I can't really create anything else. [chuckle]"
+  -
+    timestamp: "0:30:41"
+    speaker: Matt
+    content: "Did it ever drive you crazy that anyone called it a style? You're referring it to that way yourself but do you think of it that way or do you think you just have an approach?"
+  -
+    timestamp: "0:30:53"
+    speaker: Meg
+    content: "Before I recognized what it was, I was offended because it was sort of like, \"Don't tell me who I am. Don't tell me what my style is.\" But people could see something that I couldn't see in myself. And as I got to know myself more and look inside and figure out what I liked about myself, it really kind of came through my work as well. I noticed that all of those things that I like most about my personality are also in my work. And so, I think, once I finally embraced myself in that way, I started to become really proud of my style and I decided to only work in that style from now on because that's something that makes my work and me unique to anyone else."
+  -
+    timestamp: "0:31:30"
+    speaker: Matt
+    content: "I feel like a style is kind of a dirty word in design 'cause it has aesthetic qualities but it doesn't have philosophical qualities. But it sounds like you're describing it as both."
+  -
+    timestamp: "0:31:43"
+    speaker: Meg
+    content: "Yeah, I try to bridge the gap but I think that's just because I'm sort of a value or a mission driven designer rather than a skill based designer. So, rather than calling myself a logo or brand or web or product designer, I work for companies that share the same values as mine. So, if I'm achieving those values and those values can be sort of achieved through my work, then it's really meaningful for me and I think that it packs a lot of punch and impact aesthetically with meaning rather than just being something that's stylistic."
+  -
+    timestamp: "0:32:12"
+    speaker: Andy
+    content: "The other thing that I keep thinking as I listen to both you and Maurice talk is that... I don't know what you were like when you were 17 or 18, obviously, but I know that when I was 17 or 18, even though I \"could have probably learned the same formal skills I learned through college\", I think I didn't have the focus or direction to have done that on my own. I think I was kind of aimless. And one of the sort of big values that college or formal education provided to me specifically was that it was a structure. I didn't have to find my own path. I just took the classes and took a certain number of credits and showed up on time and did what I was told to do. And that structure was something that was very helpful, kind of regardless of whatever it was. The fact that it led me down a certain path is one thing but just having something to do that I was still following a prescribed path, was something that was very helpful to me."
+  -
+    timestamp: "0:33:10"
+    speaker: Andy
+    content: "I don't know. I guess if I could have changed anything about my college experience, well obviously, I would have tried to earn more scholarships. [chuckle] But aside from that, I think I might have benefited from a year off between high school and college to just kind of center myself in the real world because school is so regimented and structured that you oftentimes kind of lose your sense of self. I feel like you're kind of just in this system and yep, I do the things I'm supposed to do, I get graded on them. It's almost militaristic, the way that you just kind of go through the steps and do what you're supposed to do, and jumping right from that into another program that was the same way but where the stakes are so much higher."
+  -
+    timestamp: "0:33:55"
+    speaker: Andy
+    content: "Public school. I can't think of a great reason to drop out of public school when it's free and no one has an expectation that you're gonna work. I mean, obviously some people have really tough financial situations and are kind of forced to do that but public school is kind of a gimme. When you're still talking about college, there's a huge difference in the financial investment, the time investment, the sort of years of your life investment that you're kind of committing to this thing, which is totally optional. And I think that I didn't appreciate there was that difference at the time. And perhaps, some time off would've allowed me to appreciate that. Do you all have anything else you would change? Matt, obviously, specifically, do you have anything you would change if you could go back and do it all over again, knowing what you know now? "
+  -
+    timestamp: "0:34:36"
+    speaker: Matt
+    content: "Yeah, I think there are certain things I would probably take more seriously and there are certain things I would probably take less seriously. I probably wouldn't stress out about fitting the criteria as much and just try to learn more, as opposed to try to make the perfect thing with what I know. I feel like that was a thing I got trapped in a little bit, is like, \"Oh, I know I could do a really good job repeating the same thing I know how to do. But if I really go for it, I could mess it up and then I'll get a bad grade.\" Like I'd just let that go. And I think I would probably just take advantage of the teachers there more like ask more questions, show up in their office and not be... I don't know, I feel like I was a little bit, at first, kind of detached from teachers from my experience was like high school and middle score's kind of like they were the enemy and [chuckle] I had to change that attitude in college a little bit more."
+  -
+    timestamp: "0:35:27"
+    speaker: Meg
+    content: "Well, I definitely think, I agree with Andy with what you were saying about taking a year off. I think I wish that I would have done that because I didn't know what my options were and I didn't exactly know what I was doing. So I think I would have liked... And I think a lot of people could benefit from taking a year to figure out what they really want out of their adult lives and where they wanna end up because I didn't know. I just kind of followed my sister's path and I went in a direction that wasn't really me and I made a mistake and then I tried to correct it. And it worked out really well for me because every decision that I made led up to where I am and it's totally awesome, but I think that I could have saved myself a lot of time. But I'm also not the kind of person that needs a structure or a path. I don't like people telling me what to do so I think that traditional education was never going to be for me and it took me a long time to realize that because I am sort of the kind of person that once I know what I wanna do, I'm so self motivated and I'm such a self-starter if somebody sets goals for me, it only holds me back because I need to do things on my own 'cause I can do them super fast."
+  -
+    timestamp: "0:36:30"
+    speaker: Meg
+    content: "So I think that, in hindsight, I would have kind of made those couple of different changes. But I think, in general, everyone is different. So, I think that traditional education is so important for some people because structure, staying on a certain path, having people tell you exactly what to do is really important for people to be able to find their path, whereas other people like me, we can't do it."
+  -
+    timestamp: "0:36:53"
+    speaker: Maurice
+    content: "I'm curious what it would have been like if I would have taken a year off between highschool and college. I was just so ready to leave my small, provincial, rural southern town that I was in college two weeks after I graduated highschool. [laughter] I could not wait."
+  -
+    timestamp: "0:37:09"
+    speaker: Andy
+    content: "Woah, really? "
+  -
+    timestamp: "0:37:09"
+    speaker: Maurice
+    content: "I could not wait. Yeah, I moved immediately, well, not immediately but two weeks after. Started in the summer program, was on campus in a dorm room. I think there was maybe a week or two between the summer program ending and then the fall semester beginning. But I was ready. But that was largely because I just wanted to leave my current surroundings and less about me just having this burning desire for knowledge 'cause I figured I would pick it up on the way, so to speak. I kind of came in thinking I had a plan and then my plan sort of changed because I thought I was going to do computer engineering, computer science. They have this three two-degree program where you do three years at Morehouse, you do two years at Georgia Tech and then in five years you graduate with two degrees, which sounds great but is also extremely grueling. And after the first semester I was like, \"Yeah, I don't wanna do this. I need to find something else.\" And that's when I ended up kind of switching to math but I think if there was anything I would change, if we're talking about just changing in our path, I would not have went to grad school. I don't think it helped."
+  -
+    timestamp: "0:38:16"
+    speaker: Andy
+    content: "Really? "
+  -
+    timestamp: "0:38:16"
+    speaker: Maurice
+    content: "Yeah, I don't think it helped at all."
+  -
+    timestamp: "0:38:18"
+    speaker: Matt
+    content: "Oh man. I was thinking about the year off thing. I think if I had taken a year off, I would have just hung out. I really didn't want to go to school. [laughter] I was so not ready. 'Cause I went from Massachusetts to Georgia, which was a big change, and that was scary, and [laughter] I'm sure I told my parents I wanted to take a year off. That sounds like a thing I would have done and they probably were like, \"Not you. You're just gonna hang out here for a long time.\" It's probably pretty good I got there quickly or else I think I would have just gone, \"Ah, maybe I'll just never move. It's fine. I like hanging out.\""
+  -
+    timestamp: "0:38:52"
+    speaker: Maurice
+    content: "I do kind of wanna touch on the... I mean, like I said before, I wish I wouldn't have done the Master's degree, but I felt a lot of pressure when I was working to go back to school and get an advanced degree because I didn't have a degree in design. I felt..."
+  -
+    timestamp: "0:39:06"
+    speaker: Matt
+    content: "Did someone told you that or just you looked at job listings that said you need this?"
+  -
+    timestamp: "0:39:10"
+    speaker: Maurice
+    content: "I looked at job listings. I was getting that pressure from the jobs that I was working at. That if I was going to get to whatever the next level of my career was, I would need to get an advanced degree. A bachelor's degree was not gonna cut it. A bachelor's degree was essentially the same as a highschool diploma and I'm like, \"Yeah, I need to find something else to level up sort of to get to the next level.\" But I felt a lot of pressure to do that. And I mean I went and did my Master's program, it was two years, it was great, I learned a lot, I have the degree, but I do not use it. I can't say that it's... I don't know if I can say it's helped me. I mean, I work for myself now so I can't really say if it's helped me or not, but I wouldn't have done it. Or if I did, I would have went in a design discipline."
+  -
+    timestamp: "0:40:00"
+    speaker: Matt
+    content: "I'll actually, just in the design field, I've never felt a need for it for a second or even... The only time I really thought about it was right after school or between graduating or slightly before graduating, before I had a job. And being like, \"Uh-oh, I gotta think of what's next. This is scary. Maybe more school?\" But after that, I haven't thought about it for a heartbeat which is maybe just because of the field I'm in but it just has not been... Just don't think I would even consider it at this point."
+  -
+    timestamp: "0:40:31"
+    speaker: Andy
+    content: "The only reason that's come up for me is because I love teaching. I would love to, at some point in the future, basically commit to teaching more or less full-time. Not right now. I feel like I have other stuff to do. But yeah, teaching at most of the places I want to teach, would require a Master's degree in some field. So, that's the only reason I ever thought about it myself. I've never thought that going back to school to learn more stuff would be the thing that I need in my life right now. There are a lot of things I need. God knows. But not more school, I don't think."
+  -
+    timestamp: "0:41:05"
+    speaker: Andy
+    content: "Something that strikes me is that, for all of the resources that were available to Maurice and to Meg and to Matt, you and I, when we were trying to learn things that our school didn't have programs for, for all the resources that were available 10, 15 years ago for all of that stuff, we have so much more available to student's now that want to teach themselves something, right? Like Maurice was going across the street to the Barnes & Noble and getting out his big large format camera [laughter] and blowing up some gun powder to take a picture of a spread to go home and study it after he developed the prints."
+  -
+    timestamp: "0:41:36"
+    speaker: Andy
+    content: "And that's a thing that's obviously very recent history. But now, the kind of resources that are available for anyone that wants to learn any practical thing, especially a practical thing related to design, technology, something you can do on a computer, I feel like the resource is just abound. Do you think that, given the free resources that are available or even the paid resources that cost 1,000 as much as a degree, right, if you pay for Lynda, a subscription to Lynda, or you pay for some other educational program that's remote, you pay for a Skillshare class. Given the amount of things that are available for free or for very affordably, is there a justification for the academic programs that colleges offer? If you take the social experience out of it, if you take the need for structure that a lot of 17-year-olds have out of it, if you just kinda look at it in a vacuum, do you think that, academically, you get your money's worth if you're paying $20,000 a year in tuition somewhere? "
+  -
+    timestamp: "0:42:38"
+    speaker: Matt
+    content: "You get something out of it. Is it worth it? I don't know. I feel like if... That's the hardest part. It's worth something, absolutely. I don't know if it's worth like being in debt for a long period of time. But, I mean, the most valuable parts are not the things that we're talking about in Skillshare. I think we've talked already about the idea that we could probably all figure out the nuts and bolts parts of it, so it was more everything else. So if that starts to pop up, right?"
+  -
+    timestamp: "0:43:09"
+    speaker: Andy
+    content: "Well, so, be specific there, Matt. What are the things you think you've got out of your education that were the most valuable to you? "
+  -
+    timestamp: "0:43:16"
+    speaker: Matt
+    content: "The social thing, the having a teacher there to tell you that your work is bad, that thing that I brought up, and having the structure around you to make you do this stuff as opposed to doing it after a job or just doing it on your free time, there's a deadline you have to show up and you have to do it and there's someone to hold you accountable. I think that's pretty important."
+  -
+    timestamp: "0:43:36"
+    speaker: Andy
+    content: "Well, so, the one thing I'll say about that is that a lot of those things are met by the Skillshare and Skillshare-esque models. Those things have classes you have to actually attend or they have assignments that after the video for the week has been released, you have a week to do the weekly assignment and you have deadlines and you have an instructor if it's gonna have face time with you where they're gonna critique your work. A lot of that stuff is present outside of the bounds of paying a crap ton of money and live here with us and eat at our dining hall and spend all your money on our textbooks and sweatshirts and that entire culture. I don't know."
+  -
+    timestamp: "0:44:10"
+    speaker: Matt
+    content: "I think that's true. I haven't experienced it to know but I would have to imagine it's less powerful, like it's less of a... Even if it's something, it's not the full experience."
+  -
+    timestamp: "0:44:21"
+    speaker: Andy
+    content: "I, sometimes wonder how much the fact that it costs X dollars is the whole thing. I wonder sometimes if hypothetically, you could get exactly as much out of a Skillshare class. But because everybody only paid $100 for the class, people are... There's just so much less loss aversion to just not showing up on time or not doing the assignment or just dropping the whole thing. Or as once you've paid your semester tuition, the pressure to not quit in the middle and lose all that money, [chuckle] is really intense, and it's almost entirely because of the financial investment you made. And I sometimes wonder if just the fact there's all that money on the table is what kinda pushes people through those programs and pushes them to succeed and work really hard because they've intentionally made it a high stakes situation, where failing is costly."
+  -
+    timestamp: "0:45:13"
+    speaker: Maurice
+    content: "Well, I think, also if we're kinda comparing and contrasting Skillshare classes to college courses, I think the biggest difference that you have there despite the material that you're learning, is just the societal impact of the consequence of not seeing it through. Like with the Skillshare class, you can do Skillshare for $10 a month and enroll in as many classes as you want to and never show up to a single one, and the only consequence that you have from that is that you wasted $10 for the month. Whereas, if you enrolled into the college, if you took out a loan or scholarship or what have you, and you took on a full course load, and then just didn't go to your classes or you weren't learning anything, the societal impact from you dropping out of school or something like that could be much greater than not seeing through a Skillshare course or something."
+  -
+    timestamp: "0:46:04"
+    speaker: Andy
+    content: "For sure."
+  -
+    timestamp: "0:46:05"
+    speaker: Maurice
+    content: "But I would also say, if we're looking at kind of the benefits that one would get from a formal education that's not just the material that's learned, it's the notion of the pipeline. And I don't know how strong this is either for you Matt or Andy, but going to that school and graduating and being an alum of that school, kinda puts you in a certain echelon of companies that might be looking to hire you or people that might be looking to profile you. There's a certain kinda pipeline, of course, it's talked about a lot in the tech industry and the design industry about pipelines for hiring and things of that nature. I can't say whether or not it's easier or harder if you're outside of that. I feel it's been harder for me outside of that. But, I think that, that sort of one benefit from it is sort of that pipeline that you get from it, whether it's being part of an alumni association or just having the degree itself to say \"Yes, I went here\", and they're like... And companies or other people have a certain expectation of what that means to them. They say \"Oh, well, this person went to MICA. This person went to SCAD, therefore... \" It kinda goes from there."
+  -
+    timestamp: "0:47:13"
+    speaker: Andy
+    content: "Yeah, that's something we didn't mention which is very relevant and I felt that in my own life. I think most people, myself included, the idea that networking is an important part of college and you're kind of literally just paying your way into some exclusive cabal. [laughter] Feels gross, right? But I started my own business out of college, and one of our first clients within the first six or nine months we started the business, was a client that, was the company that one of my professors worked for. And they hired us because my professor knew that we started this company, we were doing this kind of work, and we are still working with that client today, five-and-a-half years later, six years later, and they've been one of our sort of biggest clients for the entire history of our business. And that's a very direct example of if I had not been in this class and met this person, because they were teaching in that class, and I'm not gonna get in that class without paying the tuition, so I'm paying my way to get in there, that wouldn't have happened."
+  -
+    timestamp: "0:48:09"
+    speaker: Andy
+    content: "And so, who knows how much more difficult it would have been to have started the business without the various connections that you get; to peers, to instructors, to other alumni through that system. Because I never applied for a job, so I never had the \"Oh, MICA\" moment where people looked at that and assumed that that meant I was good at my job or hire me because of it. But the other things that are less tangible are also really relevant and a big part of I think why a lot of people go to programs. That's a given in the business world or in the world of finance or other industries. I think it's a little less talked about in art and designing, more creative industries, but it's still definitely there."
+  -
+    timestamp: "0:48:50"
+    speaker: Maurice
+    content: "Yeah. I know when I was at Morehouse as an undergrad student, it was impressed upon us. I think at every chance you get particularly as a freshman, the importance of you being at that school and what it means to be at that school and the legacy of that school, of the graduates of that school, it was really forced into you pretty much at every turn. So, [chuckle] by the time you graduate, yes you're part of this illustrious fraternity blah, blah, blah, all that kind of stuff. But it was put upon you so much that you being at this school makes you... It puts you at a certain, I guess, societal level that other people don't have because they didn't go there. Which to me is kinda gross. But I'd be lying if I didn't say I don't benefit from it."
+  -
+    timestamp: "0:49:38"
+    speaker: Andy
+    content: "Yeah. No, I'm in the same place. I definitely find it gross but that's the fact. That's how the world works. Before we end, I do wanna get in... It seems like it's a never an episode of Working File unless we talk about socialism somehow, and I do wanna add that the pressure we talked about earlier of going to college, which I think a lot of people that graduate high school feel, I think it's felt more in wealthier communities who have a social sense that college is just what you do because you're smart and come from this good family and you can afford it, so of course you should do it. But there's also this deep thing in the way that our civilization works. The way that society functions that capitalism gets its barbs in you early. It takes people right out of high school and the system is built such that you are extremely encouraged and it's made very, very easy to incur an enormous amount of debt. And once you have a lot of debt, then you're in the system, you're stuck."
+  -
+    timestamp: "0:50:44"
+    speaker: Andy
+    content: "Now you have to go and work and you have to go and join the whole rat race in a way that benefits the rest of capitalism, which obviously capitalism is not this personified malicious actor that is out there doing things intentionally, but it is worth noting that I think the way things are is a direct byproduct of the values that are expressed through capitalism and I think it's a great and very simple kind of protest to just not do it. Just don't get student loans if you don't want them. Don't go to college if you don't want to, especially in the industries we're talking about. I really don't think there is a stigma as a practicing designer to not having a degree."
+  -
+    timestamp: "0:51:25"
+    speaker: Andy
+    content: "I've hired 12 or 14 designers over my career and I'd never once really considered somebody better because of somewhere they graduated. We looked through their work, we talked about the process, we got to know them, that was the important thing, not what was on a degree somewhere. And obviously, it's hard to tell how much the work in the portfolio and the ideas described were a byproduct of where they studied. But, yeah, I think any stigma that exists is probably, maybe, overstated or feels bigger when you're just getting out of high school and don't know what else to do with your life. With that, let's move on to our closing thoughts. Everybody gets exactly one closing thought. And Meg, do you have something in mind? I wanna start with you."
+  -
+    timestamp: "0:52:10"
+    speaker: Meg
+    content: "Sure. Well, I think it's worth noting... Can I make a pre-closing thought? I'm already breaking the rules. This is why I didn't go to school. Well, if I went to school, I would've been able to follow rules."
+  -
+    timestamp: "0:52:21"
+    speaker: Andy
+    content: "Better yet, Meg, your closing thought can be 20 minutes. You can just keep going. It's fine."
+  -
+    timestamp: "0:52:25"
+    speaker: Meg
+    content: "No, I just think it's important to note that when I was living in New York, I was teaching actual college classes. I was an adjunct professor and they didn't ever ask me if I had a degree."
+  -
+    timestamp: "0:52:36"
+    speaker: Andy
+    content: "Yeah."
+  -
+    timestamp: "0:52:38"
+    speaker: Meg
+    content: "And the fact that I was teaching college and didn't have a college degree, I think says a lot about our industry. And the fact that they wanted me to teach just because I'm a working person in our industry, I'm a successful working individual of society that has a real job in the industry, and that's what was more important to them than the fact that I didn't have a degree. So, I think that, that's pretty cool and I think it's special and unique to our industry. So, that's awesome. But my closing statement is generally just: Whenever you're thinking about education and if it may or may not be right for you, I think, it's important to know that it's different for everybody. Everyone is different and everybody needs to do what's best for them. If you're the type of person that needs structure, you need people to tell you what path to stay on and you need direction and guidance, then heck yes, go to school, it's gonna be great for you. But if you're like me and you are really self-motivated, you don't like to follow rules, you don't like to do what people tell you to do, maybe school isn't for you. Maybe you can forge your own path on your own because all you really need is yourself."
+  -
+    timestamp: "0:53:36"
+    speaker: Andy
+    content: "And that's okay. Matt, what is your closing thought? "
+  -
+    timestamp: "0:53:42"
+    speaker: Matt
+    content: "Well, I did love college and I would definitely do it again. I liked it for all the reasons like none of the things you're gonna find on Skillshare. But I also don't think I could ever judge anyone or give 'em advice otherwise if they said, \"Well, I don't wanna pay all that money or take loans out to do that. I think I can figure it out on my own.\" I think, if you are a good designer, I would hire you and I don't care what school you went to. I'm kind of in the same boat with you, Andy, that's never the first thing I look at on a resume. So, I think it's more about what do you see as valuable in college? If it's the intangible stuff that we've been talking about, I think go for it and if you think it's worth it. If you feel like you can learn all the skills you need to online, you don't care about that other stuff, you can probably do that, too and you're gonna be just as good. I don't think it's gonna make you better or worse."
+  -
+    timestamp: "0:54:29"
+    speaker: Andy
+    content: "Maurice, what do you have to close this out? "
+  -
+    timestamp: "0:54:33"
+    speaker: Maurice
+    content: "I wanna say that I think, one of the benefits of being a self taught designer particularly now in what the design industry looks like is that you're able to kind of work outside of what might be deemed industry norms, so to speak. You're able to kind of approach design from a different vantage point where if you went to school for four years, you might have a specific type of process that that school taught you. Whereas, if you were more self taught or you've had experience in other areas, you're able to bring that in and then give your own kind of unique perspective to how you approach design."
+  -
+    timestamp: "0:55:07"
+    speaker: Maurice
+    content: "To piggy back off of what Meg said, whether or not you decide to go to school for design, it's really, of course it's a personal choice, but realize kind of what the pros and cons are in doing that personally as well as... I hate to say it as well as professionally because if you're going to school and you're paying all this money or if you go to school and get a scholarship, you would hope to get some sort of return on the investment of your time even if it's not the investment of your money."
+  -
+    timestamp: "0:55:35"
+    speaker: Maurice
+    content: "So, if you're someone that is super disciplined and self-motivated and flexible, maybe design school might not be for you and I'm pretty sure design educators are gonna shit on me because of saying that, but it really depends on just kind of the person that you are, whether or not you feel you can make it and thrive within a design education at whatever school you decide to go to. Certainly there are enough resources out there where if you decide not to go to design school, you can still make it as a designer. I think that's one of the great things about this industry is that you're able to come in with your skills and still make a living. It's not something where you need to be certified with a degree or with any kind of formal training. As long as you have a strong portfolio and you have the skills you're able to make it."
+  -
+    timestamp: "0:56:20"
+    speaker: Andy
+    content: "Yeah. And my closing thought is that, about art school specifically, 'cause I did not go to regular college, right? Places like MICA are different. And in some ways, if you have never been to an art school or never know anybody that went there, it fits a lot of the stereotypes you might have about an art school. For example, I would say that, and again this is something I'm sure people will be mad about, but I don't feel a great deal of prestige attached to my degree or my alma mater. Not 'cause I have anything against MICA. I think it's a fantastic institution. But because the nature of art school is that if you just put a little bit of time in, not even a lot, anybody can graduate with a degree from MICA if you can afford it because art is not objective. So you can just kind of go into each class and splatter paint on things and you genuinely can go and graduate with a degree that way if you want. So, for that reason, I don't feel like it's an accomplishment in the way that I know some of the clout and the legacy of ivy league schools and stuff like that are kind of known for being extremely rigorous academically. I never felt that from the place I went to school."
+  -
+    timestamp: "0:57:33"
+    speaker: Andy
+    content: "What I did feel is, it was an enormous privilege to get to spend four years of my early adult life really just figuring out what I cared about and finding my voice and meeting people that were doing the same thing. And it's a privilege that I got to do that and that I could afford to do it and I could afford to take out the loans to do it. And I recognize that that is a privilege that is not afforded to many people. And what I would say is if you're listening and thinking about doing that or you're in a program and you're feeling a certain way about it, if you think about it as a investment in you as a human and less of an investment as you as a designer, that's where I got the most value out of school and felt like it was worth it for me. So yeah, I feel like if you can afford it, both time and money wise, why not go and screw around for four years and do whatever you want and hang out with cool people and just have an excuse to have access to resources to make stuff but it's... When I think about it financially, again I kind of mentioned it, I feel like the resources available to learn a skill, to learn a trade, to find a community of people, all these things are so much easier now then they were before and I don't know."
+  -
+    timestamp: "0:58:47"
+    speaker: Andy
+    content: "I wouldn't be surprised if college attendance and the popularity of higher education didn't continue to grow over the next 20 or 30 years. Which I think a lot of people assume that of course people are gonna get more educated. That's just the general trend of society. But I feel like with the communication age, I don't think that's necessarily gonna be the path. Like we made a podcast. Meg and Maurice, do you have anything... Maurice do you have anything you wanna promote that's coming up soon? "
+  -
+    timestamp: "0:59:16"
+    speaker: Maurice
+    content: "Oh that's a good question."
+  -
+    timestamp: "0:59:18"
+    speaker: Andy
+    content: "I mean obviously you all should be listening to Revision Path if you're not already. I don't know what you're doing with your life."
+  -
+    timestamp: "0:59:24"
+    speaker: Maurice
+    content: "Okay, yeah. So, yeah, Revision Path of course is my design podcast where I talk to black designers and creatives all over the world. We just had our 200th episode back in July and we are sponsoring the upcoming black and design conference which is taking place in October, I think it's October 6th 'til the 8th at Harvard University Graduate School of Design. I'll be there for that in case anyone wants to show up or anything like that. Other than that..."
+  -
+    timestamp: "0:59:53"
+    speaker: Andy
+    content: "You could go to Harvard and take pictures of all their books, so you can go study them on your own time? "
+  -
+    content: Laughter
+  -
+    timestamp: "0:59:57"
+    speaker: Maurice
+    content: "That's the plan, that's the plan. That's pretty much it. I mean, we're gearing up, honestly, for our fifth anniversary, which is gonna be February 2018. So, follow us on Twitter, Facebook, Instagram. Just search for Revision Path. And keep up with what we're doing."
+  -
+    timestamp: "1:00:12"
+    speaker: Andy
+    content: "If you liked this show, even a little bit, you will like Revision Path probably a lot more."
+  -
+    content: Chuckle
+  -
+    timestamp: "1:00:16"
+    speaker: Andy
+    content: "Meg, do you have anything to promote coming up? "
+  -
+    timestamp: "1:00:20"
+    speaker: Meg
+    content: "Okay. I have some events coming up that are pretty cool."
+  -
+    timestamp: "1:00:23"
+    speaker: Andy
+    content: "Tell us about them."
+  -
+    timestamp: "1:00:24"
+    speaker: Meg
+    content: "Yeah! In Memphis in October, we have Creative Works which is a really, really awesome conference that I've been going to for the last couple of years. My team and I, at Ghostly Ferns, are going to be hosting a game show this year on stage. This conference is letting us do something that no one else has really done before. And they're letting us host a game show. We're gonna have a DJ on stage. There's gonna be a lot of really weird exercises, and participation, and running around, and all that sort of thing at Creative Works. And then also, right after that in October, I am going to be at the AIGA Conferences. They're right here in Minneapolis in my hometown. We have the ION Design Conference which is one day. It's a lot cheaper. Highly recommended, which I'll be on a mental health panel for. And then the regular old AIGA Design Conference is just after that one. And I will be hosting part of that conference. I'm hosting the local design portion of the conference. It's gonna be pretty rad."
+  -
+    timestamp: "1:01:21"
+    speaker: Andy
+    content: "Go see Meg speak. She is a tornado of joy. And it will make your life better to be in the room when she speaks about her thing."
+  -
+    content: Music
+  -
+    timestamp: "1:01:40"
+    speaker: Matt
+    content: "As always, thank you to XYZ Type for the transcripts. This week, you can find XYZ Type on Fontstand. Try them out for free."
+  -
+    timestamp: "1:01:47"
+    speaker: Andy
+    content: "As a reminder, if you don't wanna install proprietary software, XYZ Type offers all of their fonts as free trials right on their website. Just go and click the free trial button."
+  -
+    timestamp: "1:01:56"
+    speaker: Matt
+    content: "Yay! Thanks to XYZ Type. Also review the podcast. Go to iTunes. Check out Working File. Give us a five star review. Goodbye."
+  -
+    timestamp: "1:02:01"
+    speaker: Andy
+    content: "Sure."
+  -
+    content: Chuckle
+  -
+    content: Music
