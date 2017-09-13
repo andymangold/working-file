@@ -1,0 +1,903 @@
+messages:
+  -
+    timestamp: "00:00"
+    speaker: Andy
+    content: "You are listening to Working File, a podcast about design practice and its relationship with the world. My name is Andy Mangold and this week's show is a little bit different. It's the end of summer, people are traveling, they're on vacation, scheduling is impossible. So instead of our typical three to four person panel show, it's instead a one on one conversation with myself and Linda. We actually recorded this back in March so some of the references might be a little bit dated but I hope you enjoy it nonetheless, we'll be back in two weeks with a typical episode for you. Thank you for your understanding."
+  -
+    content: Music
+  -
+    timestamp: "00:51"
+    speaker: Linda
+    content: "Andy and I, you and I were..."
+  -
+    timestamp: "00:54"
+    speaker: Andy
+    content: "Hello."
+  -
+    timestamp: "00:55"
+    speaker: Linda
+    content: "[chuckle] Talking about millennials for some reason and somebody had just passed me this Simon Sinek video... Is that how you say his name Simon Sinek? Sinek Sinek Si..."
+  -
+    timestamp: "01:05"
+    speaker: Andy
+    content: "I don't know. He won't hear this so whatever."
+  -
+    timestamp: "01:08"
+    speaker: Linda
+    content: "Yeah exactly, he's too busy. It was just this great little interview about the problem with working with millennials today. And there's all of this conversation happening right now around working with these 20 somethings. I don't know, a lot of it resonated with me because I felt like I've experienced or seen a lot of those problems in the workplace."
+  -
+    timestamp: "01:39"
+    speaker: Andy
+    content: "Is it more that the way that this person... I don't know what Simon's deal is? Is he an author or a thought leader what is he? #thoughtleader? "
+  -
+    timestamp: "01:50"
+    speaker: Linda
+    content: "I think he is a #thoughtleader."
+  -
+    timestamp: "01:52"
+    speaker: Andy
+    content: "He seems like a professional walking TED Talk is what he seems like."
+  -
+    timestamp: "01:55"
+    speaker: Linda
+    content: "Yeah, exactly."
+  -
+    content: Laughter
+  -
+    timestamp: "01:57"
+    speaker: Andy
+    content: "So this TED Talk with legs, his perspective was that millennials are a generation that were raised being told they were the greatest, they could accomplish anything and they were all given participation trophies and therefore they want everything immediately they don't want to have to work for it. And now they've hit the work place, they are shocked and there is a huge cultural divide because they are not getting rewarded the way they want get rewarded and they feel a sense of ennui about their work. Is this something that you feel more Linda? Or is this something you feel you've seen in other people? Or both? "
+  -
+    timestamp: "02:32"
+    speaker: Linda
+    content: "Well both. It sucks because I definitely feel... I think the main point of what he's talking about isn't just the fact that everybody wants cool bean bags and water slides in their office, which is super freaking annoying, but they also just want this sense of purpose. There's like the Maslow's hierarchy of needs that I think people are reaching the top of that pyramid a lot sooner in life because all of their basics needs are being met in first world America at a really young age. So, then you have 22 year olds looking for their life's purpose in their first job. And they want to make a huge impact on the world, and they want to start movements and change everything, but they want do it in the first six months because instant gratification is such a thing now and nobody has the patience to just work hard and put in the effort for years and years and years. That's something that I feel in myself a little bit too, to just look around every couple of months and be like, \"What have we actually done here? Have we even moved the needle at all?\". [chuckle]"
+  -
+    timestamp: "03:42"
+    speaker: Andy
+    content: "Sure."
+  -
+    timestamp: "03:43"
+    speaker: Linda
+    content: "And yeah. I guess I just wanted to pick your brain about that little bit 'cause I am really curious about how you structure your office. And how you give people their sense of purpose or do you just tell them, \"You shut up kids. You don't get to have purpose here.\""
+  -
+    content: Laughter
+  -
+    timestamp: "04:04"
+    speaker: Andy
+    content: "That sounds exactly like me, that's a perfect impression."
+  -
+    content: Chuckle
+  -
+    timestamp: "04:09"
+    speaker: Andy
+    content: "So it's kind of a cop out. I don't do a ton at the office, at the studio to set purpose or to try and inspire purpose. We're a consulting company which is on its worse day is extremely unglamorous. Somebody else comes in the door with the purpose, and you're supposed to assume their purpose and hop aboard the train and do your best to kind of see their vision out as best you can give your skills and perspective. So, we don't work for morally bankrupt companies. You know we were contacted once by a very high end shooting range that wants to let people come in and rent AR-15s and M16s to shoot at these targets and it's a very popular shooting range. That was the project we just said, \"No, we don't want to work on that because we feel like it's actually doing bad in the world to celebrate gun culture and make it a fun casual thing you do instead of treating them with the serious things that they are.\""
+  -
+    timestamp: "05:11"
+    speaker: Linda
+    content: "Oh God."
+  -
+    timestamp: "05:11"
+    speaker: Andy
+    content: "So we don't do that kinda stuff but a lot of our projects do not fall in the inspiring world changing impactful sphere. A lot of them are just somebody has an idea for a startup, they've got some funding, and they're gonna build it. Or somebody has some access to some products, they want to build online stores to sell those products to people that have excess income to buy these products that don't actually really do anything practically in the world. So, a lot of it is that and so it's hard to, I think approach that kind of work with the inspiring vision setting that Simon describes all millennials seeking."
+  -
+    timestamp: "05:50"
+    speaker: Linda
+    content: "Yeah."
+  -
+    timestamp: "05:50"
+    speaker: Andy
+    content: "What I will say for, myself is that I don't think about that our impact strictly in terms of the design and development work that we do, even though that's what the company does on the face of it. I think about our impact as also being a nice place to work where people can have a good living and have good health insurance cover them and have a work place that will allow them to take time off with their kids and just be a healthy workplace that makes people happy. And I feel like in some small way if I can look at our few employees and say, \"Well here's some people that otherwise might not have a job this good.\" That's all the good that I need to do in the world to feel okay about my contribution. And if we do that by building some website to sell widgets to people then what's the damage. It's kind of my feeling of the whole thing."
+  -
+    timestamp: "06:39"
+    speaker: Linda
+    content: "And one thing that the video talks about is that it's just difficult to keep these people employed because of the short attention span and I feel like right now the economy is doing pretty well for designers and that there's like everywhere I look I feel like I see somebody who needs a designer and can afford to pay one to do things. Have you found it difficult?"
+  -
+    timestamp: "07:02"
+    speaker: Andy
+    content: "So everybody that's looking for a job, e-mail Linda."
+  -
+    content: Chuckle
+  -
+    timestamp: "07:04"
+    speaker: Andy
+    content: "She is overflowing with great contacts at places that are hiring."
+  -
+    timestamp: "07:08"
+    speaker: Linda
+    content: "No, I didn't mean it like that. I'm totally..."
+  -
+    timestamp: "07:11"
+    speaker: Andy
+    content: "Get at her on Twitter."
+  -
+    timestamp: "07:12"
+    speaker: Linda
+    content: "Right? I'm totally comparing this to the recession by the way. So when I graduated from school it was 2008 and oh my God I went on something like 23 job interviews or something. And they were for jobs I didn't even want, like graphic design for a healthcare company, doing pamphlets."
+  -
+    timestamp: "07:35"
+    speaker: Andy
+    content: "Well hold on, that one sounds good. [chuckle]"
+  -
+    timestamp: "07:37"
+    speaker: Linda
+    content: "But no they needed their pamphlets to... You know, not the most exciting work. And I was like, \"I'll do anything to get this job.\" But I still didn't get those jobs because of how bad the economy was at the time. And right now it just seems like it's not nearly as bad as it was 12 years ago."
+  -
+    timestamp: "08:01"
+    speaker: Andy
+    content: "I hope it's not as bad as it was in 2008 certainly. And I didn't graduate till 2011 and frankly I never actually tried to get a real job so I can't speak on this at all. But I will say that I don't think, anecdotally if I'm talking to my peers and people in the world, I don't think right now it's like there is such an abundance of great jobs that there's too many to go around. I feel like there's still plenty of people out there that are really looking for something that is going to suit their skills and suit them. Maybe that's to your and Simon's point though that all these people feel like none of these jobs that maybe are out there or jobs they may have had are giving them the kind of fulfillment that they're seeking."
+  -
+    timestamp: "08:42"
+    speaker: Linda
+    content: "Yeah."
+  -
+    timestamp: "08:43"
+    speaker: Andy
+    content: "I will say the one thing I did respond to about Simon's talk, and spoiler alert I kind of... I have a lot of complaints about Simon's perspective on things, but..."
+  -
+    timestamp: "08:52"
+    speaker: Linda
+    content: "Oh! I wanna hear those too."
+  -
+    timestamp: "08:54"
+    speaker: Andy
+    content: "We'll get there, don't worry."
+  -
+    content: Chuckle
+  -
+    timestamp: "08:57"
+    speaker: Andy
+    content: "So the thing that I did respond to is I do... This is especially true in design and especially true in design in the realm of technology, people do not keep jobs for a long period of time. It just does not happen."
+  -
+    timestamp: "09:10"
+    speaker: Linda
+    content: "Exactly."
+  -
+    timestamp: "09:11"
+    speaker: Andy
+    content: "We've hired a lot of people and something we had to be very clear about in the interview process every time was, \"By the way, we're not looking to hire somebody for eight months so they can then jump onto another job. There is some amount of getting to know the company, some amount of getting in the flow of things. And we're also looking for people that wanna be a dedicated member of the team for long term.\" And a lot of people just walked out the door when we said that, they're like \"Oh, I don't want a job for that long. It's not even on the table for me.\" Because it's so common to jump from job to job every year or two years for people that are our age."
+  -
+    timestamp: "09:47"
+    speaker: Linda
+    content: "Yeah."
+  -
+    timestamp: "09:48"
+    speaker: Andy
+    content: "And something that I want to be careful of is I think that one of the flaws of Simon's argument is that he has a very rosy view of the past. He seems to imply that because we're jumping from job to job that is inherently worse then our parents generation or our grandparents generation that work for the same company for their entire life until they retired, 40 years or whatever. I don't want to assume that that's better and I'm curious to know if you think that the kind of rapid movement... 'Cause full transparency I graduated six years ago and started a company and have been doing that ever since. You have worked for tons of companies..."
+  -
+    timestamp: "10:30"
+    speaker: Linda
+    content: "[chuckle] Yeah."
+  -
+    timestamp: "10:32"
+    speaker: Andy
+    content: "Really, really great companies, I think a lot of companies people would aspire to work to and would call their work inspiring and call their work impactful in at least certain ways. Do you feel like working at all those different places was a mistake? Is it something that you think indicates something? How do you feel about it? "
+  -
+    timestamp: "10:50"
+    speaker: Linda
+    content: "Well I think that there needs to be a happy medium. I think that... Oh my God, thinking about working for the same company for 35 years just sounds horrible to me."
+  -
+    timestamp: "11:01"
+    speaker: Andy
+    content: "It's impossible to imagine, right? "
+  -
+    timestamp: "11:03"
+    speaker: Linda
+    content: "Yeah."
+  -
+    timestamp: "11:04"
+    speaker: Andy
+    content: "That's as old as we are so that'd be our entire lifetime, again repeated working at the same job. To me, I can't even come close to planning that far in the future."
+  -
+    timestamp: "11:13"
+    speaker: Linda
+    content: "Yeah, exactly. There's the design agency CGH in New York and the two original founders are still working there and their in their mid 80s. And I think that is freaking awesome. I would love to be that committed to my own work someday, where maybe if I do start my own studio or something like that I could see myself staying that committed to it, where it's kind of your own thing. But this idea of working for a corporate conglomerate type thing for decades and decades is just mind boggling to me. And then at the same..."
+  -
+    timestamp: "11:52"
+    speaker: Andy
+    content: "Well I'm glad you said that because I do wanna point out that I think there is a big difference in that in the kinds of jobs that you and I would have, right? The kinds of people that would hire us for our skill sets and many other designers out there for their skill sets are not companies that have been around for 50 years and will be around for other 50, right? "
+  -
+    timestamp: "12:10"
+    speaker: Linda
+    content: "Right."
+  -
+    timestamp: "12:10"
+    speaker: Andy
+    content: "It's a little unfair to talk about how millennials are jumping from job to job seeking fulfillment when every six months some new company shuts down and gets bought by Facebook and goes and joins the Borg."
+  -
+    timestamp: "12:20"
+    speaker: Linda
+    content: "Exactly."
+  -
+    timestamp: "12:21"
+    speaker: Andy
+    content: "No judgement on Facebook there. I didn't mean that. I just mean that there's so many new opportunities popping up and then, opportunities falling away. It's not that we're the ones jumping around because we're fanciful and flighty. It's just that the opportunities are changing just as quickly. So, how are we supposed to adapt? "
+  -
+    timestamp: "12:39"
+    speaker: Linda
+    content: "Right. It's like we are the by-products of our own culture right now. That's just how things are. Companies are born and die in just years, or months, or..."
+  -
+    timestamp: "12:49"
+    speaker: Andy
+    content: "Sure."
+  -
+    timestamp: "12:49"
+    speaker: Linda
+    content: "Like I always made fun of those startup pages. Once they do get bought, there's so many of them that are just like, \"It's been a fearless journey and we're so glad we shared it with you.\""
+  -
+    timestamp: "13:00"
+    speaker: Andy
+    content: "Well, you've seen their Tumblr, right? "
+  -
+    timestamp: "13:00"
+    speaker: Linda
+    content: "Yeah, exactly."
+  -
+    timestamp: "13:00"
+    speaker: Andy
+    content: "You've seen our beautiful journey Tumblr, whatever it is."
+  -
+    timestamp: "13:02"
+    speaker: Linda
+    content: "Yeah, yeah."
+  -
+    timestamp: "13:03"
+    speaker: Andy
+    content: "It's just all of the shutdown letters."
+  -
+    timestamp: "13:04"
+    speaker: Linda
+    content: "We need to put a link to that in this show notes, too."
+  -
+    timestamp: "13:07"
+    speaker: Andy
+    content: "I'll get it, don't worry."
+  -
+    content: Laughter
+  -
+    timestamp: "13:10"
+    speaker: Linda
+    content: "But, yeah..."
+  -
+    timestamp: "13:10"
+    speaker: Andy
+    content: "Yes, so like the options are either, I guess... I'm sure that General Motors has graphic designers. I'm sure that that will be a place where you or I could get a job and work for the rest of our lives if we wanted to. Actually, probably not. General Motors is not gonna be around for our entire lives."
+  -
+    timestamp: "13:22"
+    speaker: Linda
+    content: "No."
+  -
+    timestamp: "13:22"
+    speaker: Andy
+    content: "They're not long for this world. But, we could get a job like that but the point is that that's not what we are compelled to do. That's not what we want to do. And, it just kind of circumstance that the things that we're interested in doing happen to be companies that are less reliable. They're popping up, they're going out of business, they're being bought, they're getting funding and starting up again. It's just a lot of churn."
+  -
+    timestamp: "13:45"
+    speaker: Linda
+    content: "Exactly. But, I will say that I have found a lot of joy in putting in that time with companies. I know, it seems like maybe I haven't worked in places very long because I have worked at so many companies. But, at MailChimp... I was there for like almost three years and I feel like... It's like the first six months to a year was just kind of getting comfortable there. And getting to know everyone, getting to know the brand."
+  -
+    timestamp: "14:13"
+    speaker: Andy
+    content: "Yeah."
+  -
+    timestamp: "14:14"
+    speaker: Linda
+    content: "And we talked about this here at Ueno a lot where, like the first couple of weeks that you're on a project with a brand new design team, you can basically just throw that time away. Speaking purely candidly, I do not tend to do my very best work in the first two weeks of having that job. Because..."
+  -
+    timestamp: "14:34"
+    speaker: Andy
+    content: "Well, who does? "
+  -
+    timestamp: "14:34"
+    speaker: Linda
+    content: "Signing a contract for a job is such a big commitment. And I think it takes so much time to get really comfortable with everybody and all of these new things that it takes a couple of months to get a really good working flow going and figuring out even who in the company you do your best work with. And then, once you figure those things out, and you have to figure it out by failing, by the way, which is a thing that a lot of people are not comfortable with. But then, you get to this point where you could just kind of iterate on that process and make it better and better. And that's where the real magic starts to happen for me. So, I feel like if I had quit within that first year at MailChimp when things where uncomfortable and you're trying to work with a few people and things aren't quite gelling right. If I had just taken those negative feelings that I had from that and accepted defeat, I wouldn't be anywhere close to where I am today. And I'm so glad that I kinda hung in there because it took some time but, it definitely paid off. And I think that that's what's happening. There are these feelings of awkwardness that has sprout up in those first one to 11 months."
+  -
+    timestamp: "15:51"
+    speaker: Andy
+    content: "Sure."
+  -
+    timestamp: "15:51"
+    speaker: Linda
+    content: "And people don't like those. They're not protected from those like they were when they were kids. And they're not getting trophies for doing a project that was only so so. And they're like, \"Well, I'm gonna go somewhere else and I'm gonna find that feeling.\" At least, that's what it seems like to me. And I think that you're just gonna have to hang in there and keep pushing and working hard. Eventually, hopefully, you'll find the ways that you can contribute to that company or else you move on. I don't know."
+  -
+    timestamp: "16:23"
+    speaker: Andy
+    content: "Yeah, I feel like it's really cliche to say like, \"Uh, there's no such thing as fair\", but there is kind of what it comes down to ? Maybe a less cliche way to put it is just that, if you are focused on fair, you will only ever be concerned about how unfair everything is."
+  -
+    timestamp: "16:39"
+    speaker: Linda
+    content: "Yeah, it's true."
+  -
+    timestamp: "16:39"
+    speaker: Andy
+    content: "It's not that fairness doesn't exist, it's just that if that's your paradigm, that's your golden ideal, then you're, of course, only gonna focus on the times when you were slighted and things didn't work out the way you felt you were entitled they should."
+  -
+    timestamp: "16:52"
+    speaker: Linda
+    content: "Yeah."
+  -
+    timestamp: "16:52"
+    speaker: Andy
+    content: "Which I don't think... This is one of the things... To get back to the talk that started this whole conversation, this is one of the things that Simon drove home. Is that we are an entitled generation."
+  -
+    timestamp: "17:03"
+    speaker: Linda
+    content: "Yeah."
+  -
+    timestamp: "17:04"
+    speaker: Andy
+    content: "We think we deserved everything and we deserve it now. I don't think that's unique to us at all."
+  -
+    timestamp: "17:09"
+    speaker: Linda
+    content: "Yeah."
+  -
+    timestamp: "17:09"
+    speaker: Andy
+    content: "I feel like we were taught this fairness thing by our parents who raised us largely. I feel like this whole fairness thing is not a new idea. I think that we're no more preoccupied with it than any other group of people was. So, it seems unfair to me to be like, \"That's a millennial entitlement thing.\""
+  -
+    timestamp: "17:28"
+    speaker: Linda
+    content: "Yeah, I think you're right. I think that we all do it. We've all done it this particular thing. I just witnessed it the other day where an older woman and I were both headed towards a long bathroom line but from completely different areas and space. And I saw her shuffle her feet a little bit extra fast to get ahead of me in line. And I just slowed down. I had to give it to her. You win..."
+  -
+    timestamp: "18:00"
+    speaker: Andy
+    content: "Maybe she had to go, man."
+  -
+    content: Laughter
+  -
+    timestamp: "18:01"
+    speaker: Linda
+    content: "She probably had to go a lot worse than me. But that's the kind of... The bathroom line is just one example but it happens all the time in driving, in waiting in the checkout lane at the grocery store, you just suddenly see these nasty little parts of people's personalities where they can't wait to be ahead of you because they feel like they deserve it for some reason and that is not just people our age, that is every single person no matter who [chuckle] they are."
+  -
+    timestamp: "18:33"
+    speaker: Andy
+    content: "This is something that I have to constantly remind myself too because I'm a big over-thinker and so my natural tendency is to ruminate on all the hard work I've done in X situation and how [chuckle] that has not been reciprocated fairly. And what really taught me was frankly doing consulting work. We've been consulting for six years now, as I've said a couple times. I think it's generally accepted in a model like that where someone's paying you a lot of money to do something for them that the \"customer's always right\" thing applies. We're being hired, we're being paid by them, so if they are gonna not respond to our emails for three weeks and they're gonna be short with us for whatever reason, we just have to kinda smile and take it, which I don't entirely agree with but what I will say is that has over time really taught me this lesson of give up on fairness because I've learned that if you just sit there and go, \"Well, we keep responding immediately and they take forever to respond,\" or \"we spend all this time answering their questions and then we ask them a few questions and they don't even answer them clearly,\" and you get mad about those things. You're not being productive at all. [chuckle] You're accomplishing nothing."
+  -
+    timestamp: "19:41"
+    speaker: Linda
+    content: "Yeah, exactly."
+  -
+    timestamp: "19:43"
+    speaker: Andy
+    content: "And so many times when I've just taken the time to push back all those thoughts and defensive thoughts of being right and being fair and wanting to justify my position and I push all that back and just say alright let's ignore that and get down to solving the problem at hand, the outcome is always so much better. So the other thing I mentioned in my little talk was that I think people oftentimes lack empathy in teamwork scenarios and certain relationships. People for the most part will at least try to empathize with people like their family or their loved ones but people very rarely try to do that with coworkers, with clients, with bosses, with employees, with whoever. And the example I gave which is my little kind of dark little sick twisted trick to keep me honest when I'm dealing with people is that I always imagine the person I'm dealing with has just had the worst day of their entire life."
+  -
+    timestamp: "20:46"
+    speaker: Andy
+    content: "Like when you get an email from somebody, you're like, \"This is not right. This is wrong. They're being unfair. They're not giving me what I asked them to give me, blah blah blah,\" when you have a meeting with somebody and they're just not being helpful and ruining things, when somebody is showing up late for work or whatever, just always imagine what if that person just found out that their parents have cancer or just found out that their dog is gonna have to be put down or whatever. Just imagine it's the worst day of their life and if how you treat them is not okay in that scenario, it's never okay to treat somebody that way. It's like..."
+  -
+    timestamp: "21:16"
+    speaker: Linda
+    content: "Exactly."
+  -
+    timestamp: "21:17"
+    speaker: Andy
+    content: "You shouldn't do it. Always treat people with the respect you would give them assuming that they're going through something difficult. And sure, most of the time people aren't. Statistically, it's not very often the worst day of your life but if you treat people that way it's a great shortcut to just... Maybe you don't actually have the empathy, you can't imagine what it might be like to be in their shoes but just treat them as if you accept that that's difficult whatever it is they're doing. And if you do that, you're gonna be much better at your job. You're a much better collaborator if you treat people with that kind of respect."
+  -
+    timestamp: "21:50"
+    speaker: Linda
+    content: "Exactly. And I think I've always been the contractor on the side of the contractor-client relationship. But lately, it's kind of been the other way around where I'm the art director and I'm hiring somebody to do something for me and so now I'm the slow one who's taking way too long to get back to people's emails. [chuckle] So now I kind of have this empathy for both sides of the equation. And it actually taught me a lot about myself because when I was the freelancer or the contractor, I'm waiting to get paid and I'm waiting to see if I have work and it would drive me so crazy if it took someone a long time to pay me or if it took them a long time to get back to me with feedback and it kind of messes my own schedule up. And there's all these things that you're like, \"Argh!\""
+  -
+    timestamp: "22:45"
+    speaker: Linda
+    content: "You feel so entitled to have things exactly the way that you want them or you're like, \"I've been so prompt, why aren't they being so prompt?\" But now that I've been in the other side of the equation, I see where things can go wrong. And there's so many different factors at play that you can never predict why somebody is doing what seems like a shitty thing to you, so why sit there and predict? And whenever I have been... I've had a few people working for me where I've taken way too long to get back to them on things because we're either getting a contract together and we're having a hang-up with our lawyer, whatever."
+  -
+    timestamp: "23:28"
+    speaker: Linda
+    content: "And then when those people just treat me as if that long lapse in silence didn't even happen and they're just like, \"Hey, no problem. How's it going?\" I'm so relieved and I can't wait to work with them again. And I'm like, \"I'm gonna be better next time.\" [chuckle] It makes me want to be my best self. But when somebody responds with that short quick little kind of shitty response, it just makes me like, uh, I know I kinda deserved that but at the same time now it's awkward and now it's not the best working relationship, and yeah. So I'm kinda trying to teach myself to have the same patience and understanding for people no matter which side of that equation I'm in."
+  -
+    timestamp: "24:13"
+    speaker: Andy
+    content: "I'm going to move on, if you're alright. I'm going to move on to some of my complaints about Simon's whole shtick, and one of them is tied to the fact that he is really against the intense use of electronics, devices, and social media by young people. He makes the point that, \"Oh, we're all just sitting in our meetings on our phones and not engaging with each other and when we go to dinner, we put our phones on the table and we're not engaging with each other. Bup bup bup bup bup\""
+  -
+    timestamp: "24:40"
+    speaker: Linda
+    content: "Okay."
+  -
+    timestamp: "24:41"
+    speaker: Andy
+    content: "And I had..."
+  -
+    timestamp: "24:41"
+    speaker: Linda
+    content: "Oh I think we're about to fist fight."
+  -
+    timestamp: "24:42"
+    speaker: Andy
+    content: "Go ahead, what are you gonna say? You go first, you go first before I do my little rant."
+  -
+    timestamp: "24:45"
+    speaker: Linda
+    content: "Well, I don't know, I think that you and I might be kind of on the same page with some of this stuff. It totally resonates with me. I'm trying so hard to be less glued to my phone. I have some friends in San Francisco who are just like... I feel like they just could not breathe without their cell phones and I also feel like they see the world through their iPhones and their Instagrams and their stories. It's just constant, like every five minutes, just picking this thing up and trying to capture the perfect representation of the moment that is actually being lived in real life right in front of their eyes. It's starting to drive me crazy and I think that I've spent a lot of my life being that person and that's why it's so maddening to me. So I'm not saying that I'm perfect by any means, but yeah, I think that people just don't even know how to make eye contact with other people because of it and we're all just suffering in our real relationships because of the relationships that we have with our phone. I've been in bed with my partner before and if they pick their phone up, I'm like, \"Uh-uh, uh-uh, no, no, no, no, no, no.\" I'm like, \"You hug me before you hug your little iPhone please.\" [chuckle]"
+  -
+    timestamp: "26:11"
+    speaker: Andy
+    content: "Little phone hugs."
+  -
+    timestamp: "26:12"
+    speaker: Linda
+    content: "Yeah, little tiny hug with your hands around your phone. No, no, hug me first because I'm the living and breathing human being who's in bed with you, that's such a big and serious thing. And even on New Year's this year I made a point to leave my phone in the other room where I couldn't get to it 'cause we were all outside in the mountains and it was snowing and it was so much fun and we were throwing axes at trees and stuff, not the safest thing. I looked around and everybody's experiencing the moment of the new year when we counted down to one with their phone right up to their faces, and I don't know about you but I actually would be interested to hear your opinion on this. But I don't remember any of the times that I've spent inside my phone. When I look at that thing, I get so lost in it and you can't get my attention at all, I mean maybe a little bit, but the problem is that I don't actually have any memories of what I'm doing in there, you know?"
+  -
+    timestamp: "27:26"
+    speaker: Andy
+    content: "So here's what I agree with. I agree that it is a little bit scary, the rate at which social media specifically, but just having a device on you all the time, having access to the internet all the time, I'm a little shocked and I think it's a little bit alarming just how fast that has changed the social dynamics in the world in our generation. That is certainly an alarming thing, just in a sense that we are definitely in new unexplored territory, right? We don't really know what it's like to grow up entirely living your life through a device. You don't really know if its good or bad or how it affects things like memories you've created versus not created, and in that sense I do kinda feel like we're all guinea pigs. [chuckle] It's not like Apple was like, \"We're gonna play this big experiment on people,\" there was no intent behind it, no maliciousness, but I do feel like we are in a space where we're trying to figure out what that means."
+  -
+    timestamp: "28:27"
+    speaker: Andy
+    content: "But I think Simon's deal that this is not a real thing, it's like this fake world, and you're not building real relationships and the time you spend in your phone is just like pointless distraction and it's meaningless, that I do not agree with at all in any way. I think social media is amazing. I think it's incredible. I don't think it's any surprise that people want to be on their phones for a large part of the day because how amazing is it to be able to be connected across the entire globe with people that share your values, share your priorities in ways that maybe the people that happen to be in the same geographic space as you just don't share, right? And this applies to everything from Twitter to people that love their little subreddits or people that have Slack teams of certain groups of people over parts of the subject. I have very meaningful relationships with people that... Linda, how many times have we actually been in the same geographical space? "
+  -
+    timestamp: "29:22"
+    speaker: Linda
+    content: "Yeah, like maybe four."
+  -
+    timestamp: "29:24"
+    speaker: Andy
+    content: "Yeah, I think three or four. [chuckle] Very few times and yet we have a very specific relationship and I will talk with you about things that... There's people in Baltimore that I see every week, I would not talk to them about this because they just don't see the world the same way. Those conversations are not gonna be beneficial to either of us, therefore we don't talk about those things, we just deduce stuff, we just go tubing because that's a thing you can do with someone in the same geographic space, but when we're tubing we're not necessarily talking about whatever, deep life stuff, because that's not the sort of grounds of our relationship. And I have other friends, like you Linda, that I've never met, that I just know from across the country or across the world that maybe I met them once or twice and we really clicked and now we have this online relationship and I feel like older people are always looking down on that as if it's lesser than."
+  -
+    timestamp: "30:14"
+    speaker: Linda
+    content: "Right."
+  -
+    timestamp: "30:14"
+    speaker: Andy
+    content: "And that's something I wholly reject."
+  -
+    timestamp: "30:16"
+    speaker: Linda
+    content: "You're right."
+  -
+    timestamp: "30:19"
+    speaker: Andy
+    content: "There's a balance because I certainly think that something like Candy Crush, to give the most extreme example, is basically like gambling. It's just programmed to be addictive and to bounce little lights in your face and you're not really developing skill and you're not really having interesting thoughts. You are just kind of a little zombie."
+  -
+    timestamp: "30:37"
+    speaker: Linda
+    content: "Right."
+  -
+    timestamp: "30:37"
+    speaker: Andy
+    content: "Which is not at all to be critical of anybody who loves Candy Crush. Don't @ me. It's just to say that there's a spectrum of these things. I have lots of nieces and nephews from the age of 14 now I guess, oh God, they're getting so old, down to two. I have nieces and nephews all in that age rage and it's really interesting to watch how they are adopting technology because all of the same social dynamics that we grew up with in elementary school, middle school, high school when we didn't have these devices are still present. Some of them are magnified like the fear of missing out is certainly magnified."
+  -
+    timestamp: "31:15"
+    speaker: Linda
+    content: "Oh yeah. Oh my God."
+  -
+    timestamp: "31:16"
+    speaker: Andy
+    content: "Everyone that is 12 years old and goes to a sleepover, everyone at that sleepover is taking Snapchats and Instagrams at that sleepover and if you're that one person not invited, it is..."
+  -
+    timestamp: "31:25"
+    speaker: Linda
+    content: "Oh, crushing."
+  -
+    timestamp: "31:26"
+    speaker: Andy
+    content: "It's crushing."
+  -
+    timestamp: "31:26"
+    speaker: Linda
+    content: "Yeah."
+  -
+    timestamp: "31:26"
+    speaker: Andy
+    content: "It's crushing because before you would just maybe know and imagine something fun was happening and now you're getting all this media as if you were there which is of course really difficult."
+  -
+    timestamp: "31:37"
+    speaker: Linda
+    content: "Yeah."
+  -
+    timestamp: "31:37"
+    speaker: Andy
+    content: "So in that sense, that difficult thing is definitely magnified by this intense connectedness that we get from social media. But it goes the other way too. My little nephew plays basketball and his team won the state whatever championship or the county championship this past year. And I follow him on Instagram and it's hilarious following young kids on Instagram because they post all the emojis and hashtags but seeing him and all his teammates all be on Instagram celebrating this journey through their little kiddie playoffs or whatever was amazing. It's the kind of thing that I remember how fun that was as a kid to be in your little soccer playoffs or whatever and to have artifacts from that and to be able to celebrate those moments and capture them is a real thing. I don't think that people are on Instagram and Twitter and Snapchat wasting their lives because it's a dopamine hit as Simon seems to think. I think they're on there because it gives them real meaningful value."
+  -
+    timestamp: "32:33"
+    speaker: Linda
+    content: "Yeah, It does. It also gives you this sense of self in a way. Have you heard about the single self idea?"
+  -
+    timestamp: "32:46"
+    speaker: Andy
+    content: "Don't think so."
+  -
+    timestamp: "32:46"
+    speaker: Linda
+    content: "I was talking to a friend about this and I don't have the link. We'll find it later. But there was a podcast or something that was talking about this. About how when you and I, Andy, were younger, every single thing that we did would not be published instantly to give our friends FOMO or to just show people exactly who we are and what we're up to. Instead, we grew up with this tendency to try things out and to try on different personas almost. I think that like for me it would be like I'd go to church on Sundays and I would be one person on those days where I was expected to act and behave a certain way and then on Tuesdays there was a thing that I had to go to that I knew a bunch of punk kids would be there and so I'd be more of like a punk kid and I'd try to skateboard and stuff."
+  -
+    timestamp: "33:40"
+    speaker: Andy
+    content: "Sure."
+  -
+    timestamp: "33:40"
+    speaker: Linda
+    content: "On Fridays you'd hang out with your sister's friends and they're all a little bit girlie so then I'd pull out the make-up. I think that we're kinda able to experiment with who we were a little bit. You try these various extremes until you grow up and settle in on what feels like the real you. It's weird because nowadays kids are growing up and they're having to choose at such a young age what that identity is. That's gotta be incredibly a lot of pressure. I don't know. To figure out right away which of these things you're gonna post and how you're gonna show the world who you are."
+  -
+    timestamp: "34:21"
+    speaker: Andy
+    content: "Well, it's funny. I definitely see that perspective but I also think that in some ways, the internet does the opposite in that it allows you to be literally different people in different spaces."
+  -
+    timestamp: "34:33"
+    speaker: Linda
+    content: "[laughter] You can..."
+  -
+    timestamp: "34:33"
+    speaker: Andy
+    content: "On Twitter, I am mostly design bro dude. I mostly tweet about design stuff and I've gotten more engaged in politics and social issues and so I tweet about that stuff now too and that's kind of my personality over there. On Instagram, I just post pictures of my dog and things that I've cooked."
+  -
+    timestamp: "34:51"
+    speaker: Linda
+    content: "Exactly."
+  -
+    timestamp: "34:52"
+    speaker: Andy
+    content: "Not pretty pictures of things that I've cooked. For the past year and a half, and I think I'm stopping now. I haven't done it for the past couple of weeks. I think I'm just gonna be done with it but I used to post every single thing I cooked as a way to keep myself honest, keep myself cooking, to track how regularly I was doing it. And it was ugly stuff. Here I've steamed these dumb dumplings and I threw them on rice and it looks terrible."
+  -
+    timestamp: "35:13"
+    speaker: Linda
+    content: "Oh but I loved that. Just seeing a home-cooked meal even if it was ugly as s***, I loved seeing that in my feed so thank you, Andy."
+  -
+    timestamp: "35:22"
+    speaker: Andy
+    content: "Frankly, if we're being honest, even the fact that the pictures were ugly as s***, it was kind of a statement."
+  -
+    timestamp: "35:26"
+    speaker: Linda
+    content: "Exactly."
+  -
+    timestamp: "35:26"
+    speaker: Andy
+    content: "I'm not going to be the cool Instagram kids and compose this. I'm just gonna snap it off and not give a s***."
+  -
+    timestamp: "35:31"
+    speaker: Linda
+    content: "I know. That's what I'm doing right now too. I'm just like the last time I..."
+  -
+    timestamp: "35:34"
+    speaker: Andy
+    content: "As if I was too cool for school."
+  -
+    timestamp: "35:36"
+    speaker: Linda
+    content: "[laughter]"
+  -
+    timestamp: "35:38"
+    speaker: Andy
+    content: "I have accounts on Reddit, on specific Slack channels and teams where I talk about different things and I'm a totally different person. That's something that you can actually compartmentalize before. Where before you had the danger of coming home from church and running into your skateboard friends and now it's awkward."
+  -
+    timestamp: "35:56"
+    speaker: Linda
+    content: "Yeah."
+  -
+    timestamp: "35:57"
+    speaker: Andy
+    content: "I don't have that same sense of awkwardness. Some people sometimes crossover the different spheres, right? Like somebody that... I'm in a Slack team about a card game with will notice that I'm on Twitter and be like, \"Oh geez, you posted a lot about these kind of things over there.\" I'm like, \"Yeah, that's also part of me,\" and, \"Get over it.\""
+  -
+    timestamp: "36:11"
+    speaker: Linda
+    content: "Yeah. Just today, I have a group meet with all of my improv friends, this improv class that I'm taking, and we were exchanging our Twitter profiles and somebody was like, \"Damn Linda, why do have so many followers?\" and I was like, \"Oh, it's because I'm... \""
+  -
+    timestamp: "36:25"
+    speaker: Andy
+    content: "Because of shapes and colors."
+  -
+    timestamp: "36:26"
+    speaker: Linda
+    content: "It's like, \"It's because I'm mildly somewhat tiny but popular in the tech design world. It's not 'cause I'm funny, guys. [laughter] Don't come to this Twitter account expecting sweet improv tweets. [chuckle]"
+  -
+    timestamp: "36:41"
+    speaker: Andy
+    content: "You got those good funny tweets, I think. But yeah, I hear that thing, and frankly, that's one of my complaints for something like Facebook 'cause I feel like Facebook as a service is driving at that one true you, right? There is no..."
+  -
+    timestamp: "36:54"
+    speaker: Linda
+    content: "Yes, it's too singular..."
+  -
+    timestamp: "36:55"
+    speaker: Andy
+    content: "Room for this compartmentalization."
+  -
+    timestamp: "36:56"
+    speaker: Linda
+    content: "Yeah, it's like, \"What's your relationship like?\" and, \"What are your friends like?\" and, \"What's your political views?\" and, \"What's the... \" Too many things."
+  -
+    timestamp: "37:03"
+    speaker: Andy
+    content: "Yeah. To me, that's a flaw in that I don't give almost any information to Facebook because it's this weird open place, and I tried for a while. I did an experiment where I just friended all of my family on Facebook of which there's a ton of extended family, and I was like, \"This will be my family social network,\" because none of them are on Twitter or anything, right? Like my aunts and uncles that live in the middle of nowhere. So I was like, \"This is the one place they are, let me make this about family,\" and I've found that I just had nothing to say, really, right? I didn't care to post my political views there, I didn't care to post about graphic design there, I didn't care to post about my hobbies and interest there, so it's just a dead zone because it was this thing that was illuminated by the attention of my family, which I didn't necessarily have as much to say to."
+  -
+    timestamp: "37:44"
+    speaker: Linda
+    content: "Yeah, I don't post to mine at all for the same reasons."
+  -
+    timestamp: "37:48"
+    speaker: Andy
+    content: "Yeah, give or take that. So I have a few more small criticisms about Simon's thing, and then you can wrap up with whatever you wanna close on."
+  -
+    timestamp: "37:58"
+    speaker: Linda
+    content: "Okay."
+  -
+    timestamp: "38:00"
+    speaker: Andy
+    content: "But, I wanted to point out that he compares the addiction of using a device to the addiction that you get from smoking or drinking alcohol. His citation being that there's evidence that shows when you got a text or a little notification, you get a hit of dopamine..."
+  -
+    timestamp: "38:15"
+    speaker: Linda
+    content: "Little dopamine hit."
+  -
+    timestamp: "38:15"
+    speaker: Andy
+    content: "And you also get dopamine when you smoke or drink alcohol, which..."
+  -
+    timestamp: "38:18"
+    speaker: Linda
+    content: "Therefore, they must be the same thing."
+  -
+    timestamp: "38:19"
+    speaker: Andy
+    content: "Is probably true, but you also get dopamine hits from eating food, and having sex, and living your normal life. [laughter]"
+  -
+    timestamp: "38:26"
+    speaker: Linda
+    content: "Exactly."
+  -
+    timestamp: "38:26"
+    speaker: Andy
+    content: "Like lots of things that are just not addictive. And actually, dopamine management is a huge part of depression and anxiety; people that suffer from depression largely, chemically if you look at it, are just not getting enough dopamine. So if we can use technology, something that has no negative health effects or whatever to alleviate that, it seems ridiculous not to. And in that same vein, he said, \"We know that people who spend more time on Facebook suffer higher rates of depression than people who spend less time on Facebook,\" which is just a classic example of confusing causation and correlation."
+  -
+    timestamp: "38:58"
+    speaker: Linda
+    content: "Yeah, which came first, the chicken or the egg?"
+  -
+    timestamp: "39:00"
+    speaker: Andy
+    content: "Yeah, he seems to be implying that, \"Oh, if you spend time on Facebook, you'll be depressed,\" not that if you are depressed you might seek the dopamine hits of social interaction online more regularly, not that you might be doing something else. So that to me is a flaw that I think is dangerous. He said that you might as well open a liquor cabinet to your kids and tell them to drink up, which is preposterous and whatever. He's just very good at saying things to make people nod their heads, which..."
+  -
+    timestamp: "39:26"
+    speaker: Linda
+    content: "Yeah, but I do agree with him to some extent that like, it's unhealthy to be getting your dopamine from that. I would much rather, my teenager, get their dose of dopamine from sex than from their telephone. [laughter] It's so addictive, it really is so addictive where people are just completely obsessive over how many likes things get and it's just invisible fake stuff that doesn't actually matter in the end of the day at all. It has nothing to do with who you are or what you're going to contribute to the world, but I think that to these kids, it really does have a strong mental and emotional effect on them. It means the world to them to get a hundred likes, you know, and you're like, \"That isn't a thing, that isn't even a real thing that is tangible.\""
+  -
+    timestamp: "40:21"
+    speaker: Andy
+    content: "I don't know if I agree, because, yes, if you're focused on the numbers, right, I think there's a danger in that. The danger mainly being that you can't directly correlate number of things to an actual value but..."
+  -
+    timestamp: "40:36"
+    speaker: Linda
+    content: "And so many people are and they have apps that will tell them when people unfollow them. Why would you do that to yourself? It's just... I don't like it."
+  -
+    timestamp: "40:47"
+    speaker: Andy
+    content: "Yeah, but I can't get on board with the idea that this is somehow not real though, right? You also get a dopamine hit from high-fiving your friend, and from getting a hug, and from seeing your neighbor and going and saying hello, right? Those are all things..."
+  -
+    timestamp: "41:00"
+    speaker: Linda
+    content: "And they're all real things..."
+  -
+    timestamp: "41:02"
+    speaker: Andy
+    content: "That are the exact equivalencies of getting up in the morning and seeing the first tweet in my feed from Linda last night, and gosh, isn't that fun to see? She said this thing like, it's a different medium, it is not a different thing, and the medium has its own unique traits, but that's a legitimate interaction. It's a different interaction, but it's not de-legitimized by the fact that it happens on a phone, and I agree that..."
+  -
+    timestamp: "41:22"
+    speaker: Linda
+    content: "That's true. It's a little tweet hug."
+  -
+    timestamp: "41:23"
+    speaker: Andy
+    content: "I agree that we a lot of learning to do about how exactly this is gonna affect people's lives, and I certainly wouldn't wanna be the person that... I spend a lot of time on my phone, certainly, but I wouldn't wanna be the person that is like... My line is that I have all notifications, and sounds, and vibrations turned off on my phone at all times."
+  -
+    timestamp: "41:40"
+    speaker: Linda
+    content: "Yes, I was gonna bring that up because when I turned mine off, you were one of the first people to respond, and you said that you did it like a year or two ago or something, and that you've..."
+  -
+    timestamp: "41:50"
+    speaker: Andy
+    content: "It's been a while now."
+  -
+    timestamp: "41:50"
+    speaker: Linda
+    content: "Just never looked back. And I haven't changed it ever since, and I am like, \"Oh my god, I'm so preachy about it to everybody.\" I'm like, \"You've got to do this. It is such a life improver to just turn all of the little red dots off\" because whatever the opposite of dopamine is, like that's what the little red dots are for me. [chuckle] It's just anxiety."
+  -
+    timestamp: "42:11"
+    speaker: Andy
+    content: "Sure and to be fair the reason that that works so well for me just turning off all everything, is that I'm already looking at my phone enough through the day that I don't need to get notification about a text message because I will definitely see it in the next 20 to 30 minutes, no doubt, which some people probably... Simon would probably say is disgusting and addictive but that's the line for me. I found that I'll go to my phone when I want, I'm not going to let my little rectangle demand attention from me and tell me when I get to the look at it."
+  -
+    timestamp: "42:39"
+    speaker: Linda
+    content: "Right."
+  -
+    timestamp: "42:39"
+    speaker: Andy
+    content: "So, there's a line for everybody, right? And I've certainly had moments in my life where I felt like I was too tethered to something. And I've tried to navigate that but never have I been like, \"This is evil, this is not real, this doesn't count.\" I've always just been like, what does this mean in my life and how can I maximize for that meeting because I've gotten enormous value, personally and emotionally, from relationships and things I have experienced in the digital world. And contrary to what you said, I actually have very precise memories of certain e-mails I've gotten or certain times that I've logged on and seen something for the first time. Like I remember where I was when Steve Jobs died but I remember seeing it on my phone. I remember what the tweet looked like that I saw when I saw that had happened."
+  -
+    timestamp: "43:26"
+    speaker: Linda
+    content: "Really? Maybe my brain is broken."
+  -
+    timestamp: "43:28"
+    speaker: Andy
+    content: "Oh absolutely. Same thing goes, and this is kind of grim, but the same thing goes for tragedies and stuff. Like I remember the night that the earthquake and subsequent tsunami hit Japan, whatever like seven years ago or something, which was shortly after I joined Twitter. I remember being amazed at how amazing a news resource this thing was. It was one of the first times I experienced a national event through Twitter and I remember so vividly the feeling of going through the timeline and of trying to follow threads and that kind of stuff. So I do feel like I'm forming memories and stuff that are very integral with the technology that I'm experiencing them through."
+  -
+    timestamp: "44:10"
+    speaker: Linda
+    content: "Wow."
+  -
+    timestamp: "44:11"
+    speaker: Andy
+    content: "To me it's just like our parents' generation might have watched the moon landing on a black and white TV or might have heard the famous radio announcements over the course of history. It's not that you're gonna remember everything, right? "
+  -
+    timestamp: "44:26"
+    speaker: Linda
+    content: "Right."
+  -
+    timestamp: "44:26"
+    speaker: Andy
+    content: "But at the same time I've also spent really fun nights out in the woods gallivanting around with friends but like, do I remember it, I remember it sure. Does it like paint a picture very vividly of certain moments, sometimes. But I don't feel my memories any different depending on the context that something happened in, just wasn't important to me. And if it was then I remember it and if it wasn't then I probably don't. And sometimes important stuff happens on a phone. I remember specific road trips where I was texting one person for hours and hours on end because we were just really deep in some important conversation and talking about something."
+  -
+    timestamp: "45:00"
+    speaker: Linda
+    content: "Yeah."
+  -
+    timestamp: "45:01"
+    speaker: Andy
+    content: "So I have those memories."
+  -
+    timestamp: "45:02"
+    speaker: Linda
+    content: "So, yeah don't get me wrong, I do think that... Obviously I work at a digital design agency and my job is making digital pictures on the Internet. I very much like..."
+  -
+    timestamp: "45:16"
+    speaker: Andy
+    content: "Please make that you new bio."
+  -
+    content: Chuckle
+  -
+    timestamp: "45:19"
+    speaker: Andy
+    content: "My job is making digital pictures on the internet."
+  -
+    timestamp: "45:22"
+    speaker: Linda
+    content: "[chuckle] So, yeah. I do love technology and I do love that world so much but I think that you just have to learn how to be really careful with it because the real life that is happening around you outside of these rectangles is ultimately what I'm striving for and what's more important. And so I think it's just giving precedence to the living and breathing things that are around me when they are around me and then saving the little rectangles for a little rectangle time. [chuckle]"
+  -
+    timestamp: "46:00"
+    speaker: Andy
+    content: "Sure."
+  -
+    timestamp: "46:01"
+    speaker: Linda
+    content: "When I'm at home alone, sure, I'll sit there on Twitter and like laughing my ass of by myself, by myself sometimes because I follow some really hilarious people and there's a time and a place for that. And for texting people nonstop, like just today my best friend who moved to New York I felt like... I realized I haven't seen her in months but I don't feel like it at all because we'll just text each other non-stop and she's airing all of her grievances about different things to me and you're able to still be there for friends who are physically so far away."
+  -
+    timestamp: "46:39"
+    speaker: Linda
+    content: "So yeah, I think that there's a lot of importance in technology and it really has enhanced my relationships and it's made it possible to stay connected on FaceTime, like when my sister's husband was serving in Afghanistan, she was still able to see him on Christmas Day and stuff like that. So, yes there's huge importance to it but I think it's just like people when you're living and breathing humans are around you like put your fucking phone down. I hate the mindless scrolling, when you're just like..."
+  -
+    timestamp: "47:11"
+    speaker: Andy
+    content: "Sure."
+  -
+    timestamp: "47:12"
+    speaker: Linda
+    content: "Not even realizing that you're doing it or why but for some reason you just have this knee jerk reaction to just pick it up and just start scrolling through it and to stop making eye contact people. Like my dad does it because he plays Scrabble a bunch on his phone [chuckle] but yeah."
+  -
+    timestamp: "47:28"
+    speaker: Andy
+    content: "Sure, but I agree with that for me the distinction is not the medium, it's the purpose, right? "
+  -
+    timestamp: "47:35"
+    speaker: Linda
+    content: "Yeah."
+  -
+    timestamp: "47:36"
+    speaker: Andy
+    content: "A good example is some people watch TV by just turning on the TV and whatever is on they're gonna watch and it's very easy just to kind of get into that rut, that little habit of \"I'm gonna watch a thing and it's gonna take my attention away and that'd be great.\" Some people watch TV by seeking out television shows they really like and watching them intensely and paying attention and then getting on the internet and talking to other fans about it, sharing in the experience of a new tv show coming out, which is another thing I resented about Simon's little rant was that he said that, \"Oh, some people wait to binge watch an entire thing because they want immediate gratification.\""
+  -
+    timestamp: "48:09"
+    speaker: Linda
+    content: "Yeah."
+  -
+    timestamp: "48:10"
+    speaker: Andy
+    content: "Dude, that person is waiting the entire season to watch it. They don't want immediate gratification, they care about this thing so much. They think it's important enough to experience all at once."
+  -
+    timestamp: "48:19"
+    speaker: Linda
+    content: "Yeah."
+  -
+    timestamp: "48:19"
+    speaker: Andy
+    content: "And that's a level of purpose and intent that is present across different mediums, and so there is like..."
+  -
+    timestamp: "48:27"
+    speaker: Linda
+    content: "Yeah."
+  -
+    timestamp: "48:27"
+    speaker: Andy
+    content: "I think there is different ways to use all kinds of different things. And you know, same thing can be said for people going to parties, right? I knew people in high school and college that went to all the parties and never meaningfully engaged with anybody, any of them, because they were just there kinda going through the routine. I think you can do on auto pilot, and you can do anything with purpose and with intent and, that to me is the distinguishing factor, not the medium. And whether or not it's slightly easier to go on auto pilot on a device than it is in real life, it's probably true, there's probably some weight to that but..."
+  -
+    timestamp: "49:01"
+    speaker: Linda
+    content: "Yeah. No, and I..."
+  -
+    timestamp: "49:03"
+    speaker: Andy
+    content: "That's where the line drawn for me kind of."
+  -
+    timestamp: "49:05"
+    speaker: Linda
+    content: "I totally agree with you and I've had this rule for myself for the past six or seven years or something, and that leisure time should always be intentional. And, so that's not saying like that you should never sit down and relax and watch TV, but it's that if you do, you should like beforehand say, \"I, Linda, am about to spend the next three hours binge-watching House Hunters International,\" or whatever... [laughter]"
+  -
+    timestamp: "49:31"
+    speaker: Andy
+    content: "And you light a candle and you get some ice cream..."
+  -
+    timestamp: "49:34"
+    speaker: Linda
+    content: "And a box of tissues... [laughter]"
+  -
+    timestamp: "49:34"
+    speaker: Andy
+    content: "And you really do it right."
+  -
+    timestamp: "49:37"
+    speaker: Linda
+    content: "And, I think that it's important to give ourselves down time or else we would just drive ourselves mad. But it's just being intentional and being purposeful about it. And then you enjoy it so much more, like it feels like a little gift that you're giving yourself. And it's the same thing with your phone, and your iPad and whatever. It's like, all right, this is the time that I'm spending to do this thing, because I want to, and not because I'm accidentally going to fall into it and be like, \"Whoa, what happened to the last four hours? Didn't mean to watch The Kardashians.\""
+  -
+    timestamp: "50:10"
+    speaker: Andy
+    content: "Sure."
+  -
+    timestamp: "50:11"
+    speaker: Linda
+    content: "Yeah."
+  -
+    timestamp: "50:12"
+    speaker: Andy
+    content: "I think it's interesting to talk about millennials period because, I feel like it's one of the more poorly defined generations. I mean, obviously..."
+  -
+    timestamp: "50:20"
+    speaker: Linda
+    content: "Yeah, it's kinda vague."
+  -
+    timestamp: "50:21"
+    speaker: Andy
+    content: "Every generation is like arbitrary, arbitrary grouping of people based on whatever. Some generations are much more concrete. You think about the baby boomers, where it was... There really was a spike in population when this group of people came back from the war, and they were all raised under a very specific context and a certain political climate and, yeah, it was an immense variation, infinite variation, but there was still this constant thread."
+  -
+    timestamp: "50:46"
+    speaker: Andy
+    content: "And then from there I think like every generation is like, \"Well, our defining feature is that, we were raised by the baby boomers. And our defining gener... \" And it's like, well, we don't really have the same defining thing. If there's anything for our generation, I think it is gonna be the coming of age and coming of adulthood with access to social media and the internet, which I really do think has a huge effect on people. I think it's almost entirely positive, which is kinda contrary to what Simon thinks. But, I always think about, what it must be like to be in a small town in the Midwest, and you are one of the only gay people in that town, and you're growing up as a kid. And how difficult that must have been, how near impossible it must have been 30 years ago..."
+  -
+    timestamp: "51:27"
+    speaker: Linda
+    content: "Oh yeah."
+  -
+    timestamp: "51:28"
+    speaker: Andy
+    content: "And now you can have the internet. And you can know that a world exists outside of your little bubble, and you can see people that are like you, and you can share people that have the same interest, and the same values, and the same priorities, and you can connect with a community of people in a way that you never could before. And how much better things must be, certainly not all good..."
+  -
+    timestamp: "51:46"
+    speaker: Linda
+    content: "Yeah."
+  -
+    timestamp: "51:46"
+    speaker: Andy
+    content: "But how much better they must be for people like that, than they would have been before the internet. You know we all have our own... It's different to varying degrees. We all have our own things about us that we feel are different, and we go to these more far flung communities to kinda seek friendship and comradery."
+  -
+    timestamp: "52:06"
+    speaker: Linda
+    content: "Yeah."
+  -
+    timestamp: "52:07"
+    speaker: Andy
+    content: "So, if anything if that's gonna be like where we draw the line, you are a baby boomer, if you, during puberty, had access to the internet, and that was like a new thing and, you were better at your at your computer than your parents were, maybe that's what a millennial is."
+  -
+    timestamp: "52:21"
+    speaker: Linda
+    content: "Yeah."
+  -
+    timestamp: "52:22"
+    speaker: Andy
+    content: "I can see some meaning to that."
+  -
+    content: Music
+  -
+    timestamp: "52:36"
+    speaker: Andy
+    content: "Thank you to XYZ Type for sponsoring our transcripts. You can find them online at XYZtype.com. Thank you to Linda for talking. You can find her on Twitter @ittlenono, and most of all, thank you for listening. Till next time."
+  -
+    content: Music
