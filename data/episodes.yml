@@ -196,7 +196,7 @@
 -
   id: 4
   date: 2017-01-10
-  title: Making Something that&rsquo;s Missing
+  title: Making Something that's Missing
   soundcloudID: 301772182
   transcript: true
   contributorSlugs:
@@ -1418,3 +1418,31 @@
     -
       url: https://en.wikipedia.org/wiki/Millennials
       text: Millennials
+-
+  id: 22
+  date: 2017-09-19
+  title: Something to Say
+  soundcloudID: 343000740
+  contributorSlugs:
+    - maurice-cherry
+    - jon-lewis
+  showNotes: "Long time contributor Maurice Cherry organized this episode where Andy, Matt, and new contributor Jon Lewis discuss what it's like starting your own business as a designer. What are the reasons to start something new instead of getting a normal, stable job? What are the most difficult parts that no one ever tells you about?"
+  links:
+    -
+      url: http://yepitslunch.com/
+      text: Lunch
+    -
+      url: http://metalab.co/
+      text: MetaLab
+    -
+      url: https://bakkenbaeck.com/
+      text: "Bakken & Bæck"
+    -
+      url: https://en.wikipedia.org/wiki/Million_Dollar_Matchmaker
+      text: Million Dollar Matchmaker
+    -
+      url: https://www.elevateapp.com/
+      text: Elevate App
+    -
+      url: https://twitter.com/monteiro
+      text: "Mike Monteiro 🙃"
