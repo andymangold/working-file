@@ -1,0 +1,1163 @@
+messages:
+  -
+    timestamp: "0:00:00"
+    speaker: Andy
+    content: "You are listening to Working File, a podcast about design practice and its relationship with the world. My name is Andy Mangold."
+  -
+    timestamp: "0:00:07"
+    speaker: Matt
+    content: "And I'm Matt McInerney."
+  -
+    timestamp: "0:00:09"
+    speaker: Andy
+    content: "On this episode, which was organized by Maurice, the three of us are joined by Jon Lewis to discuss being a designer and starting your own business."
+  -
+    timestamp: "0:00:17"
+    speaker: Matt
+    content: "Which is a lot easier than you think it's gonna be."
+  -
+    timestamp: "0:00:19"
+    speaker: Andy
+    content: "That's the main takeaway, very easy."
+  -
+    timestamp: "0:00:21"
+    speaker: Matt
+    content: "Not a big deal."
+  -
+    content: Music
+  -
+    timestamp: "0:00:41"
+    speaker: Maurice
+    content: "All right. Well welcome, everyone. My name is Maurice Cherry, so we're kinda switching it up here a little bit and I'll be leading the discussion for this episode where I'm gonna be talking with both Matt and Andy, as well as our special guest, Jon Lewis."
+  -
+    timestamp: "0:00:56"
+    speaker: Jon
+    content: "Hey, guys, how's it going?"
+  -
+    timestamp: "0:00:58"
+    speaker: Andy
+    content: "I'm glad we finally got someone competent in charge of this podcast. Maurice is leading things. I feel very comfortable."
+  -
+    content: Laughter
+  -
+    timestamp: "0:01:03"
+    speaker: Jon
+    content: "Yeah, that guy is pretty great."
+  -
+    timestamp: "0:01:05"
+    speaker: Andy
+    content: "We were talking about how great Maurice was before he showed up on this call."
+  -
+    timestamp: "0:01:08"
+    speaker: Maurice
+    content: "Really?"
+  -
+    content: Overlapping Conversation
+  -
+    timestamp: "0:01:09"
+    speaker: Andy
+    content: "Were your ears burning, Maurice?"
+  -
+    timestamp: "0:01:11"
+    speaker: Maurice
+    content: "Now you should have recorded that. [chuckle]"
+  -
+    timestamp: "0:01:13"
+    speaker: Andy
+    content: "I may have some test recordings with some nice things about you, which I can hold hostage."
+  -
+    timestamp: "0:01:18"
+    speaker: Maurice
+    content: "All right. Okay. So we're gonna be talking about design entrepreneurship or, I guess, starting a design business, a design studio. I know designers tend to call what they do for their own sort of self-employment different things, but we're gonna just talk about that in general. So I think we've got a pretty good line-up here to discuss that."
+  -
+    timestamp: "0:01:38"
+    speaker: Matt
+    content: "We've all done a thing like that, I think. Maybe a little bit different than others, but everybody is designing a business."
+  -
+    timestamp: "0:01:43"
+    speaker: Andy
+    content: "Different angles in the same or similar thing. I'm specifically interested to hear from you, Maurice, and also from Jon, whose, I think, history is a little more maybe interesting than Matt and mine."
+  -
+    timestamp: "0:01:54"
+    speaker: Maurice
+    content: "Let's start off with Jon."
+  -
+    timestamp: "0:01:56"
+    speaker: Jon
+    content: "Hey, where do you wanna begin?"
+  -
+    timestamp: "0:02:00"
+    speaker: Andy
+    content: "Pretend that people listening in have no idea who you are, hypothetically."
+  -
+    timestamp: "0:02:01"
+    speaker: Jon
+    content: "Okay, all right, great. Okay, let's start with that. So I'm Jon Lewis. On the web, you may know me as Umi Workshop. I'm from Hawaii. I ran a creative agency back home a couple of years ago and then I moved to California to work at startups. So the first design business I ever started was my own little shop, and then I went into startups after that, and then founded my own company which I'm running today. So entrepreneurship and then startups, there's a lot of overlaps there, but I'd say that'd be over the course of, I don't know, let's call it 12 years or so, comfortably, without making any weird overlaps in some places where I wasn't getting paid for designing. Which I guess doesn't really count as a business, it's more like charity."
+  -
+    timestamp: "0:02:55"
+    speaker: Andy
+    content: "Sure. And your current thing is not... You're not running a design studio."
+  -
+    timestamp: "0:03:00"
+    speaker: Jon
+    content: "No, I'm not."
+  -
+    timestamp: "0:03:00"
+    speaker: Andy
+    content: "You're running a business that, to the outside world, would not necessarily resemble a design-related thing. You're a software designer."
+  -
+    timestamp: "0:03:06"
+    speaker: Jon
+    content: "Absolutely. I am the design founder, I'm a co-founder, there are three of us, and my role is strictly running product and designing that product, and the lines in products, and all of our brand and all of that stuff. So there's design management that goes into it and a lot of similar things that happen in a design shop, which is great because having run my own studio and worked at other startups, I have a lot of really interesting nuggets to pull and then kinda place into my own world and use them how I see fit or learn from other peoples' mistakes, which is also a thing I'm a big fan of."
+  -
+    timestamp: "0:03:42"
+    speaker: Andy
+    content: "Maurice, what does... I know what you do, obviously. We've been friends for a while and talked about it, but I do not know the real context under which you started your own studio, why you did it. So what is the story behind you and Lunch, which was formerly called... I don't remember."
+  -
+    timestamp: "0:03:56"
+    speaker: Maurice
+    content: "318 Media."
+  -
+    timestamp: "0:03:57"
+    speaker: Andy
+    content: "That's right. I would have remembered. You could have given me a sec, I would have figured it out. What is the exact context behind that? Why?"
+  -
+    timestamp: "0:04:05"
+    speaker: Maurice
+    content: "So for me, and I guess this is the question that we're gonna start off with, which is, \"Why did you decide to start a design business?\" So we can go into answers, but, for me, I was always doing design on the side as a hobby. When I was in high school, when I was in college, I was always doing it on the side, and then I got my first actual legit design job in 2005 and worked in a couple of different companies between 2005 and 2008, most of them either government or tech/Fortune 500-type design companies. Or companies that, I should say, use design; let me not call them design companies. But I was not fulfilled in that work. It was mainly production-based. A lot of contract-type of work, not really fulfilling. And eventually, I just got tired of it and ended up leaving and starting my own studio 'cause I felt I could do better, and now I've been doing that for the past... It'll be nine years in November."
+  -
+    timestamp: "0:05:06"
+    speaker: Jon
+    content: "That's such a great reason, \"'Cause I can do better.\" I love that reason."
+  -
+    content: Laughter
+  -
+    timestamp: "0:05:11"
+    speaker: Maurice
+    content: "No, seriously, I really felt that at... I guess I can mention it, with AT&T, but I just felt like I could do better. They had taken everything about design and turned it into the McRib, like it was just..."
+  -
+    timestamp: "0:05:23"
+    speaker: Andy
+    content: "Hey, the McRib is great though, right?"
+  -
+    timestamp: "0:05:27"
+    speaker: Maurice
+    content: "Do you really wanna know what's in the McRib or do you just want that congealed, sauce-covered meat patty at the end of the day? That's kinda what I felt like I was doing with design, just churning out these rib-shaped patties of websites and it just didn't have any kind of heart or soul or feeling or anything behind it."
+  -
+    timestamp: "0:05:47"
+    speaker: Andy
+    content: "Doesn't sound great. That reason is interesting to me, right? The reason of, \"I can do better.\" Did you, at the time, feel like there were other companies that were doing better that you maybe could have gotten jobs at? Did you consider that path or did you really feel like you were the person that had the best opportunity to do the best job in this given circumstance? I'm interested in... So for context, my backstory is I went to school, studied design, got out of school, started a design studio, small design studio that does mostly software and tech work. The most boring story you could possibly have in this particular sector. And when I started the company with a couple of co-founders, the reason we started the company back then, which sounds kind of crazy to say now, in a way, was that we wanted to do design development work for a variety of companies that would allow us to work closely together and continue to learn new skills. And at the time, the options of jobs for designers were you can either work at a design studio, where you probably don't get to do really much related technology aside from branding, or you maybe get to design some screens that you throw over some wall to a development studio that you never gonna speak to, or you could go become a designer in-house somewhere and work on the same product everyday, which I don't mean to slight 'cause I think now I view that differently than I did at the time."
+  -
+    timestamp: "0:07:14"
+    speaker: Andy
+    content: "At the time I felt like I didn't wanna work on the same problem; I wanted to get exposed to different industries, different markets and understand different kinds of problems. Now I understand more clearly that even at a company that is solving a relatively simple problem, there's all kinds of layer and depth to that. There's a lot to learn there that maybe I took for granted at the time. But that was why we started the company then, and now that's not the case anymore. Now there are lots of design studios that are doing that work, that do experimental technology things, that have developers and designers working under the same roof. They're doing the kind of work that we strive to do. So that reason is not on the table anymore. So something I've been thinking about lately is what is the reason... To put it plainly, why continue running our own company at this point? We could go get jobs for somebody else and that's something we've been thinking about. So I'm curious to know other reasons for just why people are doing their own thing?"
+  -
+    timestamp: "0:08:02"
+    speaker: Maurice
+    content: "Well, I think there's a caliber of designers out there that start their own shops for the same reason that like a really great chef opens their own restaurant. You know, like..."
+  -
+    timestamp: "0:08:15"
+    speaker: Andy
+    content: "Interesting."
+  -
+    timestamp: "0:08:16"
+    speaker: Maurice
+    content: "I like to think that you don't open a restaurant as a prominent chef unless you have something to say."
+  -
+    timestamp: "0:08:23"
+    speaker: Andy
+    content: "Yeah."
+  -
+    timestamp: "0:08:24"
+    speaker: Maurice
+    content: "And I feel like that can exist in any craft, that passion, and I think running a design shop with that focus is a great reason to start a shop because then you start to have gravity around the way that you work. You attract the sort of people that you wanna work with, and you attract the clients you wanna work for. And without that gravity, you don't really... You kinda have that moment where you're like, \"We're just running through the motions now.\" You kinda lose the passion of what you had when you started, and that's like kind of... Like you hit a ceiling, and do you break through that ceiling? Do you get a new passion? Do you start exploring different areas of design that you didn't explore before? You have to ask yourself all these questions. But for the right team, solving the right types of problems, and if they're doing at a world class level, they never really have to stop. They just kind of have to maybe scale or choose not to, I guess. [chuckle]"
+  -
+    timestamp: "0:09:24"
+    speaker: Matt
+    content: "Yeah, that's another option. I always think of it as like... There's the one, yeah, feeling like you could do it better, like Maurice said, or feeling like you have something unique to say. I always thought of the way you would treat the people you work with or the way your company exists in the world as a pretty big motivating factor. You can be in charge of not just the clients you work with and the design work that you do, but how you run your own company, which was... My background is not too dissimilar from Andy's, except that I worked at other places before starting my own studio. Or not... I didn't start it. I joined friends who did and got control, too. So got to..."
+  -
+    timestamp: "0:10:08"
+    speaker: Andy
+    content: "Seized control. [chuckle]"
+  -
+    timestamp: "0:10:09"
+    speaker: Matt
+    content: "Got to make some decisions but had some foundation for joining."
+  -
+    timestamp: "0:10:14"
+    speaker: Andy
+    content: "Yeah, and honestly, that's the reason... That's probably the biggest reason why we continue doing what we're doing here now, is that we have a culture we've built, we have employees, we have an office, we have all of the trappings of a business that gives you momentum and inertia to continue moving forward instead of to stop and change direction and do something else. So it's interesting to me that over the course of our company's life, the initial seed of why we wanted to start was, genuinely, we just wanted to make the kind of job that we wanted and we couldn't find that job anywhere else. We had a combination of designers and developers that were founding the company and the jobs available to us were just not interesting. They weren't things we wanted to be doing, and so we tried to make a space for that to happen. Now that kind of job is much more common so that space is available. If I were graduating today, I would have no excuse to say, \"I have to start my own company 'cause otherwise I'm not gonna be able to be a designer that still learns about Ruby and JavaScript.\" But yeah, so now the reason we continue is that we've started something and it becomes a thing unto itself, which is a whole different motivating reason."
+  -
+    timestamp: "0:11:18"
+    speaker: Jon
+    content: "Right, businesses are totally just their own organisms."
+  -
+    timestamp: "0:11:23"
+    speaker: Andy
+    content: "For sure. And I definitely... I do get excited about the things that Matt kind of described. At least theoretically, the idea that you get to make something real in the world that has real impact, right? I've talked to some people before about, \"What is the positive impact in the world of the job that you do,\" and some people are really driven to get a job that... They're working for a non-profit or they're working in some way that is gonna make the world a better place or do some social good. And I felt that pull before, to have a job that really has a big positive impact. And I've talked on this show about how running the studio that we do today, we don't exactly have that. We have some clients that are non-profits we get to work for at a discounted rate, we do get to work for some things I believe in, but more or less, most of our clients are just whoever has money to pay us for our services, we give them the services, they give us the money, end of transaction. And that's not the most purposeful, fulfilling thing day-to-day, but the fact that we get to do that work and provide jobs for people with good healthcare and with reasonable hours and reasonable expectations and flexibility."
+  -
+    timestamp: "0:12:28"
+    speaker: Andy
+    content: "At the end of the day, I feel like we've had a positive impact on a few smaller people, very focused, but much larger positive impact on individuals that maybe we could have had on the greater world had we set out with the purpose of ridding the ocean of plastic or whatever our social good kind of mission would be. So that is a thing that definitely is also a motivating factor, the fact that the good you do can be not necessarily directly linked with the work you're doing, if that's a thing you're motivated by."
+  -
+    timestamp: "0:12:55"
+    speaker: Maurice
+    content: "I wanna pull back a little bit here 'cause I do wanna go later into talking about clients and things of that nature, but let's go back to getting started. What was the hardest part for all of you about getting started with your business?"
+  -
+    timestamp: "0:13:09"
+    speaker: Matt
+    content: "Paying the bills."
+  -
+    content: Chuckle
+  -
+    timestamp: "0:13:12"
+    speaker: Jon
+    content: "Making the money that you want. Finding the clients that you wanted to work for, that would always tell you, \"No,\" and they're gonna go hire these other people. That's hard, that's super tough. I started... I was freelancing on my own while I was working at other places for a really long time before I quit everything and just did my own shop. And because of that, I built all these relationships that didn't... They didn't start to bear fruit until I finally quit my job, and that was still not enough. I quit out of passion because, like we were just talking about, the reason why you start is really important and if you have something pulling you in another direction, then it takes attention away from that reason. So I decided to remove the distractions and eat the pain for just a little while because I know it wasn't gonna be forever. But that is a really difficult part of starting anything, any business."
+  -
+    timestamp: "0:14:21"
+    speaker: Matt
+    content: "It's scary... So I mentioned I didn't start it, I joined something small, and it was just like, \"I'm leaving something very stable that seems like it would be around forever, and I'm gonna go join a thing that might blow up tomorrow. Is that reasonable and smart or am I an idiot for it?\""
+  -
+    content: Laughter
+  -
+    timestamp: "0:14:39"
+    speaker: Jon
+    content: "It's terrifying."
+  -
+    timestamp: "0:14:39"
+    speaker: Matt
+    content: "For considering this?"
+  -
+    timestamp: "0:14:42"
+    speaker: Andy
+    content: "The hardest part for us... We certainly didn't know what we were doing when we started the company. I've mentioned before that we started the company with no clients, which I only found out after the fact is not normal. You're supposed to get a couple clients first, then start the company."
+  -
+    content: Laughter
+  -
+    timestamp: "0:14:56"
+    speaker: Matt
+    content: "You mean like have a plan? Is that what you're supposed to do?"
+  -
+    timestamp: "0:14:58"
+    speaker: Andy
+    content: "Well, yeah, I found out after the fact that apparently most people like, \"Oh, we have these people who wanna hire us, I guess we'll start a company so we can fulfill this contract.\" And we were like, \"No, no, you have to make the company first, and then the contracts magically appear like the Field of Dreams,\" which is not of course how it went. So we started really rough and tumble, which... Not rough and tumble, we started very cheaply. In Baltimore, we all rented the same house and we all kind of lived in the same space, had no extra room, it was very intimate and very money-efficient, let's say, which allowed us a little more flexibility to be idiots at the beginning and kinda screw things up and do it wrong until we found our feet under us. But yeah, I think that the hardest part for us at the very beginning was definitely finding those first relationships that would then splinter and branch into other kind of long-term relationships. One of the things that... Depending on the kind of work you're doing, there's always this kind of catch-22; it's like if you're doing consulting work, you just aren't getting paid unless you are doing work, but also you need to be finding the next work to be doing when this current thing you're doing ends, and this kind of non-stop ouroboros of you have to be working, and also finding more work all the time."
+  -
+    timestamp: "0:16:11"
+    speaker: Jon
+    content: "Oh, man, that rat race is not fun."
+  -
+    timestamp: "0:16:13"
+    speaker: Andy
+    content: "It really isn't. So some of the first times that we got clients that felt like they'd be long relationships and have, we've had some clients now for five years, so some of those early relationships that we started to build made it seem like, \"Oh, this actually might be sustainable 'cause we can start to build these pillars and foundational relationships with certain clients and then use the extra time to find other things and branch out.\" But yeah, finding that first work definitely was... It feels kind of obvious to say it, but though it's worth saying that, yes, the hardest part is finding someone to pay you for the thing that you think you're good at and haven't ever demonstrated before that you're actually good at, necessarily."
+  -
+    timestamp: "0:16:49"
+    speaker: Jon
+    content: "Just to be clear, has anyone solved the problem of, \"Oh my God, we're so busy, we're gonna die. Oh my God, the thing just ended, we're not busy enough, we're gonna die.\" Has anyone solved that problem yet?"
+  -
+    timestamp: "0:16:57"
+    speaker: Matt
+    content: "Oh, the feast and famine?"
+  -
+    timestamp: "0:17:00"
+    speaker: Jon
+    content: "Yeah. Do we just live that way?"
+  -
+    content: Chuckle
+  -
+    timestamp: "0:17:04"
+    speaker: Matt
+    content: "I had it solved for a very short period of time, but that only really happened because I was on my own at that point and so it meant that anytime when I was super overwhelmed and busy, I would pull in other designers to help me. And that's before I had started the shop, so I would collab with other people on projects that were overwhelming for me, and then, when I didn't need them, then they would just... They would go off and do their own thing. And then... So everything was kind of fluctuating all the time, whereas when you run a shop, [chuckle] once I opened the doors to an agency, that problem happened, but we also had a really broad offering of services, so no one area of the company was ever suffering more than... To the point where it would sink everything. So diversifying the team and the things that you can solve, it doesn't necessarily mean all design services necessarily, it could mean event planning that involves design as a separate service attached to it and stuff like that. But just being really, really, I guess... What's the word? Cross-disciplinary can solve that problem, I think. In the right marketplace anyway."
+  -
+    timestamp: "0:18:26"
+    speaker: Andy
+    content: "You can also just stop running around like your hair is on fire, Matt, and just accept that this is normal and not insane. That's the other option."
+  -
+    content: Laughter
+  -
+    timestamp: "0:18:34"
+    speaker: Maurice
+    content: "All right."
+  -
+    timestamp: "0:18:35"
+    speaker: Matt
+    content: "Or you could let your business set on fire [chuckle] and just..."
+  -
+    timestamp: "0:18:38"
+    speaker: Andy
+    content: "What? This fire is fine, guys."
+  -
+    timestamp: "0:18:40"
+    speaker: Matt
+    content: "Yeah, no, it's okay."
+  -
+    timestamp: "0:18:42"
+    speaker: Andy
+    content: "Yeah, part of it is I think you just have to... First of all, I do think finding ongoing sources of income, even if they are relatively smaller than these brief flash in the pan, big contracts that come through, and demand a lot of time and attention, and they pay a lot for short period of time. I do think they're trying to build up a foundation. Whatever your type of business is, we're talking about general design entrepreneurship here, so this could be... In our case, it's largely doing maintenance on websites we built. So, \"We built this website but, hey, just so you know, websites are constantly destroying themselves all the time, as technology changes and evolves, they're just constantly dying and pieces are breaking and they're missing updates, and so they do require a constant attention.\" So that's the way that looks for us, right? And we have ongoing contracts, that is maintenance contracts with our clients to make sure that everything keeps going as expected. And in some cases, we even have a little bit of time set aside to continue improving little things as they come up. But for other people, you could be on a retainer with somebody to design certain types of things for them or find a client that has ongoing needs."
+  -
+    timestamp: "0:19:46"
+    speaker: Andy
+    content: "I've had freelance designers in the city here that worked for a restaurant that have a custom-designed menu every week and their job every week was to spend an hour typesetting the menu on Thursday, so it could go to print on Friday and be out for the next week."
+  -
+    timestamp: "0:19:58"
+    speaker: Jon
+    content: "That's fun."
+  -
+    timestamp: "0:19:58"
+    speaker: Andy
+    content: "So finding clients like that, where even if it's small, even if it seems trivial, getting the kind of foundation built up, the ongoing income is one way, I think, to offset that problem you're describing, Matt, of feeling like you're always behind, even when you are busy working on other things."
+  -
+    timestamp: "0:20:13"
+    speaker: Jon
+    content: "There's another..."
+  -
+    timestamp: "0:20:13"
+    speaker: Matt
+    content: "I joke a little bit, but that's... We have some of that, but it always feels that way, where you're like, \"Oh, well. We were so busy, we couldn't possibly do anything else,\" and there's a day where it changes and like, \"Back in sales mode. How'd this happen? How'd this happen all over again?\""
+  -
+    timestamp: "0:20:28"
+    speaker: Andy
+    content: "I will say, I do get that vibe from talking to you about work, Matt, that you always feel... First of all, it seems like you work a lot more than I do, [chuckle] which maybe you're much harder working and/or maybe you're more dedicated and passionate about what you do, or maybe you just feel that pressure more than I do. And then the other thing is you always seem like you're very on edge about getting that next project, is that something you still really worry about?"
+  -
+    timestamp: "0:20:49"
+    speaker: Matt
+    content: "Yeah, I still do for sure. Maybe it just naturally will change because I'm like, \"Well, this has happened again and again and again and again,\" I'm used to it."
+  -
+    timestamp: "0:20:58"
+    speaker: Andy
+    content: "Yeah, maybe."
+  -
+    timestamp: "0:21:00"
+    speaker: Jon
+    content: "There's this really interesting concept that's starting to pop up with product design shops where they'll engage in projects with early stage startups and then take equity in the project and the companies. And I think that that concept is pretty brilliant, especially if you're building great, great products, and you're also setting up those companies to survive without your assistance to the point where they're... Obviously they're gonna hire their teams and they're gonna replace all the services that you offer, but, at some point, you'll receive some dividends from taking the risk on that company as a long-term client. And I think MetaLab does this. Bakken & Baeck, they have a whole situation with ventures that they do. I feel like if I run a studio again, I would definitely wanna explore that concept because I would be wanna be building really great products, the kinds that I wouldn't be able to maintain forever, 'cause they would need to scale."
+  -
+    timestamp: "0:22:03"
+    speaker: Andy
+    content: "Yeah, that is..."
+  -
+    timestamp: "0:22:04"
+    speaker: Matt
+    content: "I'm looking to how that shakes out. I've actually considered that. My company has considered that. We haven't done it yet, but I always wonder how that shakes out. It's one of those things that sounds really nice, especially for some larger product development or design companies, but does that really work for a smaller company or are you just doing a bunch of free work and then dying, you know what I mean?"
+  -
+    content: Laughter
+  -
+    timestamp: "0:22:27"
+    speaker: Andy
+    content: "Sounds like, \"How free is it,\" I guess."
+  -
+    timestamp: "0:22:28"
+    speaker: Matt
+    content: "'Cause it's just, it sounds fabulous, but what is... [chuckle] What's actually happening behind the scenes and 10 years later."
+  -
+    timestamp: "0:22:33"
+    speaker: Andy
+    content: "We've tried that a little bit, actually, and my experience has been... Here's been my experience, basically. So I think if you're gonna do that, you have to approach it the same way that an investor approaches investing in startups, which is to say that you need to invest in a lot of them. You can't say, \"Oh, yeah, we're gonna have two clients and we're gonna take a deep discount on our rate because we're gonna take a little bit of share and equity this product because they're working in an area where it's understood that 95% of them are gonna fail, but the 5% that succeed are gonna exceed well beyond anyone's imagination and make back enough money that it's okay the 95% of the other investments didn't pay off.\""
+  -
+    timestamp: "0:23:07"
+    speaker: Matt
+    content: "Right."
+  -
+    timestamp: "0:23:07"
+    speaker: Andy
+    content: "So you need, I think, be on a certain scale to be able to absorb that risk and really diversify that portfolio of products that you have some kind of share in. The other thing that came up for us whenever we've discussed this in the past and or experimented with it is that, there's a line when you're doing design and development services between what's kind of your responsibility and what's the responsibility of your clients. And when you're starting to take a share in their success, that line gets blurrier because all of a sudden you're like, \"Wait a minute, what are your credentials to be the CEO of this company? And how are you gonna run sales? And what's your plan for this other things,\" that normally you have no say as a designer/developer. All of a sudden you're like, \"Wait, wait, if I'm gonna be putting my investment in this, I'm gonna believe in this thing enough that I'm gonna basically pay effectively money into it, I'm gonna take less payment on my work to hope in the success of this.\" Then you have to ask a whole bunch of questions, which the times we've tried to go down that road oftentimes lead to that idea getting taken off the table. We're like, \"Hey, what about these things?\" And, \"Can we get access the financials,\" and, \"Can you tell us how you're funded,\" and \"Oh, no, no, that's okay. We'll pay you for this. We don't wanna take a discount for this.\""
+  -
+    timestamp: "0:24:12"
+    speaker: Matt
+    content: "Aw, that's a shame."
+  -
+    timestamp: "0:24:13"
+    speaker: Maurice
+    content: "That's why I think like the... It sounds like a great idea for bigger companies, but if you're a small company that maybe can only be developing two to three products at a time. If one of those is not paying for the long the term and, hey, who knows, maybe it'll die and never pay, that's a pretty high risk if you're employing people."
+  -
+    timestamp: "0:24:33"
+    speaker: Andy
+    content: "But I agree with Jon in that I love it, theoretically, because I love the idea of formally aligning your motivations and your clients' motivations, right? You are invested in their success, so that's like your motivations are no longer just to bill as many hours and make the client happy, which frankly is your normal motivation as set up by the normal consulting system. Your motivation is now to invest in the success of this thing, even if it means working more hours than you said you'd work or if it means pushing back on something and making the client unhappy 'cause you're gonna advocate for the end user instead of their happiness. I like all of that. I think that, in our experience, at least for us, it's been more complicated than that. We haven't been able to pull it off. We are actually experimenting a little bit with it, so maybe I'll report back later, but I think it's nice."
+  -
+    timestamp: "0:25:18"
+    speaker: Jon
+    content: "Yeah it's something like a work in progress concept. Not a lot of people are doing it right now, but it's really interesting."
+  -
+    timestamp: "0:25:23"
+    speaker: Andy
+    content: "Yeah. And the ones I've heard about obviously have been the really successful ones, where it's like, \"Oh, we took a 5% share in this thing to design it and then they made a billion dollars and now everything is great, and we're perfect, here's a blog post.\" [chuckle] You don't get the blog posts of the people that tried that and kinda got screwed from it."
+  -
+    timestamp: "0:25:37"
+    speaker: Jon
+    content: "Oh, those are blog posts I want."
+  -
+    content: Laughter
+  -
+    timestamp: "0:25:40"
+    speaker: Jon
+    content: "I want the fail blog. Oh man."
+  -
+    timestamp: "0:25:42"
+    speaker: Andy
+    content: "You love that dirty fail stuff."
+  -
+    timestamp: "0:25:44"
+    speaker: Jon
+    content: "It's really important."
+  -
+    timestamp: "0:25:44"
+    speaker: Matt
+    content: "Those blog posts do exist, but it's always just like, \"And now we're having a new journey where we got bought by so and so.\" It sounds really positive, but actually everything's on fire."
+  -
+    timestamp: "0:25:53"
+    speaker: Jon
+    content: "For an undisclosed amount."
+  -
+    timestamp: "0:25:53"
+    speaker: Matt
+    content: "Yeah. [laughter]"
+  -
+    timestamp: "0:25:54"
+    speaker: Andy
+    content: "And people don't give you the claps on Medium for writing a post about how your idea failed."
+  -
+    timestamp: "0:25:58"
+    speaker: Jon
+    content: "Nope."
+  -
+    timestamp: "0:25:58"
+    speaker: Matt
+    content: "Yup."
+  -
+    timestamp: "0:26:00"
+    speaker: Maurice
+    content: "Let me jump in here, 'cause what I'm hearing throughout the conversation is... Certainly, it seems like the three of you are really knowledgeable about these different parts of working with your business and how you... Well, I'm getting to the question. How did you kind of learn what you needed to be a legitimate business? 'Cause I think sometimes designers will just kind of start up and do freelance stuff, but then there's all this question about contracts and invoices and it can easily get a bit complicated when all you really just wanna do is design work. How did you learn the business side of design?"
+  -
+    timestamp: "0:26:36"
+    speaker: Matt
+    content: "You get burned a couple times. [chuckle] Then you realize you have to pick it up."
+  -
+    timestamp: "0:26:39"
+    speaker: Andy
+    content: "\"Oh, we have to send invoices? Oh.\""
+  -
+    timestamp: "0:26:42"
+    speaker: Matt
+    content: "\"Oh my God, I didn't even realize that I have to.\""
+  -
+    timestamp: "0:26:45"
+    speaker: Andy
+    content: "Maurice, Maurice, you should answer this question too because your job is not just to moderate here. [laughter] I wanna make sure that we're hearing from you. You've been doing this for longer than Matt and I, and probably similar amount of time as Jon. So I'm curious to hear from you. You answer that question first, please."
+  -
+    timestamp: "0:26:55"
+    speaker: Jon
+    content: "Yeah, get that paper."
+  -
+    timestamp: "0:26:58"
+    speaker: Maurice
+    content: "Oh. [laughter] I don't know if this is gonna put my business in a bad light, but I tend to be very mean with business."
+  -
+    timestamp: "0:27:09"
+    speaker: Andy
+    content: "[laughter] Okay."
+  -
+    timestamp: "0:27:10"
+    speaker: Maurice
+    content: "If I'm doing a service for you, especially if we've went through the whole thing of contracts and invoices, etcetera, I expect you to uphold your part of the bargain as the client. I'm gonna uphold my part as the vendor, as the designer I'm gonna do what I need to do, but if I feel like that the client is not coming through on their end, I will be quick to let the client know we're in the project or something like that 'cause I feel it's a partnership. If you just wanted a set of hands to work on whatever this is that you needed done, you could've went to a marketplace or something and hired someone half a world away that would do it for pennies on the dollar, and if that's what you need, that's what you need. That's great. As far as how I learned it... Did I get burned a few times? I think early on, I did. Early on, I got burned. I was doing some work for this guy. He was a love coach/actor."
+  -
+    timestamp: "0:28:06"
+    speaker: Andy
+    content: "Wait. Wait, wait, wait, wait."
+  -
+    timestamp: "0:28:07"
+    speaker: Matt
+    content: "Tell us the whole story."
+  -
+    timestamp: "0:28:09"
+    speaker: Andy
+    content: "Is love coach in air quotes?"
+  -
+    timestamp: "0:28:10"
+    speaker: Maurice
+    content: "No, no. It was... That was the actual thing. He was like a love coach."
+  -
+    timestamp: "0:28:15"
+    speaker: Andy
+    content: "No, I get that it was an actual thing, but..."
+  -
+    timestamp: "0:28:17"
+    speaker: Matt
+    content: "You say that like we know what that means."
+  -
+    timestamp: "0:28:19"
+    speaker: Andy
+    content: "Yeah, love coach like how to go on a date and be a caring partner?"
+  -
+    timestamp: "0:28:20"
+    speaker: Maurice
+    content: "Oh, yeah, like how to go on a date."
+  -
+    timestamp: "0:28:23"
+    speaker: Andy
+    content: "Or a love coach like seven new positions to spice up the bedroom."
+  -
+    timestamp: "0:28:24"
+    speaker: Maurice
+    content: "How to be in a relationship, how to sustain... Yeah, like that whole thing. That whole area."
+  -
+    timestamp: "0:28:28"
+    speaker: Andy
+    content: "Like everything."
+  -
+    timestamp: "0:28:29"
+    speaker: Jon
+    content: "Like that Black Mirror episode?"
+  -
+    timestamp: "0:28:30"
+    speaker: Maurice
+    content: "Think like Millionaire Matchmaker, but on a very lower tax bracket kind of thing."
+  -
+    timestamp: "0:28:36"
+    speaker: Matt
+    content: "Hundred dollar matchmaker."
+  -
+    timestamp: "0:28:37"
+    speaker: Maurice
+    content: "Pretty much. Yeah."
+  -
+    timestamp: "0:28:40"
+    speaker: Andy
+    content: "They call me Benjamin. [chuckle]"
+  -
+    timestamp: "0:28:41"
+    speaker: Maurice
+    content: "I did some early work for... This was when I first started up my studio, just doing some early work and the work went well, but then they decided they wanted to go in and kinda poke around and change a few things, then ended up deleting the whole website, and came to me and asked me to kinda put everything back and I'm like, \"Well, yeah, I can do it for this much money,\" and they were like, \"What do you mean? I already paid you for it,\" yada, yada, yada. And I had to explain to them this isn't just... This isn't like... It's not like you lost a piece of software and I can just give you the exact same copy back. It had been, I think, maybe a few months after we had even ended the project, and he had went in and did something and deleted it. And it was to the point where I was sending invoices and they were like, \"I'm not going to pay the invoices,\" and so I hired a collections agency and I got my money back. And that was really... Honestly, in the almost nine years that I've done this, that has been the first time I've had to go that drastic with getting my money back."
+  -
+    timestamp: "0:29:35"
+    speaker: Matt
+    content: "It's a pro move. A pro move."
+  -
+    timestamp: "0:29:38"
+    speaker: Maurice
+    content: "And the thing was it wasn't even a lot of money, but it was more about, for me, establishing my dominance to say..."
+  -
+    content: Laughter
+  -
+    timestamp: "0:29:45"
+    speaker: Andy
+    content: "Yeah, man."
+  -
+    timestamp: "0:29:46"
+    speaker: Maurice
+    content: "Okay that sounds... You see, you see what I've..."
+  -
+    content: Laughter
+  -
+    timestamp: "0:29:48"
+    speaker: Andy
+    content: "I mean, you really... You gotta... You gotta..."
+  -
+    content: Laughter
+  -
+    timestamp: "0:29:49"
+    speaker: Matt
+    content: "It's true, it's true."
+  -
+    timestamp: "0:29:50"
+    speaker: Maurice
+    content: "You see what I mean about how it sounds mean?"
+  -
+    timestamp: "0:29:50"
+    speaker: Matt
+    content: "I don't disagree, I just like that sentence."
+  -
+    timestamp: "0:29:53"
+    speaker: Andy
+    content: "I love this."
+  -
+    timestamp: "0:29:53"
+    speaker: Maurice
+    content: "Like I had to say... I had to say, \"I understand what you're talking about, but... \""
+  -
+    timestamp: "0:29:56"
+    speaker: Andy
+    content: "I'm so glad to have that sound bite now. I can do whatever I want with that sound bite, that's great."
+  -
+    content: Laughter
+  -
+    timestamp: "0:30:00"
+    speaker: Maurice
+    content: "But you signed the contract, this is what we agreed to, and now you're trying to... It wasn't a lot of money, it was like less than $200, but it was more for me about the principle and establishing this early on in my studio, like, \"Look, this is how it works.\""
+  -
+    timestamp: "0:30:17"
+    speaker: Matt
+    content: "This is how we handle delinquency."
+  -
+    timestamp: "0:30:19"
+    speaker: Andy
+    content: "You do not cross Maurice Cherry, don't even try."
+  -
+    timestamp: "0:30:20"
+    speaker: Jon
+    content: "No. Don't even."
+  -
+    timestamp: "0:30:21"
+    speaker: Matt
+    content: "I peed on this tree, I showed you."
+  -
+    timestamp: "0:30:23"
+    speaker: Maurice
+    content: "But in terms of learning about invoices and contracts and things like that, some of that just came through trial and error, kind of like Matt was saying. You figure out what works for you. I think with any business, hopefully, hopefully your processes evolve and change with time as you change as a designer, as an entrepreneur. As your business changes, hopefully all of that stuff changes as well. You decide, \"Oh, I need to add this to my document,\" or \"I need to add this to my contract.\" 'Cause sometimes things will happen and you realize, \"Oh, I didn't plan for X contingency, but now I know for the next time that that's what I need to do.\" In my early days with my contract, I think I probably started out like lot of designers or design entrepreneurs might, with just like a standard template that you get from AIGA or something like that, and you try to work it to your will. I quickly kind of thought that that probably wasn't the best thing 'cause I am not a lawyer. So I found a lawyer and I bartered my services for... I said, \"If you could look over my contract and help me figure out X, Y, Z things I need to do, I'll do some design work for your firm.\""
+  -
+    timestamp: "0:31:28"
+    speaker: Andy
+    content: "You got that hustle."
+  -
+    timestamp: "0:31:29"
+    speaker: Jon
+    content: "Yeah, Maurice the hustler. [chuckle]"
+  -
+    timestamp: "0:31:30"
+    speaker: Maurice
+    content: "And we worked that out, and so now I've got my contract, and we still kind of sort of barter things back and forth here and there, but now I've gotten comfortable with adding certain things to my contract that I know will still kinda be legally upheld, and I mean it's been very rare that I've had to go the nuclear option, like I did with that particular client. Nine times out of 10, I figure if you've read the proposal, if you've read the contract, that you've signed it, you should know what you're getting into."
+  -
+    timestamp: "0:31:58"
+    speaker: Andy
+    content: "That touches on a thing, which is that, for me, one of the most important things for me and my overall big picture career path is that I want to keep learning things. I really don't wanna stagnate. If I find myself doing the same kind of work the same kind of way for a couple of years in a row, I feel like that's gonna be a sign that I need to change something up and move around. And starting my own company has offered me the opportunity to do all kinds of learning in all kinds of areas which I never thought I would need to learn anything in or never expected would be a skill I would pick up. One of those skills is collections, right? Like we went four-and-a-half years without anybody refusing to pay an invoice for any reason, which I'm proud of 'cause I think generally indicates that our communications were clear with our clients and they understood what the deal was and that we did good work and no one wanted to contest that. And then, at the four-and-a-half year mark, people just stopped paying all of a sudden and my job became mostly collections man. That was my role at the company 'cause I'm the meanest of all the people here, by a wide margin."
+  -
+    timestamp: "0:32:57"
+    speaker: Andy
+    content: "So I had to be the one to kind of put on that hat and learn what it's like to go down that road and research collection agencies, decide if you want to hire one, eventually decide not to, decide to be collection agency yourself and kinda explore all those different routes, and yeah, that's a whole thing I had to learn about that I wouldn't have sat down at my exit interview from college and been like, \"I hope in the next six years, I get to learn about how to really twist someone's arm and get them to give me that money they probably owe you.\" But it's a skill I picked up either way. So that's one of the things that happens when you start your own company. You learn things you didn't expect to learn, for better or worse."
+  -
+    timestamp: "0:33:34"
+    speaker: Matt
+    content: "Man, that is... You guys are mean. [chuckle]"
+  -
+    timestamp: "0:33:37"
+    speaker: Andy
+    content: "You ever had to break any thumbs, Jon? [chuckle]"
+  -
+    timestamp: "0:33:39"
+    speaker: Jon
+    content: "No, I mean, I'm a... I like to think I'm a pretty peaceful person. I'm not..."
+  -
+    timestamp: "0:33:47"
+    speaker: Andy
+    content: "How do you establish your dominance?"
+  -
+    content: Laughter
+  -
+    timestamp: "0:33:51"
+    speaker: Jon
+    content: "I have some weird cosmic forces that I employ. [chuckle] But really, really early on, I got burned a lot, and it's not just because I was inexperienced, but also it's because, at the same time, I was doing a lot of work for free and transitioning into like, \"I'm going to start asking for money for these,\" because basically you said yes to everything when you're building something from scratch, right? And some things, you're like, \"I absolutely need to be paid for this\", and some things you're like, \"Well, this is a really interesting, cool project and it would fit really well into what I'm trying to display myself as, so I will do this for next to nothing or whatever.\" But along with that, the longer you do that, the more comfortable you become having a passive business where nothing is really growing. You're just doing lot of work for a lot of different people, and you're also getting a ton of terrible referrals. Nothing's going up. And so over the years... And that was really, really early, before I had any notable work to attract actual... Any real good business, but the more good work I did and the more visible I became and the more I was competing with larger agencies, the more I was able to work myself into those circles and learn by osmosis through the people that work in much more efficiently-oiled machines than what I was running."
+  -
+    timestamp: "0:35:24"
+    speaker: Jon
+    content: "And through that, I was able to learn how to negotiate more favorable terms for my projects, estimate sort of like what it's gonna take to get this done a little bit better because most designers that start their own studios, you kinda do it because you're a dreamer, not because you're a hardcore business person. If you wanted to make a shit ton of money, you probably don't want to open a design shop. You..."
+  -
+    timestamp: "0:35:50"
+    speaker: Andy
+    content: "No."
+  -
+    content: Laughter
+  -
+    timestamp: "0:35:51"
+    speaker: Jon
+    content: "There's other industries where you could make a lot of money a lot faster with less work."
+  -
+    timestamp: "0:35:54"
+    speaker: Andy
+    content: "Just mine some Bitcoin or whatever."
+  -
+    timestamp: "0:35:56"
+    speaker: Jon
+    content: "Yeah, and especially if you're a mean person, you can make a ton of money, like real fast."
+  -
+    content: Laughter
+  -
+    timestamp: "0:36:00"
+    speaker: Andy
+    content: "Oh, you're describing a business person, yes, I understand."
+  -
+    timestamp: "0:36:02"
+    speaker: Jon
+    content: "Right. Yeah, I didn't start as a business person. I had to grow calluses and become a slightly different person in certain rooms. So there's this chameleon that I have to turn into sometimes and it doesn't necessarily mean being mean, but it definitely has some dominant traits attached to it that I think people are a little bit... They know about it now. [chuckle] As opposed to a while ago where it was just like, \"Yeah, yeah, go talk to Umi, he'll hook this up for you over the weekend because that dude does not sleep, and he'll make it happen and it'll be the best thing you've ever seen, and don't tell him I told you this but he's not gonna charge you that much.\" And I had an entire body of work built on that kind of word-of-mouth, and it was all happening behind my back, which was weird 'cause you'd like to think your referrals are looking out for you, but what are you gonna do? The Internet is a very strange place."
+  -
+    timestamp: "0:37:00"
+    speaker: Andy
+    content: "I think it's a lesson that I feel like if you Google 'tips for entrepreneurs' or whatever, especially in the consulting world, you'll find this a lot. And I found it to be so, so true, which is that the first couple big projects you get are so influential when shaping the future work you're gonna get, not just because that's what you've demonstrated you can do, but also because it's literally what you've learned to do. You are actually better at doing that now and a little less good at doing everything else. We took one project three and a half years ago that we talked about... It was a little bit different than what we normally wanna do. The difference was that we're a design and development studio and we think that the strength in our work is from the fact that all of our designers understand technology intimately, all of our developers understand design and care about user experience and understand why decisions are being made. And it's all happening under the same roof, which means that we can save a bunch of time without having to elucidate every single design decision very clearly and make pixel-perfect screens of every single view and mock them up with notes to make sure it gets built perfectly. We can communicate much more efficiently and just doing it all in one spot is much easier."
+  -
+    timestamp: "0:38:03"
+    speaker: Andy
+    content: "We had interesting an opportunity three and a half years ago to take a project that was already designed, we were just being handed a bunch of design flats, and it just needed to get built. And for technical reasons, the developers here were like, \"We wanna do this project because it's an interesting opportunity to learn some new technology. We know it's not like an ideal project for us and it probably wouldn't be a thing that we're most proud of, but it seems like it'd be a good challenge, a good way to learn. We did that project and we get referrals every two weeks from the same project that wanted us to do exactly the same thing, \"Here is more flat images, can you please build this thing?\" And we're like, \"No.\" We took one project that wasn't totally in line with our philosophy, and now it's been..."
+  -
+    timestamp: "0:38:37"
+    speaker: Jon
+    content: "And then this."
+  -
+    timestamp: "0:38:38"
+    speaker: Andy
+    content: "It's been chasing us ever since. Again, for better or worse, 'cause it is nice to have more contacts. More contacts is better but yeah."
+  -
+    timestamp: "0:38:45"
+    speaker: Matt
+    content: "I should say, is that always a bad thing or sometimes you're like, \"Mmm, it's a slow month. This would be great. I'm really happy we have this.\""
+  -
+    timestamp: "0:38:51"
+    speaker: Jon
+    content: "I don't think that's one of your big concerns, Matt. [chuckle] These slow months, man."
+  -
+    timestamp: "0:38:55"
+    speaker: Andy
+    content: "Matt is very concerned. He's a very concerned boy. I don't know... I have to think about it. I don't think any of the projects that directly came as referrals to this particular project I'm mentioning ever ended up working out. Not just... It wasn't just us philosophically turning away projects that won't work in letting us design them. It was also other reasons that things didn't work out, but... But yeah, that effect has been so strong, where it's just like, man, this one thing we did just happens to have had a pretty far reach, and we didn't happen to have the exact role we wanted in that project and now we get that kind of work dumped on us a lot. And we have to fight uphill in every single conversation. We're like, \"No, no, no, but we are also very good at this and this is how we do our best work, and this is why we do our best work that way and why we have this kind of things in place.\" And so yeah, it's been interesting to feel that, and how intense that is when you have a project that... Maybe it's not exactly you wanted to do. Guess what? It's what you do. [chuckle] If you did it, it's what you do now. It doesn't matter that it's not what you really wanna do and wasn't perfect."
+  -
+    timestamp: "0:39:55"
+    speaker: Matt
+    content: "I just kinda wonder about things like that. Like what if you could do a couple of those and then do whatever you want because that made way more money than the other thing you're looking at, right? Maybe like a more ideal situation, but pays less. What if instead you did two days of the less ideal work and then three days of whatever you wanted to do? Is that a better situation?"
+  -
+    timestamp: "0:40:15"
+    speaker: Andy
+    content: "Matt, you don't seem like the kind of guy that would turn away work because you wanted to spend some free time doing whatever you wanted to do in those extra days. I feel like you'd be like, \"Hey, we got more work. We should fill these other days with work.\""
+  -
+    timestamp: "0:40:26"
+    speaker: Matt
+    content: "That may be true, hard to say."
+  -
+    timestamp: "0:40:29"
+    speaker: Andy
+    content: "That's the thing, is I think that it's just... It's so easy to say that and it's so much harder to do it. And yes, in theory, you could run a very profitable business where you spent 60% of your time paying all the bills, paying all the salaries, and giving yourself a little bit of cushion, and the other 40% of the time you could do whatever you wanted. But in reality, you are just gonna do more of that work and make more money because that's what the inertia is gonna pull you towards. That's what the gravity is. The gravity is do more of the same work."
+  -
+    timestamp: "0:40:56"
+    speaker: Matt
+    content: "Well, kind of. I guess I'm making myself a caricature a little bit, but to step out of that, we do make Fridays not work days, specifically to do internal product or learn stuff, but..."
+  -
+    timestamp: "0:41:13"
+    speaker: Andy
+    content: "So you mean to tell me tomorrow you are not gonna work on any client projects? Be honest."
+  -
+    timestamp: "0:41:18"
+    speaker: Matt
+    content: "Tomorrow, yes, I will. You're correct."
+  -
+    timestamp: "0:41:20"
+    speaker: Andy
+    content: "Okay."
+  -
+    timestamp: "0:41:20"
+    speaker: Matt
+    content: "But I think if... I think if you make some rules, you can start to head in that direction. If you're just like, \"This is the rule. We don't do this, we work on internal things.\" I think if you set some boundaries, you can start to do it, not that it happens all the time."
+  -
+    timestamp: "0:41:33"
+    speaker: Andy
+    content: "Yeah, I just think it's harder than people think. We've done the same thing in the past. When we started the company, we did a lot of internal projects, and we don't nowadays for a variety of reasons, which could be a whole other tangent if we wanted to go on it. But we definitely found that it's just... It's way harder than we thought it would be, I'll put it there. It's way harder than we thought it would be to actually make time for that when you are willing to give up things on your other contracts because it's just... It's so easy for that to just to become what you do and then you just kind have fall into that thing of, \"Well, that's more good money, more good money, more good money.\" And then you look back three years later and, \"Oh, look, we only do this now. When did that happen? We haven't done a project that are like the projects we want to do in forever, we only do these other projects.\" Which, again, depending on your motivations, if your motivations is like, \"I want to run a business, I'm a business person,\" then that is what you should be doing. You should probably be following that lead and trying to find the money where it is and kind of grow the business however you can."
+  -
+    timestamp: "0:42:29"
+    speaker: Andy
+    content: "But if you're starting a business for like a purposeful reason, if you have a... You're driven to do something, you have a goal in mind, I don't think the correct way to do it is to sacrifice your vision in the hopes that this bunch of money you're gonna make right now is gonna allow you to execute that vision ten-fold in that extra time you have because I think the reality is just that you're just gonna keep sacrificing that vision and then your new job will be whatever ends up happening."
+  -
+    timestamp: "0:42:54"
+    speaker: Matt
+    content: "Right, I agree I think the having a philosophy about what your business is can set you apart from other... From your competition. And if you stick really closely to that philosophy and you communicate it really well, then anybody that refers people to you also knows about that philosophy and they're gonna spread that word. But none of that is worth anything if you don't have the luxury of saying no. If you have to say yes to certain projects, then you're just... You have to compromise, and that's unfortunate, but when you do have those stints of time where you get to work on things that actually... That you really care about, I feel like it's super fulfilling. It reminds you why you started in the first place."
+  -
+    timestamp: "0:43:39"
+    speaker: Andy
+    content: "Yeah."
+  -
+    timestamp: "0:43:41"
+    speaker: Maurice
+    content: "So I'm going to give a little bit of a contrarian slant to this because what I am hearing from everyone certainly is that of course that philosophy and that passion and even past projects and things that you've done can kinda set and dictate the tone of the type of work that you end up bringing in, but what I'm not hearing a lot of, and I might be wrong here, is sorta active marketing, which you kind of all are mentioning or somewhat passive things like people look at the work that you've done or someone will refer you... Some will refer themselves to you or something like that. Are any of you doing any kind have active marketing to the types of work that you would like to get?"
+  -
+    timestamp: "0:44:21"
+    speaker: Jon
+    content: "We've tried to do that more and more recently. It's not hugely complex, but it's just like, \"Hey, we're gonna create landing page on our site that talks about this specific language we wanna write.\" Or here, very specifically, we've recently decided, as a company, we wanna make sure everyone is learning Elixir. And we wanna take on projects in Elixir 'cause its interesting, it's... It would be a dream if that was like... If we were always working in that language in the Phoenix framework. So how do we do that? We need to put that out in the world and go find those people. So we've been sending the dev team to conferences, trying to put the landing pages on the website, trying to see if clients would be open to using that on their project. I don't know if I have a huge success story yet, it's a pretty new initiative, but we've been thinking about that and trying to figure out ways to do that. 'Cause I think we wanna figure out ways to do that and figure out ways to get into maybe new spaces that we are not currently in, like, \"What... Who designs VR projects? What is that gonna be like?\" So I think we're in the midst of trying figure stuff out like that, like, \"How do we market that as a service?\""
+  -
+    timestamp: "0:45:26"
+    speaker: Maurice
+    content: "How about you, Andy?"
+  -
+    timestamp: "0:45:28"
+    speaker: Andy
+    content: "If you have any ideas for how to actively market, Maurice, [chuckle] I would love to hear them. Here's what we've found... And, I will say that we have talked about this in the abstract a number of time, and anytime it gets any less than completely abstract, we immediately have no idea what to do or what makes any sense. [chuckle] Our clients are coming from a wide variety of backgrounds, we don't work in a specific industry, we kind of work all over the place: Different for-profit businesses, nonprofits, cultural institutions, schools and colleges, all kinds of stuff. Just individuals that have ideas that wanna pay someone to build them. So we're kind of all over the place there. And importantly, we don't take on that many projects, we have like fewer high-value contracts. I would say in a given year, we probably have maybe like 12 to 18 contracts total, so we're not taking on a huge volume of work so it's not like we're trying to get 50 new clients next year, we're just really trying to find the twelve that are really good fits and are gonna be projects that are meaningful and allows to do our best work. And the best we've tried is kinda what Matt described, right? Let's just write on our website, we wanna do it, maybe that'll work, and our experience is just that that does not work. That does not count as active marketing."
+  -
+    timestamp: "0:46:41"
+    speaker: Andy
+    content: "You just made a flyer and stuck it to a sign post, but the sign post is on the Internet and there's a million sign posts on the Internet and no one's gonna see that or care about it. The one thing I think that helps with it is like, you had a meeting with somebody, you got to talk about this, and then they get to see the things you talked about reflected on their website... On your website, if they go to look at it for confirmation. I think that's helpful there, but I don't think anyone has ever Googled like, \"Baltimore Design Development Studio,\" and found Friends of the Web. Not only because I'm sure we're nowhere near the top results for that, but also because I can't imagine the kind of client that would be Googling that [laughter] and would also be the kind of partner we'd want. And so my inability to really correctly identify who our partners and future partners are going to be, and then know how to reach them effectively has lead to literally zero active marketing. We just don't do anything 'cause we're not sure what we would do. And in that sense, I guess we've been very privileged that we've been able to survive for six years without having to ever take out an advertisement or really try to market ourselves."
+  -
+    timestamp: "0:47:43"
+    speaker: Andy
+    content: "It's just been word-of-mouth of people that have worked with us and had a good experience. Very, very early on, all be did was we literally went to tech events and just said like, \"Hi, we're a new company, you wanna do a website or something?\" And some people just took us up on it because they were like, \"That seems cheap. They don't... [chuckle] They seem they seem new, I bet it's not very expensive.\" And we did a good job and it snowballed from there. So yeah. I don't know how to do that, is the answer, and when I think about it, it makes me feel like a bit of a fraud because we just don't do that. I understand it's a huge part of our businesses, but we just... It's never been an aspect of what we do, and I guess we should probably get better at it."
+  -
+    timestamp: "0:48:17"
+    speaker: Maurice
+    content: "How about you, Jon? You're kinda doing something a little different because it's more product-based than service-based, right?"
+  -
+    timestamp: "0:48:23"
+    speaker: Jon
+    content: "Oh, well, today yeah. The startup I run, we don't... We're not a consumer organization, and if... We work specifically in creating transparency in campaign finance, so anybody that we work with is either the government or a political party or a super PAC or something like that."
+  -
+    timestamp: "0:48:42"
+    speaker: Andy
+    content: "You're not putting an ad on Craigslist for that?"
+  -
+    timestamp: "0:48:43"
+    speaker: Jon
+    content: "No, no. There's no..."
+  -
+    timestamp: "0:48:45"
+    speaker: Matt
+    content: "You know exactly who you're talking to."
+  -
+    timestamp: "0:48:47"
+    speaker: Jon
+    content: "Well, yeah. And they're all in one place, they're all literally in the same city. And I had to move to that city in order to actively market. That was the... [chuckle]"
+  -
+    timestamp: "0:48:55"
+    speaker: Andy
+    content: "To go yell at them."
+  -
+    timestamp: "0:48:56"
+    speaker: Jon
+    content: "Yeah, they're all there and they're all next door to each other, but in terms of me personally, since I'm not running an agency anymore, as a... 'Cause I do work on the side all the time. And some of the work I enjoy the most is with people that I worked with five, six years ago. They still have their businesses and they still have design services they need fulfilled and we still enjoy working with each other. So that stream exists, but when I'm talking about looking for something new and fresh, it almost all depends on what the season is 'cause I enjoy designing products, but I am not in a position to dedicate 70% of my time to doing that, right? So I can only really work with certain types of teams. There has to be a lot of chemistry to begin with. And those are like... They're soft qualities, but the word travels fast in certain circles. So for example, having worked on a project called Elevate a few years ago, after that app launched, it won App of the Year and then I had a ton of referrals from people I'd never heard of before. They were just like, \"Oh my God, can you do this for me? Make me App of the Year.\" As if I'm gonna make that."
+  -
+    content: Laughter
+  -
+    timestamp: "0:50:23"
+    speaker: Matt
+    content: "That is such a perfect example of what clients do. Ugh! [laughter]"
+  -
+    timestamp: "0:50:26"
+    speaker: Jon
+    content: "But the thing is, the difference here is that it is a project that had a ton of... I worked on it with a lot of other people, all of whom are incredibly talented, and also, the product is something that I'm not only proud of, but it's something that if I could make five or six other things like that, I'd be really happy. So if you happen to be approaching me and that's the thing that you're approaching me because of, then we're gonna talk because we're talking about education, we're talking about animation, we're talking about geometry, we're talking about really clean typography, we're talking about great interaction designs."
+  -
+    timestamp: "0:51:02"
+    speaker: Andy
+    content: "It's in line with all your values, it's like a dream project."
+  -
+    timestamp: "0:51:03"
+    speaker: Jon
+    content: "Everything. Yeah, yeah. It's perfect. Perfect kind of source of a referral. But..."
+  -
+    timestamp: "0:51:09"
+    speaker: Andy
+    content: "But they don't want that, they just wanna be App of the Year, Jon. You're App of the Year designer."
+  -
+    timestamp: "0:51:12"
+    speaker: Jon
+    content: "No, those are the people that I just... I say, \"Thank you, I appreciate the kind words. Here's who you should go talk to. I can't build your app from scratch.\""
+  -
+    timestamp: "0:51:21"
+    speaker: Andy
+    content: "\"I would like my app that sells people kale salads delivered by drones to be App of the Year. Please help.\""
+  -
+    timestamp: "0:51:25"
+    speaker: Jon
+    content: "Yeah, definitely not ever gonna work on that. [chuckle] But the active marketing that I would have to do if I... If I wanted some work tomorrow, I would talk to a guy like you."
+  -
+    timestamp: "0:51:37"
+    speaker: Andy
+    content: "Hello."
+  -
+    timestamp: "0:51:39"
+    speaker: Maurice
+    content: "Or I would talk to some people that I used to work with and I would just... Because everybody that I know, they're either working on something really interesting and they need help, or they know people that need help and they've been saying no to them. And because of that, as long as it's in the same caliber of talent and the same values, you know you're traveling in the right pool. And that's a great pool for me to pick work from if I absolutely need it. Because I'm not in the situation to really go into that, it doesn't go much further. But if I were to open a shop tomorrow and I needed work tomorrow and I needed to support three employees, I would have to make a lot of phone calls. That would be my active marketing. It wouldn't be writing blog posts, it wouldn't be tweeting about crypto-currency because I wanna work on crypto-currency. I would be making phone calls to people at Coin Base, and I would be talking to people at BuzzFeed because I wanna work on motion graphics or something like that. Wherever the thing is that you wanna work on, it doesn't hurt to just reach out and ask people if there's an opportunity because sometimes there is."
+  -
+    timestamp: "0:52:50"
+    speaker: Matt
+    content: "Do you ever find that to be painful? I think the... That thing I said earlier, the sense of, \"Oh, we don't have anything, what are we gonna do,\" probably comes from most of our best work has come through referral and someone reached out to us and we didn't reach out to them. So it feels very out of your control, like whatever comes next. I don't feel like I've ever gotten good at just picking up the phone and being like, \"Hey, we're not busy. What can we do for you?\" [chuckle] Is that a thing you're comfortable with?"
+  -
+    timestamp: "0:53:19"
+    speaker: Jon
+    content: "No, I am not comfortable with that at all."
+  -
+    timestamp: "0:53:21"
+    speaker: Andy
+    content: "We actually got one of my favorite projects we ever done that way."
+  -
+    timestamp: "0:53:24"
+    speaker: Matt
+    content: "Really?"
+  -
+    timestamp: "0:53:25"
+    speaker: Andy
+    content: "Yeah. Well I guess it was not exactly that. It was somebody who had never heard of us, no idea who we were, it was like, \"I'm trying to build this thing, I wonder if anyone out there can help me.\" And I just sent him a cold email, it was like, \"Hello, it is us, people who will help you with this.\" And this particular person was a person I'd admired for a long time, had been a kind of a hero of mine, and so getting that project was very exciting, and it was just like... Yeah, writing that cold email is the thing that... I've done it quite a bit. So I guess maybe that's the active marketing that we do. I do kind of do that kinda cold email thing every once in a while."
+  -
+    timestamp: "0:53:57"
+    speaker: Matt
+    content: "\"Hi, you don't know me but give me your money please, thank you.\""
+  -
+    timestamp: "0:54:00"
+    speaker: Andy
+    content: "Yeah, and here's what I'll say. Thinking about this further, this may just be more personal to me and less abstract about Friends of the Web, but I think this direct marketing thing is just a big blind spot for me. And another example is just this very podcast, I have no clue how to get more people to be aware this podcast exists. I'm very proud of it, more proud of it than the other podcasts we've made in the past that had more listeners. We have been putting up the show regularly for almost a year now, and we had basically the same listenership since the show launched, with very little kind of growth there. It's a decent listenership, it's fine. I'm very happy, I'm glad you're all listening. I love you all very much, I'm not trying to go find more people, but the reason we make this is because we want people to hear it, we're proud of it, and I genuinely don't know what to do. I tried the thing I did in college, which was just I emailed all the design blogs and said like, \"Will you please write about this?\" And just heard back from nobody and I just... I'm kind of at a loss. I don't know what else to do other than just rely on people that know the thing to tell other people."
+  -
+    timestamp: "0:55:00"
+    speaker: Andy
+    content: "Which gets at this fallacy, which I definitely held to be true when I was younger, which was that if you made a great thing, a truly great thing, then it would become popular because we have the Internet, everyone is connected infinitely in all directions. So if you make something great, it will just naturally travel to the ends of the world, which is truly how I felt. I would say eight years ago, I was like, \"If you made something great, of course it will become popular.\" And now I have seen so clearly through so many very direct examples that that is so far from the truth. The popularity of something is almost completely disconnected from how great it might be and how people respond to it. You can pour enough marketing dollars into something to make the world's most boring, crappy thing a worldwide trending sensation, and you can have something amazing and wonderful that nobody knows about, and just doesn't... Yeah, exactly, just evaporates into thin air. So I know, I know in my brain that we can't just make a good podcast and then rely on everyone telling their friends and it spreading naturally and kind of organically, but I don't know what else to do. Facebook ads? Promoted tweets? These seem like insane ideas to me, but maybe they're not."
+  -
+    timestamp: "0:56:06"
+    speaker: Jon
+    content: "I feel like marketing content is super different from marketing like a service."
+  -
+    timestamp: "0:56:13"
+    speaker: Andy
+    content: "Probably. I'm clumping the two together because those are the two things I'm doing right now and I want them both to do better. [chuckle]"
+  -
+    timestamp: "0:56:19"
+    speaker: Jon
+    content: "And they both have the same challenge, I guess, yeah."
+  -
+    timestamp: "0:56:22"
+    speaker: Andy
+    content: "It's definitely different, for sure. The difference is like I'm trying to convince thousands of people to listen to our show for an hour versus I'm trying to convince one person to give us thousands of thousands of dollars."
+  -
+    timestamp: "0:56:32"
+    speaker: Jon
+    content: "Right."
+  -
+    timestamp: "0:56:33"
+    speaker: Andy
+    content: "It's a matter of quantity versus quantity. Or quantity versus... It's quantity in different dimensions."
+  -
+    timestamp: "0:56:38"
+    speaker: Jon
+    content: "Right."
+  -
+    timestamp: "0:56:39"
+    speaker: Andy
+    content: "I don't know the words to describe that thing, but you all know what I'm saying."
+  -
+    timestamp: "0:56:42"
+    speaker: Matt
+    content: "We get it."
+  -
+    timestamp: "0:56:43"
+    speaker: Andy
+    content: "So I don't know. I'm bad at that, Maurice. Maurice, you seem much better at that to me. [chuckle] So please give me and everyone else all of your great, hot tips."
+  -
+    timestamp: "0:56:51"
+    speaker: Jon
+    content: "Right, take us to school."
+  -
+    timestamp: "0:56:52"
+    speaker: Andy
+    content: "Top tips. [chuckle] Establish your dominance, tell us what's up."
+  -
+    timestamp: "0:56:56"
+    speaker: Maurice
+    content: "This is a thing that I have struggled with with my studio since the very beginning, is that active marketing. And also scaling, which I do wanna kind of transition into 'cause I feel like all of you have mentioned that in some capacity. It's one thing when you kind of start your own business and you wanna make sure that, of course, you're servicing your clients and things. But you also wanna make sure that there's a good bit of you in the business in terms of your personality and how you work, at least I would think that's the case. You would wanna make something, if you're working for yourself, that you like. So my challenge has kind of always been how much of myself do I inject into my business without it seeming too, I don't know, unprofessional, in a way. That's been something that I have..."
+  -
+    timestamp: "0:57:45"
+    speaker: Andy
+    content: "Yeah, or if you have employees, too, at a certain point, it starts to be like, \"Well, is this really a fair representation of the company if I'm just one piece of it and not everything?\""
+  -
+    timestamp: "0:57:54"
+    speaker: Maurice
+    content: "Right."
+  -
+    timestamp: "0:57:55"
+    speaker: Jon
+    content: "Yeah, well how strong is your brand? That's kind of like a really important question to ask, especially for a design shop."
+  -
+    timestamp: "0:58:01"
+    speaker: Maurice
+    content: "I can say that I think I'm pretty good at marketing myself, but also, it's like how do I market my... I'm terrible at marketing Lunch, and that is largely because I'm doing a podcast, and I'm also working on other things, and so even though I am doing work through my studio, it kind of falls on the back burner as it turns to the website and to social media, and how do you keep up in Instagram? And should you have an Instagram? And an active Twitter and an active Facebook page? And what's the right balance to strike between these sort of active, outward social channels and the work that you do 'cause you don't want it to seem like you're posting on social media all day and not doing work, but you also don't wanna work so much that there's no activity on your social media. So it's like, what is that trade off as it relates to the active marketing? And that was actually a big reason why I decided to rebrand and rename my business was because 318 Media, when I started off, it sounded like a kitschy name at first, but then people kept misspelling it because I had an unconventional spelling for it, there were other companies in my city that had similar Three-dash-dash names, like 360 Media, 352 Media, and people were getting us confused. And I wanted something that would stand out, but that would also have a bit of fun to it."
+  -
+    timestamp: "0:59:28"
+    speaker: Maurice
+    content: "And so that's why I came up with Lunch. But even now with Lunch, I'm thinking, \"How much do I want to lean into that metaphorically as it relates to the website design, and the brand of the company, and the tone of the company in terms of it being a little fun and kitschy and cool? Is that the sort of thing that clients will like as it relates to my work or will people look at it and think that it's too puerile?\" So it's... I'm always kind of struggling with that, with trying to figure out what the balance is. I wish I could tell you I'm good at it. I'm not. [laughter] I think I'm fairly good at marketing myself and the work that I'm doing, but as it relates to kind of the business, not so much. I'm still working on it. It's something that is still an active thing that I work on. And again, to kinda transition this into scaling 'cause we've all sort of talked about this, as you grow and as your business grows, as you reach that vantage point of, \"Okay, I can't just do this alone. There have to be other people that I bring in to help with the work or to do other parts of the business,\" what are the challenges that can come with that?"
+  -
+    timestamp: "1:00:43"
+    speaker: Matt
+    content: "I've always found those challenges to be more internal than external. As you grow and you introduce new personalities to your team, it's... I saw it as like, \"Oh, I'm not just interacting with friends anymore. I should be more aware of my surroundings.\" But I haven't felt it as much as the way we portray the company. Maybe just because we're not doing as much as some other companies are, 'cause everything seems to be through referral from people we've worked with before. But it's challenging just not in the outward facing way, I've found."
+  -
+    timestamp: "1:01:20"
+    speaker: Andy
+    content: "The scaling thing, we've had an interesting relationship with that over the past three years. We never started the company with the goal of making it a big company, which I think is a distinction. Some people start a company and they're like, \"The goal is grow it as much as I can because that means that I'm accomplishing my mission on a bigger scale, and it means I'm making more money, and it means I'm just doing more, more, more of the thing that I wanna do.\" Our goal was never that. Our goal was to do the thing we wanted to do on a small scale and just to kind of make good jobs for us and a few people that we found that would fit in with us nicely and would be good candidates for the jobs. So we never wanted to scale. At our peak, I think we found ourselves at 10 full-time employees, and as of today, right now, we are down to six. So we actually have scaled down over the past two years, which was not an active choice, we didn't like... There was no layoffs. It was just some people found new things they wanted to do, and that coincided with less work coming in the door, and it just kind of naturally worked itself out, more or less."
+  -
+    timestamp: "1:02:26"
+    speaker: Andy
+    content: "So we kinda find ourselves almost back at the place where we started and having the conversation of like... Now we kind of have an opportunity to say we learned a lot from having a consulting business that did the kind of consulting work it described, from growing it from four people to around 10-ish. I say 10-ish 'cause there was part-time people here and there, every now and then. So it was never full, easy-to-measure number. And then scaling back down, now the question is, \"Is what we did over the past six years exactly what we wanted to do? Is there something we could have done differently and learned from?\" And those are some discussions we're gonna be having internally because the scaling thing... I don't think the scale is what got us. I think people say that scaling is when businesses are at risk because now you've increased your expenses, and you're having to increase your income commensurately, and if you don't do that then the whole thing would kinda blow up. It's not really what happened to us, our story is different, and I can complain to you about it sometime over a drink if you want, but not now."
+  -
+    timestamp: "1:03:26"
+    speaker: Andy
+    content: "But we certainly kind of like... The appeal of hiring more people when we had the opportunity to was really just like, \"Hey, we can do this at a bigger scale. We can have more people have a good job from this, and this is not gonna like... \" It was never getting to the point where it was gonna affect our day-to-day. It wasn't like we were gonna hire 20 people and no longer would I be a designer. I would just be a manager and I would just be overseeing people and in meetings all day. It was just like, \"Oh, we got to do this in a little bit bigger scale.\" And so we got to experience that a little bit. And now we're kind of back down to a smaller scale and are reevaluating whether or not it's a value we have, to grow the company."
+  -
+    timestamp: "1:04:04"
+    speaker: Maurice
+    content: "How about you, Jon? 'Cause you kind of scaled in a different sort of way by moving into kind of a different sector."
+  -
+    timestamp: "1:04:12"
+    speaker: Jon
+    content: "Oh, yeah. [chuckle] Well, startups are funky. Scale is inherent to the model of running a startup. So at some point you are expected to scale. So it's always been a part of my plan, and so the thing about scaling, for me... Because I've worked at companies that scaled too fast. I've been a victim of that. I've witnessed it at other companies... And I've seen it from really far away vantage points. I have friends that worked at places that scaled grotesquely, and then a certain CEO showed up and fired a bunch of people. Like, thousands of people."
+  -
+    content: Laughter
+  -
+    timestamp: "1:04:58"
+    speaker: Andy
+    content: "It always seems like when the places have that explosive scaling, that it seems to me you must just basically be starting from scratch. If you go from 30 to 500 people in six months, you just started a new company."
+  -
+    timestamp: "1:05:07"
+    speaker: Jon
+    content: "See, and that's the thing, is that..."
+  -
+    timestamp: "1:05:08"
+    speaker: Andy
+    content: "Whatever was there is no longer there."
+  -
+    timestamp: "1:05:11"
+    speaker: Jon
+    content: "It's... There should always be a reason for the pace, I think. And I think, for me, culture is a really big part of the workplace, whether it's remote or not. I just think the internal culture of a company has to scale with the number of people that are involved in it. Not just inside, but also outside. The way that the public views your company, the sentiment should match the pace of your scale and all that. And it's a really difficult dance and not a lot people are very good at controlling that, but I think for me, at my company... Very early on, we had a lot of internal documents just specifically for, \"This is what it looks like to handle this sort of situation,\" or, \"This is how we present ourselves when we speak to people outside the company,\" and that sort of stuff sort of... It helps everybody set expectations on what the scale trajectory looks like because without that, you dump a bunch of people in a room and you don't have time to set expectations because you have work to do. And without that very squishy human aspect aligned, you can end up with a lot of chaos. And that's totally removed from the money aspect of scaling a company, totally separate, and when those two things collide, then you end up with a lot of room for making terrible, terrible mistakes."
+  -
+    timestamp: "1:06:52"
+    speaker: Jon
+    content: "You can ruin people's lives, and that's definitely not why I'm starting a business or running a business, so that I have the... I have opportunity to ruin lives, [laughter] but I don't want to."
+  -
+    timestamp: "1:07:03"
+    speaker: Maurice
+    content: "That would be a unique motivation to start a company."
+  -
+    timestamp: "1:07:06"
+    speaker: Jon
+    content: "I don't wanna capitalize on that opportunity. [laughter] That's not how I assert my dominance."
+  -
+    content: Laughter
+  -
+    timestamp: "1:07:13"
+    speaker: Andy
+    content: "I think we should start moving to the just the final words for everybody, just because we're a little bit deep in this, and I'm glad we got... This has been a good conversation. I'm glad it went long, it's no problem at all."
+  -
+    timestamp: "1:07:22"
+    speaker: Maurice
+    content: "Yeah, final thoughts everyone? Where you wanna kinda end off."
+  -
+    timestamp: "1:07:26"
+    speaker: Andy
+    content: "I wanna put some context in the final thoughts. I'm interested to know... I think people listening to this show are gonna fall into a couple buckets. One bucket is like, \"I have started my own business and I'm looking to commiserate on this episode and listen to other people talk about the same things I face.\" Another bucket is, \"I have never started my own business, I never will, I'm just listening because I'm bored, well I'll just do a podcast and maybe I'll hear something interesting.\" The third bucket is people that might be considering doing this thing for whatever reason, right? Maybe they're a young person that can't find a job they want. They might consider starting their own company. Maybe they are kind of disillusioned with their current job. I'm curious to know what piece of advice each of us would have for somebody that might be looking to start their own business, given the experiences we've each had. So let's end it there, if that's all right with you, Maurice. And who wants to start it off?"
+  -
+    timestamp: "1:08:12"
+    speaker: Matt
+    content: "I think... I'm always very grateful that I made the move that I did, in kind of going from something very stable to something unsure, but more control. I also think I'm getting to a point where like maybe the first bit of time seemed like, \"Well, let's figure out how to survive. Okay, now we know how to do that, now let's do it with some purpose.\" Feels like we're getting a place where we really need to establish exactly what our joint vision is and figure out where we go next now that we know we probably can survive or it seems that way. I would just say if you're considering something like that, one thing I would note is if your favorite thing is designing stuff and you wanna be left alone all day to design stuff, that's probably not a good choice to start... [chuckle] To start a business, like all of the things you've heard in this podcast of like, \"You wanna learn how to be collection agency? You're probably gonna be a little bit of that. It's not super fun, but if you wanna have full control over stuff, well, guess what, you've got a lot of control over stuff.\" But if you feel like you have something, if you feel like you can do it better, if you feel like you have something unique to say, if you have that vision and wanna execute on it like, you kinda have to do it."
+  -
+    timestamp: "1:09:32"
+    speaker: Matt
+    content: "It's almost like there's no stopping you. If you really feel strongly about it, go do it, and if it blows up in your face, whatever. But it's gonna eat away... It'll eat away if you don't, I think."
+  -
+    timestamp: "1:09:44"
+    speaker: Maurice
+    content: "Yeah, I agree with that. I think if you're gonna start this off, have a plan going into it and then have a plan to get out of it. For a lot of us, and I'm putting my own self in this bucket too, you get into this and you realize, and we talked about this little earlier, like why do you continue? You get into this, of course you have all the best reasons in the world to get into it. You wanna work for yourself, you wanna have your own clients, have your own say, but then you realize the more and more that you do this, you're taking on more and more responsibilities. There are just other types of fires that tend to crop up and things like that, and sometimes it's hard to think, \"Well, how do I get out of this? Can I go back to a regular job, nine-to-five or something like that?\" And I think that can be pretty difficult, especially if you've been doing it for a long time and you get into a certain pattern, it becomes harder to find the thing that will get you out of it. So, I think whether you're considering this or even if you're already into design entrepreneurship, give yourself an exit strategy. I think that's very important."
+  -
+    timestamp: "1:10:49"
+    speaker: Jon
+    content: "Well, for those of you who are listening right now to the sound of my voice and you happen to be running your own business as a designer, congratulations, you've made it this far [chuckle] and bless your little souls. I'm with you. It hurts sometimes, but don't forget we're practicing our craft and hopefully you love it more than you hate it. For people that are thinking about starting any kind of business, specifically design-focused, I think the first group of people I was just addressing will agree with me, no one tells you that... How hard it's gonna be. And nobody can really articulate specifically to you how hard it's going to be because every individual is different. And the thing about entrepreneurship is it's... Anyone can do it, but certain people are built for it. And you can definitely make a lot of mistakes or learn from other people's mistakes and become good at it. So if it's your dream to run your own business, it's not impossible. Anything is possible, but it might take a lot longer than you think, it's gonna be a lot harder than you think, and you're gonna have a lot more responsibilities that are gonna be created that maybe you didn't think you'd ever have to be responsible for."
+  -
+    timestamp: "1:12:13"
+    speaker: Jon
+    content: "And I think, from my perspective, it's humbling to run a business and have people depend on you, making decisions on their behalf, so that they can pay their mortgage or send their kids to college or pay for their car note or put their parents in a nursing home. All that stuff is kinda up to you and if you drop the ball, you're gonna feel really, really bad about it if it completely explodes. And trust me, those people already... They've figured out what their exit plan is already."
+  -
+    content: Chuckle
+  -
+    timestamp: "1:12:47"
+    speaker: Jon
+    content: "They have options. But when you're running a business, you're literally you're carrying it with you and whoever else is you're partnered with. And I think just be respectful of that, first and foremost, and the reason why you got into it, and just try to have as many conversations about that as often as you feel is healthy because if you lose that through-line, then when that monkey wrench comes in, it's gonna knock that Jenga set over, it's just house of cards, it's all over. And that's not a stressful... It's not a good environment for anybody to come to work to either. But on the good side, the upside, if you're making money doing what you love, and that's kinda like what capitalism has prevented a lot of people from doing."
+  -
+    content: Laughter
+  -
+    timestamp: "1:13:39"
+    speaker: Andy
+    content: "You're the rare instance."
+  -
+    timestamp: "1:13:41"
+    speaker: Jon
+    content: "Yeah. So if you've found a way to make that work, even for a short amount of time, embrace it, enjoy it, tell other people about it. And if you're as excited about it as they are about what they do, then maybe you can work together and do some business with each other."
+  -
+    timestamp: "1:13:57"
+    speaker: Andy
+    content: "One of the moments I had after starting this company, where I realized like, \"Oh, this is like real,\" kind of a big awakening was the first time one of our employees had a baby, and it was like, \"Oh, that baby... \""
+  -
+    content: Laughter
+  -
+    timestamp: "1:14:10"
+    speaker: Matt
+    content: "That's our baby now."
+  -
+    timestamp: "1:14:11"
+    speaker: Andy
+    content: "\"We kinda feed that baby. That's on us a little bit to make sure that baby has food and a house and stuff.\""
+  -
+    content: Chuckle
+  -
+    timestamp: "1:14:19"
+    speaker: Maurice
+    content: "Yep."
+  -
+    timestamp: "1:14:20"
+    speaker: Andy
+    content: "And that may be overstating it. Obviously, I think, as Jon said, these people have their own backup plans. They got their life in order. I think there's a line between not being too paternalistic about how you view your relationship with your employees, but it's definitely like a moment where I was like, \"Oh, yeah, right. Yeah, we give jobs to people, and jobs are important, and that's a whole thing.\""
+  -
+    timestamp: "1:14:39"
+    speaker: Maurice
+    content: "Yeah. I was gonna say, they have a backup plan, yeah, but still."
+  -
+    content: Chuckle
+  -
+    timestamp: "1:14:43"
+    speaker: Andy
+    content: "Yeah, but still. So the thing that I wanna reiterate to people is that I think... I gotta mention this. Mike Montero once said, many years ago, something that has just... It's been a chip on my shoulder ever since 'cause it made me so mad, and it's still one of the reasons that the guy kinda makes me angry."
+  -
+    timestamp: "1:15:01"
+    speaker: Matt
+    content: "Andy got drafted in the seventh round and he's still upset about it."
+  -
+    timestamp: "1:15:04"
+    speaker: Andy
+    content: "Oh, he said once that you should never work for somebody who's under 30, I think... Some arbitrary age, which I was younger then at the time, is what he said, \"You should never work for somebody under 30,\" which at the time I was running my own company and had employees and resented the idea. And there was more to that idea, too. He's basically like, \"Everyone under 30 is an idiot. They don't know what they're doing. You shouldn't work for them because they're gonna screw everything up, and you're gonna waste your career working for somebody who's dumb.\" So..."
+  -
+    timestamp: "1:15:27"
+    speaker: Matt
+    content: "Oh, my."
+  -
+    timestamp: "1:15:28"
+    speaker: Andy
+    content: "The thing I will..."
+  -
+    timestamp: "1:15:29"
+    speaker: Matt
+    content: "If you're listening to this, Mike, you're a cool dude and everything, but you say a lot of stuff. [chuckle]"
+  -
+    timestamp: "1:15:34"
+    speaker: Andy
+    content: "Oh, if Mike's listening to this, there's a lot of things to say. [chuckle] But the thing that, there is something in there to take away, which is just that I think a lot of people, especially younger people, underestimate the responsibility that's gonna come with starting your own company. And I think that when people think about responsibility, they think about it in a purely practical sense like, \"Yeah, yeah, yeah, responsible, I get it. I'll run payroll on time and I'll make sure that we have healthcare. I can do those things.\" The responsibility for me has always been a much more emotional thing, like, \"Yeah, sure, I can do the logistical parts,\" but the emotional wear that comes from having that responsibility is very real and something that I don't think should be underestimated. I felt like I was prepared for the logistical challenges of running your own company, but I was not at all prepared for the emotional challenges. But I think, especially men, for example, do a much worse job communicating about. I was not prepared for how hard it would be to do those things and to have that responsibility emotionally."
+  -
+    timestamp: "1:16:24"
+    speaker: Andy
+    content: "And the last thing I'll say is just that that responsibility is mostly if you'll treat anybody who you are working with, especially people who you are their sole employer, with a great deal of respect and understanding and empathy. And I think so few people that run companies treat themselves with that same respect and empathy, right? They understand like, \"Yeah, yeah. I won't work my employees for 60 hours a week,\" but then they themselves are burning the candle at both ends 'cause they feel like they have to. So you're your own employee when you start your own company, and treat yourself with the same empathy and respect and care that you would anybody else who would be working with you."
+  -
+    timestamp: "1:16:58"
+    speaker: Jon
+    content: "Yeah. I totally... I'm with you on that, man. I don't... Nobody really works for me, they work with me. [chuckle] I feel like it's a much safer way to approach everything 'cause those hierarchies can get very strange. But if I do have to, at an official capacity, think about, \"Okay, you're an employee technically, I'm incredibly... It's a privilege to have you be my employee. I am grateful. So grateful that you chose to work for me or with me than with a safer bet, or something really simple and easy because you're taking a risk working for an entrepreneur that hasn't scaled a business to the point where it's not gonna go away.\""
+  -
+    timestamp: "1:17:48"
+    speaker: Andy
+    content: "Yep."
+  -
+    timestamp: "1:17:50"
+    speaker: Maurice
+    content: "Yeah, I always feel like I somehow tricked these great people [laughter] into working for us. When are they gonna discover that if..."
+  -
+    content: Laughter
+  -
+    timestamp: "1:18:00"
+    speaker: Andy
+    content: "When are they gonna find that this is all just smoke and mirrors? [laughter]"
+  -
+    timestamp: "1:18:02"
+    speaker: Maurice
+    content: "When are they gonna find out it's all me? It turns out it's all us."
+  -
+    content: Music
+  -
+    timestamp: "1:18:17"
+    speaker: Matt
+    content: "Thanks as always to XYZ for the transcripts. You can check them out at xyztype.com."
+  -
+    timestamp: "1:18:21"
+    speaker: Andy
+    content: "This is our attempt at active marketing. Tell someone about the show. Actively. Please."
+  -
+    timestamp: "1:18:28"
+    speaker: Matt
+    content: "Go to iTunes, rate the show. Five stars. Tell your friends."
+  -
+    content: Music
