@@ -166,3 +166,30 @@
   websites:
     - url: umi.io
   bio: "Jon is a black design entrepreneur from Honolulu with a focus on ethical problem solving. He's currently building big data tools for politics at <a href='https://circavictor.com/'>Circa Victor</a>, and previously lead product design at <a href='https://www.elevateapp.com/'>Elevate Labs</a>."
+-
+  firstName: Kim
+  lastName: Green
+  slug: kim-green
+  twitter: KGCre8tive
+  websites:
+    - url: kgcre8tive.com
+  bio: "Kim is a graphic designer and photographer based in Bozeman, Montana, with 18 years of experience. She started designing early on for school newspapers and currently runs her own studio, KGCre8tive."
+-
+  firstName: Richard Wade
+  lastName: Morgan
+  slug: richard-wade-morgan
+  twitter: StudioWade
+  websites:
+    - url: studiowade.com
+  bio: "Richard is a simple farm boy turned designer who is hell-bent on using design as a force for change. He is currently a visual designer at <a href='http://nicelybuilt.com/'>NicelyBuilt</a> and he's working to <a href='http://www.makeamericagayagain.co/'>Make America Gay Again</a>."
+-
+  firstName: Jamal
+  lastName: Collins
+  slug: jamal-collins
+  twitter: jayworking
+  websites:
+    - url: jayworking.com
+    - url: youtube.com/user/mindovermegahertz/featured
+  bio: "Jamal Collins is a designer, educator, consultant and mentor with almost two decades of experience. He is a firm believer in the power of direction and encouragement as a vehicle for individual, and by extension, social change."
+
+
