@@ -191,5 +191,12 @@
     - url: jayworking.com
     - url: youtube.com/user/mindovermegahertz/featured
   bio: "Jamal Collins is a designer, educator, consultant and mentor with almost two decades of experience. He is a firm believer in the power of direction and encouragement as a vehicle for individual, and by extension, social change."
+-
+  firstName: Daisy
+  lastName: Sun
+  slug: daisy-sun
+  websites:
+    - url: sunnydaiz.com
+  bio: "Daisy is a designer, cat lady, bread baker, sweater maker, and thoroughly mediocre woodworker living and working in Boston, MA. She is currently working for <a href='https://www.ngpvan.com/'>NGP VAN</a>."
 
 
