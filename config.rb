@@ -79,3 +79,28 @@ ignore "/contributors/template.html"
 set :url_root, 'https://workingfile.co'
 
 activate :search_engine_sitemap
+
+
+module ArrayToSentenceExtension
+  def to_sentence(options = {})
+    default_connectors = {
+      words_connector: ", ",
+      two_words_connector: " and ",
+      last_word_connector: ", and "
+    }
+    options = default_connectors.merge!(options)
+
+    case length
+    when 0
+      ""
+    when 1
+      "#{self[0]}"
+    when 2
+      "#{self[0]}#{options[:two_words_connector]}#{self[1]}"
+    else
+      "#{self[0...-1].join(options[:words_connector])}#{options[:last_word_connector]}#{self[-1]}"
+    end
+  end
+end
+
+Array.prepend(ArrayToSentenceExtension)
