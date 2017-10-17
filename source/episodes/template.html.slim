@@ -54,6 +54,24 @@ episode: true
 
 javascript:
   (function(){
+    var wordsThatSoundLikeSnap = ["Cap", "Chap", "Clap", "Crap", "Flap", "Frap", "Gap", "Hap", "Lap", "Map", "Nap", "Pap", "Rap", "Sap", "Scrap", "Slap", "Strap", "Tap", "Trap", "Wrap", "Yap", "Zap", "Bop", "Chop", "Crop", "Drop", "Flop", "Fop", "Hop", "Lop", "Mop", "Plop", "Prop", "Shop", "Slop", "Stop", "Swap", "Top", "Cat", "Bat", "Brat", "Chat", "Fat", "Flat", "Hat", "Mat", "Pat", "Rat", "Sat", "Butt"];
+
+    var changemetext = document.getElementById("changeme")
+
+    changemetext.addEventListener("mouseenter", function() {
+      var newWordOne = wordsThatSoundLikeSnap[Math.floor(Math.random() * wordsThatSoundLikeSnap.length)]
+      var newWordTwo = wordsThatSoundLikeSnap[Math.floor(Math.random() * wordsThatSoundLikeSnap.length)]
+
+      this.textContent=newWordOne + newWordTwo;
+    });
+
+    changemetext.addEventListener("mouseleave", function() {
+      this.textContent="SnapApp";
+    });
+  }());
+
+
+  (function(){
     var widgetIframe = document.getElementById("audio-player"),
         widget       = SC.Widget(widgetIframe);
 
