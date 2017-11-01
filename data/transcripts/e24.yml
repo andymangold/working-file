@@ -1,0 +1,2495 @@
+messages:
+  -
+    timestamp: "0:00:00"
+    speaker: Andy
+    content: "You are listening to Working File, a podcast about design practice and its relationship with the world. My name is Andy Mangold."
+  -
+    timestamp: "0:00:07"
+    speaker: Matt
+    content: "And I'm Matt McInerney."
+  -
+    timestamp: "0:00:08"
+    speaker: Andy
+    content: "On this episode, we talk about how we perceive our own skills and abilities and how we present that to the outside world."
+  -
+    timestamp: "0:00:13"
+    speaker: Matt
+    content: "Tell everyone you're great at everything."
+  -
+    timestamp: "0:00:15"
+    speaker: Andy
+    content: "Can't go wrong."
+  -
+    content: Music
+  -
+    timestamp: "0:00:36"
+    speaker: Andy
+    content: "Are we doing it? "
+  -
+    timestamp: "0:00:37"
+    speaker: Matt
+    content: "We're doing it."
+  -
+    timestamp: "0:00:38"
+    speaker: Andy
+    content: "We're doing it. We're doing a podcast. Matt, you're back. We missed you so much."
+  -
+    timestamp: "0:00:41"
+    speaker: Matt
+    content: "Thanks."
+  -
+    timestamp: "0:00:41"
+    speaker: Victoria
+    content: "Wait, where were you, Matt?"
+  -
+    timestamp: "0:00:42"
+    speaker: Matt
+    content: "I was in New Zealand for two weeks."
+  -
+    timestamp: "0:00:44"
+    speaker: Victoria
+    content: "Wow. That's amazing."
+  -
+    timestamp: "0:00:46"
+    speaker: Matt
+    content: "Which is far away."
+  -
+    timestamp: "0:00:47"
+    speaker: Victoria
+    content: "Yeah, that sounds like a ways to go."
+  -
+    timestamp: "0:00:49"
+    speaker: Andy
+    content: "On your official marriage trip, right? "
+  -
+    timestamp: "0:00:51"
+    speaker: Matt
+    content: "Yeah. Is that what you call it?"
+  -
+    timestamp: "0:00:53"
+    speaker: Andy
+    content: "I think so. A marriage journey, a matrimony journey."
+  -
+    timestamp: "0:00:55"
+    speaker: Matt
+    content: "It sounds right. You may have to look it up, but it sounds right."
+  -
+    timestamp: "0:00:56"
+    speaker: Victoria
+    content: "Like a quest?"
+  -
+    timestamp: "0:00:58"
+    speaker: Matt
+    content: "Yeah, I think it's called a quest."
+  -
+    timestamp: "0:01:00"
+    speaker: Matt
+    content: "Did you go to the Lord of the Rings cave? I don't remember what it was."
+  -
+    timestamp: "0:01:02"
+    speaker: Matt
+    content: "We did go to the the [laughter] Lord of Rings cave."
+  -
+    timestamp: "0:01:03"
+    speaker: Victoria
+    content: "Okay. It's my one New Zealand thing that I remember."
+  -
+    timestamp: "0:01:07"
+    speaker: Matt
+    content: "It's more of a mountain with houses and stuff, but yeah, we went to the Lord of the Rings cave."
+  -
+    timestamp: "0:01:10"
+    speaker: Victoria
+    content: "Okay. We're thinking of different caves then. Never mind."
+  -
+    content: Laughter
+  -
+    timestamp: "0:01:13"
+    speaker: Andy
+    content: "Her cave is not a mountain. I'm here in the studio with Victoria who is a returning contributor. So welcome, Victoria."
+  -
+    timestamp: "0:01:20"
+    speaker: Victoria
+    content: "Hi."
+  -
+    timestamp: "0:01:21"
+    speaker: Andy
+    content: "And we're also joined for the first time by new contributor, Daisy. Daisy, you're coming to us from your comfy chair in your apartment? "
+  -
+    timestamp: "0:01:27"
+    speaker: Daisy
+    content: "I am here in Boston. It's great to be here."
+  -
+    timestamp: "0:01:29"
+    speaker: Victoria
+    content: "Cambridge."
+  -
+    timestamp: "0:01:30"
+    speaker: Daisy
+    content: "Cambridge."
+  -
+    content: Chuckle
+  -
+    timestamp: "0:01:32"
+    speaker: Andy
+    content: "That was quick."
+  -
+    timestamp: "0:01:33"
+    speaker: Matt
+    content: "I'm picking up on the tone of this."
+  -
+    timestamp: "0:01:35"
+    speaker: Victoria
+    content: "She knows it's not Boston."
+  -
+    timestamp: "0:01:36"
+    speaker: Andy
+    content: "Is that a thing? Is there a whole thing between Cambridge and Boston? "
+  -
+    timestamp: "0:01:39"
+    speaker: Daisy
+    content: "No, they are two very distinct entities. It's just that Boston or Cambridge, neither particularly important, so it doesn't matter. [chuckle]"
+  -
+    timestamp: "0:01:47"
+    speaker: Matt
+    content: "I have a friend who lives in Queens and he always says he lives in Brooklyn, and I always make sure to correct him. Is it like one of those things?"
+  -
+    timestamp: "0:01:53"
+    speaker: Daisy
+    content: "I don't know Victoria, is it?"
+  -
+    timestamp: "0:01:54"
+    speaker: Victoria
+    content: "It's a little bit like one of those things except, I don't know, I never lived in Boston. I only lived in Cambridge, but it's like where people that haven't lived there think that they're the same things. So I'm telling people that they're two different cities."
+  -
+    timestamp: "0:02:05"
+    speaker: Andy
+    content: "This is an informational show."
+  -
+    timestamp: "0:02:06"
+    speaker: Matt
+    content: "To be fair, I grew up in Western Mass and I would say that and people were like, \"Oh, you mean Boston?\" Which is slightly more far away."
+  -
+    timestamp: "0:02:13"
+    speaker: Victoria
+    content: "What do you say to that?"
+  -
+    timestamp: "0:02:15"
+    speaker: Matt
+    content: "I say Cambridge."
+  -
+    content: Chuckle
+  -
+    timestamp: "0:02:17"
+    speaker: Victoria
+    content: "Oh, yeah. [chuckle]"
+  -
+    timestamp: "0:02:18"
+    speaker: Andy
+    content: "I'm gonna respect whatever terminology Daisy uses for her location because she's the one there. She gets to decide where she is and that works for me."
+  -
+    timestamp: "0:02:26"
+    speaker: Daisy
+    content: "I think it's also important to draw distinction between Cambridge, Massachusetts and Cambridge in the UK. So you know possibly is just little bit fair."
+  -
+    timestamp: "0:02:32"
+    speaker: Victoria
+    content: "No one's getting those confused."
+  -
+    timestamp: "0:02:35"
+    speaker: Matt
+    content: "But we've had one contributor from the UK, that's an important distinction to make maybe."
+  -
+    timestamp: "0:02:39"
+    speaker: Daisy
+    content: "I can put on my accent and it would get extra confusing."
+  -
+    timestamp: "0:02:41"
+    speaker: Victoria
+    content: "Don't do it."
+  -
+    timestamp: "0:02:41"
+    speaker: Matt
+    content: "I hear that only happens when you get drunk."
+  -
+    timestamp: "0:02:43"
+    speaker: Daisy
+    content: "I can make that happen."
+  -
+    content: Laughter
+  -
+    timestamp: "0:02:46"
+    speaker: Matt
+    content: "So put on your accent, you may now glog glog glog, put on the accent."
+  -
+    timestamp: "0:02:50"
+    speaker: Daisy
+    content: "Yeah, that's the exact sequence of events."
+  -
+    timestamp: "0:02:53"
+    speaker: Andy
+    content: "Victoria, do you want to introduce the topic tonight? 'Cause this is something you had mentioned."
+  -
+    timestamp: "0:02:57"
+    speaker: Victoria
+    content: "Oh my gosh."
+  -
+    timestamp: "0:03:00"
+    speaker: Andy
+    content: "I'm putting you on the spot, I did not prepare you for this."
+  -
+    timestamp: "0:03:01"
+    speaker: Victoria
+    content: "You did not prepare me for this. I barely could introduce Daisy but then instead, I ragged on her for two minutes about Cambridge."
+  -
+    timestamp: "0:03:07"
+    speaker: Andy
+    content: "Yeah, well, that's a relevant introduction. Now people have a good sense for your dynamic, it feels friendly, we're really coming through the air waves to people and just getting right in their living room with them. Alright. Well tonight, we're gonna be discussing all sorts of topics around the idea of getting a job. And specifically, Victoria has mentioned that she and Daisy have a history in their careers of applying for a job that maybe on paper, they don't 100% meet the qualifications for and then learning on the job presumably to get to the point where you are in fact, qualified and can do the job in which you've been hired to do. And there's all kinds of ideas wrapped up in that. Maybe the best way to start is just to, from Daisy first, just hear what your career path has been. For people that don't know you, what Daisy do? "
+  -
+    timestamp: "0:03:55"
+    speaker: Daisy
+    content: "What do Daisy do? I can tell you my tale of well... Well, I did not major in anything remotely close, well close-ish, to graphic design. I majored in industrial design, which basically meant a lot of time in a wood shop, getting woodchips in all the crevices on my body. And..."
+  -
+    timestamp: "0:04:17"
+    speaker: Victoria
+    content: "It's true."
+  -
+    timestamp: "0:04:17"
+    speaker: Daisy
+    content: "It's just... It was a lot. And I don't know. There's not a whole lot of jobs available that involved getting woodchips in all the crevices of your body. People don't generally pay you for that. And... [chuckle]"
+  -
+    timestamp: "0:04:33"
+    speaker: Victoria
+    content: "Not the kinds you were looking for."
+  -
+    timestamp: "0:04:34"
+    speaker: Daisy
+    content: "Not the kinds I was looking for. There are a lot of jobs actually. Craigslist is a good place to look. But towards the end of senior year, you just do a panic and realize that you have no marketable skills whatsoever, and just apply to every single little thing that shows up in your inbox, and that's what I did."
+  -
+    timestamp: "0:04:52"
+    speaker: Matt
+    content: "And so where did you end up working out of school? And are you still working there now? What are the jobs you've had?"
+  -
+    timestamp: "0:04:58"
+    speaker: Daisy
+    content: "I have had four jobs in four years. So we'll see if I keep that record up. I started out working at this horrific switch up of a place that was consultants in Waltham, Massachusetts and it did most of its work in China, so it was really not a..."
+  -
+    timestamp: "0:05:19"
+    speaker: Victoria
+    content: "It was educational. It was getting kids to go to international schools or something."
+  -
+    timestamp: "0:05:24"
+    speaker: Daisy
+    content: "Why do you know more about my job than I know about my job?"
+  -
+    timestamp: "0:05:26"
+    speaker: Victoria
+    content: "I'm trying to retain information."
+  -
+    timestamp: "0:05:27"
+    speaker: Andy
+    content: "She's a good listener."
+  -
+    timestamp: "0:05:29"
+    speaker: Victoria
+    content: "Doing okay. And you were doing what for them?"
+  -
+    timestamp: "0:05:31"
+    speaker: Daisy
+    content: "I was doing nominally web design for them. But in practice..."
+  -
+    timestamp: "0:05:38"
+    speaker: Victoria
+    content: "See that, I didn't know."
+  -
+    timestamp: "0:05:39"
+    speaker: Daisy
+    content: "Yeah, I see. But in practice, it just meant making lots of shitty brochures and email templates, and whatever else they wanted to throw at us. We were in fake marketing and design department that really didn't do anything legitimate whatsoever. So..."
+  -
+    timestamp: "0:06:02"
+    speaker: Andy
+    content: "So, overall, a good experience then. Very positive."
+  -
+    timestamp: "0:06:04"
+    speaker: Daisy
+    content: "Oh yeah, super positive, super positive. A lot of it was just sort of nobody there really knew how to make a good website or a good printed material, or..."
+  -
+    timestamp: "0:06:18"
+    speaker: Victoria
+    content: "Including you."
+  -
+    timestamp: "0:06:19"
+    speaker: Daisy
+    content: "Including me, including me."
+  -
+    timestamp: "0:06:20"
+    speaker: Victoria
+    content: "Sorry, I'll stop doing these bars."
+  -
+    timestamp: "0:06:22"
+    speaker: Andy
+    content: "Deep burns coming from Victoria over here."
+  -
+    timestamp: "0:06:25"
+    speaker: Daisy
+    content: "Yep, no, I'm super used to this, unfortunately. So, in terms of learning on the job there, that was just sort of spending a lot of time trying to go backwards and get the graphic design education that I didn't really have, just by looking at websites and looking at work that I did like and just trying to get somewhere halfway competent with that."
+  -
+    timestamp: "0:06:51"
+    speaker: Andy
+    content: "So am I correct in assuming that maybe the way that you got this job, despite not having formally studied graphic design or web design at all was just that these people also didn't know how to make websites? "
+  -
+    timestamp: "0:07:01"
+    speaker: Daisy
+    content: "Correct."
+  -
+    timestamp: "0:07:01"
+    speaker: Andy
+    content: "So they didn't know how to sniff it out in you? "
+  -
+    content: Laughter
+  -
+    timestamp: "0:07:03"
+    speaker: Daisy
+    content: "Correct. That is correct. I had..."
+  -
+    timestamp: "0:07:06"
+    speaker: Andy
+    content: "Alright, that works."
+  -
+    timestamp: "0:07:06"
+    speaker: Daisy
+    content: "I had \"design\" in my degree name, I went to a design school."
+  -
+    timestamp: "0:07:11"
+    speaker: Victoria
+    content: "There's the word \"design\" in the name."
+  -
+    timestamp: "0:07:12"
+    speaker: Daisy
+    content: "There's the word \"design\" in it. I'm trying to remember what my portfolio looks like at that point in time and I'm sure it was horrific."
+  -
+    timestamp: "0:07:20"
+    speaker: Andy
+    content: "I bet it wasn't that bad."
+  -
+    timestamp: "0:07:21"
+    speaker: Daisy
+    content: "So it had maybe one or two pieces that were sort of graphic design related and then the rest of it was just like blocks of wood put in various shapes."
+  -
+    content: Laughter
+  -
+    timestamp: "0:07:31"
+    speaker: Andy
+    content: "You can sit on this block of wood."
+  -
+    timestamp: "0:07:33"
+    speaker: Daisy
+    content: "Yeah."
+  -
+    content: Laughter
+  -
+    timestamp: "0:07:33"
+    speaker: Victoria
+    content: "You can't sit on this block of wood."
+  -
+    timestamp: "0:07:35"
+    speaker: Andy
+    content: "This block of wood is not for sitting, not even a little."
+  -
+    content: Laughter
+  -
+    timestamp: "0:07:38"
+    speaker: Victoria
+    content: "And then, wait, wait, wait. I'm gonna keep this moving, where'd you go next? Say it, say it."
+  -
+    timestamp: "0:07:41"
+    speaker: Daisy
+    content: "Oh my God, you're not gonna make me say it out loud."
+  -
+    timestamp: "0:07:44"
+    speaker: Victoria
+    content: "No, you have to."
+  -
+    timestamp: "0:07:45"
+    speaker: Daisy
+    content: "It's not... I want to preface this by saying..."
+  -
+    timestamp: "0:07:48"
+    speaker: Victoria
+    content: "You can't preface this, you can't."
+  -
+    timestamp: "0:07:49"
+    speaker: Daisy
+    content: "No, no, no, I'm gonna preface it by saying I did not work at Snapchat."
+  -
+    content: Laughter
+  -
+    timestamp: "0:07:53"
+    speaker: Daisy
+    content: "Which is what you're gonna think I worked at, but I worked at a place that rhymes very, very closely with Snapchat."
+  -
+    timestamp: "0:08:00"
+    speaker: Victoria
+    content: "I've already forgotten what it is 'cause I only remember the jokes."
+  -
+    timestamp: "0:08:03"
+    speaker: Daisy
+    content: "It's Cat Flap."
+  -
+    timestamp: "0:08:04"
+    speaker: Victoria
+    content: "No, it's not. What is it?"
+  -
+    timestamp: "0:08:05"
+    speaker: Andy
+    content: "Flapjack."
+  -
+    timestamp: "0:08:06"
+    speaker: Daisy
+    content: "It was Flapjack, actually."
+  -
+    content: Laughter
+  -
+    timestamp: "0:08:08"
+    speaker: Victoria
+    content: "Butt sack."
+  -
+    content: Laughter
+  -
+    timestamp: "0:08:09"
+    speaker: Andy
+    content: "It was actually Flapjack? "
+  -
+    timestamp: "0:08:10"
+    speaker: Daisy
+    content: "No, it was not Flapjack."
+  -
+    content: Laughter
+  -
+    timestamp: "0:08:13"
+    speaker: Andy
+    content: "What's happening? "
+  -
+    timestamp: "0:08:13"
+    speaker: Daisy
+    content: "It's Snap Butt."
+  -
+    timestamp: "0:08:15"
+    speaker: Andy
+    content: "This is all of a sudden an episode of the flop house."
+  -
+    timestamp: "0:08:17"
+    speaker: Victoria
+    content: "Pop Tech?"
+  -
+    content: Laughter
+  -
+    timestamp: "0:08:19"
+    speaker: Victoria
+    content: "Sorry, please tell me what it is, I'm losing it."
+  -
+    timestamp: "0:08:21"
+    speaker: Daisy
+    content: "It was SnapApp."
+  -
+    timestamp: "0:08:24"
+    speaker: Victoria
+    content: "Right."
+  -
+    content: Laughter
+  -
+    timestamp: "0:08:26"
+    speaker: Victoria
+    content: "Yeah. See, how that's easy and fun to riff off of?"
+  -
+    timestamp: "0:08:29"
+    speaker: Andy
+    content: "Yeah, SnapApp. That's a..."
+  -
+    timestamp: "0:08:30"
+    speaker: Daisy
+    content: "Which is why I required the preface, 'cause you would be like, \"Oh, you worked at Snapchat.\" I did not work at Snapchat. And that was sort of... I was the only designer there and I only worked there for six months, but that was definitely a job that I was heavily unqualified for."
+  -
+    content: Laughter
+  -
+    timestamp: "0:08:48"
+    speaker: Andy
+    content: "So how did you get that one? "
+  -
+    timestamp: "0:08:51"
+    speaker: Daisy
+    content: "I don't really have a good answer for you."
+  -
+    timestamp: "0:08:54"
+    speaker: Andy
+    content: "Okay. I guess you don't really know, right? "
+  -
+    timestamp: "0:08:55"
+    speaker: Daisy
+    content: "I don't really know."
+  -
+    timestamp: "0:08:55"
+    speaker: Andy
+    content: "You didn't decide to hire you, so."
+  -
+    timestamp: "0:08:56"
+    speaker: Victoria
+    content: "It just happened."
+  -
+    timestamp: "0:08:58"
+    speaker: Daisy
+    content: "I don't really know. I think this is also a situation where the people there don't know what good design is. Because again, I was the only designer there. I was working under the director of marketing, he doesn't know what good design was. I got to the place I am by being an incompetent person working for incompetent people."
+  -
+    timestamp: "0:09:21"
+    speaker: Victoria
+    content: "Have you sensed or worked somewhere where they know what a design is?"
+  -
+    timestamp: "0:09:24"
+    speaker: Daisy
+    content: "So after Cat Flap, I worked at Wayfair."
+  -
+    timestamp: "0:09:30"
+    speaker: Victoria
+    content: "Flat Pop."
+  -
+    content: Laughter
+  -
+    timestamp: "0:09:33"
+    speaker: Daisy
+    content: "Hat Pack. I worked at Wayfair where there was a pretty well established design department."
+  -
+    timestamp: "0:09:42"
+    speaker: Andy
+    content: "Yeah, it's a big company..."
+  -
+    timestamp: "0:09:43"
+    speaker: Victoria
+    content: "Yeah, it's a big company."
+  -
+    timestamp: "0:09:43"
+    speaker: Andy
+    content: "It's a big e-commerce company for people that don't know what Wayfair is, it's a very big website that sells things."
+  -
+    timestamp: "0:09:48"
+    speaker: Daisy
+    content: "Right, it's got a zillion things home, I believe, is the jingle. There's a..."
+  -
+    timestamp: "0:09:53"
+    speaker: Victoria
+    content: "That's not a jingle. Sorry, go on."
+  -
+    timestamp: "0:09:55"
+    speaker: Daisy
+    content: "Do you want me to sing it?"
+  -
+    timestamp: "0:09:57"
+    speaker: Victoria
+    content: "Yeah."
+  -
+    timestamp: "0:09:57"
+    speaker: Andy
+    content: "Yes."
+  -
+    timestamp: "0:09:57"
+    speaker: Daisy
+    content: "No."
+  -
+    content: Laughter
+  -
+    timestamp: "0:10:00"
+    speaker: Andy
+    content: "Okay."
+  -
+    timestamp: "0:10:00"
+    speaker: Matt
+    content: "Was that whole thing a setup to get you to sing it?"
+  -
+    content: Laughter
+  -
+    timestamp: "0:10:04"
+    speaker: Daisy
+    content: "So..."
+  -
+    timestamp: "0:10:05"
+    speaker: Victoria
+    content: "This whole episode? Yes."
+  -
+    timestamp: "0:10:06"
+    speaker: Daisy
+    content: "Yeah."
+  -
+    content: Laughter
+  -
+    timestamp: "0:10:08"
+    speaker: Daisy
+    content: "It still haunts me in my dreams that jingle sometimes."
+  -
+    timestamp: "0:10:12"
+    speaker: Victoria
+    content: "Alright, fine, I'll look it up later. Keep going."
+  -
+    timestamp: "0:10:13"
+    speaker: Daisy
+    content: "Yeah, I'll send you the YouTube video. So there is a pretty established design department there, I wanna say like 60 to 70 designers ranging from product designers or marketing, email people, creative director, product director, pretty legit place. And I got there off the back of the work that I had done at SnapApp and the stuff that I'd done there was pretty much just me improvising off of a not particularly good product, making it look reasonably presentable in my portfolio by emulating people who actually knew what they were doing and making it look like the facsimile effect..."
+  -
+    timestamp: "0:11:03"
+    speaker: Andy
+    content: "Of course, yeah, yeah, yeah."
+  -
+    timestamp: "0:11:04"
+    speaker: Daisy
+    content: "They weren't actually good, robust designs in retrospect and I think I knew that at the time. But they looked good enough within a portfolio that had other design work from my time at the consulting place that it was good enough to get me a product designer job at Wayfair."
+  -
+    timestamp: "0:11:21"
+    speaker: Victoria
+    content: "Moving on up."
+  -
+    timestamp: "0:11:23"
+    speaker: Daisy
+    content: "Woo."
+  -
+    timestamp: "0:11:23"
+    speaker: Andy
+    content: "Yeah, this is a... You're climbing this ladder very quickly. At this rate, you're gonna be the CEO of the next big startup in a couple years."
+  -
+    timestamp: "0:11:29"
+    speaker: Daisy
+    content: "Yeah."
+  -
+    timestamp: "0:11:30"
+    speaker: Victoria
+    content: "No, now she works for all the Democrats so next she's gonna be president."
+  -
+    timestamp: "0:11:33"
+    speaker: Daisy
+    content: "Next I'm gonna be president."
+  -
+    timestamp: "0:11:33"
+    speaker: Andy
+    content: "There we go. That's the other ladder you're climbing. So, this job relative to the others, was this a more satisfying creatively job? Did you feel like the work you were doing was more challenging and higher quality and you could actually kinda push? It sounds like the other places weren't really challenging you in that sense, the work you felt like was kind of throwaway."
+  -
+    timestamp: "0:11:50"
+    speaker: Daisy
+    content: "Yeah, I wasn't really working with other designers at the previous two places that I'd worked. I didn't work under a person who knew what they were doing and that was very different at Wayfair, where there were experienced designers and a really creative director and all of that. And people actually critiqued work and talked about it, and what was bad and what was good. Yeah, definitely."
+  -
+    timestamp: "0:12:15"
+    speaker: Andy
+    content: "So now you're no longer working for Wayfair? "
+  -
+    timestamp: "0:12:18"
+    speaker: Daisy
+    content: "I am not."
+  -
+    timestamp: "0:12:19"
+    speaker: Andy
+    content: "As Victoria says, you're working for the Democrats so..."
+  -
+    timestamp: "0:12:21"
+    speaker: Daisy
+    content: "Not really."
+  -
+    timestamp: "0:12:21"
+    speaker: Victoria
+    content: "In a broad sense."
+  -
+    timestamp: "0:12:22"
+    speaker: Daisy
+    content: "Kind of."
+  -
+    timestamp: "0:12:23"
+    speaker: Andy
+    content: "What exactly are you doing? "
+  -
+    content: Chuckle
+  -
+    timestamp: "0:12:24"
+    speaker: Daisy
+    content: "Good question. I'm a product designer working at NGP VAN, which is a software company that makes basically software for political campaigns and non-profits, mainly the Democrats."
+  -
+    timestamp: "0:12:39"
+    speaker: Andy
+    content: "Did you feel qualified for this job when you applied for it? "
+  -
+    timestamp: "0:12:42"
+    speaker: Daisy
+    content: "Yeah. I think I did actually."
+  -
+    timestamp: "0:12:44"
+    speaker: Victoria
+    content: "Did you in a sense feel qualified for all of the jobs?"
+  -
+    content: Chuckle
+  -
+    timestamp: "0:12:48"
+    speaker: Daisy
+    content: "In a sense I was 'cause none of them were really legit and I wasn't legit."
+  -
+    timestamp: "0:12:56"
+    speaker: Andy
+    content: "So it lined up? "
+  -
+    timestamp: "0:12:57"
+    speaker: Victoria
+    content: "Well, yeah."
+  -
+    timestamp: "0:12:57"
+    speaker: Victoria
+    content: "Right."
+  -
+    timestamp: "0:12:57"
+    speaker: Andy
+    content: "It matched up in the spectrum."
+  -
+    timestamp: "0:12:58"
+    speaker: Daisy
+    content: "Right. I think at Wayfair that was definitely a stretch and there was a lot of fakery that went on in that process. I remember a lot of pointed questions in the interview process. They were like, \"So you've worked at Hack App for six months, how is that going?\""
+  -
+    timestamp: "0:13:15"
+    speaker: Andy
+    content: "You've worked at Hacky Sack for six months? "
+  -
+    timestamp: "0:13:16"
+    speaker: Daisy
+    content: "Hacky Sack at..."
+  -
+    timestamp: "0:13:17"
+    speaker: Victoria
+    content: "No, it's two syllables Andy, stick with the format."
+  -
+    timestamp: "0:13:20"
+    speaker: Andy
+    content: "Sorry, sorry, sorry."
+  -
+    timestamp: "0:13:20"
+    speaker: Daisy
+    content: "You have to stick with the formula."
+  -
+    timestamp: "0:13:21"
+    speaker: Andy
+    content: "This is new to me."
+  -
+    timestamp: "0:13:24"
+    speaker: Daisy
+    content: "Right. So at that point, I had been, when I was interviewing at Wayfair for a product designer job, I had been working as a product designer for maybe four months."
+  -
+    timestamp: "0:13:39"
+    speaker: Andy
+    content: "Okay. It's worth noting. That's about the length of a lot of these new kind of alternative education programs that are like boot camps to get you to become a product designer or boot camps to get you become a software developer. They are anywhere between three and six months. So that's not an insane amount of time to learn a thing, I don't think."
+  -
+    timestamp: "0:14:00"
+    speaker: Victoria
+    content: "And also, you rose through the ranks pretty quickly. You were interviewing people at Wayfair towards the end of your tenure."
+  -
+    timestamp: "0:14:03"
+    speaker: Daisy
+    content: "Well, yeah, everyone does that at Wayfair."
+  -
+    timestamp: "0:14:06"
+    speaker: Victoria
+    content: "You know what, don't take this away from me. This is like a lofty goal for me."
+  -
+    timestamp: "0:14:08"
+    speaker: Daisy
+    content: "Okay. You've never interviewed someone before?"
+  -
+    timestamp: "0:14:12"
+    speaker: Victoria
+    content: "No. Why would I do that?"
+  -
+    timestamp: "0:14:13"
+    speaker: Daisy
+    content: "I don't know. I just figured you would."
+  -
+    timestamp: "0:14:16"
+    speaker: Victoria
+    content: "Wow. Okay, thanks."
+  -
+    timestamp: "0:14:19"
+    speaker: Andy
+    content: "You ask good questions, you're a good listener, your judgement is sound. You'd be a good interviewer."
+  -
+    timestamp: "0:14:22"
+    speaker: Victoria
+    content: "Oh no. I thought you just meant... She's talking like, \"Oh, I thought that you would've worked up to that.\""
+  -
+    timestamp: "0:14:27"
+    speaker: Daisy
+    content: "Well, no. Because well, I consider you more, not established, but like you've been working a legit job for longer than I've been working a legit job."
+  -
+    timestamp: "0:14:34"
+    speaker: Victoria
+    content: "Yeah, but it was a legit job that they specifically hired me to train me for."
+  -
+    timestamp: "0:14:39"
+    speaker: Daisy
+    content: "Right."
+  -
+    timestamp: "0:14:40"
+    speaker: Andy
+    content: "Yes, I wanna cover one thing before we go to Victoria's job history, 'cause I wanna talk about that too. The other thing I wanna say is that you mentioned that while you were working at Wayfair, you were very much like emulating work that you knew to be good even if maybe the underpinnings weren't there for this critical thought behind it or the process behind the work. And I think you know this, but to point out to our listeners, that's how everybody learns how to design. When you're a student, you do that, if you're in school, when you're early in your career, you do that because before you learn how to do anything the \"right way\", you always start by emulating. So I thought you kinda said that with a derogatory sense of like, \"Oh, I was just copying work I thought that was good but... \""
+  -
+    timestamp: "0:15:17"
+    speaker: Victoria
+    content: "But we went to a very expensive school."
+  -
+    timestamp: "0:15:19"
+    speaker: Daisy
+    content: "We went to a very expensive school. It was very expensive. I'd also like to point out that there's a difference between making good work that is sound and good for the user, actually a good product, versus making something that can pass muster in a portfolio."
+  -
+    timestamp: "0:15:38"
+    speaker: Andy
+    content: "Yeah."
+  -
+    timestamp: "0:15:39"
+    speaker: Daisy
+    content: "I think those are two very, very different skills and I had one of them pretty down in terms of making myself look reasonably presentable and having it look flashy and professional, versus actually having a good designed product."
+  -
+    timestamp: "0:15:50"
+    speaker: Victoria
+    content: "The one that gets your foot on the door."
+  -
+    timestamp: "0:15:55"
+    speaker: Andy
+    content: "Yeah. And the other thing I wanna mention is that I know you Daisy, Victoria knows you, I think you're very charismatic. I would expect you're a good interviewer."
+  -
+    timestamp: "0:16:03"
+    speaker: Daisy
+    content: "Oh, I'm a baller interviewer."
+  -
+    timestamp: "0:16:05"
+    speaker: Andy
+    content: "So this is probably another important factor. It's probably another important factor to getting the jobs that you felt unqualified for is probably carrying yourself with a fair amount of confidence, having this persona to go into a room and convince these people that like, \"Wow, this person really feels competent, even if I don't see it in the portfolio or whatever,\" which is..."
+  -
+    timestamp: "0:16:23"
+    speaker: Daisy
+    content: "Oh, absolutely. My one failed interview where the job disappeared after... They interviewed me, I had gone through the process and it turned out they didn't have it in the budget. They emailed me back and were like, \"You were absolutely amazing at interviewing.\""
+  -
+    content: Laughter
+  -
+    timestamp: "0:16:38"
+    speaker: Andy
+    content: "Well, so that's a good thing to mention here too as people out there may be listening and thinking about their own prospects applying for a job they don't meet all the qualifications for, I think charisma will help you, will go a long way."
+  -
+    timestamp: "0:16:51"
+    speaker: Victoria
+    content: "Well, but what... How? How to have?"
+  -
+    content: Laughter
+  -
+    timestamp: "0:16:58"
+    speaker: Andy
+    content: "Daisy could probably do a better job of telling you how to have charisma than I could. But let's go to your career path, Victoria. I'm curious to understand 'cause I know that you have worked for the same place since graduation? "
+  -
+    timestamp: "0:17:10"
+    speaker: Victoria
+    content: "That is not true."
+  -
+    timestamp: "0:17:12"
+    speaker: Andy
+    content: "Okay."
+  -
+    timestamp: "0:17:12"
+    speaker: Victoria
+    content: "Almost true."
+  -
+    timestamp: "0:17:12"
+    speaker: Andy
+    content: "I do not know that."
+  -
+    timestamp: "0:17:13"
+    speaker: Daisy
+    content: "Chihuahua, the chihuahua. Sorry."
+  -
+    timestamp: "0:17:15"
+    speaker: Victoria
+    content: "Yes, thank you. Thank you, thank you. No well, okay, I thought of this as a topic for a podcast because it's what I did right out of college and it's what Daisy did right out of college, and Daisy just kept doing it and I caught a weird break instead where I didn't have to exactly fake it, and they just taught me. Anyway, so I set an illustration, which I don't have something like woodchips in all of my crevices to talk about, I guess."
+  -
+    timestamp: "0:17:44"
+    speaker: Andy
+    content: "Paint under your fingernails, maybe? "
+  -
+    timestamp: "0:17:46"
+    speaker: Victoria
+    content: "No, you could really opt out of that pretty early on. But..."
+  -
+    timestamp: "0:17:49"
+    speaker: Andy
+    content: "An unused Wacom tablet in your closet? "
+  -
+    content: Chuckle
+  -
+    timestamp: "0:17:53"
+    speaker: Daisy
+    content: "Wacom?"
+  -
+    timestamp: "0:17:53"
+    speaker: Victoria
+    content: "No. Wacom."
+  -
+    timestamp: "0:17:55"
+    speaker: Andy
+    content: "Oh, is it Wacom? "
+  -
+    timestamp: "0:17:56"
+    speaker: Victoria
+    content: "I have no idea but I've only heard the latter."
+  -
+    timestamp: "0:17:58"
+    speaker: Andy
+    content: "Well, I've only heard the former, so."
+  -
+    timestamp: "0:18:00"
+    speaker: Victoria
+    content: "Well, alright, I'll fight you later."
+  -
+    timestamp: "0:18:01"
+    speaker: Andy
+    content: "You say Wacom, I say Wacom."
+  -
+    timestamp: "0:18:03"
+    speaker: Victoria
+    content: "Yes."
+  -
+    timestamp: "0:18:04"
+    speaker: Andy
+    content: "A Wacom, a Wacom. Continue."
+  -
+    timestamp: "0:18:07"
+    speaker: Victoria
+    content: "You good? Okay."
+  -
+    timestamp: "0:18:08"
+    speaker: Andy
+    content: "Yes. [chuckle]"
+  -
+    timestamp: "0:18:10"
+    speaker: Victoria
+    content: "So I studied illustration which was not for me, which I knew at the time and it sucked. I used to spend, Daisy mentioned Craigslist, and I almost like made a noise, I used to spend a lot of time on Craigslist, just like knowing what little job prospects I would have because I don't know why I thought that was a good indicator, but it was. And also, just in my time in school, the graphic design department, they were so intimidating and it felt like the way that they talked about it, maybe this was just at my school and where Daisy also went to school, they talked about graphic design like it was something that no one else could possibly fathom, all the so many things that they knew. Did you get that impression, Daisy?"
+  -
+    timestamp: "0:18:58"
+    speaker: Daisy
+    content: "Oh, absolutely, it was like a lot of mysticism and..."
+  -
+    timestamp: "0:19:02"
+    speaker: Victoria
+    content: "Yeah, I know, that's just a bunch of shit."
+  -
+    timestamp: "0:19:03"
+    speaker: Daisy
+    content: "Almost pompous religiosity about it where it's like, \"No one can possibly know this and it cannot be explained either.\" So I don't know what they were doing in lecture 'cause..."
+  -
+    timestamp: "0:19:16"
+    speaker: Victoria
+    content: "I don't know, it sounds fun but they were talking about it like they couldn't get jobs after school. So I'm like, \"How am I gonna get their jobs? That's gonna be hard.\" When we were graduating, I went where I thought that there would be a non zero chance that someone would hire me and that was New York and specifically newyork.craigslist.com."
+  -
+    content: Laughter
+  -
+    timestamp: "0:19:39"
+    speaker: Andy
+    content: "Everyone's favorite part of New York."
+  -
+    content: Laughter
+  -
+    timestamp: "0:19:41"
+    speaker: Victoria
+    content: "I know. Who is from there? I don't know, not the guy from Queens. And I ended up with..."
+  -
+    timestamp: "0:19:48"
+    speaker: Andy
+    content: "Burn, Mark."
+  -
+    content: Laughter
+  -
+    timestamp: "0:19:50"
+    speaker: Victoria
+    content: "Okay, I don't... I ended up with this, [chuckle] $20 an hour job, designing all kinds of shit for luxury brands for this dude named James who worked in a studio, that it was just me and him, and there was technically a window, but there wasn't a lot sunlight 'cause it was facing a courtyard."
+  -
+    timestamp: "0:20:11"
+    speaker: Daisy
+    content: "And a chihuahua?"
+  -
+    timestamp: "0:20:12"
+    speaker: Victoria
+    content: "And a chihuahua. Did I not already say that?"
+  -
+    timestamp: "0:20:14"
+    speaker: Daisy
+    content: "No."
+  -
+    timestamp: "0:20:14"
+    speaker: Victoria
+    content: "I said in my brain."
+  -
+    timestamp: "0:20:15"
+    speaker: Andy
+    content: "Daisy said it a lot loudly but you didn't say anything about it."
+  -
+    timestamp: "0:20:17"
+    speaker: Victoria
+    content: "So sorry. There was a chihuahua that would come hang out sometimes. So I wasn't technically working alone. So, I was doing New York modeling, agency comp cards, those were fun, jewelry, billboards, promo stuff for Remy Martin and Tiffany's, and there's this one French watch brand that I can't pronounce. So stuff like that. Oh, and lipstick packaging. She gasps because I would sometimes take the lipsticks, with permission, and give them to my friends. Yeah. It just felt like even though I was earning very little money and that was not sustainable, I was just like, hey, if I can get a job anywhere doing graphic design work when I have no training doing graphic design work, just like my letters that I draw for funds and what I've taught myself, and also, most of the jobs that I will want in the future will also be in New York, so I decided to move there for that one really low paying job and give myself a year. So I did that and it was just this revelation of... Even though it was pittance, like, \"Someone is paying me for design.\" And I did, like Daisy mentioned, feel like I could take those things and really swing my way into a better job the next time. So yeah, that's my no experience thing. I can't stress enough how little I knew, I mostly knew how to use illustrator, that's it."
+  -
+    timestamp: "0:21:52"
+    speaker: Andy
+    content: "So did you present your illustration portfolio to James, the mysterious James, when you applied to the job or did you just show up and say, \"Yeah, here is my Adobe key so you know I have the... \""
+  -
+    timestamp: "0:22:03"
+    speaker: Victoria
+    content: "I guess I had some what you could call a graphic design work and a lot a lettering work 'cause that's what I was really trying to swing. But yeah, no, not a lot. And my website looked bad and I had only just barely figured out most of the Adobe Suite with the people around me's help."
+  -
+    timestamp: "0:22:32"
+    speaker: Andy
+    content: "And then how long were you with James and the chihuahua, which is my favorite? It's like James and the giant peach, but it was just James and the chihuahua."
+  -
+    timestamp: "0:22:40"
+    speaker: Victoria
+    content: "Yeah. [chuckle]"
+  -
+    timestamp: "0:22:41"
+    speaker: Andy
+    content: "How long were you with him? "
+  -
+    timestamp: "0:22:43"
+    speaker: Victoria
+    content: "I was there only six months before... I was expecting to be there about a year where I was just like, \"I'm gonna find my footing and get a better job in New York after that time.\" But then I just happened to be... One of my connections from college, a college professor, heard that I was looking for a better job at some point and he really avidly advocated for me to come work, to come train at his company Font Bureau in Boston and I was like, \"What are the odds? The one job that I would want, that wasn't in the New York, huh?\" So that was really... I can't really take credit for that. That was a privilege of the school that I went to that I had that connection, that hooked me up with that. Those are my stories of not being qualified."
+  -
+    timestamp: "0:23:34"
+    speaker: Andy
+    content: "So that job was to practice to become a type designer, which is something that you also had not studied formally, you didn't go to one of the master's programs..."
+  -
+    timestamp: "0:23:42"
+    speaker: Victoria
+    content: "Right. No, I had..."
+  -
+    timestamp: "0:23:43"
+    speaker: Andy
+    content: "There was probably a couple of lettering courses maybe at the college, but no real fonts or anything like that."
+  -
+    timestamp: "0:23:46"
+    speaker: Victoria
+    content: "I had one six-month course, but that was... The type design field used to be, as I understand it, a lot more like apprenticeship-focused where people would do what they did for me, which is to hire someone and train them for about two years before they're a full-fledged, know-what-they're-doing person, employee? Yeah."
+  -
+    content: Laughter
+  -
+    timestamp: "0:24:14"
+    speaker: Andy
+    content: "We're looking to hire a new know-what-you're-doing person in our New York offices to come into the office everyday and know what they're doing."
+  -
+    content: Laughter
+  -
+    timestamp: "0:24:20"
+    speaker: Victoria
+    content: "You'd think. You would think. That was learning on the job, but learning was my job also. It wasn't under the guise of, \"Oh, yeah, yeah. I can do that, I can do that,\" let me just quickly Google how to do that real quick."
+  -
+    timestamp: "0:24:32"
+    speaker: Andy
+    content: "Yeah, you weren't going into interviews and charismatically kind of brushing under the rug that maybe you hadn't ever actually done this before, that was on the table and the sort of understanding was this is a learning position. And because your work shows promise, or because you've shown a lot of interest in this, we feel like there's a lot of opportunity here to kind of groom you for this position."
+  -
+    timestamp: "0:24:48"
+    speaker: Victoria
+    content: "Yeah, so that's where I fall off this topic. [laughter]"
+  -
+    timestamp: "0:24:51"
+    speaker: Andy
+    content: "Well, it's an interesting angle on it because that is... And first of all, a lot of jobs do work that way, where you get hired explicitly..."
+  -
+    timestamp: "0:25:00"
+    speaker: Victoria
+    content: "As a junior."
+  -
+    timestamp: "0:25:00"
+    speaker: Andy
+    content: "Knowing that you don't have the skills to perform the requirements of the job to the sort of quality that's required of you at first, but the understanding being that you will work and learn, and get to that point. We've hired people here at Friends of The Web that when we hired them were junior, junior developers right, they had maybe been through just one of these bootcamp courses. Maybe they'd just studied a little bit of computer science in college but they hadn't really gotten any real world development in any of their courses. We've taken on employees like that with the understanding that we are not gonna expect you to be able to work at the same level as a full-fledged know-what-you're-doing person for a long time, but we still sort of value your perspective, and we value having to teach somebody and value the potential that we could invest in this person."
+  -
+    timestamp: "0:25:43"
+    speaker: Andy
+    content: "So it's interesting to me, that is a whole model, a lot of industries do work that way. You're gonna be hired somewhere as a junior designer. Actually, I kinda wanted to ask Matt about this a little bit because Matt, you are in some ways the antithesis of the Daisy story and the Victoria story, in that you went to school for a thing, you got a very explicit degree in. You studied for four years, then you got a job at a place where they explicitly were looking for people with that exact degree."
+  -
+    timestamp: "0:26:09"
+    speaker: Victoria
+    content: "What's that like? [laughter]"
+  -
+    timestamp: "0:26:10"
+    speaker: Andy
+    content: "Kind of like the ideal pipeline in a lot of ways."
+  -
+    timestamp: "0:26:12"
+    speaker: Matt
+    content: "Yeah, I guess so. I got the graphic design degree, and then I went and worked as an intern in a graphic design firm. And then they hired me as a graphic designer."
+  -
+    timestamp: "0:26:21"
+    speaker: Daisy
+    content: "Weird."
+  -
+    timestamp: "0:26:21"
+    speaker: Matt
+    content: "I guess all those terms just line right up, don't they?"
+  -
+    timestamp: "0:26:24"
+    speaker: Andy
+    content: "So, my question for you, Matt, because I'm the odd person out here in that I've never actually even really applied for a job. My question is..."
+  -
+    timestamp: "0:26:30"
+    speaker: Victoria
+    content: "Wow."
+  -
+    timestamp: "0:26:31"
+    speaker: Andy
+    content: "When you went into that job application, did you feel as if your education had prepared you as perfectly for that job as these lining up titles would describe? "
+  -
+    timestamp: "0:26:42"
+    speaker: Matt
+    content: "When I wanted to get the job or I was actually there and working?"
+  -
+    timestamp: "0:26:45"
+    speaker: Andy
+    content: "Either. I'm kinda trying to get in your headspace during the interview process the same way that Victoria and Daisy explained their headspace during their various interview processes. Did you go in there and feel like, \"This is my job. This is the job for me because it's got graphic design written on the piece of paper. I've got it on my piece of paper here. It's gonna line up perfectly. I've got all the skills\" or did you feel a sense of doubt and you weren't necessarily qualified for it? "
+  -
+    timestamp: "0:27:09"
+    speaker: Matt
+    content: "I think I went in, thinking, \"This is probably a really hard thing to get. So this is probably gonna be a really difficult interview process.\" I think what I found out is that there are a lot of interns that work at graphic design firms and then cycle through really quickly. I think I was in the door pretty quickly without a whole lot of thought. I don't think it was all that rigorous that they were like, \"We have to make sure that your qualifications are X.\" They were like, \"I don't know. You might be here for three months and then you're gone.\" I think the intimidating part was getting there and being like, \"Oh. There's a lot of important stuff going on and nobody knows who I am and nobody even seems to care that much that I'm here. Huh. I better do some good work and stick around a little bit.\" The New York internship thing, I think it's just known that you might be here for a second. There's not a huge commitment here. I don't know."
+  -
+    timestamp: "0:28:02"
+    speaker: Andy
+    content: "Which to me is kind of like the trashier, less respectful version of the thing Victoria was describing where you hire somebody and teach them to do a job, where it's like, \"We'll hire you, kind of, and pay you barely, to see if you can do the job and then maybe you can get in the door to the real career after that.\" But it's a similar process of evaluating somebody."
+  -
+    timestamp: "0:28:25"
+    speaker: Matt
+    content: "It was a place I really wanted to work so I was nervous for that reason going into it, but I think I quickly realized, \"Oh, I could be anyone.\" I think it was more..."
+  -
+    timestamp: "0:28:34"
+    speaker: Victoria
+    content: "Well, it takes the pressure off."
+  -
+    timestamp: "0:28:35"
+    speaker: Matt
+    content: "I had to prove myself once I was there, as opposed to prove that I was allowed to get in the door."
+  -
+    timestamp: "0:28:41"
+    speaker: Andy
+    content: "Sure."
+  -
+    timestamp: "0:28:42"
+    speaker: Matt
+    content: "You say I'm the exact opposite, but then I feel like after that job, when I was there for a very long period of time, when I was like, \"Oh, I know what I'm doing. I've been here for five years. I'm probably good at this now.\""
+  -
+    timestamp: "0:28:51"
+    speaker: Victoria
+    content: "Where did that time go, Matt? [laughter]"
+  -
+    timestamp: "0:28:53"
+    speaker: Matt
+    content: "I know. It took a second."
+  -
+    timestamp: "0:28:55"
+    speaker: Andy
+    content: "Matt's old."
+  -
+    timestamp: "0:28:56"
+    speaker: Matt
+    content: "Very old. But then I did a thing after that where I was totally unqualified. I said, \"Oh, I think I can help my friends run a company. This is a great idea,\" which turns out, you're never qualified for that one. I think I've had a little bit of both, just in a different way. And Andy, you took the extreme jump of saying right out of college, \"Oh, I think I can run a company.\" So, are you the most extreme version of, \"I'm not qualified for this\"?"
+  -
+    timestamp: "0:29:22"
+    speaker: Andy
+    content: "Well, maybe. The pros and cons. The tradeoffs of entrepreneurship are that anybody that does it is qualified to do it. There are no actual qualifications, There's just the real world and you will fail, and nobody explained anywhere or taught you how to do it. I guess business school teaches you how to do that. That's actually their whole thing. [laughter]"
+  -
+    timestamp: "0:29:39"
+    speaker: Matt
+    content: "I was gonna say, it seems like there are qualifications but you just... I guess you can do anything you want to."
+  -
+    timestamp: "0:29:43"
+    speaker: Andy
+    content: "I always forget business school exists and is an option. So, there's a couple interesting angles on this I wanna kinda cover. One of them is just the relationship between this approach to getting jobs and higher education. I think Victoria, you had mentioned that you paid a lot of money for school and you felt like you had no job prospects coming out, and were totally on your own and had to retreat to Craigslist to try and find something that would pay you anything to do the the things you were good at."
+  -
+    timestamp: "0:30:11"
+    speaker: Daisy
+    content: "Phrasing."
+  -
+    timestamp: "0:30:12"
+    speaker: Victoria
+    content: "What?"
+  -
+    timestamp: "0:30:12"
+    speaker: Andy
+    content: "Okay, sure, sure, sure. You felt like you had to resort to Craigslist to market your creative services to people hiring for creative services. So this question is for Daisy, too, whoever wants to kinda jump in. What was missing from the higher education experience that sort of made you feel like the things you were skilled to do but there were no jobs in? Was it just that no one told you that it's very difficult to make it as a freelance illustrator or that no one told you that there're very few jobs for woodblock shape maker..."
+  -
+    timestamp: "0:30:47"
+    speaker: Daisy
+    content: "I didn't want to do it."
+  -
+    content: Laughter
+  -
+    timestamp: "0:30:49"
+    speaker: Andy
+    content: "So this was not a gripe with."
+  -
+    timestamp: "0:30:51"
+    speaker: Victoria
+    content: "No, this is... Well, I mean, I have gripes with how solidly the divisions between what you can study were drawn. But no, it was mostly on me that I picked the wrong thing and I don't know who... [chuckle]"
+  -
+    timestamp: "0:31:06"
+    speaker: Daisy
+    content: "I also picked the wrong thing, I think."
+  -
+    timestamp: "0:31:08"
+    speaker: Andy
+    content: "It's really hard. I always kinda felt lucky because I did not pick the right thing for any process where I like I thought really hard about it and figured out what the right thing was. I just totally fell backwards..."
+  -
+    timestamp: "0:31:18"
+    speaker: Victoria
+    content: "Oh yeah. No, same. But that's how we ended up here."
+  -
+    timestamp: "0:31:21"
+    speaker: Andy
+    content: "That's the thing is we just fell backwards and we're like, \"Oh, this is the thing I happen to end up doing. And it turns out I actually really like it and I'm happy to do it for my career,\" but it was just a stroke of luck. I think from talking to people, my peers, when I was going through college, I think that was a very similar experience. Either I picked the wrong thing, \"Oops.\" And the sort of... The thing about college is that for better or worse, it puts you on a track for the time you're there and it feels like if you just do the next thing in line, the next domino will fall, and you'll continue progressing which I think makes it very easy if you end up on the wrong track, you'll be like, \"Well, at least it's a track,\" and you just kinda keep chugging along."
+  -
+    timestamp: "0:31:55"
+    speaker: Victoria
+    content: "It's like a painful track though, I don't know."
+  -
+    timestamp: "0:31:57"
+    speaker: Daisy
+    content: "I mean I think that our very, very expensive, snooty school, there definitely was more of, like Victoria said, they were very, very strict divisions between each of the fields and within each one, but especially in graphic design, and I also wanna note that when Victoria pitched this show topic to me, she said that all we were gonna do was just dunk on all the graphic design majors at our schools, so I'm gonna proceed to do that. [laughter] There..."
+  -
+    timestamp: "0:32:24"
+    speaker: Victoria
+    content: "It's okay, they don't listen. They're too good."
+  -
+    content: Laughter
+  -
+    timestamp: "0:32:28"
+    speaker: Daisy
+    content: "There's definitely... Like I said, the mysticism and religiosity surrounding graphic design, and made it sound like something that not everyone can do. And now that I'm working within the field, I feel like as Victoria and I were talking earlier today, like a dog with thumbs could probably do this job if..."
+  -
+    timestamp: "0:32:47"
+    speaker: Victoria
+    content: "She likes to say that. [laughter] The thumbs are important though."
+  -
+    timestamp: "0:32:51"
+    speaker: Matt
+    content: "I feel like the point of the show is to really, to keep that mysticism alive, so no one else can get in. So I feel like you're really blowing it for everybody."
+  -
+    timestamp: "0:32:58"
+    speaker: Victoria
+    content: "Dogs with thumbs."
+  -
+    timestamp: "0:33:00"
+    speaker: Daisy
+    content: "Here's the thing that happened is like, I did some really bad graphic design work in high school. And at the time you'd think that's like a totally legitimate thing. I did something in Photoshop with a pirated copy, and that's what graphic design is and it feels super accessible. And then you get to school and you spend a lot of money, and then somebody says to you, \"Oh, my 12-year-old niece can totally do that, it is totally a graphic designer.\" And you kind of have to swing the pendulum really far the other way as a reactionary measure to be like, \"No, no, no, no, this is super difficult, not everyone can do this, you have to be trained for eight years in a monastery to be able to lay things out on a grid.\""
+  -
+    timestamp: "0:33:45"
+    speaker: Andy
+    content: "So this is interesting to me. I have to confess, this idea that graphic design feels like this gated-off, mystical place where only some people can do it based on..."
+  -
+    timestamp: "0:33:55"
+    speaker: Victoria
+    content: "We're talking about about our scholarly upbringing, but yeah..."
+  -
+    timestamp: "0:33:57"
+    speaker: Andy
+    content: "No, sure. I mean, I'm just saying that that thing I never felt which could be that it wasn't a thing where I went to school."
+  -
+    timestamp: "0:34:03"
+    speaker: Victoria
+    content: "You were the one doing it."
+  -
+    timestamp: "0:34:03"
+    speaker: Andy
+    content: "Or it could be that. Or it could be that."
+  -
+    timestamp: "0:34:06"
+    speaker: Daisy
+    content: "You're the monk in the monastery."
+  -
+    timestamp: "0:34:08"
+    speaker: Andy
+    content: "Or if the fish doesn't know the water from which it swims or whatever."
+  -
+    timestamp: "0:34:12"
+    speaker: Victoria
+    content: "The dog doesn't know its own..."
+  -
+    timestamp: "0:34:13"
+    speaker: Daisy
+    content: "Thumbs."
+  -
+    timestamp: "0:34:13"
+    speaker: Victoria
+    content: "I better bring that in there."
+  -
+    timestamp: "0:34:14"
+    speaker: Andy
+    content: "So I want to get to what it is about graphic design that you, Victoria and Daisy, feel like puts it in that sort of place. But first, I do wanna point out that I think this is definitely 100% true of anything taught at a higher education institution. Because..."
+  -
+    timestamp: "0:34:28"
+    speaker: Victoria
+    content: "Oh yeah."
+  -
+    timestamp: "0:34:29"
+    speaker: Andy
+    content: "There's all these things built into the system that have to explicitly or implicitly apply some value to what they're teaching you, otherwise they can't convince you to spend $40,000 a year and four years of your life learning how to make really good shapes. I mean, really good shapes and colors."
+  -
+    timestamp: "0:34:44"
+    speaker: Victoria
+    content: "It's a pyramid scheme."
+  -
+    timestamp: "0:34:45"
+    speaker: Andy
+    content: "I mean, it's... I don't wanna go too extreme with it but there's definitely... If that system was not self-propagating, then it would not be as successful and dominating in our country as it is today, because it has to sort of continue to convince people that this is difficult and, \"No, your 12-year-old niece can't do it because if she could, then why are people paying us money to do this?\" And from my position..."
+  -
+    timestamp: "0:35:10"
+    speaker: Matt
+    content: "Hey, wait a minute. Why aren't people paying us money to do this? Oh my God."
+  -
+    timestamp: "0:35:12"
+    speaker: Daisy
+    content: "That's such a good question."
+  -
+    timestamp: "0:35:14"
+    speaker: Andy
+    content: "I mean, it is. And I will say from my position in the graphic design world, I always felt kind of like the opposite. I felt like any fine art thing, you needed some undefinable spark. You needed a voice of a thing you had, you wanted to say in order to do that well, which I never felt like I had. I grew up drawing. I ended up at art school because I loved drawing and painting and sculpture. But I was just good at drawing in the sense that like you plop some fruit on a table and I could take a pencil and make it really look like that fruit on a piece of paper. That was what I was good at. I never felt like I had whatever this magical thing was that made people able to make this art that had this deeper meaning and expression, I felt like I was lacking this spark."
+  -
+    timestamp: "0:35:54"
+    speaker: Andy
+    content: "So I felt the similar way to your describing a graphic design to all the fine art things, 'cause once in the design world, it was like, \"You don't need any... You don't have to bring some magical perspective or interesting voice, all you have to do is, here's a problem, can you solve it with shapes, and colors and type?\" Which to me gave me that missing piece that I felt like I didn't have in the fine art world."
+  -
+    timestamp: "0:36:14"
+    speaker: Victoria
+    content: "You're right. I guess we hated the painting majors for different reasons."
+  -
+    timestamp: "0:36:19"
+    speaker: Daisy
+    content: "I'm just gonna dunk on everybody who wasn't us in school."
+  -
+    content: Chuckle
+  -
+    timestamp: "0:36:21"
+    speaker: Andy
+    content: "Well, so... That's not..."
+  -
+    timestamp: "0:36:23"
+    speaker: Daisy
+    content: "Victoria and I are literally the only reasonable people that graduated from that entire institution."
+  -
+    content: Chuckle
+  -
+    timestamp: "0:36:28"
+    speaker: Andy
+    content: "Alright."
+  -
+    content: Chuckle
+  -
+    timestamp: "0:36:30"
+    speaker: Matt
+    content: "Hey, wait a minute, I'm not wrong. It's everyone else who is dumb."
+  -
+    timestamp: "0:36:33"
+    speaker: Daisy
+    content: "Exactly."
+  -
+    timestamp: "0:36:34"
+    speaker: Victoria
+    content: "What a coincidence that we are the best."
+  -
+    timestamp: "0:36:35"
+    speaker: Daisy
+    content: "So weird."
+  -
+    timestamp: "0:36:37"
+    speaker: Andy
+    content: "But, that said, I also recognize that graphic design is far from the most accessible profession in the world by a long stretch. And also, I am a white male that looks at all of the heroes and pillars of graphic design and just sees myself reflected in every single mirror of modernism, and the Bauhaus, and all the sort of formational characters in the industry, which is a problem."
+  -
+    timestamp: "0:36:56"
+    speaker: Matt
+    content: "When you read a graphic design text book, do you just think every picture is you? Is that what happens?"
+  -
+    timestamp: "0:37:00"
+    speaker: Victoria
+    content: "Face blindness. It's killer."
+  -
+    timestamp: "0:37:01"
+    speaker: Matt
+    content: "I'm Andy Mangold on every page."
+  -
+    content: Chuckle
+  -
+    timestamp: "0:37:03"
+    speaker: Andy
+    content: "I'm pretty generic looking. So I recognize that there are lots of other, sort of systematic gatekeeping things that are going on there. But I'm curious if Daisy and Victoria, if you can describe kind of what some of those sort of gates were? What are the things that make graphic design feel so inaccessible, feel like it was this mystical thing? Other than the fact that most people that did it were white dudes in black turtle necks that were talking about..."
+  -
+    timestamp: "0:37:25"
+    speaker: Victoria
+    content: "They weren't even... Oh, you mean the old people? I'm thinking about my peers."
+  -
+    timestamp: "0:37:28"
+    speaker: Daisy
+    content: "Yeah. When I think about my peers, I just think about really cool people."
+  -
+    timestamp: "0:37:32"
+    speaker: Victoria
+    content: "Maybe we've just found a way to hate every type of person and all that's left is us."
+  -
+    timestamp: "0:37:38"
+    speaker: Daisy
+    content: "Other than us."
+  -
+    timestamp: "0:37:39"
+    speaker: Andy
+    content: "And to be clear, I'm not trying to say that your feelings don't make sense. I think they definitely do. I think it's also worth trying to figure out exactly why that is. And one of the reasons, like I said, is just the history of design and the things that are taught as the important foundational ideas are very myopic. They're coming from a very specific culture. It's not just white male culture, it's also western culture. It's also Modernism and all the ideas that are contained in that morass. And all of these things are treated as if they are the one true way. This is the graphic design way. This is how you do it correctly. And it's sometimes oblivious to the greater world context around it, and all sorts of vectors."
+  -
+    content: Chuckle
+  -
+    timestamp: "0:38:22"
+    speaker: Andy
+    content: "Yeah. There you go. Vector joke."
+  -
+    timestamp: "0:38:27"
+    speaker: Victoria
+    content: "I think when we were in school, we were to some extent, most of the people in most of the majors had to at some point lay out a poster for something, and that wasn't true of all of the majors. Not everyone went and made a sculpture in their senior year at some point. And so, it just felt like whenever we had to do that, I was so uncomfortable because I'm like, \"Ugh, I know that someone else knows the correct way to do this, and I don't.\" And I would ask my friends in graphic design, \"Please, please help me. Did I pick the right... \" I don't know. It's just a very nervous habit. I don't know, I don't like to be wrong."
+  -
+    timestamp: "0:39:06"
+    speaker: Andy
+    content: "No. It's very interesting because what you're describing, I think it's definitely true. A pretty big group of the population ends up doing something over the course of their schooling or career that you could say resembles graphic design. Somebody will make a PowerPoint presentation for their big talk at the insurance company, or people will make a flyer or an email template. Things that are supposed to be \"graphic design work,\" but lots of people can do, which in some ways makes the profession more accessible. But you're saying basically because you were at some point forced to do graphic design, you were put under pressure to do this thing well, which kind of shined a light on the fact that you didn't study it, felt like you couldn't do it well. Whereas if someone had said, \"Everybody has to make a figure sculpture for their presentation next week... \""
+  -
+    timestamp: "0:39:50"
+    speaker: Victoria
+    content: "Now that I could do."
+  -
+    timestamp: "0:39:51"
+    speaker: Andy
+    content: "You would have felt the same way about the figure sculpture department possibly."
+  -
+    timestamp: "0:39:55"
+    speaker: Victoria
+    content: "Right."
+  -
+    timestamp: "0:39:56"
+    speaker: Daisy
+    content: "I think for me, in my major, industrial design, there were a lot of conflicts with the GD department, partly because there was a lot of overlap between the two."
+  -
+    timestamp: "0:40:05"
+    speaker: Victoria
+    content: "Fight, fight, fight, fight."
+  -
+    timestamp: "0:40:05"
+    speaker: Daisy
+    content: "Right. There was to some degree, some dipping of the toes into user experience stuff, in both industrial design and graphic design. I didn't do that 'cause I was too busy making wood blocks. But there was sort of this area where it was like both of us were kind of doing the same thing, but from very, very different angles."
+  -
+    timestamp: "0:40:29"
+    speaker: Victoria
+    content: "Product design?"
+  -
+    timestamp: "0:40:31"
+    speaker: Daisy
+    content: "Lot of design happening."
+  -
+    timestamp: "0:40:32"
+    speaker: Victoria
+    content: "No, I said product design."
+  -
+    timestamp: "0:40:33"
+    speaker: Daisy
+    content: "Oh, product design."
+  -
+    timestamp: "0:40:33"
+    speaker: Victoria
+    content: "Never mind."
+  -
+    timestamp: "0:40:34"
+    speaker: Daisy
+    content: "Sorry. Well, yeah. Both of them were sort of doing product design and graphic design. I don't want to say they were coming at it from a snooty, impractical standpoint. But since we're already dunking on them, I'm gonna say that's what they were doing."
+  -
+    timestamp: "0:40:51"
+    speaker: Andy
+    content: "Dunk."
+  -
+    timestamp: "0:40:51"
+    speaker: Daisy
+    content: "Versus... It wasn't a particularly good dunk. But versus..."
+  -
+    timestamp: "0:40:51"
+    speaker: Andy
+    content: "No. I'm trying to be your hype man."
+  -
+    timestamp: "0:40:56"
+    speaker: Daisy
+    content: "Thank you."
+  -
+    timestamp: "0:40:56"
+    speaker: Matt
+    content: "Everyone thinks when you dunk, you yell dunk."
+  -
+    timestamp: "0:40:58"
+    speaker: Andy
+    content: "Yeah, you have to yell 'dunk' when you slam it in the hoop. Dunk! "
+  -
+    timestamp: "0:41:02"
+    speaker: Daisy
+    content: "Versus the more, I wanna say usability, product-y focus of the industrial design department. And I think we both sort of looked down our noses. I guess we were both sort of snooty."
+  -
+    timestamp: "0:41:13"
+    speaker: Victoria
+    content: "How do you both simultaneously look down your noses at each other?"
+  -
+    timestamp: "0:41:19"
+    speaker: Daisy
+    content: "Really strange necks."
+  -
+    timestamp: "0:41:20"
+    speaker: Andy
+    content: "Just line up the noses. You can do it."
+  -
+    timestamp: "0:41:20"
+    speaker: Victoria
+    content: "I'm doing it."
+  -
+    timestamp: "0:41:23"
+    speaker: Andy
+    content: "Yeah, I think all of these programs, and I'm sure lots of programs outside of the creative world too, they definitely breed this kind of tribalism where it's like, \"Ah, we are studying the correct version of this thing. Oh, over there, the graphic designers are too concerned with frivolous, shallow aesthetics. But over here in the industrial design, we care about how this chair works. And whether it stands up, and all these other things.\" And the graphic designers are like, \"Oh, they're just over there reinventing the chair a million times. But over here in graphic design, we are creating visual culture, and we're establishing the tone and language that will be forever recorded in history.\" And everyone has this kind of inflated sense that their tribe is doing the correct and right thing."
+  -
+    timestamp: "0:42:00"
+    speaker: Victoria
+    content: "But then, here's the thing, here's the thing. Daisy and I went out and immediately got jobs designing things and not necessarily all of them did. I've been just waiting the whole episode to say that."
+  -
+    timestamp: "0:42:10"
+    speaker: Daisy
+    content: "It's true. We got graphic design jobs..."
+  -
+    timestamp: "0:42:13"
+    speaker: Andy
+    content: "More dunks. Dunks, dunks, dunks, dunks, dunks, dunks."
+  -
+    timestamp: "0:42:14"
+    speaker: Daisy
+    content: "Before the graphic designers."
+  -
+    timestamp: "0:42:15"
+    speaker: Victoria
+    content: "Technically, graphic design jobs. They were bad but they were still..."
+  -
+    timestamp: "0:42:20"
+    speaker: Daisy
+    content: "Well, they probably looked at James and the chihuahua."
+  -
+    timestamp: "0:42:21"
+    speaker: Daisy
+    content: "I wanna say that it's because we had really low standards."
+  -
+    timestamp: "0:42:23"
+    speaker: Andy
+    content: "I was going to say, they probably looked at James and the chihuahua, and said, \"No, no, no. I know the Swiss champions. I can't possibly work here.\""
+  -
+    timestamp: "0:42:31"
+    speaker: Victoria
+    content: "Absolutely, what Daisy just said is like, that was crucial. We had very low standards. We were like, \"We really wanna be employed immediately after graduation.\""
+  -
+    timestamp: "0:42:39"
+    speaker: Daisy
+    content: "I really didn't care what it was in. I was applying to be a flight attendant around the same time."
+  -
+    timestamp: "0:42:44"
+    speaker: Victoria
+    content: "Really? Oh, that's great."
+  -
+    timestamp: "0:42:46"
+    speaker: Daisy
+    content: "You'd be really good at that."
+  -
+    timestamp: "0:42:47"
+    speaker: Victoria
+    content: "No, no, too short."
+  -
+    timestamp: "0:42:48"
+    speaker: Daisy
+    content: "I can't reach the top bins, it wouldn't work."
+  -
+    timestamp: "0:42:51"
+    speaker: Victoria
+    content: "Yeah, why were you even doing that?"
+  -
+    timestamp: "0:42:53"
+    speaker: Daisy
+    content: "I did pass the height requirement. It was 5'1\". I remember this very clearly."
+  -
+    timestamp: "0:42:58"
+    speaker: Victoria
+    content: "Oh, well, congratulations."
+  -
+    timestamp: "0:43:00"
+    speaker: Daisy
+    content: "Yeah, thank you. I could be a flight attendant right now."
+  -
+    timestamp: "0:43:02"
+    speaker: Andy
+    content: "I'm surprised that's not some kind of discrimination, but that's not for now. Let's save that conversation for later."
+  -
+    timestamp: "0:43:06"
+    speaker: Daisy
+    content: "I got fired from Ben & Jerry's because I was too short to reach into the bottom tubs."
+  -
+    timestamp: "0:43:11"
+    speaker: Victoria
+    content: "I thought it was because you were too weak to scoop out the hearty, good flavors."
+  -
+    timestamp: "0:43:15"
+    speaker: Daisy
+    content: "Well, that too. It's hard to get arm leverage when you're too short to reach the bottom of the chest freezer."
+  -
+    timestamp: "0:43:21"
+    speaker: Victoria
+    content: "Oh, I didn't realize it was even the chest freezer. You were just like, \"I just couldn't, with the ones... The New York Super Fudge Chunk was too chunky.\""
+  -
+    timestamp: "0:43:26"
+    speaker: Daisy
+    content: "Yeah, New York Super Fudge Chunk is super fucking hard. It's like a block of ice with chunks, and then you put it in the bottom of a chest freezer and it's really hard to get any leverage against the ice cream. I'm sorry, this is..."
+  -
+    timestamp: "0:43:37"
+    speaker: Andy
+    content: "It's like a block of ice with cream in it."
+  -
+    timestamp: "0:43:39"
+    speaker: Victoria
+    content: "Don't get her started on discrimination."
+  -
+    timestamp: "0:43:41"
+    speaker: Matt
+    content: "What we're saying is graphic design, it's no ice cream scooping."
+  -
+    timestamp: "0:43:44"
+    speaker: Daisy
+    content: "No, that's really legitimately hard."
+  -
+    timestamp: "0:43:48"
+    speaker: Victoria
+    content: "A dog couldn't."
+  -
+    timestamp: "0:43:49"
+    speaker: Daisy
+    content: "A dog with thumbs would have a really hard time doing it."
+  -
+    timestamp: "0:43:52"
+    speaker: Matt
+    content: "A dog with thumbs could hold the ice cream scooper, but it could not muster the strength to scoop."
+  -
+    timestamp: "0:43:53"
+    speaker: Victoria
+    content: "Your dog could never..."
+  -
+    timestamp: "0:43:56"
+    speaker: Andy
+    content: "So, it sounds like one of the lessons here is at least, you described it as having impossibly low standards. Which I don't want to encourage people listening to have impossibly low standards, but I do think there's some humility..."
+  -
+    timestamp: "0:44:06"
+    speaker: Daisy
+    content: "Well, I don't think it's necessarily a bad thing because most... I say impossibly low standards, but I still think ultimately, you learn more and do better with some really terrible job than you do just waiting around for Pentagram to hire you, you know?"
+  -
+    timestamp: "0:44:24"
+    speaker: Victoria
+    content: "Wow."
+  -
+    timestamp: "0:44:25"
+    speaker: Andy
+    content: "Sure. But that's what I was going to say is that, if not, we can kind of maybe reevaluate low standards to just be a sense of humility. Understand that you can learn all sorts of things from all sorts of contexts, and you don't need to hold your skills and experience up on some pedestal to have sort of a valuable experience at a job, which seems like good takeaway for anybody listening, regardless of their situation."
+  -
+    timestamp: "0:44:48"
+    speaker: Victoria
+    content: "That was very diplomatically put, thank you."
+  -
+    timestamp: "0:44:51"
+    speaker: Andy
+    content: "Diplomacy. So are we encouraging people to apply for jobs that they don't feel qualified for? And I will say don't feel, and also maybe are literally not qualified if we take the wording of the job description as word of law. Are we encouraging people to apply for those jobs that they don't meet the qualifications for? "
+  -
+    timestamp: "0:45:09"
+    speaker: Daisy
+    content: "Duh."
+  -
+    timestamp: "0:45:09"
+    speaker: Victoria
+    content: "All they can say is no."
+  -
+    timestamp: "0:45:11"
+    speaker: Daisy
+    content: "Yeah, there's literally no risk."
+  -
+    timestamp: "0:45:14"
+    speaker: Victoria
+    content: "And you just get experience doing an interview that maybe sucked or maybe you were very charismatic and they had to turn you down because they didn't have funding."
+  -
+    timestamp: "0:45:21"
+    speaker: Andy
+    content: "Yeah. And the thing I'll say is, I've been on the other side of the table in terms of like, I've tried to write job descriptions and requirements for a job, and have interviewed people. And writing the requirements for a job, especially in any kind of industry that has any kind of creative hint to it or creative kind of bend to it, is so so difficult. Because what you really just want to write is we just want somebody that cares and is good at this, and you can't write \"cares\" and \"is good at this\" in job requirements, it doesn't really translate."
+  -
+    timestamp: "0:45:51"
+    speaker: Daisy
+    content: "You totally can."
+  -
+    timestamp: "0:45:53"
+    speaker: Andy
+    content: "So you have to assume you're like, \"Okay, well, we want good at this.\" Does that mean five years of experience? Does that mean two years of experience? Does that mean 10 years of experience?\" And the real answer is that there are people with one year of experience that are amazing at this thing because they took to it very naturally and their experience was very helpful and they learned from somebody very good. And there are people with 10 years of experience that are still terrible at the thing they do because they never care and never tried to get better and have been in a bad job with no good mentorship. So it's very difficult to write that down. And that applies to everything."
+  -
+    timestamp: "0:46:23"
+    speaker: Andy
+    content: "Even relatively binary things like, \"Do you know the software we use?\" Frankly, in a lot of situations, I don't care if you use different software. I just care that the outcome is something that works for us. So, I have never been frustrated at somebody who applied for a job where they didn't meet the requirements for it when it was a job description that I wrote because I often felt like, I just need to write this job description to appeal to the person that I'm trying to speak to, not to select them from an advanced search query where I can somehow describe all their life experience and qualifications that will pick out the exact right people."
+  -
+    timestamp: "0:46:56"
+    speaker: Matt
+    content: "I think also if you've ever read a job description, that question where you're like, \"Do I want somebody with one year experience or five years of experience?\" They always just default to 10 years of experience, but nothing is realistic. I've read entry-level position job postings where it's just like, \"We want to make sure that they have 10 years of experience in all of these categories.\" You're like, \"That person doesn't exist.\""
+  -
+    timestamp: "0:47:16"
+    speaker: Victoria
+    content: "They're like, \"That's a whole another category of complaint.\""
+  -
+    timestamp: "0:47:19"
+    speaker: Matt
+    content: "And if they did exist, they're not going to apply for this job."
+  -
+    timestamp: "0:47:21"
+    speaker: Andy
+    content: "Yeah. So to summarize that, absolutely apply for a job that you don't feel qualified for if you're interested in it because I would say..."
+  -
+    timestamp: "0:47:27"
+    speaker: Matt
+    content: "It's kind of a game, isn't yet?"
+  -
+    timestamp: "0:47:29"
+    speaker: Andy
+    content: "Well, yeah, I would say a large portion of the time, the people that wrote the job qualification list may not even mean to be deselecting you with their requirements, they just don't know how to write down, \"We want somebody charismatic to come in here and sit with our chihuahua and design some fashion labels.\" So I think that's an important thing to know if you've never been on the other side of the table, that writing job descriptions is near impossible. It's very difficult."
+  -
+    timestamp: "0:47:52"
+    speaker: Victoria
+    content: "Especially on Craigslist, they just don't care. But I think it takes... And I'm still teasing this out of myself and the people around me, it takes a certain boldness to apply for that anyway. Boldness or desperation, or both, and I don't mean desperation like so... I wasn't actually desperate for a job, like I wasn't gonna be on... It was fine. I had certain big... What's the word that I'm looking for?"
+  -
+    timestamp: "0:48:26"
+    speaker: Andy
+    content: "Anxieties."
+  -
+    timestamp: "0:48:27"
+    speaker: Victoria
+    content: "No, no, no, no, no. No, I'm trying..."
+  -
+    timestamp: "0:48:28"
+    speaker: Andy
+    content: "I have anxieties, is that worth talking about? "
+  -
+    content: Laughter
+  -
+    timestamp: "0:48:30"
+    speaker: Victoria
+    content: "No."
+  -
+    timestamp: "0:48:31"
+    speaker: Daisy
+    content: "Let's talk about our anxieties."
+  -
+    timestamp: "0:48:32"
+    speaker: Victoria
+    content: "I'm trying to say... I had a big cushion to fall back on. I wasn't desperate in that sense but..."
+  -
+    timestamp: "0:48:39"
+    speaker: Daisy
+    content: "Safety net."
+  -
+    timestamp: "0:48:41"
+    speaker: Victoria
+    content: "Safety net, thank you. Okay."
+  -
+    timestamp: "0:48:43"
+    speaker: Daisy
+    content: "With a big net."
+  -
+    timestamp: "0:48:43"
+    speaker: Victoria
+    content: "Like a really big pillow."
+  -
+    content: Laughter
+  -
+    timestamp: "0:48:47"
+    speaker: Victoria
+    content: "Still just really wanting to not be looking for a job for very long. Certain amount of \"desperation\" and \"boldness.\" But anyway, I went off in the desperation part I was trying to ask, \"Where does the boldness come from?\" How do you charisma? Not the charisma, that was just a throw back to last... But..."
+  -
+    timestamp: "0:49:07"
+    speaker: Matt
+    content: "Well, there is a shortcut and you can just lie about having charisma and being confident."
+  -
+    timestamp: "0:49:12"
+    speaker: Victoria
+    content: "Yeah, no, I know but I find..."
+  -
+    timestamp: "0:49:13"
+    speaker: Matt
+    content: "Just pretend you do when you see other people doing."
+  -
+    timestamp: "0:49:15"
+    speaker: Victoria
+    content: "Not everyone can do that. Daisy, how did you get this way? Well, no, I am this way also where I think I'm the best. But..."
+  -
+    timestamp: "0:49:22"
+    speaker: Daisy
+    content: "You are the best."
+  -
+    timestamp: "0:49:23"
+    speaker: Victoria
+    content: "How?"
+  -
+    timestamp: "0:49:24"
+    speaker: Matt
+    content: "Wait a minute, but I think I'm the best, how can we all be the best? How is this working?"
+  -
+    timestamp: "0:49:27"
+    speaker: Victoria
+    content: "You are the fastest dog as well."
+  -
+    content: Laughter
+  -
+    timestamp: "0:49:32"
+    speaker: Andy
+    content: "Daisy, do you have any insight into that? How you kinda carry yourself with that kind of confidence when you're going into an interview where you know that if they could sniff the lack of experience on you, they might turn you away? "
+  -
+    timestamp: "0:49:47"
+    speaker: Victoria
+    content: "It's so deeply ingrained in her being that she can't answer this question and neither can I."
+  -
+    content: Laughter
+  -
+    timestamp: "0:49:51"
+    speaker: Matt
+    content: "The fish knows not the water in which it swims."
+  -
+    timestamp: "0:49:54"
+    speaker: Victoria
+    content: "Sorry. Go on."
+  -
+    timestamp: "0:49:54"
+    speaker: Daisy
+    content: "I'm just so devastatingly charming, I don't know what to do with myself."
+  -
+    content: Laughter
+  -
+    timestamp: "0:50:00"
+    speaker: Victoria
+    content: "We're not helping the listeners at all."
+  -
+    content: Laughter
+  -
+    timestamp: "0:50:01"
+    speaker: Daisy
+    content: "I mean, part of it is..."
+  -
+    timestamp: "0:50:03"
+    speaker: Victoria
+    content: "If anything, they don't like us more."
+  -
+    content: Laughter
+  -
+    timestamp: "0:50:04"
+    speaker: Matt
+    content: "The listeners are now charmed completely, but they are not informed."
+  -
+    content: Laughter
+  -
+    timestamp: "0:50:11"
+    speaker: Daisy
+    content: "It's not that I think that I don't... I do think it is a practiced skill, being able to present and interview, and do so in a way that doesn't come across as stiff. I think that is a practicable skill. And I do think that it is a one of the primary things that I learned at our very expensive art school that is a skill that has translated well in my career."
+  -
+    timestamp: "0:50:40"
+    speaker: Victoria
+    content: "Who taught you that? Oh, you had to make presentations and shit, didn't you?"
+  -
+    timestamp: "0:50:44"
+    speaker: Daisy
+    content: "Yeah, we had to make constant presentations and constant pitches, 'cause it was like, \"You're product designers, you can sell things.\" I don't know, just have a good couple good one-liners in the bag and then you're good."
+  -
+    timestamp: "0:50:58"
+    speaker: Andy
+    content: "You're like a weird pick-up artist but for jobs you're not qualified for. You're like, \"Just neg them, then they'll wanna hire you.\""
+  -
+    content: Laughter
+  -
+    timestamp: "0:51:05"
+    speaker: Matt
+    content: "Sometimes when you put on a Cat In The Hat hat, it really gets them 'cause they're curious about the hat."
+  -
+    timestamp: "0:51:09"
+    speaker: Daisy
+    content: "I had this line that I used..."
+  -
+    content: Laughter
+  -
+    timestamp: "0:51:10"
+    speaker: Andy
+    content: "It's called peacocking."
+  -
+    content: Laughter
+  -
+    timestamp: "0:51:13"
+    speaker: Victoria
+    content: "What was the line?"
+  -
+    timestamp: "0:51:13"
+    speaker: Daisy
+    content: "I've used this joke at every... And it's not even a joke 'cause it's like not a good joke, but it's good for disarming."
+  -
+    timestamp: "0:51:18"
+    speaker: Victoria
+    content: "Future employers, stop listening right now."
+  -
+    timestamp: "0:51:20"
+    speaker: Daisy
+    content: "Yeah, stop listening 'cause I'm gonna use this line in every single thing. People ask you, \"So, what do you do in your spare time?\" And I answer, \"Boxed wine,\" and for some strange reason, people are very bowled over and charmed by that when I say boxed wine."
+  -
+    content: Laughter
+  -
+    timestamp: "0:51:33"
+    speaker: Andy
+    content: "Matt's laughing."
+  -
+    content: Laughter
+  -
+    timestamp: "0:51:34"
+    speaker: Daisy
+    content: "Isn't that charming? Thanks, Matt. And it was to the point where I was at Wayfair and when I was leaving, everyone signs the card, it was like best wishes, and the people, I had interviewed with like four or five people at the time and they all remembered my boxed wine line and they all just signed my card, \"Boxed wine!\" And that was it."
+  -
+    timestamp: "0:51:57"
+    speaker: Victoria
+    content: "Had you not talked to them in that whole year?"
+  -
+    timestamp: "0:52:00"
+    speaker: Daisy
+    content: "You know what it was like, I do not like talking to my co-workers. I'm great in interviews but terrible in an office environment."
+  -
+    timestamp: "0:52:08"
+    speaker: Andy
+    content: "Alright."
+  -
+    timestamp: "0:52:08"
+    speaker: Victoria
+    content: "You don't mention that in the interview."
+  -
+    timestamp: "0:52:10"
+    speaker: Daisy
+    content: "Future employers, stop listening."
+  -
+    timestamp: "0:52:12"
+    speaker: Andy
+    content: "Turn off the podcast now, you are obligated by law. You have to tell us if you're a cop."
+  -
+    timestamp: "0:52:16"
+    speaker: Victoria
+    content: "Okay. So one-liners."
+  -
+    timestamp: "0:52:18"
+    speaker: Daisy
+    content: "I do think it was just from virtue of doing lots of presentations in school. I also think that working other less, not menial jobs. But I waitressed that aforementioned week at Ben and Jerry's."
+  -
+    timestamp: "0:52:35"
+    speaker: Victoria
+    content: "It was only a week."
+  -
+    timestamp: "0:52:36"
+    speaker: Daisy
+    content: "It was only a week. Customer service jobs will get you a long way in terms of learning how to speak to people, not a robot."
+  -
+    timestamp: "0:52:44"
+    speaker: Andy
+    content: "I have an interesting kind of relationship with this in that for the vast majority of my life and still to this day, I am able to carry myself with confidence. It comes naturally to me and it always has. Sometimes it is a problem in that I'm trying to present an idea in a way that I would like to express some doubt about my presentation, and yet, I'm unable to because people just perceive confidence in how I behave in the world which has been probably almost entirely just a privilege of mine that I can walk into a room where I'm completely unqualified and the examples that I can kind of relate just to here are, we were pitching our early clients for our company, we had no experience doing anything. They were like, \"Can you build an e-commerce website?\" We were like, \"Absolutely we can build one of those. It's what? A website where you sell stuff and there's a buy button, we can do that, no problem.\" Or, \"Have you ever done any data visualization?\" And we're like, \"Sure, yeah, we made a graph once, we can do that, for sure.\" And that's something that I have always been able to do, just walk into a room and be like, \"Yeah, we can figure that out, we're good at that.\" Which..."
+  -
+    timestamp: "0:53:42"
+    speaker: Victoria
+    content: "It's weird, not everyone has that, right?"
+  -
+    timestamp: "0:53:44"
+    speaker: Andy
+    content: "No. And I say I have a conflicted relationship with it because as I've gotten older, I've started to suspect more and more that obviously the way it affects me outwardly in the world, it is primarily a good thing in that I am able to convince people that the ideas I have and the capabilities I have are worthwhile, and that has helped me immensely in my career and life. I've started to feel more and more as I've gotten older like this innate thing in me is bad for me existentially. It's bad for Andy's sense of self and person to not have to work uphill on these things. And I also feel like it's just... I don't know. It's something I've come to try and acutely work against. I've tried to figure out the words I can say that people will not think that I have it all figured out and very confident in my solution to whatever the problem at hand is."
+  -
+    timestamp: "0:54:37"
+    speaker: Victoria
+    content: "This is the best problem I've ever heard, Andy."
+  -
+    timestamp: "0:54:38"
+    speaker: Daisy
+    content: "Well, no."
+  -
+    timestamp: "0:54:39"
+    speaker: Andy
+    content: "It is. But here's the thing..."
+  -
+    timestamp: "0:54:39"
+    speaker: Daisy
+    content: "It is a really good... I actually know 'cause I feel similarly about my effortless charisma that I apparently have. 'Cause I actually had a professor give me feedback at one point that was basically, we would present before panels of people who weren't super familiar where they work in on the process. And everyone who had seen my work along in the process, my professors and my peers generally weren't super impressed. But if I have 20 minutes to present before a panel of people who don't actually know anything about the work previously, they generally are really positive about it. And that was feedback I got from my professors. It was like, \"Listen, your work actually isn't that good. It's not as good as the way that you're spinning it.\""
+  -
+    content: Laughter
+  -
+    timestamp: "0:55:27"
+    speaker: Andy
+    content: "I wish someone had told me that, but no one ever actually even told me that. I just was able to get through things in life without having to learn the skills I should have learned because I was able to package it up in this little confident package and give it to people. And here's what I can say. I don't know how to give this to somebody else because it's so innate in me. And I also kinda don't wanna give it to other people because I feel like in some people, it's a bad thing. On my worst days, you can call me an arrogant jerk because everything I say sounds like I know what I'm talking about, I'm a know it all. Even when I actually truly don't have confidence in what I'm saying, I can't avoid sounding like I know it all because that's just how things come out of my mouth. So I decided to make a podcast."
+  -
+    content: Laughter
+  -
+    timestamp: "0:56:07"
+    speaker: Andy
+    content: "But the thing I'll say is, I don't know how to cultivate this in you, dear listener, but I have a sense of how you could cultivate it in your friends and peers, which is to support them, be utterly and completely supportive of the people in your life that you're close to and you care about because I... One of the big reasons I think I ended up the way I did is that I always had 110% support from my parents growing up in every creative thing I ever tried to do. I had some dumb idea to build a wooden robot in the backyard. They were like, \"Awesome. This is gonna be great. We're very excited for you.\" And the whole thing failed because it's a horrible idea."
+  -
+    timestamp: "0:56:42"
+    speaker: Andy
+    content: "I was not an engineer. I was 12. Whatever idea I had, I had a complete support. And I have to assume, laying on the therapy couch, that some... One of the reasons why I am the way I am today. And so, if you can't give this ability to yourself, at least give it to your friends. Tell them how great they are and talk about how... Be supportive in their work because maybe they will have that in the back of their head subconsciously when they go into their next job interview and will be able to carry themselves with the confidence that they are trying to pull from inside themselves."
+  -
+    timestamp: "0:57:11"
+    speaker: Victoria
+    content: "And while you're at it, talk to yourself like you would talk to your best friend. Don't say mean things to yourself."
+  -
+    timestamp: "0:57:16"
+    speaker: Daisy
+    content: "Yeah, Victoria."
+  -
+    timestamp: "0:57:17"
+    speaker: Andy
+    content: "Don't do that."
+  -
+    timestamp: "0:57:19"
+    speaker: Victoria
+    content: "Shut up, Dais."
+  -
+    content: Laughter
+  -
+    timestamp: "0:57:21"
+    speaker: Andy
+    content: "Victoria's been saying a lot of mean things to Daisy, I have to assume this is some kind of projection..."
+  -
+    timestamp: "0:57:25"
+    speaker: Victoria
+    content: "No."
+  -
+    timestamp: "0:57:25"
+    speaker: Andy
+    content: "Going on."
+  -
+    timestamp: "0:57:26"
+    speaker: Victoria
+    content: "No, no, that's just what everyone says, is when people are so critical of themselves. Don't... You wouldn't say things to your friend that were that mean. Don't say that to yourself. I can make fun of Daisy because I love her this much. [chuckle]"
+  -
+    timestamp: "0:57:41"
+    speaker: Andy
+    content: "And she knows it."
+  -
+    timestamp: "0:57:42"
+    speaker: Daisy
+    content: "And go to therapy."
+  -
+    timestamp: "0:57:43"
+    speaker: Victoria
+    content: "Oh, yeah. Sure, of course. Wait, did this just morph into Dear Prudence?"
+  -
+    timestamp: "0:57:47"
+    speaker: Daisy
+    content: "Maybe. But everyone should go to therapy."
+  -
+    timestamp: "0:57:50"
+    speaker: Victoria
+    content: "Good, good."
+  -
+    timestamp: "0:57:50"
+    speaker: Matt
+    content: "One thing I have noticed in people who don't feel like they have the presenting skill or confidently saying a skill. A lot of the times, the way it comes out is to preface and talk about all the ways that either the thing I'm presenting is maybe not up to par, or the interview won't go well, or whatever, and I would just say skip that part. I don't think it's conscious but I think you'll see that in a lot of people, they're just like, \"Okay. Before I get into this, I need to tell you this, this, this, and this.\" And..."
+  -
+    timestamp: "0:58:19"
+    speaker: Victoria
+    content: "Or apologize."
+  -
+    timestamp: "0:58:20"
+    speaker: Matt
+    content: "Yeah. A lot of people apologize in advance for everything. And..."
+  -
+    timestamp: "0:58:22"
+    speaker: Andy
+    content: "This was one of the only hard and fast rules for critique in some of the college courses I've thought. You may not give us any context around the creation of this work whatsoever. Both..."
+  -
+    timestamp: "0:58:32"
+    speaker: Matt
+    content: "Yeah. Just skip that part."
+  -
+    timestamp: "0:58:32"
+    speaker: Andy
+    content: "\"Oh, I ran out of time last night and the paint didn't dry.\" Or, \"Oh, I was really kind of upset when I was making this.\" [chuckle] We're talking about the work. You may not give us context because you will either undermine yourself or you provide context that will not be there to support the work in the real world, and that's useless."
+  -
+    timestamp: "0:58:47"
+    speaker: Matt
+    content: "I think that's the thing people miss, is that even if it sounds like you're trying to make the work seem better giving the context, you're always just making it worse."
+  -
+    timestamp: "0:58:54"
+    speaker: Andy
+    content: "Pretty much."
+  -
+    timestamp: "0:58:54"
+    speaker: Matt
+    content: "And even... And if it's to yourself, if it's yourself in an interview, you're just making yourself seem like a worse candidate, which is horrible."
+  -
+    timestamp: "0:59:00"
+    speaker: Victoria
+    content: "Right. No, just say that to your friend before or after..."
+  -
+    timestamp: "0:59:03"
+    speaker: Matt
+    content: "Say it to yourself, say it to yourself before the interview."
+  -
+    timestamp: "0:59:05"
+    speaker: Victoria
+    content: "Yeah. Keep it in your head."
+  -
+    timestamp: "0:59:07"
+    speaker: Matt
+    content: "And then, cut it out. Just don't say it."
+  -
+    timestamp: "0:59:09"
+    speaker: Andy
+    content: "And then just say \"Boxed wine,\" whenever they ask you a question in the interview. That's all you need to do. No more."
+  -
+    timestamp: "0:59:13"
+    speaker: Victoria
+    content: "And they're like, \"She was nice, but she seems like she has a problem.\""
+  -
+    content: Laughter
+  -
+    timestamp: "0:59:18"
+    speaker: Andy
+    content: "Alright."
+  -
+    timestamp: "0:59:18"
+    speaker: Matt
+    content: "It does seem like it works to a lot... The answer to a lot of questions. What's your greatest weakness?"
+  -
+    timestamp: "0:59:22"
+    speaker: Daisy
+    content: "Boxed wine."
+  -
+    timestamp: "0:59:23"
+    speaker: Andy
+    content: "There we go."
+  -
+    timestamp: "0:59:24"
+    speaker: Victoria
+    content: "Come up with another one, Matt."
+  -
+    timestamp: "0:59:24"
+    speaker: Daisy
+    content: "Throw me another one, throw me another one."
+  -
+    timestamp: "0:59:26"
+    speaker: Matt
+    content: "What's your greatest strength?"
+  -
+    timestamp: "0:59:27"
+    speaker: Daisy
+    content: "Boxed wine."
+  -
+    timestamp: "0:59:27"
+    speaker: Victoria
+    content: "Boxed wine."
+  -
+    timestamp: "0:59:29"
+    speaker: Andy
+    content: "Where do you see yourself in five years? "
+  -
+    timestamp: "0:59:30"
+    speaker: Daisy
+    content: "Boxed wine."
+  -
+    timestamp: "0:59:31"
+    speaker: Victoria
+    content: "Oh, that's just sad."
+  -
+    timestamp: "0:59:33"
+    speaker: Andy
+    content: "Alright. Let's move on to the final thoughts for everybody. I feel like I got my sort of final thoughts out. Matt, I'll give you first crack. Do you have any final thoughts before we close this episode up? "
+  -
+    timestamp: "0:59:42"
+    speaker: Matt
+    content: "That was my final thought. I said, just pretend. Throw away all the prefacing and just pretend that you're very confident. And even if you're not confident, they might believe you. That's all you want."
+  -
+    timestamp: "0:59:51"
+    speaker: Andy
+    content: "Alright. Victoria, do you have any final thoughts to wrap this up? Anything you didn't get to say that you really wanted to say? "
+  -
+    timestamp: "0:59:56"
+    speaker: Victoria
+    content: "I just wanted to say, what I was saying before about how heavily the lines are drawn in between what you study in college and I feel like we're told in just quite speaking tones, inside voices, like, \"It doesn't matter in design what your major is.\" But then there are megaphones everywhere that everyone can hear and see that are like, \"Your major is your life forever.\" So, I so, so, so wish that someone had emphasized to me while I was studying that I could do whatever because that would've saved me a lot of angst. I figured it out pretty quick, but there were a bad couple of years where I didn't like what I was doing and I didn't know how I was going to get to do what I wanted to do, and I wish someone had told me that I could."
+  -
+    timestamp: "1:00:47"
+    speaker: Andy
+    content: "Daisy, put a bow on it."
+  -
+    timestamp: "1:00:49"
+    speaker: Daisy
+    content: "Can I just end this with boxed wine?"
+  -
+    timestamp: "1:00:52"
+    speaker: Andy
+    content: "If you want to."
+  -
+    timestamp: "1:00:53"
+    speaker: Matt
+    content: "That's perfect. That's kind of a perfect ending."
+  -
+    timestamp: "1:00:56"
+    speaker: Daisy
+    content: "Also, I just wanna glob on to what Victoria's saying about the clear divisions between the majors and all that. And maybe this is the wrong message to send but..."
+  -
+    timestamp: "1:01:10"
+    speaker: Victoria
+    content: "Awesome, hit us."
+  -
+    timestamp: "1:01:11"
+    speaker: Daisy
+    content: "None of the stuff..."
+  -
+    timestamp: "1:01:12"
+    speaker: Andy
+    content: "Smoke cigarettes."
+  -
+    content: Laughter
+  -
+    timestamp: "1:01:16"
+    speaker: Victoria
+    content: "They make you feel good."
+  -
+    content: Laughter
+  -
+    timestamp: "1:01:17"
+    speaker: Daisy
+    content: "Yeah, I think something that has helped me feel more confident and have more confidence in the work I'm doing is reminding myself that none of what we're doing is actually that hard. Obviously, it requires training and we have an area of expertise, and our expertise should be valued and we should be paid lots of money for it, and etcetera, but there's nothing out there that is so mystical that it's impossible to be learned. You can learn everything on your own, you don't have to go to a super expensive snooty school to have the skill set to do what you're doing. So just, dog with thumbs."
+  -
+    timestamp: "1:02:05"
+    speaker: Victoria
+    content: "And we say that with a great deal of privilege that we had from going to the design school but..."
+  -
+    timestamp: "1:02:09"
+    speaker: Daisy
+    content: "We had a very, very nice design school that we were very lucky to go to. But again, dog with thumbs could've done it."
+  -
+    timestamp: "1:02:18"
+    speaker: Andy
+    content: "So Daisy's closing remarks are, \"Your job isn't actually that hard, stop complaining. It's easy.\""
+  -
+    timestamp: "1:02:23"
+    speaker: Victoria
+    content: "Well, it was either that or boxed wine."
+  -
+    timestamp: "1:02:25"
+    speaker: Andy
+    content: "Either that or boxed wine. Alright, we made a podcast, good job everybody."
+  -
+    timestamp: "1:02:28"
+    speaker: Matt
+    content: "Yay, good job."
+  -
+    timestamp: "1:02:29"
+    speaker: Victoria
+    content: "Yay."
+  -
+    timestamp: "1:02:30"
+    speaker: Andy
+    content: "Daisy, you were so good at your first podcast."
+  -
+    timestamp: "1:02:33"
+    speaker: Daisy
+    content: "Aw, thanks."
+  -
+    timestamp: "1:02:33"
+    speaker: Victoria
+    content: "Oh, it's over now, okay."
+  -
+    timestamp: "1:02:34"
+    speaker: Andy
+    content: "It comes naturally to you."
+  -
+    timestamp: "1:02:34"
+    speaker: Daisy
+    content: "It's natural charisma."
+  -
+    timestamp: "1:02:37"
+    speaker: Andy
+    content: "Do either of you have anything you wanna promote? Daisy, you don't do any social media, right? "
+  -
+    timestamp: "1:02:40"
+    speaker: Daisy
+    content: "No."
+  -
+    timestamp: "1:02:42"
+    speaker: Andy
+    content: "Okay. So people can't... If people are listening and they're like, \"Man, this woman is so charismatic, I just want more of her in my life,\" they have no option to acquire that. They just have to..."
+  -
+    timestamp: "1:02:51"
+    speaker: Victoria
+    content: "You have to hound Andy and Matt to bring her back."
+  -
+    timestamp: "1:02:54"
+    speaker: Daisy
+    content: "I text all my garbage thoughts to Victoria, so I don't accidentally put it out into the internet."
+  -
+    timestamp: "1:03:00"
+    speaker: Andy
+    content: "Victoria, do you wanna make a Twitter account that's just things that Daisy texts you, so people can follow that or what? "
+  -
+    timestamp: "1:03:04"
+    speaker: Victoria
+    content: "I truly do not."
+  -
+    timestamp: "1:03:05"
+    speaker: Andy
+    content: "Alright, good. Well, guess what, listener, you can't have more of Daisy so..."
+  -
+    timestamp: "1:03:08"
+    speaker: Victoria
+    content: "Sunnydays.com, no."
+  -
+    timestamp: "1:03:10"
+    speaker: Andy
+    content: "Absence makes the heart grow fonder. Victoria, is there anything you wanna promote? Do you have a family coming out anytime soon or anything else exciting? "
+  -
+    timestamp: "1:03:15"
+    speaker: Victoria
+    content: "A what?"
+  -
+    timestamp: "1:03:16"
+    speaker: Andy
+    content: "A family, Mod family."
+  -
+    timestamp: "1:03:17"
+    speaker: Matt
+    content: "I think he means a tech family, not like, \"Are you having... \""
+  -
+    timestamp: "1:03:19"
+    speaker: Andy
+    content: "You don't like make fun of families? "
+  -
+    timestamp: "1:03:20"
+    speaker: Victoria
+    content: "You started making my eye twitch thinking about my literal family, I was like, \"What?\""
+  -
+    timestamp: "1:03:27"
+    speaker: Matt
+    content: "Andy just turned into your parents, \"Are you having children anytime soon? Is that happening?\""
+  -
+    content: Laughter
+  -
+    timestamp: "1:03:32"
+    speaker: Victoria
+    content: "I'm not, I promise."
+  -
+    timestamp: "1:03:32"
+    speaker: Matt
+    content: "A classic ending to a podcast, we ask people how their life planning is going."
+  -
+    timestamp: "1:03:37"
+    speaker: Victoria
+    content: "Oh, God!"
+  -
+    timestamp: "1:03:38"
+    speaker: Andy
+    content: "Follow Victoria on Twitter."
+  -
+    timestamp: "1:03:39"
+    speaker: Victoria
+    content: "Follow Victoria on Twitter, it's @VictoriaAlissia, because my name isn't available, Victoria A-L-I-S-S-I-A."
+  -
+    timestamp: "1:03:49"
+    speaker: Victoria
+    content: "Wait, Victoria, can I promote your mom's food blog?"
+  -
+    timestamp: "1:03:54"
+    speaker: Andy
+    content: "Yeah, there you go."
+  -
+    timestamp: "1:03:54"
+    speaker: Victoria
+    content: "Sure, you can, Dais."
+  -
+    timestamp: "1:03:54"
+    speaker: Andy
+    content: "That's what you can promote, Daisy."
+  -
+    timestamp: "1:03:56"
+    speaker: Victoria
+    content: "Do you remember what it is?"
+  -
+    timestamp: "1:03:56"
+    speaker: Daisy
+    content: "Victoria's mom has a really good food blog, it's called foodlustpeoplelove.com and Victoria designed the logo."
+  -
+    timestamp: "1:04:03"
+    speaker: Victoria
+    content: "And the fonts. She's using my fonts now."
+  -
+    timestamp: "1:04:05"
+    speaker: Daisy
+    content: "And the fonts. Oh, and the fonts."
+  -
+    timestamp: "1:04:06"
+    speaker: Victoria
+    content: "I only just recently fixed that because Dropbox changed their public folder where I was hosting the fonts. Shh..."
+  -
+    timestamp: "1:04:12"
+    speaker: Andy
+    content: "You can find out more about that on Twitter when you follow VictoriaAlissia."
+  -
+    timestamp: "1:04:16"
+    speaker: Victoria
+    content: "Alissia."
+  -
+    timestamp: "1:04:16"
+    speaker: Andy
+    content: "Alissia? "
+  -
+    timestamp: "1:04:17"
+    speaker: Victoria
+    content: "Yeah, sorry."
+  -
+    timestamp: "1:04:18"
+    speaker: Andy
+    content: "Didn't you say Alisa before though? "
+  -
+    timestamp: "1:04:20"
+    speaker: Victoria
+    content: "No, Alissia."
+  -
+    timestamp: "1:04:21"
+    speaker: Andy
+    content: "Oh, goodness gracious. Alright, this podcast is over, everyone did a great job."
+  -
+    timestamp: "1:04:23"
+    speaker: Victoria
+    content: "Yes, alright."
+  -
+    content: Music
+  -
+    timestamp: "1:04:38"
+    speaker: Matt
+    content: "Thanks as always to XYZ Type for the transcripts. You can find them at XYZtype.com."
+  -
+    timestamp: "1:04:42"
+    speaker: Andy
+    content: "Follow the show on Twitter @workingfile. We've been posting a lot of polls and we wanna know your answers to those polls."
+  -
+    timestamp: "1:04:49"
+    speaker: Matt
+    content: "@workingfile."
+  -
+    timestamp: "1:04:49"
+    speaker: Andy
+    content: "I said that."
+  -
+    timestamp: "1:04:50"
+    speaker: Matt
+    content: "On Twitter."
+  -
+    timestamp: "1:04:50"
+    speaker: Andy
+    content: "I said that."
+  -
+    timestamp: "1:04:52"
+    speaker: Matt
+    content: "@workingfile.com/Twitter."
+  -
+    timestamp: "1:04:54"
+    speaker: Andy
+    content: "No, that's wrong."
+  -
+    content: Music
