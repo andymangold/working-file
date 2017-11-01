@@ -1548,4 +1548,25 @@
     -
       url: http://www.foodlustpeoplelove.com/
       text: Food Lust People Love
-
+-
+  id: 25
+  date: 2017-10-31
+  title: What the Future Holds
+  soundcloudID: 349558833
+  showNotes: "This episode features Matt and Andy having a one-on-one conversation about the future of Working File and the difference between expressive and functional design projects."
+  links:
+    -
+      url: http://5by5.tv/onthegrid
+      text: On the Grid
+    -
+      url: https://en.wikipedia.org/wiki/Numerology
+      text: Numerology
+    -
+      url: https://en.wikipedia.org/wiki/The_Beginning_of_Infinity
+      text: The Beginning of Infinity
+    -
+      url: http://davidcole.me/
+      text: David Cole
+    -
+      url: https://en.wikipedia.org/wiki/Waterfall_model
+      text: Waterfall Model
