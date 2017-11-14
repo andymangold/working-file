@@ -1571,3 +1571,55 @@
     -
       url: https://en.wikipedia.org/wiki/Waterfall_model
       text: Waterfall Model
+-
+  id: 26
+  date: 2017-11-13
+  title: Shows That Could Have Been
+  soundcloudID: 355389314
+  contributorSlugs:
+    - linda-eliasen
+    - maurice-cherry
+  showNotes: "This is our last episode of Working File, at least for a little while. Linda and Maurice join Matt and Andy to go down the list of possible topics for shows that we never got to make. It's a Working File lightning round! Thanks to all of our contributors over the past year who helped make the show a reality. ❤️"
+  links:
+    -
+      url: https://www.apple.com/watch/
+      text: Wrist Robot
+    -
+      url: https://en.wikipedia.org/wiki/Machine_learning
+      text: Machine Learning
+    -
+      url: https://material.io/
+      text: Material Design
+    -
+      url: http://getbootstrap.com/
+      text: Bootstrap
+    -
+      url: https://wordpress.org/
+      text: Wordpress
+    -
+      url: https://www.goabstract.com/
+      text: Abstract
+    -
+      url: https://git-scm.com/
+      text: Git
+    -
+      url: https://www.frankchimero.com/
+      text: Frank Chimero
+    -
+      url: https://static1.squarespace.com/static/500f4cd3e4b006cb9ec17b24/t/599219b0e6f2e1c5777bc538/1502747064553/
+      text: Frank's Rowhome Illustration
+    -
+      url: http://www.hustwit.com/wp-content/uploads/2014/01/objectified.jpg
+      text: Official Objectified Poster
+    -
+      url: http://ilarge.lisimg.com/image/1317391/1118full-objectified-poster.jpg
+      text: Andy's Ripoff of the Objectified Poster
+    -
+      url: https://images-na.ssl-images-amazon.com/images/I/61Ul7ZfCqzL._SL1385_.jpg
+      text: Matt's Objectified Poster
+    -
+      url: https://www.lukova.net/
+      text: Luba Lukova
+    -
+      url: http://www.everythingisaremix.info/
+      text: Everything is a Remix
