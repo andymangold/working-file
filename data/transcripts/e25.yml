@@ -1,0 +1,839 @@
+messages:
+  -
+    timestamp: "00:00"
+    speaker: "Andy"
+    content: "You are listening to Working File, a podcast about design practice and its relationship with the world. My name is Andy Mangold."
+  -
+    timestamp: "00:08"
+    speaker: "Matt"
+    content: "I'm Matt McInerney."
+  -
+    timestamp: "00:09"
+    speaker: "Andy"
+    content: "We begin this episode with an announcement about the show and then Matt and I talk about the difference between functional design and expressive design."
+  -
+    timestamp: "00:16"
+    speaker: "Matt"
+    content: "And really exciting stuff like rates, and charging per the hour, and scoping a project, and you'll definitely get an answer on which is the best and what you should do with your life."
+  -
+    timestamp: "00:27"
+    speaker: "Andy"
+    content: "Buckle up."
+  -
+    content: "Music"
+  -
+    timestamp: "00:47"
+    speaker: "Andy"
+    content: "You won't guess what I'm drinking Matt."
+  -
+    timestamp: "00:50"
+    speaker: "Matt"
+    content: "Is it not water?"
+  -
+    timestamp: "00:51"
+    speaker: "Andy"
+    content: "It's out of character for me."
+  -
+    timestamp: "00:53"
+    speaker: "Matt"
+    content: "It's some sort of booze and I'm gonna be like, \"What?\""
+  -
+    timestamp: "00:55"
+    speaker: "Andy"
+    content: "Well not only is it some sort of booze which is a little bit out of character already, but it's particularly trashy booze which is even more out of character for me."
+  -
+    timestamp: "01:02"
+    speaker: "Matt"
+    content: "Are you drinking boxed wine?"
+  -
+    timestamp: "01:04"
+    speaker: "Andy"
+    content: "Maybe worse? I'm not sure. So here's the deal."
+  -
+    timestamp: "01:06"
+    speaker: "Matt"
+    content: "Okay."
+  -
+    timestamp: "01:07"
+    speaker: "Andy"
+    content: "I have this plan. I'm not gonna go in too much detail here partially because it's somewhat secret plan, and partially because it's not what the podcast is about, but this year I'm planning to cook a miniaturized Thanksgiving for the Thanksgiving meal that I'm hosting where everything is a smaller version of itself. It's going to be very cute and very adorable and I will go no further into it now, except to say that I had to acquire miniature wine bottles and some places make individual servings of wine that come in like something that appears to be a miniature wine bottle which is perfect for my needs, except I wanted to serve some nice wine with dinner and they don't make nice wine in these little single serving bottles. You may be surprised to find out. So, I got this stuff which is some really cheap, like sweet, a little bit fizzy, red wine that I'm drinking out of this bottle so I can empty them out and then later fill them with better wine, but I don't have it in me to pour wine down the drain no matter how cheap because guilt."
+  -
+    timestamp: "02:10"
+    speaker: "Matt"
+    content: "Oh, I would never pour it down the drain."
+  -
+    timestamp: "02:11"
+    speaker: "Andy"
+    content: "Oh yeah."
+  -
+    timestamp: "02:12"
+    speaker: "Matt"
+    content: "I'm with you on that. That'd be too much."
+  -
+    timestamp: "02:15"
+    speaker: "Andy"
+    content: "Also, I can drink..."
+  -
+    timestamp: "02:16"
+    speaker: "Matt"
+    content: "Interesting."
+  -
+    timestamp: "02:16"
+    speaker: "Andy"
+    content: "Also, I can drink a thing. It doesn't... Some people are like, \"Ooh, I can't even drink that, it makes me gag. It's so gross.\" I'm like, \"No, it's fine, it's just like bad fruit juice,\" whatever."
+  -
+    timestamp: "02:24"
+    speaker: "Matt"
+    content: "Yeah, I think you'd probably be fine for the next couple of weeks, have a glass of wine one time."
+  -
+    timestamp: "02:29"
+    speaker: "Andy"
+    content: "Yeah, exactly."
+  -
+    timestamp: "02:29"
+    speaker: "Matt"
+    content: "Think you're gonna live."
+  -
+    timestamp: "02:31"
+    speaker: "Andy"
+    content: "Yeah."
+  -
+    timestamp: "02:31"
+    speaker: "Matt"
+    content: "Pretty regular. But for you, very weird."
+  -
+    timestamp: "02:32"
+    speaker: "Andy"
+    content: "It's a small party, I'm only cooking miniaturized Thanksgiving for four people, so it's not gonna be a huge deal."
+  -
+    timestamp: "02:39"
+    speaker: "Matt"
+    content: "Oh, so you're telling me you have to get through four mini bottles of wine before Thanksgiving?"
+  -
+    timestamp: "02:43"
+    speaker: "Andy"
+    content: "Four servings of bad wine in the next month."
+  -
+    timestamp: "02:46"
+    speaker: "Matt"
+    content: "Oh, what a dread."
+  -
+    timestamp: "02:47"
+    speaker: "Andy"
+    content: "I know. It's gonna be rough."
+  -
+    timestamp: "02:48"
+    speaker: "Matt"
+    content: "How are you gonna do it? [chuckle]"
+  -
+    timestamp: "02:50"
+    speaker: "Andy"
+    content: "Yeah."
+  -
+    timestamp: "02:50"
+    speaker: "Matt"
+    content: "Well, good luck with it. I hope it does alright. I hope you don't have a hangover tomorrow from your one mini bottle. [laughter]"
+  -
+    timestamp: "02:58"
+    speaker: "Andy"
+    content: "Yeah. I might get a little bit crazy. Should we explain why it's just the two of us Matt? "
+  -
+    timestamp: "03:03"
+    speaker: "Matt"
+    content: "Yeah, why is it just the two of us? You haven't told me."
+  -
+    timestamp: "03:04"
+    speaker: "Andy"
+    content: "There's nobody else on the episode this week."
+  -
+    timestamp: "03:05"
+    speaker: "Matt"
+    content: "This is a mystery to me too, I think."
+  -
+    timestamp: "03:07"
+    speaker: "Andy"
+    content: "Is it a mystery to you? "
+  -
+    timestamp: "03:08"
+    speaker: "Matt"
+    content: "No, I'm just kidding."
+  -
+    timestamp: "03:09"
+    speaker: "Andy"
+    content: "Well, that'd be a shocker. [chuckle] If you didn't know why I'd have to retrace my steps, find out if I'm living in some sort of alternate universe or something."
+  -
+    timestamp: "03:18"
+    speaker: "Matt"
+    content: "No, before we started the show I found out that my Slack messages didn't send for two minutes afterwards, so maybe just all your Slack messages had never got to me."
+  -
+    timestamp: "03:25"
+    speaker: "Andy"
+    content: "That is like a nightmare scenario of me thinking I've been communicating with people in a certain way and them receiving it in some other way in which I have no control over. Nightmare scenario. Anyway, it's just you and I Matt this week because this is gonna be the second to last episode of Working File for a little while. We're not having some dramatic finale. The show is not necessarily over but we kind of started this show almost exactly a year ago, well, actually truth be told, far more than a year ago if you count the episodes we recorded ahead of time..."
+  -
+    timestamp: "04:00"
+    speaker: "Andy"
+    content: "'Cause it's hard to plan. Dang it. We tricked you all into thinking this was way easier to do. [chuckle]"
+  -
+    timestamp: "04:04"
+    speaker: "Andy"
+    content: "Yeah, actually the very, very first episode of Working File recorded was I think released as episode four or five and it was episode with Jen and Satchel and we recorded that almost a year and half, two years ago. That was recorded in February or March of 2015. So that was when we started working on the show and it took us a little while to figure out exactly how it was gonna work, and to line up contributors, and to figure out a name, and to do all the stuff you have to do to make a podcast. And we did all that and recorded some other episodes, so we had a little bit of a backlog to make sure we could stay on top of it. But yeah it was about a year ago, two weeks from when this episode is released that the podcast came out and it was a bit of an experiment when we started it, right Matt? "
+  -
+    timestamp: "04:46"
+    speaker: "Matt"
+    content: "Yeah. I think the idea that we would be able to do a panel show with a group of people every... We said every two weeks because of scheduling. We still... I didn't have to schedule it so maybe I shouldn't speak to it but it seemed like a monumental task. [chuckle] It's a lot of getting people in the same place during their free time which is not always the easiest."
+  -
+    timestamp: "05:05"
+    speaker: "Andy"
+    content: "Yeah. And the podcast is a small operation right now. We don't have any financial support of any kind. We do have XYZ Type sponsoring the transcripts, which is great so we don't have to pay for that out of pocket. But the rest of our expenses are out of pocket and we can't pay our contributors right now and I think asking anybody especially the amazing, talented, professionals that we've had on this show over the past year to take time out of their schedule for no money and no real benefit to themselves whatsoever to record a show with us is a big ask."
+  -
+    timestamp: "05:35"
+    speaker: "Andy"
+    content: "And yeah, I think we kind of started the show, trying to see if that was something we could sustain. I know that I was kind of inspired by other rotating panel shows. The one that is the most, kind of close example to what I was imagining this show might be is The Incomparable, which is a show all about culture and geek stuff, movies, film, television. But they have a rotating cast of people and sometimes they have seven, eight plus people on an episode. And they have a great rapport they're able to maintain, even though the exact cast is always rotating and they record and release regularly. That's what we were going for. And yeah, it's proven to be difficult, and yeah so for the time being, we are going to put a pause on things at least, and either figure out a way to do this more sustainably or figure out a change so Working File can be something different, or maybe this just stays a self-contained, one year, 26 episode season, kind of up in the air at this point."
+  -
+    timestamp: "06:34"
+    speaker: "Matt"
+    content: "Yeah, and I think the way I see it is like if it continues, it was a nice season one, and maybe we pick it back up in a few months because we either recorded a backlog or found a way to keep a more sustainable group panel. And also come up with some topic ideas that are fresh and exciting for us so we're not rehashing the same old thing. And if it doesn't happen, then it's a self-contained thing, and that's okay too. Some of my favorite podcasts are six episodes, and they never had more and sometimes I go back and re-listen to them. So hopefully we were making something that was somewhat evergreen too."
+  -
+    timestamp: "07:09"
+    speaker: "Andy"
+    content: "I too listen to A Life Well Wasted. [chuckle]"
+  -
+    timestamp: "07:11"
+    speaker: "Matt"
+    content: "How did you know I was referring to that?"
+  -
+    timestamp: "07:13"
+    speaker: "Andy"
+    content: "Oh, you mean the one six episode podcast that was really great? "
+  -
+    timestamp: "07:17"
+    speaker: "Matt"
+    content: "Well, there's Serial and S-Town. I know Serial has seasons, but each season is pretty self-contained."
+  -
+    timestamp: "07:24"
+    speaker: "Andy"
+    content: "Yeah, I guess."
+  -
+    timestamp: "07:24"
+    speaker: "Matt"
+    content: "It's not the only one in existence, but you happen to know me well enough to know that's exactly what I was referring to [chuckle]"
+  -
+    timestamp: "07:29"
+    speaker: "Andy"
+    content: "I guess they have seven episodes now right? Doesn't matter."
+  -
+    timestamp: "07:32"
+    speaker: "Matt"
+    content: "I can't remember."
+  -
+    timestamp: "07:33"
+    speaker: "Andy"
+    content: "But yeah, so I think a lot of the listeners that are listening to this show, maybe found Working File because of one of our contributors, in the past 12 months, and to you I'd say thank you for listening and following along and I hope we had some positive effect for you. I think some of these listeners are probably people that have followed you and I, Matt, for five years now, in all of our various podcasting adventures. To those people I would say double thank you. Also..."
+  -
+    timestamp: "07:58"
+    speaker: "Matt"
+    content: "There's no shortage of podcasts to come 'cause I can't not podcast with Andy, too hard not to."
+  -
+    timestamp: "08:03"
+    speaker: "Andy"
+    content: "Yeah, I would say that we're not done making podcasts, certainly, so we gotta figure out what the next thing is and how that works. But, yeah, we felt we owed you a little bit of transparency, dear listener, whom we adore, and that's the deal."
+  -
+    timestamp: "08:18"
+    speaker: "Matt"
+    content: "Yeah, and I do hope too that we can find a way to do an exciting podcast relating to the things that we work on or our life experience that stays fresh. 'Cause I do know there's part of me that's like, \"I can't talk about the same design stuff over and over again.\" And my life is changing, it's different than when I started being a designer, when On The Grid started and we started talking about very different things. So I always have the desire to keep talking about my life, and I hope we can do that in a way that stays interesting."
+  -
+    timestamp: "08:52"
+    speaker: "Andy"
+    content: "Yeah, for me, I think the appeal of a show about design, back in the day when we started On The Grid, five plus years ago now, the appeal of that, to me, was that I was really interested in talking about that stuff and I was still relatively new, as in terms of a working professional designer, and trying to find my way. And so I've always been a person that works through things out loud, talking through something is the best way for me to figure it out for myself, in the first place. And I think the beautiful thing about making a podcast is we found that some of the people like to be part of that as well and hear that out loud, working through of ideas. But yeah, for lack of a better word, I feel like I've settled into a place in my career where, it's not that I'm stagnating and not learning new things, it's just that the way we talk about things just gets a little more boring. And like you said Matt, we're talking about similar things repeatedly, which I think can be valuable for a listener, especially 'cause when you consider not everyone listens to every episode, I don't think that covering the same topic is inherently bad, but does make the experience of recording it different. And sometimes it's harder for the show to grow with us."
+  -
+    timestamp: "10:00"
+    speaker: "Andy"
+    content: "So yeah, now my feeling about it is that I almost feel like the reason we're talking about design is because it's one of the only things that, not only do we know a lot about and feel like we have something worthwhile to say, but also we know people in the industry that also are smart and know what they're talking about and have things to say. And so in that sense it's like the topic is the topic because it's the thing we know, but the underlying desire is to make something and work in this medium, and this was the latest result of that particular impulse."
+  -
+    timestamp: "10:37"
+    speaker: "Matt"
+    content: "Yeah, and I think I second your working through something, the thing that's most exciting to me is talking about things that are unknown and new ideas and things I'm not so expert at."
+  -
+    timestamp: "10:47"
+    speaker: "Andy"
+    content: "But now you know it all Matt, you're a pro, you know all the graphic design."
+  -
+    timestamp: "10:49"
+    speaker: "Matt"
+    content: "Well, I was gonna say, there's things that are very much, still very exciting to me, and exciting to talk about, but they're probably not the same things that fueled On The Grid or maybe even the very beginning of this show."
+  -
+    timestamp: "11:04"
+    speaker: "Andy"
+    content: "Yeah. And now you're in a very similar position that I've been in for a little while, where running your own company or being a part of running a company, not only does some of the things at the forefront of our minds become less relevant to a bigger audience, like some of the things we worry about, most people don't already think about it, don't care about, which just makes a podcast about it that much more narrow and boring to most people. But also, there's some things you can't really work through out loud the way you'd like to. It's easier when you're working though like, gosh, flat design versus iOS 6 and gradients, what's the thing gonna be? That was a conversation that... There's no problem having that conversation as publicly as you want, but when you're talking about some of the things we have to deal with, no, it's just not the same kind of thing, it's not a public conversation in the same way. It's things that happen in more small circles."
+  -
+    timestamp: "11:56"
+    speaker: "Andy"
+    content: "Yeah, and just, publicly, a big thank you to every contributor that took time out of their schedule and rolled the dice by recording an episode with us. They didn't necessarily know what it would involve and their first time recording something themselves and making all that work out. People jump through a lot of hoops. There was a lot of episodes of this show that I am very very proud of and expect to be for a while which is not something that can be said of all of our podcast projects. They don't all age that well but I think a lot of these episodes are great and I'm very happy that they will live online, obviously the websites going nowhere, feed's going nowhere, these episodes aren't gonna be hidden from anybody ever, well I shouldn't ever but, heat-death of the universe etc etc, they'll be online for a long time."
+  -
+    timestamp: "12:37"
+    speaker: "Matt"
+    content: "Well probably I would assume SoundCloud's gonna die before the universe but who knows. Chance did buy it I don't know."
+  -
+    timestamp: "12:43"
+    speaker: "Andy"
+    content: "Yeah Chance will save it. [laughter] But yeah, there's a lot of shows I'm really... A lot of these episodes are things I'm really proud of and I'm glad that they can live online with the transcripts courtesy of XYZ Type. And yeah this all wouldn't have been possible without the collaboration from a bunch of relative strangers so thanks to everybody that gave it a shot."
+  -
+    timestamp: "13:03"
+    speaker: "Matt"
+    content: "I second that. Thank you."
+  -
+    timestamp: "13:04"
+    speaker: "Andy"
+    content: "Now Matt, what do you think about iOS 7 flat design, huh pretty weird? "
+  -
+    timestamp: "13:11"
+    speaker: "Matt"
+    content: "That's what I was hoping we'd talk about."
+  -
+    timestamp: "13:12"
+    speaker: "Andy"
+    content: "How are people gonna know what button to tap on and what things they can't tap on? "
+  -
+    timestamp: "13:17"
+    speaker: "Matt"
+    content: "I think it's just gonna fall apart. I think mobile design is dead Andy, that a good prediction?"
+  -
+    timestamp: "13:21"
+    speaker: "Andy"
+    content: "Yeah, iPhone's over."
+  -
+    timestamp: "13:24"
+    speaker: "Matt"
+    content: "Yeah, and what's this trendy responsive design right?"
+  -
+    timestamp: "13:27"
+    speaker: "Andy"
+    content: "[chuckle] Exactly. No so the thing I wanna talk about tonight is I've got two main projects that are at least somewhat on my plate at work, other people are working on it as well but the two things that I'm contributing to right now design-wise, are kind of like on the opposite ends of the spectrum. We've talked about it before and I just wanna revisit 'cause it keeps coming back in my work is popping up as a thing that I think is worth mentioning which is that, one of the projects is a new product that it doesn't exist yet and we are involved in the entire vision and design process of deciding what the feature set is and how the whole thing works and what the different users and roles and permissions are and how the whole system is connected to itself and how everything works functionally on a functional level with mercifully a very very very clear audience and a very clear goal which I think we've talked about before Matt it's one of the things I value most in any kind of design project. When someone can very clearly articulate here's who this is for and here's what's gotta do, I feel like I have the best chance of doing my job properly."
+  -
+    timestamp: "14:34"
+    speaker: "Andy"
+    content: "So that's one of the projects, the other project we're working on is, it's also for a new thing which I guess is a similarity. But it's a thing that is not functional, we're basically making a marketing website for a thing that will be announced at some point in the future, and this website has no real functionality beyond contact forum, it's just basically got to get people aware and excited about the thing in question. And I don't mean to be cryptic it doesn't really matter but it's not important to the story, it's just... Pretend it's a new product or an event or whatever you wanna pretend it is."
+  -
+    timestamp: "15:11"
+    speaker: "Matt"
+    content: "Yeah, we're familiar with this dichotomy, it's an app and a landing page. Right?"
+  -
+    timestamp: "15:17"
+    speaker: "Andy"
+    content: "Sure and I feel like more and more as my career has gone along and it's starting to really stark contrast this particular week and the past couple weeks I've had these two projects kind of simultaneously on my plate moving between them just feels like total temperature shock. It's like you're going from one thing to another thing and it's like a whole different job and a whole different way of thinking. In one place we have this goal and we get to make decisions about that goal and the decisions we make we get to decide here's why we think this is the way we wanna go with this and here's the context behind it, here's our underpinnings for these design decisions and the other side it's like, \"Well is this cool? Is this gonna make people excited about this thing?\" It's all of these much more gray ambiguous metrics that are much harder to say like, \"Here's a good reason why this will get people excited about this thing.\" Or \"Here's a good reason why this will communicate the thing we need to communicate about this particular project.\""
+  -
+    timestamp: "16:12"
+    speaker: "Andy"
+    content: "And I don't know, it's just been striking me that like it's both of these... This is like the two ends of the spectrum of what I consider to be my skill set, I don't think one is something I'm capable of and one is not something I'm capable of but it does almost feel sometimes like they are really two separate jobs in the way that like being a teacher and and being a plumber are two separate jobs. The end result is similar like, \"I made a thing, I drew a picture of a website in a drawing program\", that's the result but the whole process and the underpinnings and the thinking to get you there is like just a universe apart."
+  -
+    timestamp: "16:48"
+    speaker: "Matt"
+    content: "Yeah. The second one, the marketing site where you have to get people hyped about a product, the landing page one how do you approach that? 'Cause I can wrap my brain around... I can wrap my brain around your brain in the functional app, but I don't know if I've experienced you in marketing world. What is your take when somebody has an opinion and you know it's subjective they know it's subjective and a decision has to be made?"
+  -
+    timestamp: "17:16"
+    speaker: "Andy"
+    content: "Well, it's a similar process in some ways, I still wanna understand the audience as much as I can, and this particular thing that we are essentially marketing, has a couple different audiences and these audiences care about it in different ways. Somebody's going to be effectively the consumer of it, somebody is going to be aware of it but is not going to consume it but has other questions they need answered about it, and there's other people that are affected by it that will neither consume it nor will they actually care about it. There are discreet audiences and we do understand those audiences pretty clearly, it's just at the end of the day our job in this scenario is really just playing translator between the people that are making this thing, who have a vision and who have an idea of what they want it to be, and maybe lack the skills or time or whatever to manifest that vision to the outside world such that other people can understand it. We're kinda just playing translator there to be like, \"Alright, I need to understand you client very very intimately so that I can express the thing that you would like to express outwardly and do my job making something other people can see that will communicate those things that you have deep inside you that often times... \""
+  -
+    timestamp: "18:23"
+    speaker: "Andy"
+    content: "And to no fault of a client. This is something that I think people learn early in their career is that no client is gonna make this easy on you because it's not their job, they don't know how to communicate outwardly so if you just kinda go to them and say, \"Yes please, give us all the exact perfect messaging and we'll just pick a nice font for it and make it look pretty.\" That's not gonna work because they didn't hire you to pick a nice font, that's not what your job is. So we're trying to play this translating role and it's definitely a lot harder. I still like to... I've realized that it taps into a whole different part of my brain. The me that you know that talks on this show mostly that talks about design mostly, mostly functional design is somebody that likes things to be very regimented, logical, and you have reasons for things and everything's explained. There's a whole sort of rigorous process to go through to get there."
+  -
+    timestamp: "19:19"
+    speaker: "Andy"
+    content: "The other part of me is like the same part of me that likes certain movies and doesn't like other movies and it's just this much more artistic side where it's like we have to express something here and the way we express it is kind of fuzzy, but you know that a certain movie mostly makes people feel in this spectrum of emotions so it's not like there's no way to evaluate whether this has been successful or not it's just not gonna be a little graphic goes up it's gonna be sort of more broad and abstract understanding that yeah you communicated that this is an experimental thing and it is a creative thing or you communicated that this is a product for people of a certain economic standing and those things are just never as rigorous as other things, but I think... I don't know to me it's just like a whole different part of my brain where it's like you have to tap into these grey areas where compared to the other design project, the project where here's a very clear audience that has a practical problem and we we're gonna functionally solve it with software, it feels comparatively arbitrary sometimes where it's like, \"Ah this feels right, but why these colors? Why this shape?\" \"I don't know, it feels kind of right and it kind of reminds us of this thing\" is not the most satisfying explanations for decisions when you're used to the other kind of design."
+  -
+    timestamp: "20:43"
+    speaker: "Andy"
+    content: "And I will admit that I think we're doing a good job on both these projects and I'm not just saying that 'cause this is a public forum and I should say that because [laughter] maybe a client finds it and is listening. I really do think we're doing a good job. I will say that we've gotten I think not just good but very fast at the sort of functional version of things. I kinda feel like I see through the matrix over there in a way that I don't on the marketing stuff where like when a problem is laid out in front of us I feel like I can look at it and go, \"Ah, here are the things we're gonna run into. Here are the problems that we're gonna have when we think this through and all the different steps and we can answers those questions now.\" I can kinda see two steps ahead. And then on the marketing side of things I'm kinda just like sitting there like, \"Well, I guess we gotta make it and then look at it and see what we think about it and then make some more things and look at those and see what we think about it.\" And it feels..."
+  -
+    timestamp: "21:30"
+    speaker: "Andy"
+    content: "It's been a slower process I think to reach the work of the same quality and I feel like that's just been kind of a spectrum that I've been traveling down in my career. I would say when I got out of school I was probably much more comfortable with the expressive image making graphic part of graphic design and over the course of my career I've done less and less of that and more and more of like here's a practical problem that we need to solve with communication and inner-activity how do we do that? The more I've done that the more that this other thing has felt difficult and foreign to me."
+  -
+    timestamp: "22:04"
+    speaker: "Matt"
+    content: "Yeah, I think the... You said a lot of things. The marketing side to me, I guess it feels similar where... I guess I always think of it as marketing versus making a functional app. I don't think that's like a totally... What would you say? Like a real dichotomy but obviously there's bits in both but it feels like sometimes you're doing just one or the other. The marketing side of things, I think there are ways to get to a end result quickly but it's mostly like repeating tricks or looking at something else and just dissecting why it is the way it is and then just doing that again. Something simple like \"Hey, what makes it luxury?\" \"Well, we're gonna make the font really small, maybe we'll make it uppercase and track it out.\" And that's what other people do and so people are used to seeing that and they think luxury. It's just like if you wanna do something unique it gets really challenging because you tend to not really have a justification, the client doesn't really have a justification and usually what happens is people aren't brave enough to just go for it and be like, \"I've never seen this before.\" Or you're not really as unique as you think you are."
+  -
+    timestamp: "23:10"
+    speaker: "Andy"
+    content: "I was gonna say if you make something you've never seen before, that's a huge accomplishment already if you don't go any further than that."
+  -
+    timestamp: "23:17"
+    speaker: "Matt"
+    content: "Usually unique just means disorganized. [chuckle] Like, \"Oh, this is very weird looking I guess it's unique.\""
+  -
+    timestamp: "23:22"
+    speaker: "Andy"
+    content: "Often times unique means it is not focused yet because if it was focused it would probably resemble something you recognize and instead it kind of looks like a mish-mash mess of a couple things all kind of jammed together."
+  -
+    timestamp: "23:33"
+    speaker: "Matt"
+    content: "I feel like I have become more comfortable with the more subjective things by just being more honest about it. I feel like when I started my career I felt like I needed to be an expert at it or portray myself as an expert and be like, \"I know exactly what this is gonna do.\" When the truth is, no one knows what it's gonna do so they have to lie about it."
+  -
+    timestamp: "23:49"
+    speaker: "Andy"
+    content: "Red makes people angry."
+  -
+    timestamp: "23:51"
+    speaker: "Matt"
+    content: "Sure, yeah like pseudo science version of colors or whatever? Did you know that yellow makes people hungry and that's why it's in the McDonald's logo?"
+  -
+    timestamp: "23:58"
+    speaker: "Andy"
+    content: "The numerology of colors."
+  -
+    timestamp: "24:00"
+    speaker: "Matt"
+    content: "Sure, [laughter] yes, also I'm a Sagittarius and that's why I have this personality. But I think when you're... I feel like if you get a little bit further into and just say, \"Look, no one knows. But yeah I think this goes well with this.\" And I think we can apply some basic rules of... I can you tell not to slam those two things into each other because then no one can read it, but otherwise, I'm gonna be honest with you and say, \"Look, you don't know and I don't know but I can give you my best guess as to what I think will either be successful or at least focused and understandable.\" I'm a little bit more comfortable with that side of it, but... I know what you mean."
+  -
+    timestamp: "24:38"
+    speaker: "Andy"
+    content: "All the dichotomy thing."
+  -
+    timestamp: "24:42"
+    speaker: "Matt"
+    content: "It feels like a bigger unknown even though it may not actually be. You're just maybe repeating more patterns on the functional side of things, but you can put it out in the world and people don't know how to use it."
+  -
+    timestamp: "24:53"
+    speaker: "Andy"
+    content: "Sure. On the dichotomy thing you mentioned, is this a real division or is it the made-up one? To me, I feel like it's the difference between, sure, an architect has similar skills, you understand space and you understand how to move people through a thing, and all the sort of tenants of architecture, but I feel like in some ways, it's the difference between designing an airport and designing a kitchen. A kitchen's a bad example, designing just a nice house, a vacation house where you're using the same skills but the considerations when you're designing an airport are so vastly different than the considerations when you're designing a house for somebody. Which is like, \"You're making a house for somebody you gotta make sure that whatever they want is what they get.\" Which is not..."
+  -
+    timestamp: "25:35"
+    speaker: "Matt"
+    content: "How about an airport versus a sculpture that somebody can walk in to?"
+  -
+    timestamp: "25:40"
+    speaker: "Andy"
+    content: "Sure, well, it's just like... I feel like the..."
+  -
+    timestamp: "25:42"
+    speaker: "Matt"
+    content: "\"This is to attract attention.\" \"Okay.\""
+  -
+    timestamp: "25:45"
+    speaker: "Andy"
+    content: "I also just feel like the goals being that different, someone that is wealthy enough to hire an architect to design or build part of their house or the entire house for them, it's not wrong to say that the entire point of that job is to make that person happy. And I feel like some people in the professional creative careers don't like the idea that they're subject to the whims of just the happiness of their client, because you can be the most brilliant architect in the whole world and you make most incredible kitchen-dining room combination with this totally groundbreaking thing you do but if the person you made it for doesn't like it, guess what, you didn't do a great job. Which is not true of something like an airport where the goal is, \"No listen, here's the deal. We would like people to think Charlotte is cool while they're here. Maybe hang an old airplane from the ceiling but we're gonna move thousands of people through every single day, and the every 10% you add to everyone's walk is going to slow down every single little operation in this entire building.\" It's just it's a very functional problem to me, it seems. I don't know anything about architecture, I've never done this before, but it seems the differences between doing architecture in that context versus doing architecture in the rich woman hires you to make a nice house for her context are very different contexts."
+  -
+    timestamp: "27:03"
+    speaker: "Matt"
+    content: "You're saying my idea to make every one of the steps a different size isn't gonna work in the airport?"
+  -
+    timestamp: "27:08"
+    speaker: "Andy"
+    content: "It would work depending on what your goals are, do you wanna make people fall down the stairs all day? "
+  -
+    content: "Laughter"
+  -
+    timestamp: "27:13"
+    speaker: "Matt"
+    content: "I just remember... I can't remember... Wait, sidebar. I knew someone who lived in a house that had all the steps being a slightly different size, 'cause the designer decided to make it that way and it almost drove them insane."
+  -
+    timestamp: "27:25"
+    speaker: "Andy"
+    content: "In school, we studied a project where somebody built a whole house with the idea that corners were oppressive, and so they had plastered all of the corners in all of their rooms so that they were all..."
+  -
+    timestamp: "27:37"
+    speaker: "Matt"
+    content: "To what? To be a bevel?"
+  -
+    timestamp: "27:38"
+    speaker: "Andy"
+    content: "No. It wasn't..."
+  -
+    timestamp: "27:39"
+    speaker: "Matt"
+    content: "Not a bevel, like a border-radius?"
+  -
+    timestamp: "27:41"
+    speaker: "Andy"
+    content: "They basically border-radiused their entire house. I would say about on the radius of a basketball. It looked like they just took a bunch of plaster and then smeared a basketball in all the corners, so that everything was rounded. It was a very interesting experiment. It makes it hard to put furniture in there is what it turns out but they also they didn't like corners in their furniture, I think it was all bean bag chairs and stuff. Either way, yeah, actually if you think about it, making the stairs a different size accomplishes the goal of getting people to the bottom of the stairs very quickly. [laughter] Very efficient in that way."
+  -
+    timestamp: "28:14"
+    speaker: "Matt"
+    content: "It makes people very aware of their surrounding every second of every day."
+  -
+    timestamp: "28:18"
+    speaker: "Andy"
+    content: "That's a good little tale of, it's like a fable, that's the word, that's a fable above the danger of misinterpreting data when you're making design decisions like, \"People got to the stairs 20% faster [laughter] when all of the steps are different sizes, this is a huge improvement.\""
+  -
+    timestamp: "28:40"
+    speaker: "Matt"
+    content: "[chuckle] They didn't have a row in the database for emergency room trips, unfortunately, so that was overlooked data."
+  -
+    timestamp: "28:49"
+    speaker: "Andy"
+    content: "Yeah, they forgot to add the Google analytics event on that particular piece of data."
+  -
+    timestamp: "28:58"
+    speaker: "Matt"
+    content: "But I still think the red button out performed the green button, Andy."
+  -
+    timestamp: "29:01"
+    speaker: "Andy"
+    content: "So yeah these jobs feel, they feel like just kind of very alien from each other, having done both in rapid succession. Do you still do projects..."
+  -
+    timestamp: "29:11"
+    speaker: "Matt"
+    content: "Can you switch back and forth or do you just spend one day on one and one day at another or are you all over the place?"
+  -
+    timestamp: "29:18"
+    speaker: "Andy"
+    content: "I find I can switch, mostly because sometimes I get really just bogged down in something, and it's helpful to intentionally use a different part of my brain because it's kinda sitting there idle, ready to do something. So that can just kinda help switch back and forth. But yeah, do you still do projects of both these kinds and feel the same contrast? "
+  -
+    timestamp: "29:35"
+    speaker: "Matt"
+    content: "Yeah, for sure. I just have some clients that just pretty much only come to me for the marketing side of things and then some clients are just very specifically doing iterations on an app and this app has all... They track all the metrics you would wanna know about it and then we can look at them and say, \"Oh, this did or didn't work so what we're gonna do is we're gonna modify that flow and then we're gonna test it against the old one and then we'll just see what wins.\" Which is both exciting and also... I actually really like it, I really like that process because you just... It just feels like you're chiseling away at something until it's perfect. But there are certainly times when you're like, \"I know that's the conclusion with this small amount of data but I think the reason is X.\" \"I think it's because there was too much of this and not enough of that and we didn't measure it. And we're just looking at this thing over here.\" In some ways it can be bad but I generally find it an interesting challenge 'cause you're like, \"It's not that often that someone just says, hey look, the thing you did, good numbers.\" Pretty fun."
+  -
+    timestamp: "30:41"
+    speaker: "Andy"
+    content: "Yeah, yeah it's not that often that we get to be really involved in exactly what you're describing. Some of our clients do this internally, they have their own growth metrics. They have their own growth teams internally that are deciding what they need to do to grow and deciding what to measure and then we get the output of that which is actually nice in some ways 'cause it's a very defined relationship and it's not our job to question that particular thing so we don't, we question things we're supposed to question."
+  -
+    timestamp: "31:09"
+    speaker: "Andy"
+    content: "But the thing that always strikes me about that is I really like the distinction that in this book, \"The Beginning of Infinity,\" by David Deutsch which was referred to me by David Cole. David's just out here helping out other Davids apparently. He talks in the first couple of chapters about how we define knowledge, how do you know you know something, how can you actually demonstrate you know something? And he gives this really relevant example about how simply observing something and extrapolating that the thing you have observed repeatedly will continue is kind of a dangerous logic and doesn't really represent knowledge. An example he gives is that in totally the early days of humanity before we had any semblance of science or real civilization, people could probably predict the sun would come up the next day 'cause they've been alive for however many number of years and everyday the sun's come up and so they come to the conclusion that the sun comes out very single day, that's knowledge."
+  -
+    timestamp: "32:10"
+    speaker: "Andy"
+    content: "But that is like a world apart from actually understanding that we're on a little sphere that is revolving around this other burning ball of gas that's millions of miles away and that before you can make any meaningful extrapolations from that assertion, that assumption that the sun will come up everyday, you can't just know that, you have to know the deeper thing because if you know the sun comes up every day but you think the sun is a disc that was put into the sky by the sun god and it lands every night a hundred miles away in your neighbors yard you didn't learn anything there, you still might be of the same opinion the sun will come up every single day. So to me I feel like a lot of the metric stuff falls in that fist category of like, \"Well, we know that this increases sales,\" and it's like okay, that is a thing that you know but it doesn't really... \" The way in which you're trying to apply it doesn't really make a lot of sense."
+  -
+    timestamp: "33:06"
+    speaker: "Andy"
+    content: "And I don't think this is like a failing of data driven design, I don't think it's like people are doing a bad job, I just think we haven't developed a language yet to talk about the bigger thing so all we have is, \"Well, it keeps doing this when we make the button green so let's just keep making the buttons green 'cause thing thing keeps going like this.\" And you've seen the overoptimzed thing where clearly they were like, \"Well, it turns out the more buy buttons you put on the page, just increases the chances someone will accidentally click a buy button when they're trying to get somewhere and so if you have seven different redundant buy buttons on the page, one of them might get clicked more often. So yeah that's my feeling about all that. I feel like it's kind of a necessary... We're necessarily ignorant at this point still because we don't have a way to describe these behaviours more rigorously. At least that is in keeping with our processes. Maybe behavioral scientists like the ones that Facebook and Google employ are the ones that are actually... Psychiatrists are in there figuring this stuff out and actually coming up with good explanations for why these things happen but most of us are just going, \"Hey look, more T-shirt sales when the button is bigger, make button bigger bigger bigger.\""
+  -
+    timestamp: "34:20"
+    speaker: "Matt"
+    content: "So we're just in the days where the Internet is flat then one day we'll discover it is round and the Google analytic sun god will have a greater explanation. I'm trying to carry it through the analogy."
+  -
+    timestamp: "34:31"
+    speaker: "Andy"
+    content: "I think the reality is just that humanity is so much more messy than the Solar System. [chuckle] The truth to discover about the Solar System was truly plainly in front of us for the entire history of humanity and it took us until the most recent 1% of civilization to actually figure out what it is. And it's this relatively obvious thing now that you know it in hindsight. There's no other explanation for the movement of these shapes in the sky over time if you just observe them and think about it. But it took so long to arrive at that very clean truth that the idea of us arriving at some truth about the behavior of people, this big messy mass of organic material and electric signals firing at people's brains and muscle fibers. We're no way near that is my guess, I think it's probably gonna be a long road."
+  -
+    timestamp: "35:26"
+    speaker: "Matt"
+    content: "Do you ever feel like when you read about how, I don't know, if Facebook and Twitter manipulate people and they're banning ads from the Russians."
+  -
+    timestamp: "35:33"
+    speaker: "Andy"
+    content: "Probably they do."
+  -
+    timestamp: "35:34"
+    speaker: "Matt"
+    content: "No, no sure, they do but the most dramatic examples where they can swing an election with advertising or whatever. You see that and you think like, \"Wow! What a complex understanding of human beings to be able to do that even if it's in an evil way. The other side of it you're like, \"I don't know, maybe they just got lucky, it's pretty hard.\" [chuckle]"
+  -
+    timestamp: "36:00"
+    speaker: "Andy"
+    content: "Well, yeah. I think in a lot of cases it's like unintended influence."
+  -
+    timestamp: "36:04"
+    speaker: "Matt"
+    content: "You might wanna be convincing somebody to do something better than vote for Trump, but you're still trying to convince someone to do something and I feel like we just look at this successful example where you're like, \"Man, they must be masters at it.\" And you're like, \"Are they masters or did they shoot a million things at a wall?\" And it also happened to be in environment where this was gonna."
+  -
+    timestamp: "36:24"
+    speaker: "Andy"
+    content: "Yeah, a broken clock is still right twice a day, so."
+  -
+    timestamp: "36:26"
+    speaker: "Matt"
+    content: "Sure, there you go."
+  -
+    timestamp: "36:27"
+    speaker: "Andy"
+    content: "Yeah. I think, I feel like the influence that systems like that have, it's just so poorly understood by everybody, including the people making them. And this is evidence by the fact that Twitter recently, what? Gave people, some people, some select people 280 characters in which to express their thoughts then eventually everyone's gonna get that. Is that the idea? "
+  -
+    timestamp: "36:49"
+    speaker: "Matt"
+    content: "That is the idea, as I understand it."
+  -
+    timestamp: "36:50"
+    speaker: "Andy"
+    content: "Yeah, and we can get into a whole another conversation about how Twitter to me is just totally dead. I don't tweet anywhere, I don't go on Twitter. Twitter's dead to me. But, no, it just seems like a perfect example of, \"Well, we don't... We chose this limitation, because of a practical limitation of SMS technology which is 100% no longer relevant at all to what Twitter is and people responded to it positively.\" And then the story of Twitter is that for the past, what? Five years, six years they have failed to do anything else that anybody liked? And have just basically ridden this mysterious success that they now are changing. And maybe they change it and everybody likes it way more and Twitter gets to be more popular. I'm not sure, I have no idea. But I don't think they have any idea, either. I think they're just trying stuff [chuckle] because they don't really know. I think they spend a lot of time sitting around tables, trying to figure it out. I don't think it's for lack of trying, I just think not many of these systems are really self aware in the way that a lot of people would paint them. I don't think it's malicious as much as it just totally... Nobody at Facebook really knows what the impact on the 2016 election Facebook had was."
+  -
+    timestamp: "38:03"
+    speaker: "Matt"
+    content: "There are malicious things. You can point out malicious things, but it might not be as intentional as you think it is, is my take."
+  -
+    timestamp: "38:10"
+    speaker: "Andy"
+    content: "Oh, yeah, there's evil stuff. I just mean that I think the biggest impact is this totally, unintentional impact that nobody is really policing at all. It just... Anyway, that's what I think about making a decision based on whether a graph goes up or down."
+  -
+    timestamp: "38:25"
+    speaker: "Matt"
+    content: "Yeah. It turns out if you muddy the waters enough, people are evil. That what we learned? That what it is? I don't know, I don't know."
+  -
+    timestamp: "38:32"
+    speaker: "Andy"
+    content: "It all depends on how you look at it I guess. What's going on with your work? "
+  -
+    timestamp: "38:35"
+    speaker: "Matt"
+    content: "Well, let's see. We are, I also have these kind of similar clients that you have. We're kind of, we just got back from our retreat which is our kind of, every six months we gather our remote team together to talk together for a week about the company and the future and things like that, things that seem important. And so now we're back and implementing all the changes we said we would make, is always the hardest part. You get together and it feels great to talk about everything and then you get home and you're like, \"'We gotta go do this stuff.\""
+  -
+    timestamp: "39:07"
+    speaker: "Andy"
+    content: "Yeah."
+  -
+    timestamp: "39:10"
+    speaker: "Matt"
+    content: "I don't know, I'm just thinking about what happens as your company gets a little bit bigger and a little bit more mature and you have to... I've been thinking about just how you keep everybody happy working on projects without siloing people too much. It's kind of a challenge of a remote team where it's pretty easy for people to feel isolated, because..."
+  -
+    timestamp: "39:32"
+    speaker: "Andy"
+    content: "They are literally isolated."
+  -
+    timestamp: "39:34"
+    speaker: "Matt"
+    content: "They're literally not in the same room together and then if you also happen to have a couple of people who might be working on a project solo, you don't want that to go on for too long, because just too isolating or you don't wanna... But on the other hand, it's like, \"Oh, well, this client wants to continue working with us and the work has been good, but how long do we let this person just work solo on this? How do we change the way we take on projects so it's always required that there's two people.\" Is that a weird thing to say to a client? Like, \"Well, we'll work with you, as long as you work with more of us.\" I don't know."
+  -
+    timestamp: "40:06"
+    speaker: "Andy"
+    content: "And at that point the two seems like an arbitrary number just the same way one's an arbitrary number."
+  -
+    timestamp: "40:10"
+    speaker: "Matt"
+    content: "Now you need three people to work..."
+  -
+    timestamp: "40:11"
+    speaker: "Andy"
+    content: "Now these two people are isolated alone working on something. Yeah, that's a complex calculus, we have to do too where it's like you don't want... First of all, for practical reasons you don't want any part of your business to totally rely on a single employee. And vice versa, you don't want one employee's time to be too dedicated to an individual client. But also that is the most efficient, for sure. It's way better to do that, in terms of efficiency than it is to have everything peer reviewed six times and make sure that there are multiple people in all of the decision making positions to follow something through. So there's this interesting balance you have to strike between like, \"Well, we're gonna involve X number of people in this. Even though it only takes X divided by two to actually get it done, because that's the right balance for us on this particular project to divide the labor a little bit and hopefully get rid of that idea of isolation.\""
+  -
+    timestamp: "41:04"
+    speaker: "Matt"
+    content: "Yeah, but where that's kind of led us is that we would like to take on larger scoped projects where we can actually say... Where we don't just say like, \"It's gonna require X... It's gonna require you to take on three people and you just pay our rate for however long it takes.\" Which is a much harder thing to do than, \"Hey, here's one person who will work on a thing for three months.\" We're trying to get better at estimating a large development project, which is challenging, to say the least."
+  -
+    timestamp: "41:35"
+    speaker: "Andy"
+    content: "Yeah, good luck."
+  -
+    timestamp: "41:37"
+    speaker: "Matt"
+    content: "And is that all you have to say? Can't be done?"
+  -
+    timestamp: "41:41"
+    speaker: "Andy"
+    content: "Well, I don't know. I just don't know. I think it can be done if you're very pessimistic and the reality is... This is just the reality of the whole market. If you are appropriately pessimistic and say, \"Hey, look, we think optimistically we can get it done in X.\" Which means that when we factor in things we didn't think of, stuff that goes wrong, technology that requires updating in between, tools that we didn't foresee needing to use and feedback from our client and our client's customers, it's gonna take four X to get it done. There's gonna be somebody else pitching their project that says it cost X and they have not learned this lesson yet. [chuckle] And they're gonna learn it the hard way. [laughter] They're gonna learn it the hard way probably by just... Hopefully if they're above board they're gonna learn that the lesson the hard way by eating a bunch of time themselves and kinda getting burned to the project. But there seems to be no shortage of companies out there that are getting burned on projects that it makes it hard to kinda pitch the realistic vision for what something takes on a lot of situations."
+  -
+    timestamp: "42:40"
+    speaker: "Matt"
+    content: "Yeah. So that's the kind of place where there's like... Maybe it just doesn't work and it's a fool's errand but I do think there's a place where we can take what we've known. It's not like we've never done them before, we've done scope projects before and our... We've learned it tends to go a little bit over. But if you were happy to take on the project then, eat a little bit of time. But you got to put more people on. You got to control the process or... I feel like the other... You're talking about the dichotomy between the marketing and the functional app. I feel like there's the dichotomy between being in full control of the process and saying exactly what the scope of it is. First, it's you're selling your time, where... If you just sell your time, it's really easy, you just work and then say, here's how long it took and then they pay you that amount of money and you never have to plan anything. But you're not in control of your time."
+  -
+    timestamp: "43:30"
+    speaker: "Andy"
+    content: "Well, not just that but also, what happens when they tell you to do something dumb for two weeks and then they're like, \"Hey, what'd you do this dumb thing?\" And it's like, \"Well, you told me to do that and that's what you hired me to do.\" And it's like, \"Well, we also expected you to tell us if we were doing something dumb.\" It's like, \"Well gosh.\" Geez that's an awkward position."
+  -
+    timestamp: "43:46"
+    speaker: "Matt"
+    content: "There is this kind of like, \"grass is greener\" thing where it seems like maybe if we can get really good at defining everything up front and then sticking to our plan and knowing that no matter what you do, there's gonna be unknown so just factor in that there's gonna be unknowns. Just like pad it a little bit or add some time for like, \"Here's the thing we're probably gonna have to tackle, we just don't know what it is yet 'cause no matter what that comes up.\" Maybe that leads to a better process because you get to define everything up front. The thing we have figured out or figured out a long time ago is that just do it in two phases. Design it all first. Make sure they're happy with everything and then scope it all out and figure out what the development time is gonna be because when you try to do both of those at the same time, you're kinda restricted as the designer where you're like, \"Well, I could make this decision but we already said it costs X and you don't wanna change that so just no can't do it\". Which doesn't feel great."
+  -
+    timestamp: "44:48"
+    speaker: "Andy"
+    content: "Yeah. It's funny because you and I Matt for years, spent time talking about how we strive to do the opposite of that in some ways, right? Like this idea of a beautiful, symbiosis between design and development where everything was kind of fluid and you didn't have this manufactured deadline of we must decide what everything will be before this date. This is the date we design the entire thing and you approved it. And then from there, nothing may change and we're just going to build it as spec'd. And I don't know. In some ways, you and I are just going down the same road of learning the lessons that every other company that has done anything in history has learned and which caused them to arrive at that waterfall model of like, \"Well, we're gonna talk to you and we're gonna make a specs document then we're gonna make a wireframes then we're gonna turn the wireframes into full visual design then we're gonna get sign off for every single phase then we're gonna be in development\". The thing we hated is we're just on the kind of road to that in some ways. But yeah."
+  -
+    timestamp: "45:49"
+    speaker: "Matt"
+    content: "There is a world where that thing we talked about can work but it tends to be... Or it's just like, \"What?\""
+  -
+    timestamp: "45:56"
+    speaker: "Andy"
+    content: "It requires a lot of trust."
+  -
+    timestamp: "45:58"
+    speaker: "Andy"
+    content: "We have a really big budget and trust on both sides. We trust you to keep going and going and going. And on the other side, you trust them to not just put you in this cycle of doing like, \"Hey, let's sign a six month contract together and then we'll just do whatever you say\". And if it doesn't work out, you're just working for somebody you're like, \"I don't know why we have to keep doing this.\" But you're stuck doing whatever they say, right? That thing I said earlier about controlling your own time."
+  -
+    timestamp: "46:23"
+    speaker: "Andy"
+    content: "At that point, you're barely even running your own company. You're just getting a different job every six months for some other with no job security and benefits."
+  -
+    timestamp: "46:30"
+    speaker: "Matt"
+    content: "Yeah. So there's that."
+  -
+    timestamp: "46:33"
+    speaker: "Andy"
+    content: "Yeah. It's messy."
+  -
+    timestamp: "46:35"
+    speaker: "Matt"
+    content: "I don't know. You've tried that a little bit, too where you've tried to get better at estimating or just taking on a chunk of work as opposed to just run the clock."
+  -
+    timestamp: "46:43"
+    speaker: "Andy"
+    content: "Well, so here's the thing. We've always estimated everything from the beginning. Even if we had a policy of not doing anything for a fixed budget for the first four and a half years we were a business. But it didn't mean we weren't estimating things. We were still giving proposals, we were still making estimates for all of our projects ahead of time and if and when things went over we were still dealing with ramifications of that. The client was frustrated and we had to explain why this particular thing and this choice that we made a long time ago made this more time intensive and blah blah blah blah blah. So we had a conversation maybe a year and a half ago about how really, in some ways, there's just basically no difference between giving an estimate upfront and then building hourly for however long it takes and just agreeing to do it for a flat scope. The difference is only this slight... Well, there's just very slight difference between either you are going to have the conversation of, \"Hey, if we do this, we're gonna go over hours because we didn't plan for this\" or you're gonna have the conversation of \"Hey, this is out of scope if you want us to do it, it's gonna cost us much more money\"."
+  -
+    timestamp: "47:45"
+    speaker: "Matt"
+    content: "And that's really just the same conversation as far as the client's concern, they don't care. When you give somebody an estimate, they are expecting it's gonna cost pretty much exactly what you said even though, you told them every single time you mentioned it like, \"This is an estimate, nothing is promised, nothing is guaranteed.\" They're expecting it to cost that much until you tell him otherwise, and same goes for a quote. So in some ways it just governs how you internally are going to communicate with your clients about what happens when the unexpected comes up. But yeah unless you're promising to do something without totally scoping it ahead of time, there's really no difference I don't think, in some ways. Am I wrong there?"
+  -
+    timestamp: "48:25"
+    speaker: "Matt"
+    content: "Actually, I think you're pretty much right. I just find if you estimated up front set costs, it's a much harder conversation. If you hit that maximum and you're like, \"Hey, things are gonna change.\" But you just have to have a much better reason, than if there's like, \"We'll just work for a period of time together and then we'll either renew that contract or we won't.\""
+  -
+    timestamp: "48:50"
+    speaker: "Andy"
+    content: "Maybe that happens more for you than does for us. We've almost never had a contract that was not in somehow, however abstractly tied to some kind of deliverable. We're almost never just hired to do whatever, and whatever comes out of it great. It's always like, \"We need to make this thing, it need to be done by this date, and we have this budget.\" It's like, \"Okay, well we'll try to make that work\""
+  -
+    timestamp: "49:07"
+    speaker: "Matt"
+    content: "I feel it's usually a team that works and some already has a CTO, or someone in charge of technology. And then already works on like an agile, they're already doing agile development or something that just has like sprints or repeated cycles."
+  -
+    timestamp: "49:20"
+    speaker: "Andy"
+    content: "So you're just talking about renting out developers basically? "
+  -
+    timestamp: "49:24"
+    speaker: "Matt"
+    content: "Essentially. You might be in charge of something. You might be part of a group, but it's just a more flexible structure in that you're not defining up front. You might be like, \"Hey, we're a team of people and we're gonna work on this thing roughly.\" But the contract might not say that, it might be like, \"That's the agreement going into it. The contract is you get X amount of hours, for this period of time,\" And they can change it, if they want to. But it's not exactly the same as getting a freelancer for a rate. Right?"
+  -
+    timestamp: "49:55"
+    speaker: "Andy"
+    content: "Yeah, I guess we don't have that many projects like that. And almost all of our stuff, initially was estimate, then we're gonna bill hourly, and the advantage there is that you can kinda very slowly break it to people, that things are going over budget, right? Like, \"This week, we were two hours over on what we thought setting up the models was going to take.\" And things can very slowly escalate, which is maybe a little bit nicer way to break it to people, whereas..."
+  -
+    timestamp: "50:20"
+    speaker: "Matt"
+    content: "I guess I am describing it basically, where we're just saying like, \"We're just gonna estimate a thing every two weeks, and then if we go over, we'll just tell you in two week cycles instead of the bigger project.\""
+  -
+    timestamp: "50:31"
+    speaker: "Andy"
+    content: "Well, yeah. When you do something flat rate, you're not gonna be like, \"Hey, because of this thing that came up on the what we thought would be a 14-hour task to set up these models, it's now gonna be a 16-hour task, so you have to pay us $150 more.\" Or whatever. You're not gonna do that 'cause it's so small and trivial. So having that hourly sort of model, makes it easier to make things sort of slowly accrue as opposed to like, \"Hey, here's a new feature that we didn't talk about, that wasn't included in the scope, and it's gonna cost this much to add it on.\" Or whatever this sort of conversation looks like for that."
+  -
+    timestamp: "51:03"
+    speaker: "Matt"
+    content: "Yeah. Good stuff Andy. Talking about scopes and rates and all kinds of stuff that you love."
+  -
+    timestamp: "51:10"
+    speaker: "Andy"
+    content: "Yeah. Maybe someone out there is getting something out of this."
+  -
+    timestamp: "51:13"
+    speaker: "Matt"
+    content: "I don't know [laughter]"
+  -
+    timestamp: "51:13"
+    speaker: "Andy"
+    content: "Like I said, we told you people, the things we talked about now are very boring podcast material. We have changed and grown, and now this is what we think about all day. So hope you enjoyed it. [chuckle]"
+  -
+    timestamp: "51:25"
+    speaker: "Matt"
+    content: "It's kind of funny 'cause you start talking about it, and you start talking about in the most abstract terms, because you're like, \"Oh I'll probably be able to get there.\" And then you actually do it in practice and you're like, \"I've gotta find the really practical way to do that crazy thing I wanna do.\" And then you end up talking about scopes and rates [chuckle]"
+  -
+    timestamp: "51:42"
+    speaker: "Andy"
+    content: "Yeah. Every time. It always ends with scopes and rates."
+  -
+    timestamp: "51:44"
+    speaker: "Matt"
+    content: "How do I trick someone into my crazy idea? I guess I have to have the contract right. This is why lawyers are so powerful, even if you wanted to do the most wild thing, you still gotta get a lawyer, huh?"
+  -
+    timestamp: "51:54"
+    speaker: "Andy"
+    content: "Don't remind me."
+  -
+    timestamp: "51:56"
+    speaker: "Matt"
+    content: "Oh Sorry. I mean, no you don't. Everything is fine. As you say Andy, \"Contracts are just agreements between people and you should like them, and they should be very clear.\""
+  -
+    timestamp: "52:05"
+    speaker: "Andy"
+    content: "I do feel that way about contracts. Yup. Clarity is not the enemy."
+  -
+    timestamp: "52:12"
+    speaker: "Matt"
+    content: "That sounds good I think."
+  -
+    timestamp: "52:14"
+    speaker: "Andy"
+    content: "That's my final thought, \"Clarity is not the enemy.\" Okay. Do you have any final thoughts, man? "
+  -
+    timestamp: "52:18"
+    speaker: "Matt"
+    content: "That makes it sound like I have to say the opposite. Like, \"Well counterpointing, clarity is the enemy.\""
+  -
+    content: Overlapping Conversation
+  -
+    timestamp: "52:24"
+    speaker: "Andy"
+    content: "That's inside your head where you're just naturally combative, and contrarian to whatever I'm saying. You can not say something totally opposite, you can just say whatever is in your little brain."
+  -
+    timestamp: "52:36"
+    speaker: "Matt"
+    content: "Yeah, well. You're naturally contrarian, actually."
+  -
+    timestamp: "52:36"
+    speaker: "Andy"
+    content: "Your big brain, I didn't mean that to be demeaneative."
+  -
+    timestamp: "52:40"
+    speaker: "Matt"
+    content: "Oh. I wasn't even paying attention to that part. You coulda let it go, if you wanted to. Then people would've been speculating if weer breaking up the podcast, because you're saying mean things about my brain."
+  -
+    timestamp: "52:51"
+    speaker: "Andy"
+    content: "Yeah, exactly. Matt and my relationship has fallen to pieces because of my horrible brain abuse that I keep throwing at him."
+  -
+    timestamp: "52:58"
+    speaker: "Matt"
+    content: "I have a big brain. A very big brain. How dare you."
+  -
+    timestamp: "53:01"
+    speaker: "Andy"
+    content: "Big brain. Great brain. Very powerful brain."
+  -
+    timestamp: "53:04"
+    speaker: "Matt"
+    content: "Best memory too."
+  -
+    timestamp: "53:04"
+    speaker: "Andy"
+    content: "Best memories."
+  -
+    timestamp: "53:05"
+    speaker: "Matt"
+    content: "It's really hard to not break into stupid Trump impressions from time to time, even though it's so hackneyed and stupid and dumb and easy. There's never gonna be an easier impression to do, but it's just irresistible, it's just right there. It's like when people talk about Jay Leno and you just have to like, \"Oh yeah, Jay Leno.\" Even if you're bad at it, you gotta do the Jay Leno voice."
+  -
+    content: "Laughter"
+  -
+    timestamp: "53:28"
+    speaker: "Andy"
+    content: "I don't feel that way. Also I don't thing anyone's talked to me about Jay Leno in 14 years."
+  -
+    timestamp: "53:33"
+    speaker: "Matt"
+    content: "Well, you know what? When Jay Leno comes up again, you're gonna be like, \"Yeah, you know Jay Leno\" You're gonna have to do the high pitch voice. You'll hold your chin up in a way that implies you have a bigger chin. Yeah. That's what's gonna happen, so mark my words Andy."
+  -
+    content: "Laughter"
+  -
+    timestamp: "53:50"
+    speaker: "Andy"
+    content: "This has run appropriately off the rails I think."
+  -
+    timestamp: "53:54"
+    speaker: "Matt"
+    content: "Yeah. Well what did you expect was gonna happen? It's me and you. There's no one to keep us on track."
+  -
+    timestamp: "53:58"
+    speaker: "Andy"
+    content: "Next episode, last episode for now, 26, wrapping out the whole year. We're gonna try and make it a banger. We'll try to get a bunch of people involved and make it a real fun one."
+  -
+    timestamp: "54:06"
+    speaker: "Matt"
+    content: "Oh yeah, so we got one more coming up. We'll get some collaborators on the show. We'll do another Working File just as you remembered it. And that'll be it for 2017, but we'll see what happens in the future. Who knows? Maybe we get bored and we wanna talk about design again or we find a much easier way to do this. Turns out, everybody can do every Thursday at 5:00 or something."
+  -
+    timestamp: "54:26"
+    speaker: "Andy"
+    content: "Yeah. No one knows what the future will hold."
+  -
+    content: "Music"
+  -
+    timestamp: "54:41"
+    speaker: "Matt"
+    content: "Thanks always to XYZ Type for the transcripts. As always, you can find them at xyztype.com."
+  -
+    timestamp: "54:46"
+    speaker: "Andy"
+    content: "And thank you to our contributors. You can find them all in a convenient list I made for you on Twitter of Working File contributors."
+  -
+    timestamp: "54:51"
+    speaker: "Matt"
+    content: "Which is the only reason to use Twitter. Go follow the good people, basically."
+  -
+    content: "Music"
