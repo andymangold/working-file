@@ -147,20 +147,6 @@ $episode-breakpoint: 1100px;
   }
 }
 
-.new-flag {
-  animation: slide-up 0.5s;
-  animation-delay: 1s;
-  animation-fill-mode: both;
-  background: $highlight-color;
-  display: inline-block;
-  padding: 0.25em 0.5em;
-  line-height: 1.2em;
-  font-size: 0.8rem;
-  color: $white;
-  vertical-align: 30%;
-  -webkit-font-smoothing: antialiased;
-}
-
 .episode-title {
   margin-top: 0;
 }

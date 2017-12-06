@@ -19,8 +19,6 @@ h1 Episodes
       .episode-primary-info
         h2
           = link_to episode.title, "/episodes/#{episode.id}.html"
-          - if index == 0
-            .new-flag New!
         - if episode.contributorSlugs.present?
           div
             | With&nbsp;

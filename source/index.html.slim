@@ -15,7 +15,6 @@ title: Working File Podcast
     .episode-primary-info
       h2
         = link_to episode.title, "/episodes/#{episode.id}.html"
-        .new-flag New!
       - if episode.contributorSlugs.present?
         div
           | With&nbsp;
